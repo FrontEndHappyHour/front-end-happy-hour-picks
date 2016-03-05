@@ -1,0 +1,10 @@
+.DS_Store
+~*
+*.bak
+*.tmp
+.sass-cache
+*.log
+*.css
+*.min.js
+node_modules/
+episodes/
