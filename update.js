@@ -2,7 +2,7 @@ var request = require('request');
 var fs = require('fs');
 var url = 'https://raw.githubusercontent.com/FrontEndHappyHour/website/master/content/episodes.json';
 var outputFile = './README.md';
-var top = '# Front End Happy Hour Picks\nEach episode of [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.';
+var top = '# Front End Happy Hour Picks\nEach episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.';
 var output = top;
 request({
     url: url,
