@@ -1,5 +1,5 @@
 # Front End Happy Hour Picks
-Each episode our panelists share interesting picks.
+Each episode of [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
 ## Episode 001 - The State of Web Development
 Published: February 29, 2016
