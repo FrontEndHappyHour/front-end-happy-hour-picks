@@ -1,6 +1,17 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 003 - From head to footer
+Published: March 24, 2016
+- [Hamilton](https://www.youtube.com/watch?v=Zp9HUc9HraQ&list=PLUSRfoOcUe4avCXPg6tPgdZzu--hBXUYx) - Sarah Showers
+- [Massive Attack-  Angel](https://www.youtube.com/watch?v=hbe3CQamF8k) - Ryan Anklam
+- [Apple Music](http://www.apple.com/music/radio/) - Derrick Showers
+- [Youth Pictures of Florence Henderson](https://www.youtube.com/watch?v=E5c2FXjLtGs) - Jem Young
+- [Explosions in the Sky](https://www.youtube.com/watch?v=lsSIyk026P8) - Jem Young
+- [Tycho](https://www.youtube.com/watch?v=Z6ih1aKeETk) - Ryan Burgess
+- [Comeback Kid](https://www.youtube.com/watch?v=BHJEb6T9UKU) - Ryan Burgess
+
+
 ## Episode 002 - RxJS - Async and Drink
 Published: March 16, 2016
 - [Egghead.io](https://egghead.io/) - Ben Lesh
