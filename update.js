@@ -16,25 +16,14 @@ request({
       const published = data[i].published;
       const picks = data[i].picks;
 
-      output += (
-        `
-
-        ## Episode ${episode} - ${title}
-        Published: ${published}
-
-        `
-      );
+      output += (`\n\n## Episode ${episode} - ${title}\nPublished: ${published}`);
 
       for(let a = 0; a < picks.length; a++){
         const pickTitle = picks[a].title;
         const pickUrl = picks[a].url;
         const pickFrom = picks[a].from;
 
-         output += (
-          `- [${pickTitle}](${pickUrl}) - ${pickFrom}
-
-          `
-        );
+         output += (`- [${pickTitle}](${pickUrl}) - ${pickFrom}\n`);
       }
     }
 
