@@ -16,7 +16,7 @@ request({
       const published = data[i].published;
       const picks = data[i].picks;
 
-      output += (`\n\n## Episode ${episode} - ${title}\nPublished: ${published}`);
+      output += (`\n\n## Episode ${episode} - ${title}\nPublished: ${published}\n`);
 
       for(let a = 0; a < picks.length; a++){
         const pickTitle = picks[a].title;

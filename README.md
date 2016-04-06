@@ -2,7 +2,8 @@
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
 ## Episode 004 - ES6 and a Six Pack
-Published: April 04, 2016- [1Password](https://1password.com/features/) - Ryan Anklam
+Published: April 04, 2016
+- [1Password](https://1password.com/features/) - Ryan Anklam
 - [Vim Tabular](https://github.com/godlygeek/tabular) - Ryan Anklam
 - [90s Hip Hop](spotify:user:bittersweetryan:playlist:2Fz6VlYg8ff2lZJro6SrPD) - Ryan Anklam
 - [Elegant React with ES6 (and a bit of ES7) - React Rally](https://www.youtube.com/watch?v=GzChMXy-Es0) - Ryan Burgess
@@ -24,7 +25,8 @@ Published: April 04, 2016- [1Password](https://1password.com/features/) - Ryan A
 
 
 ## Episode 003 - From head to footer
-Published: March 24, 2016- [Hamilton](https://www.youtube.com/watch?v=Zp9HUc9HraQ&list=PLUSRfoOcUe4avCXPg6tPgdZzu--hBXUYx) - Sarah Showers
+Published: March 24, 2016
+- [Hamilton](https://www.youtube.com/watch?v=Zp9HUc9HraQ&list=PLUSRfoOcUe4avCXPg6tPgdZzu--hBXUYx) - Sarah Showers
 - [Massive Attack-  Angel](https://www.youtube.com/watch?v=hbe3CQamF8k) - Ryan Anklam
 - [Apple Music](http://www.apple.com/music/radio/) - Derrick Showers
 - [Scotland JS](http://scotlandjs.com/) - Jem Young
@@ -34,7 +36,8 @@ Published: March 24, 2016- [Hamilton](https://www.youtube.com/watch?v=Zp9HUc9Hra
 
 
 ## Episode 002 - RxJS - Async and Drink
-Published: March 16, 2016- [Egghead.io](https://egghead.io/) - Ben Lesh
+Published: March 16, 2016
+- [Egghead.io](https://egghead.io/) - Ben Lesh
 - [Egghead.io - RxJS Creating Observables from Scratch](https://egghead.io/lessons/rxjs-creating-observable-from-scratch) - Ben Lesh
 - [Netflix UIE YouTube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA) - Ryan Burgess
 - [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E) - Ryan Burgess
@@ -46,7 +49,8 @@ Published: March 16, 2016- [Egghead.io](https://egghead.io/) - Ben Lesh
 
 
 ## Episode 001 - The State of Web Development
-Published: February 29, 2016- [Viking & Lumberjack Series](https://www.youtube.com/playlist?list=PL95LOQw9SLWwWL7TOgTf5m3d6B8FPF56x) - Ryan Burgess
+Published: February 29, 2016
+- [Viking & Lumberjack Series](https://www.youtube.com/playlist?list=PL95LOQw9SLWwWL7TOgTf5m3d6B8FPF56x) - Ryan Burgess
 - [O’Reilly Fluent Conference](http://conferences.oreilly.com/fluent/) - Ryan Burgess
 - [frinkiac.com](https://frinkiac.com/) - Ryan Anklam
 - [Red Rising Trilogy](http://www.redrisingbook.com/) - Ryan Anklam
