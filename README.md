@@ -1,6 +1,31 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 005 - Interviews make us drink
+Published: April 14, 2016
+- [Aerial screensaver](https://github.com/JohnCoates/Aerial) - Ryan Burgess
+- [Amazon Dash Buttons](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=dash+button) - Ryan Burgess
+- [Front End Happy Hour Playlist](https://open.spotify.com/user/1294287391/playlist/6mpuF87VHAcog1cOwQqnfl) - Ryan Burgess
+- [Escape app](https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894?mt=12) - Ryan Anklam
+- [Best of Old Time Radio Podcast](https://itunes.apple.com/us/podcast/best-of-old-time-radio/id288417478?mt=2) - Ryan Anklam
+- [Dusty Kid - Beyond That Hill](https://open.spotify.com/album/0xDGKYCBTBZtOBa4DeKaTw) - Ryan Anklam
+- [Lindsey Stirling](http://www.lindseystirling.com/) - Sarah Federman
+- [SizeUp (osx windows management)](http://www.irradiatedsoftware.com/sizeup/) - Sarah Federman
+- [EmpireJS](http://2016.empirejs.org/) - Jem Young
+- [Aphex Swift](https://www.youtube.com/watch?v=pbMF7_LEh1g&list=PL3JScfXyyxathZuXzNzSQhDyQZ_qoNt8g&nohtml5=False) - Jem Young
+- [Netflix Menus](http://www.netflixmenus.com/) - Jem Young
+- [Code Climate](https://codeclimate.com/) - Derrick Showers
+- [Slack themes](http://slackthemes.net/) - Derrick Showers
+- [Massdrop](https://www.massdrop.com/) - Augustus Yuan
+- [Elevator Saga](http://play.elevatorsaga.com/) - Augustus Yuan
+- [Pretty Thoughts Alina Baraz & Galimatias](https://www.youtube.com/watch?v=JrHw9BDa3OE) - Augustus Yuan
+- [AtHack!](http://www.athackit.org/) - Brian Holt
+- [Annie Cannons](https://twitter.com/anniecannons) - Brian Holt
+- [Scroobius Pip](http://www.scroobiuspip.co.uk/) - Brian Holt
+- [Baths](https://en.wikipedia.org/wiki/Baths_(musician)) - Brian Holt
+- [M83](http://ilovem83.com/) - Brian Holt
+
+
 ## Episode 004 - ES6 and a Six Pack
 Published: April 04, 2016
 - [1Password](https://1password.com/features/) - Ryan Anklam
