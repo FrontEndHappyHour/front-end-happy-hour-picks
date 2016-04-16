@@ -18,5 +18,8 @@
   "homepage": "https://github.com/FrontEndHappyHour/front-end-happy-hour-picks#readme",
   "dependencies": {
     "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "jsonfile": "^2.2.3"
   }
 }

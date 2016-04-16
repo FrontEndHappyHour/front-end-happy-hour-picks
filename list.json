@@ -1,0 +1,362 @@
+[
+  {
+    "episode": "005 - Interviews make us drink",
+    "published": "April 14, 2016",
+    "picks": [
+      {
+        "title": "Aerial screensaver",
+        "url": "https://github.com/JohnCoates/Aerial",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Amazon Dash Buttons",
+        "url": "http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=dash+button",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Front End Happy Hour Playlist",
+        "url": "https://open.spotify.com/user/1294287391/playlist/6mpuF87VHAcog1cOwQqnfl",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Escape app",
+        "url": "https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894?mt=12",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Best of Old Time Radio Podcast",
+        "url": "https://itunes.apple.com/us/podcast/best-of-old-time-radio/id288417478?mt=2",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Dusty Kid - Beyond That Hill",
+        "url": "https://open.spotify.com/album/0xDGKYCBTBZtOBa4DeKaTw",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Lindsey Stirling",
+        "url": "http://www.lindseystirling.com/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "SizeUp (osx windows management)",
+        "url": "http://www.irradiatedsoftware.com/sizeup/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "EmpireJS",
+        "url": "http://2016.empirejs.org/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Aphex Swift",
+        "url": "https://www.youtube.com/watch?v=pbMF7_LEh1g&list=PL3JScfXyyxathZuXzNzSQhDyQZ_qoNt8g&nohtml5=False",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Netflix Menus",
+        "url": "http://www.netflixmenus.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Code Climate",
+        "url": "https://codeclimate.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Slack themes",
+        "url": "http://slackthemes.net/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Massdrop",
+        "url": "https://www.massdrop.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Elevator Saga",
+        "url": "http://play.elevatorsaga.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Pretty Thoughts Alina Baraz & Galimatias",
+        "url": "https://www.youtube.com/watch?v=JrHw9BDa3OE",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "AtHack!",
+        "url": "http://www.athackit.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Annie Cannons",
+        "url": "https://twitter.com/anniecannons",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Scroobius Pip",
+        "url": "http://www.scroobiuspip.co.uk/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Baths",
+        "url": "https://en.wikipedia.org/wiki/Baths_(musician)",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "M83",
+        "url": "http://ilovem83.com/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
+    "episode": "004 - ES6 and a Six Pack",
+    "published": "April 04, 2016",
+    "picks": [
+      {
+        "title": "1Password",
+        "url": "https://1password.com/features/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Vim Tabular",
+        "url": "https://github.com/godlygeek/tabular",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "90s Hip Hop",
+        "url": "spotify:user:bittersweetryan:playlist:2Fz6VlYg8ff2lZJro6SrPD",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Elegant React with ES6 (and a bit of ES7) - React Rally",
+        "url": "https://www.youtube.com/watch?v=GzChMXy-Es0",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lot 40 Whiskey",
+        "url": "http://thewhiskeywash.com/2015/12/14/whisky-review-lot-40/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "HTML5 Please",
+        "url": "http://html5please.com/ ",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Death Medieval",
+        "url": "https://twitter.com/DeathMedieval/status/715759543389708288",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Microsoft AI Bot",
+        "url": "http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "ES6 Cheatsheet",
+        "url": "http://exploringjs.com/es6/ch_overviews.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Cult of the Party Parrot",
+        "url": "http://cultofthepartyparrot.com",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Babel’s “try it out”",
+        "url": "https://babeljs.io/repl/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Latest greatest webapp",
+        "url": "https://github.com/derrickshowers/generator-latest-greatest-webapp",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Trello",
+        "url": "https://trello.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Tilt Brush",
+        "url": "https://www.tiltbrush.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Cotton Bureau",
+        "url": "https://cottonbureau.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Spacemacs",
+        "url": "https://github.com/syl20bnr/spacemacs",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "The little Schemer",
+        "url": "https://mitpress.mit.edu/books/little-schemer",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Frontend Masters",
+        "url": "https://frontendmasters.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Ellee",
+        "url": "https://www.youtube.com/user/elleeduke",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
+    "episode": "003 - From head to footer",
+    "published": "March 24, 2016",
+    "picks": [
+      {
+        "title": "Hamilton",
+        "url": "https://www.youtube.com/watch?v=Zp9HUc9HraQ&list=PLUSRfoOcUe4avCXPg6tPgdZzu--hBXUYx",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Massive Attack-  Angel",
+        "url": "https://www.youtube.com/watch?v=hbe3CQamF8k",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Apple Music",
+        "url": "http://www.apple.com/music/radio/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Scotland JS",
+        "url": "http://scotlandjs.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Explosions in the Sky",
+        "url": "https://www.youtube.com/watch?v=lsSIyk026P8",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Tycho",
+        "url": "https://www.youtube.com/watch?v=Z6ih1aKeETk",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Comeback Kid",
+        "url": "https://www.youtube.com/watch?v=BHJEb6T9UKU",
+        "from": "Ryan Burgess"
+      }
+    ]
+  },
+  {
+    "episode": "002 - RxJS - Async and Drink",
+    "published": "March 16, 2016",
+    "picks": [
+      {
+        "title": "Egghead.io",
+        "url": "https://egghead.io/",
+        "from": "Ben Lesh"
+      },
+      {
+        "title": "Egghead.io - RxJS Creating Observables from Scratch",
+        "url": "https://egghead.io/lessons/rxjs-creating-observable-from-scratch",
+        "from": "Ben Lesh"
+      },
+      {
+        "title": "Netflix UIE YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Amazon Echo",
+        "url": "http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Tilt Brush",
+        "url": "https://www.tiltbrush.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "EcmaScript Proposals",
+        "url": "https://github.com/tc39/ecma262",
+        "from": "Jem Young"
+      },
+      {
+        "title": "VimCasts",
+        "url": "http://vimcasts.org/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Ready Player One Audibook",
+        "url": "http://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Factorio",
+        "url": "https://www.factorio.com/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
+    "episode": "001 - The State of Web Development",
+    "published": "February 29, 2016",
+    "picks": [
+      {
+        "title": "Viking & Lumberjack Series",
+        "url": "https://www.youtube.com/playlist?list=PL95LOQw9SLWwWL7TOgTf5m3d6B8FPF56x",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "O’Reilly Fluent Conference",
+        "url": "http://conferences.oreilly.com/fluent/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "frinkiac.com",
+        "url": "https://frinkiac.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Red Rising Trilogy",
+        "url": "http://www.redrisingbook.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Syntax Con",
+        "url": "https://2016.syntaxcon.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Planet Money",
+        "url": "http://www.npr.org/sections/money/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "MacBook Selfie Stick",
+        "url": "http://macbookselfiestick.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Let’s Encrypt",
+        "url": "https://letsencrypt.org/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Product Hunt",
+        "url": "https://www.producthunt.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Github Scientist",
+        "url": "http://githubengineering.com/scientist/",
+        "from": "Augustus Yuan"
+      }
+    ]
+  }
+]
