@@ -1,5 +1,66 @@
 [
   {
+    "episode": "006 - Unit testing and whiskey tasting",
+    "published": "April 25, 2015",
+    "picks": [
+      {
+        "title": "Caffeine for Mac",
+        "url": "https://itunes.apple.com/us/app/caffeine/id411246225?mt=12",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Odesza",
+        "url": "https://www.youtube.com/user/odeszamusic",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Google Doodles",
+        "url": "http://www.google.com/doodles",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "OSSU Computer Science curriculum",
+        "url": "https://github.com/open-source-society/computer-science",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Mura Masa - What If I Go?",
+        "url": "https://www.youtube.com/watch?v=pLuQ0MGLBXU",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "teamLab: Living Digital Space and Future Parks",
+        "url": "http://www.eventbrite.com/e/teamlab-living-digital-space-and-future-parks-tickets-19952168473",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Flume - the mixtape",
+        "url": "https://www.youtube.com/watch?v=rPhoBRbqZeE",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Programming Sucks",
+        "url": "http://www.stilldrinking.org/programming-sucks",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hype Machine",
+        "url": "http://hypem.com/popular?workaround=lol",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Google Calendar goals",
+        "url": "https://googleblog.blogspot.com/2016/04/find-time-goals-google-calendar.html",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "$13 bluetooth headset",
+        "url": "http://www.amazon.com/dp/B00Z0ME68A/ref=cm_sw_su_dp",
+        "from": "Derrick Showers"
+      }
+    ]
+  },
+  {
     "episode": "005 - Interviews make us drink",
     "published": "April 14, 2016",
     "picks": [

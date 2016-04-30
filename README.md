@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 006 - Unit testing and whiskey tasting
+Published: April 25, 2015
+- [Caffeine for Mac](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12) - Ryan Burgess
+- [Odesza](https://www.youtube.com/user/odeszamusic) - Ryan Burgess
+- [Google Doodles](http://www.google.com/doodles) - Augustus Yuan
+- [OSSU Computer Science curriculum](https://github.com/open-source-society/computer-science) - Augustus Yuan
+- [Mura Masa - What If I Go?](https://www.youtube.com/watch?v=pLuQ0MGLBXU) - Augustus Yuan
+- [teamLab: Living Digital Space and Future Parks](http://www.eventbrite.com/e/teamlab-living-digital-space-and-future-parks-tickets-19952168473) - Augustus Yuan
+- [Flume - the mixtape](https://www.youtube.com/watch?v=rPhoBRbqZeE) - Jem Young
+- [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - Jem Young
+- [Hype Machine](http://hypem.com/popular?workaround=lol) - Jem Young
+- [Google Calendar goals](https://googleblog.blogspot.com/2016/04/find-time-goals-google-calendar.html) - Derrick Showers
+- [$13 bluetooth headset](http://www.amazon.com/dp/B00Z0ME68A/ref=cm_sw_su_dp) - Derrick Showers
+
+
 ## Episode 005 - Interviews make us drink
 Published: April 14, 2016
 - [Aerial screensaver](https://github.com/JohnCoates/Aerial) - Ryan Burgess
