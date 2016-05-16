@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 007 - a11y Cocktail
+Published: May 15, 2016
+- [undefined](https://cash.me/) - Jennison Asuncion
+- [undefined](http://thepointsguy.com/) - Jennison Asuncion
+- [undefined](http://www.jazz.fm/) - Jennison Asuncion
+- [undefined](https://github.com/reactjs/react-a11y) - Ryan Burgess
+- [undefined](https://www.youtube.com/watch?v=9ybyowORfEc) - Ryan Burgess
+- [undefined](http://www.sweetjesus4life.com/) - Ryan Burgess
+- [undefined](https://addyosmani.com/a11y/) - Derrick Showers
+- [undefined](http://www.youneedabudget.com/) - Derrick Showers
+- [undefined](https://wakatime.com/) - Sarah Federman
+- [undefined](https://www.hackster.io/) - Sarah Federman
+- [undefined](https://www.losant.com/) - Sarah Federman
+
+
 ## Episode 006 - Unit testing and whiskey tasting
 Published: April 25, 2015
 - [Caffeine for Mac](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12) - Ryan Burgess

@@ -1,5 +1,55 @@
 [
   {
+    "episode": "007 - a11y Cocktail",
+    "published": "May 15, 2016",
+    "picks": [
+      {
+        "url": "https://cash.me/",
+        "from": "Jennison Asuncion"
+      },
+      {
+        "url": "http://thepointsguy.com/",
+        "from": "Jennison Asuncion"
+      },
+      {
+        "url": "http://www.jazz.fm/",
+        "from": "Jennison Asuncion"
+      },
+      {
+        "url": "https://github.com/reactjs/react-a11y",
+        "from": "Ryan Burgess"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=9ybyowORfEc",
+        "from": "Ryan Burgess"
+      },
+      {
+        "url": "http://www.sweetjesus4life.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "url": "https://addyosmani.com/a11y/",
+        "from": "Derrick Showers"
+      },
+      {
+        "url": "http://www.youneedabudget.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "url": "https://wakatime.com/",
+        "from": "Sarah Federman"
+      },
+      {
+        "url": "https://www.hackster.io/",
+        "from": "Sarah Federman"
+      },
+      {
+        "url": "https://www.losant.com/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "006 - Unit testing and whiskey tasting",
     "published": "April 25, 2015",
     "picks": [
