@@ -3,17 +3,17 @@ Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast
 
 ## Episode 007 - a11y Cocktail
 Published: May 15, 2016
-- [undefined](https://cash.me/) - Jennison Asuncion
-- [undefined](http://thepointsguy.com/) - Jennison Asuncion
-- [undefined](http://www.jazz.fm/) - Jennison Asuncion
-- [undefined](https://github.com/reactjs/react-a11y) - Ryan Burgess
-- [undefined](https://www.youtube.com/watch?v=9ybyowORfEc) - Ryan Burgess
-- [undefined](http://www.sweetjesus4life.com/) - Ryan Burgess
-- [undefined](https://addyosmani.com/a11y/) - Derrick Showers
-- [undefined](http://www.youneedabudget.com/) - Derrick Showers
-- [undefined](https://wakatime.com/) - Sarah Federman
-- [undefined](https://www.hackster.io/) - Sarah Federman
-- [undefined](https://www.losant.com/) - Sarah Federman
+- [Square Cash](https://cash.me/) - Jennison Asuncion
+- [The Points Guy](http://thepointsguy.com/) - Jennison Asuncion
+- [Jazz FM](http://www.jazz.fm/) - Jennison Asuncion
+- [React a11y](https://github.com/reactjs/react-a11y) - Ryan Burgess
+- [The Gaslight Anthem](https://www.youtube.com/watch?v=9ybyowORfEc) - Ryan Burgess
+- [Sweet Jesus Ice Cream](http://www.sweetjesus4life.com/) - Ryan Burgess
+- [A11y Command-line Tools](https://addyosmani.com/a11y/) - Derrick Showers
+- [YNAB](http://www.youneedabudget.com/) - Derrick Showers
+- [Wakatime](https://wakatime.com/) - Sarah Federman
+- [Hackster.io](https://www.hackster.io/) - Sarah Federman
+- [Losant (previously Structure)](https://www.losant.com/) - Sarah Federman
 
 
 ## Episode 006 - Unit testing and whiskey tasting

@@ -4,46 +4,57 @@
     "published": "May 15, 2016",
     "picks": [
       {
+        "title": "Square Cash",
         "url": "https://cash.me/",
         "from": "Jennison Asuncion"
       },
       {
+        "title": "The Points Guy",
         "url": "http://thepointsguy.com/",
         "from": "Jennison Asuncion"
       },
       {
+        "title": "Jazz FM",
         "url": "http://www.jazz.fm/",
         "from": "Jennison Asuncion"
       },
       {
+        "title": "React a11y",
         "url": "https://github.com/reactjs/react-a11y",
         "from": "Ryan Burgess"
       },
       {
+        "title": "The Gaslight Anthem",
         "url": "https://www.youtube.com/watch?v=9ybyowORfEc",
         "from": "Ryan Burgess"
       },
       {
+        "title": "Sweet Jesus Ice Cream",
         "url": "http://www.sweetjesus4life.com/",
         "from": "Ryan Burgess"
       },
       {
+        "title": "A11y Command-line Tools",
         "url": "https://addyosmani.com/a11y/",
         "from": "Derrick Showers"
       },
       {
+        "title": "YNAB",
         "url": "http://www.youneedabudget.com/",
         "from": "Derrick Showers"
       },
       {
+        "title": "Wakatime",
         "url": "https://wakatime.com/",
         "from": "Sarah Federman"
       },
       {
+        "title": "Hackster.io",
         "url": "https://www.hackster.io/",
         "from": "Sarah Federman"
       },
       {
+        "title": "Losant (previously Structure)",
         "url": "https://www.losant.com/",
         "from": "Sarah Federman"
       }
