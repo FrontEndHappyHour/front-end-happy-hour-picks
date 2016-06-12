@@ -1,5 +1,137 @@
 [
   {
+    "episode": "009 - Scotch makes us animated",
+    "published": "June 6, 2016",
+    "picks": [
+      {
+        "title": "Val Head's book",
+        "url": "https://twitter.com/vlh",
+        "from": "Sarah Drasner"
+      },
+      {
+        "title": "Valio Con",
+        "url": "http://valiocon.com/",
+        "from": "Sarah Drasner"
+      },
+      {
+        "title": "Sleep no more",
+        "url": "http://www.sleepnomore.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Internet trends 2016",
+        "url": "http://www.kpcb.com/internet-trends",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Jankfree.org",
+        "url": "http://jankfree.org",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Icon System with SVG sprites",
+        "url": "https://css-tricks.com/svg-sprites-use-better-icon-fonts/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "how2",
+        "url": "https://www.npmjs.com/package/how2",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Werker",
+        "url": "http://wercker.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Transitions and Animations in CSS",
+        "url": "http://shop.oreilly.com/product/0636920041658.do",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Alexa / Pebble Core integration",
+        "url": "https://blog.getpebble.com/2016/06/02/ks3u03/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
+    "episode": "008 - A Shot of Silicon Valley",
+    "published": "May 24, 2016",
+    "picks": [
+      {
+        "title": "Philz coffee",
+        "url": "http://www.philzcoffee.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Allbirds shoes",
+        "url": "https://www.allbirds.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "City and Colour",
+        "url": "https://www.youtube.com/watch?v=yuJ4wm_HTAc",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Tinyletter",
+        "url": "http://tinyletter.com/site/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "ES6 Compatibility table",
+        "url": "http://kangax.github.io/compat-table/es6/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Music for programming",
+        "url": "http://musicforprogramming.net/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Rapping, deconstructed",
+        "url": "https://www.youtube.com/watch?v=QWveXdj6oZU",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Periscope",
+        "url": "https://www.periscope.tv/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Firebase",
+        "url": "https://firebase.google.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Dash app",
+        "url": "https://kapeli.com/dash",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "TypeScript",
+        "url": "https://www.typescriptlang.org/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Bjork - Army of Me",
+        "url": "https://www.youtube.com/watch?v=LyEJxzQM24Q",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Sensel Morph",
+        "url": "https://www.kickstarter.com/projects/1152958674/the-sensel-morph-interaction-evolved",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "OnHub & IFTTT",
+        "url": "https://on.google.com/hub/blog/2016-04-28/onhubifttt/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "007 - a11y Cocktail",
     "published": "May 15, 2016",
     "picks": [

@@ -1,6 +1,38 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 009 - Scotch makes us animated
+Published: June 6, 2016
+- [Val Head's book](https://twitter.com/vlh) - Sarah Drasner
+- [Valio Con](http://valiocon.com/) - Sarah Drasner
+- [Sleep no more](http://www.sleepnomore.com/) - Ryan Burgess
+- [Internet trends 2016](http://www.kpcb.com/internet-trends) - Ryan Burgess
+- [Jankfree.org](http://jankfree.org) - Augustus Yuan
+- [Icon System with SVG sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/) - Augustus Yuan
+- [how2](https://www.npmjs.com/package/how2) - Derrick Showers
+- [Werker](http://wercker.com/) - Derrick Showers
+- [Transitions and Animations in CSS](http://shop.oreilly.com/product/0636920041658.do) - Sarah Federman
+- [Alexa / Pebble Core integration](https://blog.getpebble.com/2016/06/02/ks3u03/) - Sarah Federman
+
+
+## Episode 008 - A Shot of Silicon Valley
+Published: May 24, 2016
+- [Philz coffee](http://www.philzcoffee.com/) - Ryan Burgess
+- [Allbirds shoes](https://www.allbirds.com/) - Ryan Burgess
+- [City and Colour](https://www.youtube.com/watch?v=yuJ4wm_HTAc) - Ryan Burgess
+- [Tinyletter](http://tinyletter.com/site/) - Augustus Yuan
+- [ES6 Compatibility table](http://kangax.github.io/compat-table/es6/) - Jem Young
+- [Music for programming](http://musicforprogramming.net/) - Jem Young
+- [Rapping, deconstructed](https://www.youtube.com/watch?v=QWveXdj6oZU) - Jem Young
+- [Periscope](https://www.periscope.tv/) - Derrick Showers
+- [Firebase](https://firebase.google.com/) - Derrick Showers
+- [Dash app](https://kapeli.com/dash) - Ryan Anklam
+- [TypeScript](https://www.typescriptlang.org/) - Ryan Anklam
+- [Bjork - Army of Me](https://www.youtube.com/watch?v=LyEJxzQM24Q) - Ryan Anklam
+- [Sensel Morph](https://www.kickstarter.com/projects/1152958674/the-sensel-morph-interaction-evolved) - Sarah Federman
+- [OnHub & IFTTT](https://on.google.com/hub/blog/2016-04-28/onhubifttt/) - Sarah Federman
+
+
 ## Episode 007 - a11y Cocktail
 Published: May 15, 2016
 - [Square Cash](https://cash.me/) - Jennison Asuncion
