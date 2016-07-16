@@ -1,6 +1,26 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 010 - Raise your glass to women in tech
+Published: July 12, 2016
+- [Sift Dessert Bar](http://siftdessertbar.com/) - Lisa Burgess
+- [Shiny](http://shiny.rstudio.com/) - Lisa Burgess
+- [99% Invisible](http://99percentinvisible.org/) - Mars Jullian
+- [Invisiblia](http://www.npr.org/podcasts/510307/invisibilia) - Mars Jullian
+- [TED Radio](http://www.npr.org/programs/ted-radio-hour/) - Mars Jullian
+- [High West Rendezvous Rye](http://www.highwest.com/products/rendezvous-rye.php) - Ryan Burgess
+- [Snak the Ripper - From the Dirt](https://open.spotify.com/album/4b1X1UthWT1ldnw8PWMUZs) - Ryan Burgess
+- [Blameless Post Mortems](https://www.kennorton.com/newsletter/2016-04-20-bringing-the-donuts.html) - Augustus Yuan
+- [Ava](https://github.com/avajs/ava) - Jem Young
+- [Music for Programming](http://musicforprogramming.net/) - Jem Young
+- [Women in tech for the past 50 years!](#) - Jem Young
+- [High West Silver Whiskey](http://www.highwest.com/products/silver-whiskey-western-oat.php) - Derrick Showers
+- [WWDC iOS 10](http://www.apple.com/ios/ios10-preview/) - Derrick Showers
+- [Mr Robot](http://www.usanetwork.com/mrrobot) - Derrick Showers
+- [Project Include](http://projectinclude.org/) - Brian Holt
+- [elk-cli](https://github.com/btholt/elk-cli) - Brian Holt
+
+
 ## Episode 009 - Scotch makes us animated
 Published: June 6, 2016
 - [Val Head's book](https://twitter.com/vlh) - Sarah Drasner

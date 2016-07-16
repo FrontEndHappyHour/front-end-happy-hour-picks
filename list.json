@@ -1,5 +1,91 @@
 [
   {
+    "episode": "010 - Raise your glass to women in tech",
+    "published": "July 12, 2016",
+    "picks": [
+      {
+        "title": "Sift Dessert Bar",
+        "url": "http://siftdessertbar.com/",
+        "from": "Lisa Burgess"
+      },
+      {
+        "title": "Shiny",
+        "url": "http://shiny.rstudio.com/",
+        "from": "Lisa Burgess"
+      },
+      {
+        "title": "99% Invisible",
+        "url": "http://99percentinvisible.org/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Invisiblia",
+        "url": "http://www.npr.org/podcasts/510307/invisibilia",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "TED Radio",
+        "url": "http://www.npr.org/programs/ted-radio-hour/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "High West Rendezvous Rye",
+        "url": "http://www.highwest.com/products/rendezvous-rye.php",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Snak the Ripper - From the Dirt",
+        "url": "https://open.spotify.com/album/4b1X1UthWT1ldnw8PWMUZs",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Blameless Post Mortems",
+        "url": "https://www.kennorton.com/newsletter/2016-04-20-bringing-the-donuts.html",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Ava",
+        "url": "https://github.com/avajs/ava",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Music for Programming",
+        "url": "http://musicforprogramming.net/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Women in tech for the past 50 years!",
+        "url": "#",
+        "from": "Jem Young"
+      },
+      {
+        "title": "High West Silver Whiskey",
+        "url": "http://www.highwest.com/products/silver-whiskey-western-oat.php",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "WWDC iOS 10",
+        "url": "http://www.apple.com/ios/ios10-preview/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Mr Robot",
+        "url": "http://www.usanetwork.com/mrrobot",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Project Include",
+        "url": "http://projectinclude.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "elk-cli",
+        "url": "https://github.com/btholt/elk-cli",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "009 - Scotch makes us animated",
     "published": "June 6, 2016",
     "picks": [
