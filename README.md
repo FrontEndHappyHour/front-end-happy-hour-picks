@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 011 - Transpilers - slow down and drink
+Published: July 27, 2016
+- [Stranger Things](https://www.netflix.com/title/80057281) - Ryan Burgess
+- [Jem Young - Transpilers: not so fast my friend - Empire JS](https://www.youtube.com/watch?v=L3JJ8qSIg2k) - Ryan Burgess
+- [Github Go to Definition Chrome Extension](https://github.com/capablemonkey/github-go-to-definition) - Augustus Yuan
+- [StackOverflow’s Documentation Beta](http://stackoverflow.com/documentation) - Augustus Yuan
+- [Explosions in the Sky - The Wilderness](https://explosionsinthesky.bandcamp.com) - Jem Young
+- [Digital Ocean](https://www.digitalocean.com/) - Jem Young
+- [Babel Try It Out](https://babeljs.io/repl/) - Derrick Showers
+- [Google Inbox](https://inbox.google.com/) - Derrick Showers
+- [Google Keep](https://keep.google.com/) - Ryan Anklam
+- [Wafia - Heartburn Felix Cartel Remix](https://play.spotify.com/track/6ZtO6PJglJjcqpGeiDcxyV?play=true) - Ryan Anklam
+- [HyperTerm](https://hyperterm.org/) - Brian Holt
+- [Visual Studio Code](https://code.visualstudio.com/) - Brian Holt
+- [Elle - Women in Tech 2016](http://www.elle.com/culture/tech/a35725/women-in-tech-2016/) - Sarah Federman
+- [Less: The World’s Most Misunderstood CSS Pre-processor*](https://getcrunch.co/2015/10/08/less-the-worlds-most-misunderstood-css-pre-processor/) - Sarah Federman
+
+
 ## Episode 010 - Raise your glass to women in tech
 Published: July 12, 2016
 - [Sift Dessert Bar](http://siftdessertbar.com/) - Lisa Burgess

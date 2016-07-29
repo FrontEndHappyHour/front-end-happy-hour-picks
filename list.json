@@ -1,5 +1,81 @@
 [
   {
+    "episode": "011 - Transpilers - slow down and drink",
+    "published": "July 27, 2016",
+    "picks": [
+      {
+        "title": "Stranger Things",
+        "url": "https://www.netflix.com/title/80057281",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Jem Young - Transpilers: not so fast my friend - Empire JS",
+        "url": "https://www.youtube.com/watch?v=L3JJ8qSIg2k",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Github Go to Definition Chrome Extension",
+        "url": "https://github.com/capablemonkey/github-go-to-definition",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "StackOverflow’s Documentation Beta",
+        "url": "http://stackoverflow.com/documentation",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Explosions in the Sky - The Wilderness",
+        "url": "https://explosionsinthesky.bandcamp.com",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Digital Ocean",
+        "url": "https://www.digitalocean.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Babel Try It Out",
+        "url": "https://babeljs.io/repl/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Google Inbox",
+        "url": "https://inbox.google.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Google Keep",
+        "url": "https://keep.google.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Wafia - Heartburn Felix Cartel Remix",
+        "url": "https://play.spotify.com/track/6ZtO6PJglJjcqpGeiDcxyV?play=true",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "HyperTerm",
+        "url": "https://hyperterm.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Visual Studio Code",
+        "url": "https://code.visualstudio.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Elle - Women in Tech 2016",
+        "url": "http://www.elle.com/culture/tech/a35725/women-in-tech-2016/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Less: The World’s Most Misunderstood CSS Pre-processor*",
+        "url": "https://getcrunch.co/2015/10/08/less-the-worlds-most-misunderstood-css-pre-processor/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "010 - Raise your glass to women in tech",
     "published": "July 12, 2016",
     "picks": [
