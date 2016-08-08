@@ -1,5 +1,81 @@
 [
   {
+    "episode": "012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience",
+    "published": "August 8, 2016",
+    "picks": [
+      {
+        "title": "Culture Map",
+        "url": "https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507",
+        "from": "Chrissy Running"
+      },
+      {
+        "title": "The Night Of",
+        "url": "http://www.hbo.com/the-night-of",
+        "from": "Chrissy Running"
+      },
+      {
+        "title": "The Fundamentals of Caring",
+        "url": "https://www.netflix.com/title/80097349",
+        "from": "Alayna Ketner"
+      },
+      {
+        "title": "Song Exploder",
+        "url": "http://songexploder.net/",
+        "from": "Alayna Ketner"
+      },
+      {
+        "title": "React CLI tool",
+        "url": "https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Young, Wild & Free - Snoop Dogg, Wiz Khalifa, Bruno Mars",
+        "url": "https://play.spotify.com/track/5HQVUIKwCEXpe7JIHyY734?play=true",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "a.singlediv.com",
+        "url": "http://a.singlediv.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "httpoxy",
+        "url": "https://httpoxy.org/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Jon Hopkins",
+        "url": "https://www.youtube.com/watch?v=8XtqUOegCv8",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Star Trek Beyond (sucks)",
+        "url": "http://www.imdb.com/title/tt2660888/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "STS 121 Launch",
+        "url": "https://www.youtube.com/watch?v=OnoNITE-CLc",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Bojack Horseman - Season 3, episode 4",
+        "url": "https://www.netflix.com/title/70300800",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Full Width Containers in Limited Width Parents",
+        "url": "https://css-tricks.com/full-width-containers-limited-width-parents/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "The Macro - Interviews",
+        "url": "http://themacro.com/interviews/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "011 - Transpilers - slow down and drink",
     "published": "July 27, 2016",
     "picks": [
@@ -131,7 +207,7 @@
       },
       {
         "title": "Women in tech for the past 50 years!",
-        "url": "#",
+        "url": "http://frontendhappyhour.com/episodes/raise-your-glass-to-women-in-tech/",
         "from": "Jem Young"
       },
       {
@@ -410,7 +486,7 @@
       },
       {
         "title": "$13 bluetooth headset",
-        "url": "http://www.amazon.com/dp/B00Z0ME68A/ref=cm_sw_su_dp",
+        "url": "https://amzn.com/B00Z0ME68A",
         "from": "Derrick Showers"
       }
     ]
@@ -426,7 +502,7 @@
       },
       {
         "title": "Amazon Dash Buttons",
-        "url": "http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=dash+button",
+        "url": "https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011",
         "from": "Ryan Burgess"
       },
       {
@@ -516,7 +592,7 @@
       },
       {
         "title": "Baths",
-        "url": "https://en.wikipedia.org/wiki/Baths_(musician)",
+        "url": "https://en.wikipedia.org/wiki/Baths_musician",
         "from": "Brian Holt"
       },
       {
@@ -542,7 +618,7 @@
       },
       {
         "title": "90s Hip Hop",
-        "url": "spotify:user:bittersweetryan:playlist:2Fz6VlYg8ff2lZJro6SrPD",
+        "url": "https://open.spotify.com/user/bittersweetryan/playlist/2Fz6VlYg8ff2lZJro6SrPD",
         "from": "Ryan Anklam"
       },
       {
@@ -557,7 +633,7 @@
       },
       {
         "title": "HTML5 Please",
-        "url": "http://html5please.com/ ",
+        "url": "http://html5please.com/",
         "from": "Sarah Federman"
       },
       {

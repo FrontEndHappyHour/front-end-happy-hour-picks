@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience
+Published: August 8, 2016
+- [Culture Map](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - Chrissy Running
+- [The Night Of](http://www.hbo.com/the-night-of) - Chrissy Running
+- [The Fundamentals of Caring](https://www.netflix.com/title/80097349) - Alayna Ketner
+- [Song Exploder](http://songexploder.net/) - Alayna Ketner
+- [React CLI tool](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - Ryan Burgess
+- [Young, Wild & Free - Snoop Dogg, Wiz Khalifa, Bruno Mars](https://play.spotify.com/track/5HQVUIKwCEXpe7JIHyY734?play=true) - Ryan Burgess
+- [a.singlediv.com](http://a.singlediv.com/) - Augustus Yuan
+- [httpoxy](https://httpoxy.org/) - Augustus Yuan
+- [Jon Hopkins](https://www.youtube.com/watch?v=8XtqUOegCv8) - Jem Young
+- [Star Trek Beyond (sucks)](http://www.imdb.com/title/tt2660888/) - Jem Young
+- [STS 121 Launch](https://www.youtube.com/watch?v=OnoNITE-CLc) - Ryan Anklam
+- [Bojack Horseman - Season 3, episode 4](https://www.netflix.com/title/70300800) - Ryan Anklam
+- [Full Width Containers in Limited Width Parents](https://css-tricks.com/full-width-containers-limited-width-parents/) - Sarah Federman
+- [The Macro - Interviews](http://themacro.com/interviews/) - Sarah Federman
+
+
 ## Episode 011 - Transpilers - slow down and drink
 Published: July 27, 2016
 - [Stranger Things](https://www.netflix.com/title/80057281) - Ryan Burgess
@@ -31,7 +49,7 @@ Published: July 12, 2016
 - [Blameless Post Mortems](https://www.kennorton.com/newsletter/2016-04-20-bringing-the-donuts.html) - Augustus Yuan
 - [Ava](https://github.com/avajs/ava) - Jem Young
 - [Music for Programming](http://musicforprogramming.net/) - Jem Young
-- [Women in tech for the past 50 years!](#) - Jem Young
+- [Women in tech for the past 50 years!](http://frontendhappyhour.com/episodes/raise-your-glass-to-women-in-tech/) - Jem Young
 - [High West Silver Whiskey](http://www.highwest.com/products/silver-whiskey-western-oat.php) - Derrick Showers
 - [WWDC iOS 10](http://www.apple.com/ios/ios10-preview/) - Derrick Showers
 - [Mr Robot](http://www.usanetwork.com/mrrobot) - Derrick Showers
@@ -98,13 +116,13 @@ Published: April 25, 2015
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - Jem Young
 - [Hype Machine](http://hypem.com/popular?workaround=lol) - Jem Young
 - [Google Calendar goals](https://googleblog.blogspot.com/2016/04/find-time-goals-google-calendar.html) - Derrick Showers
-- [$13 bluetooth headset](http://www.amazon.com/dp/B00Z0ME68A/ref=cm_sw_su_dp) - Derrick Showers
+- [$13 bluetooth headset](https://amzn.com/B00Z0ME68A) - Derrick Showers
 
 
 ## Episode 005 - Interviews make us drink
 Published: April 14, 2016
 - [Aerial screensaver](https://github.com/JohnCoates/Aerial) - Ryan Burgess
-- [Amazon Dash Buttons](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=dash+button) - Ryan Burgess
+- [Amazon Dash Buttons](https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011) - Ryan Burgess
 - [Front End Happy Hour Playlist](https://open.spotify.com/user/1294287391/playlist/6mpuF87VHAcog1cOwQqnfl) - Ryan Burgess
 - [Escape app](https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894?mt=12) - Ryan Anklam
 - [Best of Old Time Radio Podcast](https://itunes.apple.com/us/podcast/best-of-old-time-radio/id288417478?mt=2) - Ryan Anklam
@@ -122,7 +140,7 @@ Published: April 14, 2016
 - [AtHack!](http://www.athackit.org/) - Brian Holt
 - [Annie Cannons](https://twitter.com/anniecannons) - Brian Holt
 - [Scroobius Pip](http://www.scroobiuspip.co.uk/) - Brian Holt
-- [Baths](https://en.wikipedia.org/wiki/Baths_(musician)) - Brian Holt
+- [Baths](https://en.wikipedia.org/wiki/Baths_musician) - Brian Holt
 - [M83](http://ilovem83.com/) - Brian Holt
 
 
@@ -130,10 +148,10 @@ Published: April 14, 2016
 Published: April 04, 2016
 - [1Password](https://1password.com/features/) - Ryan Anklam
 - [Vim Tabular](https://github.com/godlygeek/tabular) - Ryan Anklam
-- [90s Hip Hop](spotify:user:bittersweetryan:playlist:2Fz6VlYg8ff2lZJro6SrPD) - Ryan Anklam
+- [90s Hip Hop](https://open.spotify.com/user/bittersweetryan/playlist/2Fz6VlYg8ff2lZJro6SrPD) - Ryan Anklam
 - [Elegant React with ES6 (and a bit of ES7) - React Rally](https://www.youtube.com/watch?v=GzChMXy-Es0) - Ryan Burgess
 - [Lot 40 Whiskey](http://thewhiskeywash.com/2015/12/14/whisky-review-lot-40/) - Ryan Burgess
-- [HTML5 Please](http://html5please.com/ ) - Sarah Federman
+- [HTML5 Please](http://html5please.com/) - Sarah Federman
 - [Death Medieval](https://twitter.com/DeathMedieval/status/715759543389708288) - Sarah Federman
 - [Microsoft AI Bot](http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/) - Sarah Federman
 - [ES6 Cheatsheet](http://exploringjs.com/es6/ch_overviews.html) - Jem Young
