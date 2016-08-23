@@ -1,5 +1,56 @@
 [
   {
+    "episode": "013 - Drinking in the present to learn future JavaScript",
+    "published": "August 17, 2016",
+    "picks": [
+      {
+        "title": "Idris Language",
+        "url": "http://www.idris-lang.org/",
+        "from": "Jafar Husain"
+      },
+      {
+        "title": "Status, process, and documents for ECMA262",
+        "url": "https://github.com/tc39/ecma262",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Octomore Scotch 07.1",
+        "url": "https://www.bruichladdich.com/the-whisky/octomore/octomore-071-208-ppm",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Morbotron",
+        "url": "https://morbotron.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Full Stack Toronto",
+        "url": "https://fsto.co/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Glimmer 2 Deep Dive",
+        "url": "https://www.youtube.com/watch?v=vL8sCi1Bv6E",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Rogue varieties",
+        "url": "http://www.rogue.com/roguebeers/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "I Really Like Angular 2 - Trailer for The Jeff Cross Show on Modern Web feat Jafar Husain",
+        "url": "https://www.youtube.com/watch?v=1NXhOChi54U",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Modern Web Podcast",
+        "url": "http://www.modern-web.org/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience",
     "published": "August 8, 2016",
     "picks": [

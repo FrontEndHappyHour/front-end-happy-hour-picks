@@ -1,6 +1,19 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 013 - Drinking in the present to learn future JavaScript
+Published: August 17, 2016
+- [Idris Language](http://www.idris-lang.org/) - Jafar Husain
+- [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262) - Ryan Burgess
+- [Octomore Scotch 07.1](https://www.bruichladdich.com/the-whisky/octomore/octomore-071-208-ppm) - Ryan Burgess
+- [Morbotron](https://morbotron.com/) - Jem Young
+- [Full Stack Toronto](https://fsto.co/) - Jem Young
+- [Glimmer 2 Deep Dive](https://www.youtube.com/watch?v=vL8sCi1Bv6E) - Derrick Showers
+- [Rogue varieties](http://www.rogue.com/roguebeers/) - Derrick Showers
+- [I Really Like Angular 2 - Trailer for The Jeff Cross Show on Modern Web feat Jafar Husain](https://www.youtube.com/watch?v=1NXhOChi54U) - Brian Holt
+- [Modern Web Podcast](http://www.modern-web.org/) - Brian Holt
+
+
 ## Episode 012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience
 Published: August 8, 2016
 - [Culture Map](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - Chrissy Running
