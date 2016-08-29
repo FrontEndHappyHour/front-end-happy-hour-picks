@@ -1,6 +1,16 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 014 - Hangovers and hotels: engineer conferences
+Published: August 28, 2016
+- [V-moda m-100 headphones](https://amzn.com/B00A39PPDK) - Ryan Burgess
+- [Deadmau5 Stranger Things Cover](http://www.youredm.com/2016/08/15/watch-deadmau5-cover-stranger-things-theme-song/) - Ryan Burgess
+- [Emojipedia](http://emojipedia.org/pile-of-poo/) - Jem Young
+- [Tron Legacy Reconfigured](https://www.youtube.com/user/pr0nyTronLegacyRecon) - Jem Young
+- [Disclosure - You & Me - Flume remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) - Ryan Anklam
+- [Zamst Knee Brace](https://amzn.com/B0093260L4) - Ryan Anklam
+
+
 ## Episode 013 - Drinking in the present to learn future JavaScript
 Published: August 17, 2016
 - [Idris Language](http://www.idris-lang.org/) - Jafar Husain
