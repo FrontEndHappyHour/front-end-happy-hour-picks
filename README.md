@@ -1,6 +1,17 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 015 - A flight of JavaScript frameworks
+Published: September 12, 2016
+- [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes) - Ryan Burgess
+- [Mackup](https://github.com/lra/mackup) - Ryan Burgess
+- [AMP Project](https://www.ampproject.org/) - Augustus Yuan
+- [DoodlesTV](https://www.youtube.com/channel/UCyArfuouSLqk3cnMoDUUzlQ) - Augustus Yuan
+- [Fidget cube](https://www.producthunt.com/tech/fidget-cube) - Derrick Showers
+- [Sully](http://www.imdb.com/title/tt3263904/) - Derrick Showers
+- [Alamo Drafthouse](https://drafthouse.com/sf) - Derrick Showers
+
+
 ## Episode 014 - Hangovers and hotels: engineer conferences
 Published: August 28, 2016
 - [V-moda m-100 headphones](https://amzn.com/B00A39PPDK) - Ryan Burgess

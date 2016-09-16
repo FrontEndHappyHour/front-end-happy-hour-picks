@@ -1,5 +1,46 @@
 [
   {
+    "episode": "015 - A flight of JavaScript frameworks",
+    "published": "September 12, 2016",
+    "picks": [
+      {
+        "title": "React in 7 minutes",
+        "url": "https://egghead.io/lessons/react-react-in-7-minutes",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Mackup",
+        "url": "https://github.com/lra/mackup",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "AMP Project",
+        "url": "https://www.ampproject.org/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "DoodlesTV",
+        "url": "https://www.youtube.com/channel/UCyArfuouSLqk3cnMoDUUzlQ",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Fidget cube",
+        "url": "https://www.producthunt.com/tech/fidget-cube",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Sully",
+        "url": "http://www.imdb.com/title/tt3263904/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Alamo Drafthouse",
+        "url": "https://drafthouse.com/sf",
+        "from": "Derrick Showers"
+      }
+    ]
+  },
+  {
     "episode": "014 - Hangovers and hotels: engineer conferences",
     "published": "August 28, 2016",
     "picks": [
