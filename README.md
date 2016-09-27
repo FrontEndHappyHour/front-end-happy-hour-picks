@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 016 - Spilled beer and epic fails
+Published: September 25, 2016
+- [React plus X: Best Practices for Reusable UI Components - Mars Jullian](https://www.youtube.com/watch?v=Yy7gFgETp0o) - Ryan Burgess
+- [React Rally 2016 videos](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw) - Ryan Burgess
+- [I got scammed by a Silicon Valley startup](https://medium.com/startup-grind/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff) - Augustus Yuan
+- [React Game Kit](https://github.com/FormidableLabs/react-game-kit) - Augustus Yuan
+- [A Very Secret Service](https://www.youtube.com/watch?v=fwDUguW8Duo) - Jem Young
+- [APEX: The Story of the Hypercar](https://www.netflix.com/title/80109260) - Jem Young
+- [Polarheart](https://www.facebook.com/polarheartmusic/) - Brian Holt
+- [Traveling](http://frontendhappyhour.com) - Brian Holt
+- [GitHub Universe conference](https://github.com/universe-2016) - Sarah Federman
+- [Oh Shit Git](http://ohshitgit.com/) - Sarah Federman
+
+
 ## Episode 015 - A flight of JavaScript frameworks
 Published: September 12, 2016
 - [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes) - Ryan Burgess

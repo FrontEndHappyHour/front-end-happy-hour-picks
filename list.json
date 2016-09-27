@@ -1,5 +1,61 @@
 [
   {
+    "episode": "016 - Spilled beer and epic fails",
+    "published": "September 25, 2016",
+    "picks": [
+      {
+        "title": "React plus X: Best Practices for Reusable UI Components - Mars Jullian",
+        "url": "https://www.youtube.com/watch?v=Yy7gFgETp0o",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React Rally 2016 videos",
+        "url": "https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "I got scammed by a Silicon Valley startup",
+        "url": "https://medium.com/startup-grind/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "React Game Kit",
+        "url": "https://github.com/FormidableLabs/react-game-kit",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "A Very Secret Service",
+        "url": "https://www.youtube.com/watch?v=fwDUguW8Duo",
+        "from": "Jem Young"
+      },
+      {
+        "title": "APEX: The Story of the Hypercar",
+        "url": "https://www.netflix.com/title/80109260",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Polarheart",
+        "url": "https://www.facebook.com/polarheartmusic/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Traveling",
+        "url": "http://frontendhappyhour.com",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "GitHub Universe conference",
+        "url": "https://github.com/universe-2016",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Oh Shit Git",
+        "url": "http://ohshitgit.com/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "015 - A flight of JavaScript frameworks",
     "published": "September 12, 2016",
     "picks": [
