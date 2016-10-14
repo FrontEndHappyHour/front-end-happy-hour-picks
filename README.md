@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 017 - Managing our drinks
+Published: October 13, 2016
+- [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - Chris Saint-Amant
+- [Suuns - Hold/Still](https://suuns.bandcamp.com/) - Chris Saint-Amant
+- [I'll Sleep When I'm Dead](https://www.netflix.com/title/80118930) - Ryan Burgess
+- [The Advantage](https://www.amazon.com/Summary-Advantage-Patrick-Lencioni-Analysis/dp/1519620314) - Ryan Burgess
+- [Free O’Reilly Books](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/) - Augustus Yuan
+- [Noto font by Google](https://www.google.com/get/noto/) - Augustus Yuan
+- [Infinite Jukebox](http://labs.echonest.com/Uploader/index.html) - Jem Young
+- [XOXO Soundtrack](https://play.spotify.com/album/7GII7KZDArYqZ14xcyshb4) - Jem Young
+- [TC-39](https://github.com/tc39) - Jem Young
+- [Ryan Burgess @ Full Stack Toronto](http://fsto.co/schedule/) - Jem Young
+- [Being a Manager is Hard](https://www.reddit.com/r/sysadmin/comments/55k4lj/being_a_manager_is_hard/) - Derrick Showers
+- [The State of JS](http://stateofjs.com/2016/introduction/) - Derrick Showers
+- [Samsung SmartThings Hub](https://www.smartthings.com/) - Ryan Anklam
+- [Flume - Skin](https://play.spotify.com/album/6VHCF8ykDo3STafE5JfMAs?play=true&utm_source=open.spotify.com) - Ryan Anklam
+- [Bottle Logic Brewing](http://bottlelogic.com/) - Brian Holt
+
+
 ## Episode 016 - Spilled beer and epic fails
 Published: September 25, 2016
 - [React plus X: Best Practices for Reusable UI Components - Mars Jullian](https://www.youtube.com/watch?v=Yy7gFgETp0o) - Ryan Burgess
