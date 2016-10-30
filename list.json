@@ -1,5 +1,61 @@
 [
   {
+    "episode": "018 - Shotgunning websites: web performance",
+    "published": "October 29, 2016",
+    "picks": [
+      {
+        "title": "Caplansky's Deli",
+        "url": "https://www.caplanskys.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React Perf Tool",
+        "url": "https://www.npmjs.com/package/react-perf-tool",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "FlameGraph",
+        "url": "https://github.com/brendangregg/FlameGraph",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Real-time performance audit with Chrome DevTools",
+        "url": "https://www.youtube.com/watch?v=pt4TjbSQz-g",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Week of learning",
+        "url": "https://learning.linkedin.com/week-of-learning",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Black Mirror",
+        "url": "https://www.netflix.com/title/70264888",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Man In The High Castle",
+        "url": "https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Bridge Troll",
+        "url": "https://www.bridgetroll.org/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Page Weight",
+        "url": "https://pageweight.imgix.com/",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "CSS Triggers",
+        "url": "https://csstriggers.com/",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "017 - Managing our drinks",
     "published": "October 13, 2016",
     "picks": [

@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 018 - Shotgunning websites: web performance
+Published: October 29, 2016
+- [Caplansky's Deli](https://www.caplanskys.com/) - Ryan Burgess
+- [React Perf Tool](https://www.npmjs.com/package/react-perf-tool) - Ryan Burgess
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Augustus Yuan
+- [Real-time performance audit with Chrome DevTools](https://www.youtube.com/watch?v=pt4TjbSQz-g) - Augustus Yuan
+- [Week of learning](https://learning.linkedin.com/week-of-learning) - Derrick Showers
+- [Black Mirror](https://www.netflix.com/title/70264888) - Derrick Showers
+- [Man In The High Castle](https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO) - Derrick Showers
+- [Bridge Troll](https://www.bridgetroll.org/) - Sarah Federman
+- [Page Weight](https://pageweight.imgix.com/) - Sarah Federman
+- [CSS Triggers](https://csstriggers.com/) - Sarah Federman
+
+
 ## Episode 017 - Managing our drinks
 Published: October 13, 2016
 - [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - Chris Saint-Amant
