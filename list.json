@@ -1,5 +1,152 @@
 [
   {
+    "episode": "020 - Wasted on workflows",
+    "published": "November 20, 2016",
+    "picks": [
+      {
+        "title": "Reptar",
+        "url": "http://reptar.github.io/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Chance",
+        "url": "http://www.hulu.com/start/?show=chance",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "H.264 is magic",
+        "url": "https://sidbala.com/h-264-is-magic/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "We Rate Dogs",
+        "url": "https://twitter.com/dog_rates",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Jest",
+        "url": "https://facebook.github.io/jest/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "The Naked and Famous - Simple Forms",
+        "url": "https://play.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Bose ear buds",
+        "url": "https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "React Devtools",
+        "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Jolene - collaboration with Dolly Parton and Pentatonix",
+        "url": "https://play.spotify.com/track/60PbWX0IWXg10YaE6VlywH",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
+    "episode": "019 - Drinking to digital nomads",
+    "published": "November 7, 2016",
+    "picks": [
+      {
+        "title": "Workfrom",
+        "url": "https://workfrom.co/",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Coffee Bar SF",
+        "url": "http://www.coffeebarsf.com/",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Work Shop Cafe",
+        "url": "http://www.workshopcafe.com/",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "The 10 Biggest Misconceptions About Remote Work",
+        "url": "http://blog.trello.com/company-remote-work-myths",
+        "from": "Darren Buckner"
+      },
+      {
+        "title": "Toby: manage your tabs",
+        "url": "https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip",
+        "from": "Darren Buckner"
+      },
+      {
+        "title": "Oversight",
+        "url": "https://objective-see.com/products/oversight.html",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How To Open Locks With Improvised Tools",
+        "url": "https://www.amazon.com/gp/product/0966608712/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Why work doesn’t happen at work TED Talk",
+        "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Android 404 page",
+        "url": "https://www.android.com/404/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "On Style Maintenance",
+        "url": "https://css-tricks.com/on-style-maintenance/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Grim Dawn",
+        "url": "http://www.grimdawn.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Going Remote, Staying Effective",
+        "url": "http://www.linkedin.com/pulse/going-remote-staying-effective-james-bake",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Yelp Collections",
+        "url": "https://www.yelpblog.com/2016/10/bookmark-collections-new-back-pocket-resource",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Haelos - Full Circle",
+        "url": "https://play.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Track JS",
+        "url": "https://trackjs.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Frontend Masters",
+        "url": "https://frontendmasters.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Indie Hackers Nomad List",
+        "url": "https://www.indiehackers.com/businesses/nomad-list",
+        "from": "Sarah Federman"
+      },
+      {
+        "title": "Best Practices for Working with Satellite Developers",
+        "url": "http://www.lookthink.com/blog/near-and-far-best-practices-working-satellite-developers",
+        "from": "Sarah Federman"
+      }
+    ]
+  },
+  {
     "episode": "018 - Shotgunning websites: web performance",
     "published": "October 29, 2016",
     "picks": [
@@ -44,7 +191,7 @@
         "from": "Sarah Federman"
       },
       {
-        "title": "Page Weight",
+        "title": "Imgix Page Weight Tool",
         "url": "https://pageweight.imgix.com/",
         "from": "Sarah Federman"
       },

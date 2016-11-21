@@ -1,6 +1,41 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 020 - Wasted on workflows
+Published: November 20, 2016
+- [Reptar](http://reptar.github.io/) - Ryan Burgess
+- [Chance](http://www.hulu.com/start/?show=chance) - Ryan Burgess
+- [H.264 is magic](https://sidbala.com/h-264-is-magic/) - Jem Young
+- [We Rate Dogs](https://twitter.com/dog_rates) - Jem Young
+- [Jest](https://facebook.github.io/jest/) - Brian Holt
+- [The Naked and Famous - Simple Forms](https://play.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) - Brian Holt
+- [Bose ear buds](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Mars Jullian
+- [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Mars Jullian
+- [Jolene - collaboration with Dolly Parton and Pentatonix](https://play.spotify.com/track/60PbWX0IWXg10YaE6VlywH) - Mars Jullian
+
+
+## Episode 019 - Drinking to digital nomads
+Published: November 7, 2016
+- [Workfrom](https://workfrom.co/) - Sarah Showers
+- [Coffee Bar SF](http://www.coffeebarsf.com/) - Sarah Showers
+- [Work Shop Cafe](http://www.workshopcafe.com/) - Sarah Showers
+- [The 10 Biggest Misconceptions About Remote Work](http://blog.trello.com/company-remote-work-myths) - Darren Buckner
+- [Toby: manage your tabs](https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip) - Darren Buckner
+- [Oversight](https://objective-see.com/products/oversight.html) - Ryan Burgess
+- [How To Open Locks With Improvised Tools](https://www.amazon.com/gp/product/0966608712/) - Ryan Burgess
+- [Why work doesn’t happen at work TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) - Augustus Yuan
+- [Android 404 page](https://www.android.com/404/) - Augustus Yuan
+- [On Style Maintenance](https://css-tricks.com/on-style-maintenance/) - Jem Young
+- [Grim Dawn](http://www.grimdawn.com/) - Jem Young
+- [Going Remote, Staying Effective](http://www.linkedin.com/pulse/going-remote-staying-effective-james-bake) - Derrick Showers
+- [Yelp Collections](https://www.yelpblog.com/2016/10/bookmark-collections-new-back-pocket-resource) - Derrick Showers
+- [Haelos - Full Circle](https://play.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) - Brian Holt
+- [Track JS](https://trackjs.com/) - Brian Holt
+- [Frontend Masters](https://frontendmasters.com/) - Brian Holt
+- [Indie Hackers Nomad List](https://www.indiehackers.com/businesses/nomad-list) - Sarah Federman
+- [Best Practices for Working with Satellite Developers](http://www.lookthink.com/blog/near-and-far-best-practices-working-satellite-developers) - Sarah Federman
+
+
 ## Episode 018 - Shotgunning websites: web performance
 Published: October 29, 2016
 - [Caplansky's Deli](https://www.caplanskys.com/) - Ryan Burgess
@@ -11,7 +46,7 @@ Published: October 29, 2016
 - [Black Mirror](https://www.netflix.com/title/70264888) - Derrick Showers
 - [Man In The High Castle](https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO) - Derrick Showers
 - [Bridge Troll](https://www.bridgetroll.org/) - Sarah Federman
-- [Page Weight](https://pageweight.imgix.com/) - Sarah Federman
+- [Imgix Page Weight Tool](https://pageweight.imgix.com/) - Sarah Federman
 - [CSS Triggers](https://csstriggers.com/) - Sarah Federman
 
 
