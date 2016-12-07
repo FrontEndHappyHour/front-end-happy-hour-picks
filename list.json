@@ -1,5 +1,66 @@
 [
   {
+    "episode": "021 - Mixed drinks and Mixed languages",
+    "published": "December 5, 2016",
+    "picks": [
+      {
+        "title": "Oliver Stone's Untold History of the United States",
+        "url": "https://www.netflix.com/title/80127995",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Purity Ring - Another Eternity",
+        "url": "https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Serge.io",
+        "url": "https://serge.io/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Moral Machine",
+        "url": "http://moralmachine.mit.edu/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "HTC Vive",
+        "url": "https://www.vive.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Crown",
+        "url": "https://www.netflix.com/title/80025678",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Setup",
+        "url": "https://usesthis.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Kitura",
+        "url": "https://github.com/IBM-Swift/Kitura",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "SF Chronicle",
+        "url": "http://www.sfchronicle.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Quick Draw with Google",
+        "url": "https://quickdraw.withgoogle.com/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "020 - Wasted on workflows",
     "published": "November 20, 2016",
     "picks": [

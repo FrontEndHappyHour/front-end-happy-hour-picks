@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 021 - Mixed drinks and Mixed languages
+Published: December 5, 2016
+- [Oliver Stone's Untold History of the United States](https://www.netflix.com/title/80127995) - Ryan Burgess
+- [Purity Ring - Another Eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) - Ryan Burgess
+- [Serge.io](https://serge.io/) - Augustus Yuan
+- [Moral Machine](http://moralmachine.mit.edu/) - Augustus Yuan
+- [HTC Vive](https://www.vive.com/) - Jem Young
+- [The Crown](https://www.netflix.com/title/80025678) - Jem Young
+- [The Setup](https://usesthis.com/) - Derrick Showers
+- [Kitura](https://github.com/IBM-Swift/Kitura) - Derrick Showers
+- [SF Chronicle](http://www.sfchronicle.com/) - Brian Holt
+- [Washington Post](https://www.washingtonpost.com/) - Brian Holt
+- [Quick Draw with Google](https://quickdraw.withgoogle.com/) - Brian Holt
+
+
 ## Episode 020 - Wasted on workflows
 Published: November 20, 2016
 - [Reptar](http://reptar.github.io/) - Ryan Burgess
