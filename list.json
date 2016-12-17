@@ -1,5 +1,96 @@
 [
   {
+    "episode": "022 - Drinking with more style and less sass",
+    "published": "December 16, 2016",
+    "picks": [
+      {
+        "title": "Art of Readme",
+        "url": "https://github.com/noffle/art-of-Readme",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Nas - Wrote My Way Out",
+        "url": "https://play.spotify.com/track/3QFWe1dM5oUY0O1TTKapUS",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Google Code-in",
+        "url": "https://codein.withgoogle.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "CSS Stats",
+        "url": "http://cssstats.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Sketch",
+        "url": "https://www.sketchapp.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Complete Intro to React",
+        "url": "https://frontendmasters.com/courses/react-intro/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Code Pen",
+        "url": "https://codepen.io/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Nextdoor",
+        "url": "https://nextdoor.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "CSS Wizardry",
+        "url": "http://csswizardry.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "mrmrs",
+        "url": "https://twitter.com/mrmrs_",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Una Kravets",
+        "url": "https://twitter.com/Una",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Sarah Drasner",
+        "url": "https://twitter.com/sarah_edo",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Rachel Nabors",
+        "url": "https://twitter.com/rachelnabors",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "City of Minneapolis",
+        "url": "http://www.ci.minneapolis.mn.us/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Laphroaig Madeira",
+        "url": "http://www.laphroaig.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "cssreference.io",
+        "url": "http://cssreference.io/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "The Great Dickens Fair",
+        "url": "http://dickensfair.com/",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "021 - Mixed drinks and Mixed languages",
     "published": "December 5, 2016",
     "picks": [

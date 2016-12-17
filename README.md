@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 022 - Drinking with more style and less sass
+Published: December 16, 2016
+- [Art of Readme](https://github.com/noffle/art-of-Readme) - Ryan Burgess
+- [Nas - Wrote My Way Out](https://play.spotify.com/track/3QFWe1dM5oUY0O1TTKapUS) - Ryan Burgess
+- [Google Code-in](https://codein.withgoogle.com/) - Augustus Yuan
+- [CSS Stats](http://cssstats.com/) - Augustus Yuan
+- [Sketch](https://www.sketchapp.com/) - Jem Young
+- [Complete Intro to React](https://frontendmasters.com/courses/react-intro/) - Jem Young
+- [Code Pen](https://codepen.io/) - Derrick Showers
+- [Nextdoor](https://nextdoor.com/) - Derrick Showers
+- [CSS Wizardry](http://csswizardry.com/) - Brian Holt
+- [mrmrs](https://twitter.com/mrmrs_) - Brian Holt
+- [Una Kravets](https://twitter.com/Una) - Brian Holt
+- [Sarah Drasner](https://twitter.com/sarah_edo) - Brian Holt
+- [Rachel Nabors](https://twitter.com/rachelnabors) - Brian Holt
+- [City of Minneapolis](http://www.ci.minneapolis.mn.us/) - Brian Holt
+- [Laphroaig Madeira](http://www.laphroaig.com/) - Brian Holt
+- [cssreference.io](http://cssreference.io/) - Mars Jullian
+- [The Great Dickens Fair](http://dickensfair.com/) - Mars Jullian
+
+
 ## Episode 021 - Mixed drinks and Mixed languages
 Published: December 5, 2016
 - [Oliver Stone's Untold History of the United States](https://www.netflix.com/title/80127995) - Ryan Burgess
