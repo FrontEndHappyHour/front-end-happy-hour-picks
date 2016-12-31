@@ -1,7 +1,7 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
-## Episode 023 - Ember - Gin & Tomcat
+## Episode 023 - Ember - Gin & Tomster
 Published: December 30, 2016
 - [Crimetown](https://itunes.apple.com/us/podcast/crimetown/id1170959623?mt=2) - Ryan Burgess
 - [Hip-Hop Evolution](https://www.netflix.com/title/80141782) - Ryan Burgess
