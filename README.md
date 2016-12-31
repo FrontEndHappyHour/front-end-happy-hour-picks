@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 023 - Ember - Gin & Tomcat
+Published: December 30, 2016
+- [Crimetown](https://itunes.apple.com/us/podcast/crimetown/id1170959623?mt=2) - Ryan Burgess
+- [Hip-Hop Evolution](https://www.netflix.com/title/80141782) - Ryan Burgess
+- [The OA](https://www.netflix.com/title/80044950) - Ryan Burgess
+- [Ember Twiddle](https://ember-twiddle.com/) - Derrick Showers
+- [Dockyard](https://dockyard.com/) - Derrick Showers
+- [Ember Community Slack](https://ember-community-slackin.herokuapp.com/) - Derrick Showers
+- [Webpack](https://webpack.github.io/) - Brian Holt
+- [Preact](https://github.com/developit/preact) - Brian Holt
+- [Mike North](https://twitter.com/michaellnorth) - Brian Holt
+- [CSS Grid](http://labs.jensimmons.com/examples/mondrian-2.html) - Stacy London
+- [Girl Develop It](https://www.girldevelopit.com) - Stacy London
+
+
 ## Episode 022 - Drinking with more style and less sass
 Published: December 16, 2016
 - [Art of Readme](https://github.com/noffle/art-of-Readme) - Ryan Burgess

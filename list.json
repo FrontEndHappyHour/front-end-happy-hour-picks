@@ -1,5 +1,66 @@
 [
   {
+    "episode": "023 - Ember - Gin & Tomcat",
+    "published": "December 30, 2016",
+    "picks": [
+      {
+        "title": "Crimetown",
+        "url": "https://itunes.apple.com/us/podcast/crimetown/id1170959623?mt=2",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Hip-Hop Evolution",
+        "url": "https://www.netflix.com/title/80141782",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The OA",
+        "url": "https://www.netflix.com/title/80044950",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ember Twiddle",
+        "url": "https://ember-twiddle.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Dockyard",
+        "url": "https://dockyard.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Ember Community Slack",
+        "url": "https://ember-community-slackin.herokuapp.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Webpack",
+        "url": "https://webpack.github.io/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Preact",
+        "url": "https://github.com/developit/preact",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Mike North",
+        "url": "https://twitter.com/michaellnorth",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "CSS Grid",
+        "url": "http://labs.jensimmons.com/examples/mondrian-2.html",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Girl Develop It",
+        "url": "https://www.girldevelopit.com",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "022 - Drinking with more style and less sass",
     "published": "December 16, 2016",
     "picks": [
