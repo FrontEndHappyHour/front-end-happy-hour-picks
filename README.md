@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 024 - The hangover of 2016
+Published: January 15, 2017
+- [Electric Objects Frame](https://www.electricobjects.com/) - Ryan Burgess
+- [2017 conference list](https://github.com/ryanburgess/2017-conferences) - Ryan Burgess
+- [Travelers](https://www.netflix.com/title/80105699) - Jem Young
+- [Everyone](http://frontendhappyhour.com) - Jem Young
+- [VIM - devicons](https://github.com/ryanoasis/vim-devicons) - Ryan Anklam
+- [Runner’s World Podcast](http://www.runnersworld.com/audio) - Ryan Anklam
+- [Run The Jewels 3](https://play.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9?play=true&utm_source=open.spotify.com&utm_medium=open) - Brian Holt
+- [Fish Shell](https://fishshell.com/) - Brian Holt
+- [React Status](http://react.statuscode.com/) - Mars Jullian
+- [Frontend focus](http://frontendfocus.co/) - Mars Jullian
+- [Nuclide](https://nuclide.io/) - Stacy London
+- [Yarn](https://yarnpkg.com/) - Stacy London
+
+
 ## Episode 023 - Ember - Gin & Tomster
 Published: December 30, 2016
 - [Crimetown](https://itunes.apple.com/us/podcast/crimetown/id1170959623?mt=2) - Ryan Burgess

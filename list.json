@@ -1,5 +1,71 @@
 [
   {
+    "episode": "024 - The hangover of 2016",
+    "published": "January 15, 2017",
+    "picks": [
+      {
+        "title": "Electric Objects Frame",
+        "url": "https://www.electricobjects.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "2017 conference list",
+        "url": "https://github.com/ryanburgess/2017-conferences",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Travelers",
+        "url": "https://www.netflix.com/title/80105699",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Everyone",
+        "url": "http://frontendhappyhour.com",
+        "from": "Jem Young"
+      },
+      {
+        "title": "VIM - devicons",
+        "url": "https://github.com/ryanoasis/vim-devicons",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Runner’s World Podcast",
+        "url": "http://www.runnersworld.com/audio",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Run The Jewels 3",
+        "url": "https://play.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9?play=true&utm_source=open.spotify.com&utm_medium=open",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Fish Shell",
+        "url": "https://fishshell.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "React Status",
+        "url": "http://react.statuscode.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Frontend focus",
+        "url": "http://frontendfocus.co/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Nuclide",
+        "url": "https://nuclide.io/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Yarn",
+        "url": "https://yarnpkg.com/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "023 - Ember - Gin & Tomster",
     "published": "December 30, 2016",
     "picks": [
