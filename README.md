@@ -1,6 +1,19 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 025 - From bar-back to frontender
+Published: January 24, 2017
+- [Girl Develop It](https://www.girldevelopit.com/) - Sarah Showers
+- [Reach LinkedIn](https://careers.linkedin.com/reach) - Sarah Showers
+- [The Investigator](https://www.netflix.com/title/80144148) - Ryan Burgess
+- [Shepard Fairey - We The People](https://obeygiant.com/people-art-avail-download-free/) - Ryan Burgess
+- [Istanbul](https://en.wikipedia.org/wiki/Istanbul) - Derrick Showers
+- [Apple EarPods](http://www.apple.com/shop/product/MD827LL/A/earpods-with-35-mm-headphone-plug) - Derrick Showers
+- [LinkedIn redesign](https://www.linkedin.com/) - Derrick Showers
+- [Bonobo - Migration](http://bonobomusic.com/) - Stacy London
+- [Girls In Tech - Mentorship Program](http://girlsintech.org/programs/git-m/) - Stacy London
+
+
 ## Episode 024 - The hangover of 2016
 Published: January 15, 2017
 - [Electric Objects Frame](https://www.electricobjects.com/) - Ryan Burgess

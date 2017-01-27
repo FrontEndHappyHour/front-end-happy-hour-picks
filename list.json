@@ -1,5 +1,56 @@
 [
   {
+    "episode": "025 - From bar-back to frontender",
+    "published": "January 24, 2017",
+    "picks": [
+      {
+        "title": "Girl Develop It",
+        "url": "https://www.girldevelopit.com/",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Reach LinkedIn",
+        "url": "https://careers.linkedin.com/reach",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "The Investigator",
+        "url": "https://www.netflix.com/title/80144148",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Shepard Fairey - We The People",
+        "url": "https://obeygiant.com/people-art-avail-download-free/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Istanbul",
+        "url": "https://en.wikipedia.org/wiki/Istanbul",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Apple EarPods",
+        "url": "http://www.apple.com/shop/product/MD827LL/A/earpods-with-35-mm-headphone-plug",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "LinkedIn redesign",
+        "url": "https://www.linkedin.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Bonobo - Migration",
+        "url": "http://bonobomusic.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Girls In Tech - Mentorship Program",
+        "url": "http://girlsintech.org/programs/git-m/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "024 - The hangover of 2016",
     "published": "January 15, 2017",
     "picks": [
