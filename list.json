@@ -1,5 +1,116 @@
 [
   {
+    "episode": "026 - Design, neat",
+    "published": "February 7, 2017",
+    "picks": [
+      {
+        "title": "Middleman",
+        "url": "https://middlemanapp.com/",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "CSS Modules",
+        "url": "https://github.com/css-modules/css-modules",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "BEM",
+        "url": "http://getbem.com/introduction/",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "Baskets",
+        "url": "http://www.fxnetworks.com/shows/baskets",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "Long Division",
+        "url": "https://www.amazon.com/Long-Division-Kiese-Laymon/dp/1932841725",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "ACLU",
+        "url": "https://www.aclunc.org",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "East of West",
+        "url": "https://imagecomics.com/comics/series/east-of-west",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "Kehlani - Sweet Sexy Savage",
+        "url": "https://www.youtube.com/watch?v=TRwhfPskEL8",
+        "from": "Julie Horvath"
+      },
+      {
+        "title": "Adobe Illustrator",
+        "url": "http://www.adobe.com/products/illustrator.html",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Homebrew Cask",
+        "url": "https://caskroom.github.io/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "U.S. Web Design Standards",
+        "url": "https://standards.usa.gov/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Panda",
+        "url": "http://usepanda.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "ACLU",
+        "url": "https://www.aclunc.org",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Frontier",
+        "url": "https://www.netflix.com/title/80099656",
+        "from": "Jem Young"
+      },
+      {
+        "title": "InVision",
+        "url": "https://www.invisionapp.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Google Voice",
+        "url": "https://www.google.com/voice",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Smashrun",
+        "url": "http://smashrun.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Rollup JS",
+        "url": "http://rollupjs.org/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "ACLU",
+        "url": "https://www.aclunc.org",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "InVision",
+        "url": "https://www.invisionapp.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Ghostly",
+        "url": "http://ghostly.com/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "025 - From bar-back to frontender",
     "published": "January 24, 2017",
     "picks": [

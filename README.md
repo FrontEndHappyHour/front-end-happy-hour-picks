@@ -1,6 +1,31 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 026 - Design, neat
+Published: February 7, 2017
+- [Middleman](https://middlemanapp.com/) - Julie Horvath
+- [CSS Modules](https://github.com/css-modules/css-modules) - Julie Horvath
+- [BEM](http://getbem.com/introduction/) - Julie Horvath
+- [Baskets](http://www.fxnetworks.com/shows/baskets) - Julie Horvath
+- [Long Division](https://www.amazon.com/Long-Division-Kiese-Laymon/dp/1932841725) - Julie Horvath
+- [ACLU](https://www.aclunc.org) - Julie Horvath
+- [East of West](https://imagecomics.com/comics/series/east-of-west) - Julie Horvath
+- [Kehlani - Sweet Sexy Savage](https://www.youtube.com/watch?v=TRwhfPskEL8) - Julie Horvath
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Ryan Burgess
+- [Homebrew Cask](https://caskroom.github.io/) - Ryan Burgess
+- [U.S. Web Design Standards](https://standards.usa.gov/) - Augustus Yuan
+- [Panda](http://usepanda.com/) - Augustus Yuan
+- [ACLU](https://www.aclunc.org) - Jem Young
+- [Frontier](https://www.netflix.com/title/80099656) - Jem Young
+- [InVision](https://www.invisionapp.com/) - Derrick Showers
+- [Google Voice](https://www.google.com/voice) - Derrick Showers
+- [Smashrun](http://smashrun.com/) - Ryan Anklam
+- [Rollup JS](http://rollupjs.org/) - Ryan Anklam
+- [ACLU](https://www.aclunc.org) - Brian Holt
+- [InVision](https://www.invisionapp.com/) - Stacy London
+- [Ghostly](http://ghostly.com/) - Stacy London
+
+
 ## Episode 025 - From bar-back to frontender
 Published: January 24, 2017
 - [Girl Develop It](https://www.girldevelopit.com/) - Sarah Showers
