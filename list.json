@@ -1,5 +1,76 @@
 [
   {
+    "episode": "027 - A drink for the \"Rust\" of us",
+    "published": "February 15, 2017",
+    "picks": [
+      {
+        "title": "PureScript",
+        "url": "http://www.purescript.org/",
+        "from": "Jafar Husain"
+      },
+      {
+        "title": "Denotational Semantics",
+        "url": "https://en.wikipedia.org/wiki/Denotational_semantics",
+        "from": "Jafar Husain"
+      },
+      {
+        "title": "Santa Clarita Diet",
+        "url": "https://www.netflix.com/title/80095815",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React Native at Instagram",
+        "url": "https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Santa Clarita Diet",
+        "url": "https://www.netflix.com/watch/80095815",
+        "from": "Jem Young"
+      },
+      {
+        "title": "What is a Promise?",
+        "url": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Focal Mobis II Chair",
+        "url": "http://store.focalupright.com/mobis-2-seat-p/ffs-2000.htm",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Hiya",
+        "url": "https://hiya.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Stephen Kawaguchi",
+        "url": "https://twitter.com/sak_to",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Ireland",
+        "url": "https://en.wikipedia.org/wiki/Ireland",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Max Cooper - Distant Light - Rival Consoles Remix",
+        "url": "https://soundcloud.com/max-cooper/max-cooper-distant-light-rival-consoles-remix",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Jeremy Geddes' art",
+        "url": "http://www.jeremygeddesart.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Bitbucket Cloud is hiring a Senior Front End Developer ",
+        "url": "https://www.smartrecruiters.com/Atlassian/106404927-senior-front-end-developer-bitbucket?trid=162ef3c2-cdcc-47a9-8327-c69d95269302",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "026 - Design, neat",
     "published": "February 7, 2017",
     "picks": [

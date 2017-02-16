@@ -1,6 +1,23 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 027 - A drink for the "Rust" of us
+Published: February 15, 2017
+- [PureScript](http://www.purescript.org/) - Jafar Husain
+- [Denotational Semantics](https://en.wikipedia.org/wiki/Denotational_semantics) - Jafar Husain
+- [Santa Clarita Diet](https://www.netflix.com/title/80095815) - Ryan Burgess
+- [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7) - Ryan Burgess
+- [Santa Clarita Diet](https://www.netflix.com/watch/80095815) - Jem Young
+- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) - Jem Young
+- [Focal Mobis II Chair](http://store.focalupright.com/mobis-2-seat-p/ffs-2000.htm) - Ryan Anklam
+- [Hiya](https://hiya.com/) - Ryan Anklam
+- [Stephen Kawaguchi](https://twitter.com/sak_to) - Brian Holt
+- [Ireland](https://en.wikipedia.org/wiki/Ireland) - Brian Holt
+- [Max Cooper - Distant Light - Rival Consoles Remix](https://soundcloud.com/max-cooper/max-cooper-distant-light-rival-consoles-remix) - Stacy London
+- [Jeremy Geddes' art](http://www.jeremygeddesart.com/) - Stacy London
+- [Bitbucket Cloud is hiring a Senior Front End Developer ](https://www.smartrecruiters.com/Atlassian/106404927-senior-front-end-developer-bitbucket?trid=162ef3c2-cdcc-47a9-8327-c69d95269302) - Stacy London
+
+
 ## Episode 026 - Design, neat
 Published: February 7, 2017
 - [Middleman](https://middlemanapp.com/) - Julie Horvath
