@@ -1,5 +1,96 @@
 [
   {
+    "episode": "028 - JavaScript Universi-LongIslandIce-ty",
+    "published": "February 26, 2017",
+    "picks": [
+      {
+        "title": "Watch and Code",
+        "url": "https://watchandcode.com/",
+        "from": "Gordon Zhu"
+      },
+      {
+        "title": "Ten Things I Have Learned - Milton Glaser",
+        "url": "https://www.miltonglaser.com/files/Essays-10things-8400",
+        "from": "Gordon Zhu"
+      },
+      {
+        "title": "Watch and Code",
+        "url": "https://watchandcode.com/",
+        "from": "Luis Vargas"
+      },
+      {
+        "title": "Industrial noise blocking headphones",
+        "url": "http://www.homedepot.com/p/Howard-Leight-Thunder-T1-Noise-Blocking-Dielectric-Headband-Earmuffs-1010928/203066854",
+        "from": "Luis Vargas"
+      },
+      {
+        "title": "Derek Sivers",
+        "url": "https://sivers.org/",
+        "from": "Luis Vargas"
+      },
+      {
+        "title": "Austin Maples - Idle Hand Tattoo",
+        "url": "https://www.instagram.com/austinmaples/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Fluid Paint",
+        "url": "http://david.li/paint/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Abstract",
+        "url": "https://www.netflix.com/title/80057883",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Expanse",
+        "url": "http://www.syfy.com/theexpanse",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Kahn Academy - Intro To Storytelling",
+        "url": "https://www.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers/v/storytelling-introb",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "New Day - Radio Edit by Xavier Eleven",
+        "url": "https://play.spotify.com/track/14bSwsVrw4zCERc0FIvjFn",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Schiit Fulla",
+        "url": "http://schiit.com/products/fulla",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Synology",
+        "url": "https://www.synology.com",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Forward JS",
+        "url": "https://forwardjs.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Chrome Canary - Loads CSS Progressively",
+        "url": "https://jakearchibald.com/2016/link-in-body/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Code School",
+        "url": "https://www.codeschool.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "RVK by Nathan Fake",
+        "url": "https://play.spotify.com/track/1SIthwv67KS6DBqfWplizM",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "027 - A drink for the \"Rust\" of us",
     "published": "February 15, 2017",
     "picks": [

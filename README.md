@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 028 - JavaScript Universi-LongIslandIce-ty
+Published: February 26, 2017
+- [Watch and Code](https://watchandcode.com/) - Gordon Zhu
+- [Ten Things I Have Learned - Milton Glaser](https://www.miltonglaser.com/files/Essays-10things-8400) - Gordon Zhu
+- [Watch and Code](https://watchandcode.com/) - Luis Vargas
+- [Industrial noise blocking headphones](http://www.homedepot.com/p/Howard-Leight-Thunder-T1-Noise-Blocking-Dielectric-Headband-Earmuffs-1010928/203066854) - Luis Vargas
+- [Derek Sivers](https://sivers.org/) - Luis Vargas
+- [Austin Maples - Idle Hand Tattoo](https://www.instagram.com/austinmaples/) - Ryan Burgess
+- [Fluid Paint](http://david.li/paint/) - Ryan Burgess
+- [Abstract](https://www.netflix.com/title/80057883) - Ryan Burgess
+- [The Expanse](http://www.syfy.com/theexpanse) - Ryan Anklam
+- [Kahn Academy - Intro To Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers/v/storytelling-introb) - Ryan Anklam
+- [New Day - Radio Edit by Xavier Eleven](https://play.spotify.com/track/14bSwsVrw4zCERc0FIvjFn) - Ryan Anklam
+- [Schiit Fulla](http://schiit.com/products/fulla) - Brian Holt
+- [Synology](https://www.synology.com) - Brian Holt
+- [Forward JS](https://forwardjs.com/) - Mars Jullian
+- [Chrome Canary - Loads CSS Progressively](https://jakearchibald.com/2016/link-in-body/) - Stacy London
+- [Code School](https://www.codeschool.com/) - Stacy London
+- [RVK by Nathan Fake](https://play.spotify.com/track/1SIthwv67KS6DBqfWplizM) - Stacy London
+
+
 ## Episode 027 - A drink for the "Rust" of us
 Published: February 15, 2017
 - [PureScript](http://www.purescript.org/) - Jafar Husain
