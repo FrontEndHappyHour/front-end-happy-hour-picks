@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 029 - Alcoholic Angular
+Published: March 12, 2017
+- [Yoga Trapeze Swing](https://www.amazon.com/YOGABODY-Naturals-Trapeze-Yoga-Inversion-Orange/dp/B0094H756W) - Ayşegül Yönet
+- [Google Home](https://madeby.google.com/home) - Ayşegül Yönet
+- [Girl Develop It](https://www.girldevelopit.com/) - Ayşegül Yönet
+- [Annie Cannons](http://www.anniecannons.com/) - Ayşegül Yönet
+- [NG-Cruise](https://ngcruise.com/#/) - Ryan Burgess
+- [Astral](https://astralapp.com/) - Ryan Burgess
+- [Private Internet Access](https://www.privateinternetaccess.com/) - Jem Young
+- [Elcomsoft](https://www.elcomsoft.com) - Jem Young
+- [Omni](https://www.beomni.com) - Derrick Showers
+- [Fernet](https://en.wikipedia.org/wiki/Fernet) - Derrick Showers
+- [Aysegul's Twitter](https://twitter.com/AysSomething) - Brian Holt
+- [Southern Poverty Law Center](https://www.splcenter.org/) - Brian Holt
+- [Todd Motto](https://twitter.com/toddmotto) - Brian Holt
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Stacy London
+- [Peak Magnetic by Clark](https://soundcloud.com/throttleclark/peak-magnetic) - Stacy London
+
+
 ## Episode 028 - JavaScript Universi-LongIslandIce-ty
 Published: February 26, 2017
 - [Watch and Code](https://watchandcode.com/) - Gordon Zhu

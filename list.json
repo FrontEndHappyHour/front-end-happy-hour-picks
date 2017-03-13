@@ -1,5 +1,86 @@
 [
   {
+    "episode": "029 - Alcoholic Angular",
+    "published": "March 12, 2017",
+    "picks": [
+      {
+        "title": "Yoga Trapeze Swing",
+        "url": "https://www.amazon.com/YOGABODY-Naturals-Trapeze-Yoga-Inversion-Orange/dp/B0094H756W",
+        "from": "Ayşegül Yönet"
+      },
+      {
+        "title": "Google Home",
+        "url": "https://madeby.google.com/home",
+        "from": "Ayşegül Yönet"
+      },
+      {
+        "title": "Girl Develop It",
+        "url": "https://www.girldevelopit.com/",
+        "from": "Ayşegül Yönet"
+      },
+      {
+        "title": "Annie Cannons",
+        "url": "http://www.anniecannons.com/",
+        "from": "Ayşegül Yönet"
+      },
+      {
+        "title": "NG-Cruise",
+        "url": "https://ngcruise.com/#/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Astral",
+        "url": "https://astralapp.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Private Internet Access",
+        "url": "https://www.privateinternetaccess.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Elcomsoft",
+        "url": "https://www.elcomsoft.com",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Omni",
+        "url": "https://www.beomni.com",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Fernet",
+        "url": "https://en.wikipedia.org/wiki/Fernet",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Aysegul's Twitter",
+        "url": "https://twitter.com/AysSomething",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Southern Poverty Law Center",
+        "url": "https://www.splcenter.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Todd Motto",
+        "url": "https://twitter.com/toddmotto",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Lighthouse",
+        "url": "https://developers.google.com/web/tools/lighthouse/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Peak Magnetic by Clark",
+        "url": "https://soundcloud.com/throttleclark/peak-magnetic",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "028 - JavaScript Universi-LongIslandIce-ty",
     "published": "February 26, 2017",
     "picks": [
