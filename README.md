@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 030 - Static site generators and dynamic drink drinkers
+Published: March 24, 2017
+- [Node 7.6](https://nodejs.org) - Harry Wolff
+- [Legion](http://www.fxnetworks.com/shows/legion) - Harry Wolff
+- [Calvin Harris - Slide](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) - Harry Wolff
+- [Reptar](https://reptar.github.io/) - Harry Wolff
+- [CODE: Debugging the Gender Gap](https://www.netflix.com/title/80130565) - Ryan Burgess
+- [ZippGo](https://www.zippgo.com) - Ryan Burgess
+- [Metasmoke](https://metasmoke.erwaysoftware.com/) - Augustus Yuan
+- [Open Source Guides](https://opensource.guide/) - Augustus Yuan
+- [Ultimate Beast Master](https://www.netflix.com/title/80095299) - Jem Young
+- [Shibesbot](https://twitter.com/shibbnbot) - Jem Young
+- [Distiller](https://distiller.com/) - Derrick Showers
+- [Pac-man Multiplayer](https://en.wikipedia.org/wiki/Pac-Man_Battle_Royale) - Derrick Showers
+- [Home Brewing Beer](http://www.homebrewing.org/How-to-Make-Your-Own-Beer_ep_32-1.html) - Brian Holt
+- [Webpackbin](https://www.webpackbin.com/) - Stacy London
+- [Arthur Russell - Home Away From Home (Andy Stott Refix)](https://soundcloud.com/modernlove/arthur-russell-home-away-from-home-andy-stott-refix) - Stacy London
+
+
 ## Episode 029 - Alcoholic Angular
 Published: March 12, 2017
 - [Yoga Trapeze Swing](https://www.amazon.com/YOGABODY-Naturals-Trapeze-Yoga-Inversion-Orange/dp/B0094H756W) - Ayşegül Yönet

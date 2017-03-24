@@ -1,5 +1,86 @@
 [
   {
+    "episode": "030 - Static site generators and dynamic drink drinkers",
+    "published": "March 24, 2017",
+    "picks": [
+      {
+        "title": "Node 7.6",
+        "url": "https://nodejs.org",
+        "from": "Harry Wolff"
+      },
+      {
+        "title": "Legion",
+        "url": "http://www.fxnetworks.com/shows/legion",
+        "from": "Harry Wolff"
+      },
+      {
+        "title": "Calvin Harris - Slide",
+        "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk",
+        "from": "Harry Wolff"
+      },
+      {
+        "title": "Reptar",
+        "url": "https://reptar.github.io/",
+        "from": "Harry Wolff"
+      },
+      {
+        "title": "CODE: Debugging the Gender Gap",
+        "url": "https://www.netflix.com/title/80130565",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "ZippGo",
+        "url": "https://www.zippgo.com",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Metasmoke",
+        "url": "https://metasmoke.erwaysoftware.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Open Source Guides",
+        "url": "https://opensource.guide/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Ultimate Beast Master",
+        "url": "https://www.netflix.com/title/80095299",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Shibesbot",
+        "url": "https://twitter.com/shibbnbot",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Distiller",
+        "url": "https://distiller.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Pac-man Multiplayer",
+        "url": "https://en.wikipedia.org/wiki/Pac-Man_Battle_Royale",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Home Brewing Beer",
+        "url": "http://www.homebrewing.org/How-to-Make-Your-Own-Beer_ep_32-1.html",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Webpackbin",
+        "url": "https://www.webpackbin.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Arthur Russell - Home Away From Home (Andy Stott Refix)",
+        "url": "https://soundcloud.com/modernlove/arthur-russell-home-away-from-home-andy-stott-refix",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "029 - Alcoholic Angular",
     "published": "March 12, 2017",
     "picks": [
