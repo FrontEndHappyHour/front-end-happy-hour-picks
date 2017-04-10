@@ -1,5 +1,61 @@
 [
   {
+    "episode": "031 - A flaming shot of burnout",
+    "published": "April 9, 2017",
+    "picks": [
+      {
+        "title": "Rove",
+        "url": "https://www.instagram.com/rove_cbs/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Charles Proxy",
+        "url": "https://www.charlesproxy.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React Native",
+        "url": "https://facebook.github.io/react-native/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Periscopic.com",
+        "url": "http://Periscopic.com",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "System Design Primer",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Hacking Node Seralize",
+        "url": "http://blog.websecurify.com/2017/02/hacking-node-serialize.html",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Rocket",
+        "url": "http://julianthayn.com/rocket",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Horizon Zero Dawn",
+        "url": "https://www.amazon.com/Horizon-Zero-Dawn-PlayStation-4/dp/B00ZQC73O8",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Spindrift by Colin Stetson",
+        "url": "https://open.spotify.com/track/3VyfaSBGhMIa6Np02DIf9h",
+        "from": "Stacy London"
+      },
+      {
+        "title": "It's not how many hours of sleep you get...",
+        "url": "https://superyesmore.com/its-not-how-many-hours-of-sleep-you-get-31511419ec81ce17835eeeb6c1a570a5",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "030 - Static site generators and dynamic drink drinkers",
     "published": "March 24, 2017",
     "picks": [

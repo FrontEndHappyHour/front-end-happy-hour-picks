@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 031 - A flaming shot of burnout
+Published: April 9, 2017
+- [Rove](https://www.instagram.com/rove_cbs/) - Ryan Burgess
+- [Charles Proxy](https://www.charlesproxy.com/) - Ryan Burgess
+- [React Native](https://facebook.github.io/react-native/) - Ryan Burgess
+- [Periscopic.com](http://Periscopic.com) - Augustus Yuan
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Augustus Yuan
+- [Hacking Node Seralize](http://blog.websecurify.com/2017/02/hacking-node-serialize.html) - Ryan Anklam
+- [Rocket](http://julianthayn.com/rocket) - Ryan Anklam
+- [Horizon Zero Dawn](https://www.amazon.com/Horizon-Zero-Dawn-PlayStation-4/dp/B00ZQC73O8) - Brian Holt
+- [Spindrift by Colin Stetson](https://open.spotify.com/track/3VyfaSBGhMIa6Np02DIf9h) - Stacy London
+- [It's not how many hours of sleep you get...](https://superyesmore.com/its-not-how-many-hours-of-sleep-you-get-31511419ec81ce17835eeeb6c1a570a5) - Stacy London
+
+
 ## Episode 030 - Static site generators and dynamic drink drinkers
 Published: March 24, 2017
 - [Node 7.6](https://nodejs.org) - Harry Wolff
