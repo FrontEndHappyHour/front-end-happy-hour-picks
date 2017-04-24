@@ -1,5 +1,66 @@
 [
   {
+    "episode": "032 - Imposter Syndrome - These are not the drinks you're looking for",
+    "published": "April 23, 2017",
+    "picks": [
+      {
+        "title": "Stuff You Missed in History Class",
+        "url": "http://www.missedinhistory.com/",
+        "from": "Jessica Grist"
+      },
+      {
+        "title": "React Conf 2017 videos",
+        "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Iron Fist",
+        "url": "https://www.netflix.com/title/80002612",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ember Conf 2017",
+        "url": "http://emberconf.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Codepen Projects",
+        "url": "https://codepen.io/pro/projects",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Alamo Drafthouse",
+        "url": "https://drafthouse.com",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Full Stack for Front End Engineers",
+        "url": "https://frontendmasters.com/courses/full-stack/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Nordic JS",
+        "url": "http://nordicjs.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "How I Built This",
+        "url": "http://www.npr.org/podcasts/510313/how-i-built-this",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Glitch",
+        "url": "https://glitch.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Empty Promise by Butane",
+        "url": "https://play.spotify.com/track/5cdREWsCkB3G0Zulvt6DGk",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "031 - A flaming shot of burnout",
     "published": "April 9, 2017",
     "picks": [

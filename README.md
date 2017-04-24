@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 032 - Imposter Syndrome - These are not the drinks you're looking for
+Published: April 23, 2017
+- [Stuff You Missed in History Class](http://www.missedinhistory.com/) - Jessica Grist
+- [React Conf 2017 videos](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) - Ryan Burgess
+- [Iron Fist](https://www.netflix.com/title/80002612) - Ryan Burgess
+- [Ember Conf 2017](http://emberconf.com/) - Derrick Showers
+- [Codepen Projects](https://codepen.io/pro/projects) - Derrick Showers
+- [Alamo Drafthouse](https://drafthouse.com) - Derrick Showers
+- [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) - Brian Holt
+- [Nordic JS](http://nordicjs.com/) - Mars Jullian
+- [How I Built This](http://www.npr.org/podcasts/510313/how-i-built-this) - Mars Jullian
+- [Glitch](https://glitch.com/) - Stacy London
+- [Empty Promise by Butane](https://play.spotify.com/track/5cdREWsCkB3G0Zulvt6DGk) - Stacy London
+
+
 ## Episode 031 - A flaming shot of burnout
 Published: April 9, 2017
 - [Rove](https://www.instagram.com/rove_cbs/) - Ryan Burgess
