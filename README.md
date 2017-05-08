@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 033 - One part beer, three parts web components. Add lemon to taste
+Published: May 7, 2017
+- [Flow Type](https://flow.org/) - Trey Shugart
+- [Line 6 helix](http://line6.com/helix/) - Trey Shugart
+- [Skate Maintainers](https://github.com/skatejs/skatejs/graphs/contributors) - Trey Shugart
+- [Jason Miller](https://twitter.com/_developit) - Trey Shugart
+- [Ryan Anklam](https://twitter.com/bittersweetryan) - Jem Young
+- [The Wee Baby Burgess - Austin Ryan Burgess](https://twitter.com/austinrburgess/status/856203118807105536) - Jem Young
+- [Iron Fist](https://www.netflix.com/title/80002612) - Jem Young
+- [Spotify Discover Weekly Playlist](https://www.spotify.com/us/discoverweekly/) - Ryan Anklam
+- [Ancillary Justice](https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X) - Ryan Anklam
+- [Flow Type](https://flow.org/) - Brian Holt
+- [Babel Preset Env](https://github.com/babel/babel-preset-env) - Brian Holt
+- [Planned Parenthood](https://www.plannedparenthood.org/) - Brian Holt
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Stacy London
+- [Broken Social Scene - Halfway Home](https://play.spotify.com/track/7yauTJLoU0eX3KZR2fLJZ0) - Stacy London
+
+
 ## Episode 032 - Imposter Syndrome - These are not the drinks you're looking for
 Published: April 23, 2017
 - [Stuff You Missed in History Class](http://www.missedinhistory.com/) - Jessica Grist

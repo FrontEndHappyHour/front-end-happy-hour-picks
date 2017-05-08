@@ -1,5 +1,81 @@
 [
   {
+    "episode": "033 - One part beer, three parts web components. Add lemon to taste",
+    "published": "May 7, 2017",
+    "picks": [
+      {
+        "title": "Flow Type",
+        "url": "https://flow.org/",
+        "from": "Trey Shugart"
+      },
+      {
+        "title": "Line 6 helix",
+        "url": "http://line6.com/helix/",
+        "from": "Trey Shugart"
+      },
+      {
+        "title": "Skate Maintainers",
+        "url": "https://github.com/skatejs/skatejs/graphs/contributors",
+        "from": "Trey Shugart"
+      },
+      {
+        "title": "Jason Miller",
+        "url": "https://twitter.com/_developit",
+        "from": "Trey Shugart"
+      },
+      {
+        "title": "Ryan Anklam",
+        "url": "https://twitter.com/bittersweetryan",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Wee Baby Burgess - Austin Ryan Burgess",
+        "url": "https://twitter.com/austinrburgess/status/856203118807105536",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Iron Fist",
+        "url": "https://www.netflix.com/title/80002612",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Spotify Discover Weekly Playlist",
+        "url": "https://www.spotify.com/us/discoverweekly/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Ancillary Justice",
+        "url": "https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Flow Type",
+        "url": "https://flow.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Babel Preset Env",
+        "url": "https://github.com/babel/babel-preset-env",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Planned Parenthood",
+        "url": "https://www.plannedparenthood.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Web Developer Roadmap",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Broken Social Scene - Halfway Home",
+        "url": "https://play.spotify.com/track/7yauTJLoU0eX3KZR2fLJZ0",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "032 - Imposter Syndrome - These are not the drinks you're looking for",
     "published": "April 23, 2017",
     "picks": [
