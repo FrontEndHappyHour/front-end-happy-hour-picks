@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 034 - npm install beer --save-in-mouth
+Published: May 22, 2017
+- [npm 5](http://blog.npmjs.org/post/154473364440/npm5-specifications-and-our-rfc-process) - Laurie Voss
+- [Slides.com](https://slides.com/) - Laurie Voss
+- [Next.js](https://github.com/zeit/next.js) - Laurie Voss
+- [Moment Lens](https://www.shopmoment.com/) - Ryan Burgess
+- [Lin Clark - A Cartoon into Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs) - Ryan Burgess
+- [The Founder](http://www.imdb.com/title/tt4276820/) - Ryan Burgess
+- [Deco IDE](https://github.com/decosoftware/deco-ide) - Augustus Yuan
+- [Mocktails Mixer by Deeplocal](http://deeplocal.com/mocktailsmixer/) - Augustus Yuan
+- [Aviation](http://www.liquor.com/recipes/aviation/) - Jem Young
+- [Music to Draw To: Satellite](https://play.spotify.com/album/2OivTtlyiYIK7GY2cJ1MPh?play=true&utm_source=open.spotify.com&utm_medium=open) - Jem Young
+- [How I built this podcast](http://www.npr.org/podcasts/510313/how-i-built-this) - Derrick Showers
+- [Containers podcast](https://soundcloud.com/containersfmg) - Derrick Showers
+- [Jackbox TV](http://jackbox.tv/) - Derrick Showers
+- [Spotify Mood playlists](https://open.spotify.com/genre/mood) - Mars Jullian
+- [SkyGuru](http://myskyguru.com/) - Mars Jullian
+
+
 ## Episode 033 - One part beer, three parts web components. Add lemon to taste
 Published: May 7, 2017
 - [Flow Type](https://flow.org/) - Trey Shugart

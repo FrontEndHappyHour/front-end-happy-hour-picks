@@ -1,5 +1,86 @@
 [
   {
+    "episode": "034 - npm install beer --save-in-mouth",
+    "published": "May 22, 2017",
+    "picks": [
+      {
+        "title": "npm 5",
+        "url": "http://blog.npmjs.org/post/154473364440/npm5-specifications-and-our-rfc-process",
+        "from": "Laurie Voss"
+      },
+      {
+        "title": "Slides.com",
+        "url": "https://slides.com/",
+        "from": "Laurie Voss"
+      },
+      {
+        "title": "Next.js",
+        "url": "https://github.com/zeit/next.js",
+        "from": "Laurie Voss"
+      },
+      {
+        "title": "Moment Lens",
+        "url": "https://www.shopmoment.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lin Clark - A Cartoon into Fiber - React Conf 2017",
+        "url": "https://www.youtube.com/watch?v=ZCuYPiUIONs",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Founder",
+        "url": "http://www.imdb.com/title/tt4276820/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Deco IDE",
+        "url": "https://github.com/decosoftware/deco-ide",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Mocktails Mixer by Deeplocal",
+        "url": "http://deeplocal.com/mocktailsmixer/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Aviation",
+        "url": "http://www.liquor.com/recipes/aviation/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Music to Draw To: Satellite",
+        "url": "https://play.spotify.com/album/2OivTtlyiYIK7GY2cJ1MPh?play=true&utm_source=open.spotify.com&utm_medium=open",
+        "from": "Jem Young"
+      },
+      {
+        "title": "How I built this podcast",
+        "url": "http://www.npr.org/podcasts/510313/how-i-built-this",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Containers podcast",
+        "url": "https://soundcloud.com/containersfmg",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Jackbox TV",
+        "url": "http://jackbox.tv/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Spotify Mood playlists",
+        "url": "https://open.spotify.com/genre/mood",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "SkyGuru",
+        "url": "http://myskyguru.com/",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "033 - One part beer, three parts web components. Add lemon to taste",
     "published": "May 7, 2017",
     "picks": [
