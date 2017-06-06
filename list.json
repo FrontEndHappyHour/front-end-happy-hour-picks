@@ -1,5 +1,96 @@
 [
   {
+    "episode": "035 - Top shelf style guides",
+    "published": "June 4, 2017",
+    "picks": [
+      {
+        "title": "AdRoll style guide",
+        "url": "http://ux.adroll.com/",
+        "from": "Jyri Tuulos"
+      },
+      {
+        "title": "Reasonably Sound",
+        "url": "http://reasonablysound.com/",
+        "from": "Jyri Tuulos"
+      },
+      {
+        "title": "InspiRock",
+        "url": "https://www.inspirock.com/",
+        "from": "Josh London"
+      },
+      {
+        "title": "React Sketch App",
+        "url": "http://airbnb.io/react-sketchapp/",
+        "from": "Josh London"
+      },
+      {
+        "title": "XLR8 Connect Diaper Backpack",
+        "url": "https://www.amazon.com/XLR8-Connect-Back-Pack-Diaper/dp/B019DHBWEI/ref=sr_1_1_a_it",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Bosch",
+        "url": "https://www.amazon.com/gp/video/detail/B06WVFKQCY",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Quick Draw! Google Dataset",
+        "url": "https://quickdraw.withgoogle.com/data",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Style Guides",
+        "url": "http://styleguides.io/ ",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Google I/O videos",
+        "url": "https://events.google.com/io/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Why did the chicken cross the road",
+        "url": "http://philosophy.eserver.org/chicken.txt",
+        "from": "Jem Young"
+      },
+      {
+        "title": "ES6 Proxies and Reflection",
+        "url": "https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Instacart",
+        "url": "https://www.instacart.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Blue Apron",
+        "url": "https://www.blueapron.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Single Div",
+        "url": "http://a.singlediv.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Detour",
+        "url": "https://www.detour.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "AtlasKit",
+        "url": "https://atlaskit.atlassian.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Actually Smiling by Geotic",
+        "url": "https://play.spotify.com/track/6yKY9ZvPD78Mj7oawITNIQ",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "034 - npm install beer --save-in-mouth",
     "published": "May 22, 2017",
     "picks": [

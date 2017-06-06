@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 035 - Top shelf style guides
+Published: June 4, 2017
+- [AdRoll style guide](http://ux.adroll.com/) - Jyri Tuulos
+- [Reasonably Sound](http://reasonablysound.com/) - Jyri Tuulos
+- [InspiRock](https://www.inspirock.com/) - Josh London
+- [React Sketch App](http://airbnb.io/react-sketchapp/) - Josh London
+- [XLR8 Connect Diaper Backpack](https://www.amazon.com/XLR8-Connect-Back-Pack-Diaper/dp/B019DHBWEI/ref=sr_1_1_a_it) - Ryan Burgess
+- [Bosch](https://www.amazon.com/gp/video/detail/B06WVFKQCY) - Ryan Burgess
+- [Quick Draw! Google Dataset](https://quickdraw.withgoogle.com/data) - Augustus Yuan
+- [Style Guides](http://styleguides.io/ ) - Augustus Yuan
+- [Google I/O videos](https://events.google.com/io/) - Augustus Yuan
+- [Why did the chicken cross the road](http://philosophy.eserver.org/chicken.txt) - Jem Young
+- [ES6 Proxies and Reflection](https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/) - Jem Young
+- [Instacart](https://www.instacart.com/) - Derrick Showers
+- [Blue Apron](https://www.blueapron.com/) - Derrick Showers
+- [Single Div](http://a.singlediv.com/) - Mars Jullian
+- [Detour](https://www.detour.com/) - Mars Jullian
+- [AtlasKit](https://atlaskit.atlassian.com/) - Stacy London
+- [Actually Smiling by Geotic](https://play.spotify.com/track/6yKY9ZvPD78Mj7oawITNIQ) - Stacy London
+
+
 ## Episode 034 - npm install beer --save-in-mouth
 Published: May 22, 2017
 - [npm 5](http://blog.npmjs.org/post/154473364440/npm5-specifications-and-our-rfc-process) - Laurie Voss
