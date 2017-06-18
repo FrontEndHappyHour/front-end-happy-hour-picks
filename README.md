@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 036 - First drink at a new bar
+Published: June 18, 2017
+- [Masters of Scale](https://mastersofscale.com/) - Ryan Burgess
+- [Mr. Chilly](https://itunes.apple.com/us/app/mr-chilly/id933759132?mt=8) - Ryan Burgess
+- [Stockstream](https://www.twitch.tv/stockstream) - Augustus Yuan
+- [Scrimba](https://scrimba.com/) - Augustus Yuan
+- [Sam Felt’s House Party Playlist](https://play.spotify.com/user/spotify/playlist/37i9dQZF1DWZpxQttCP3Ig) - Ryan Anklam
+- [Yarn determinism](https://yarnpkg.com/blog/2017/05/31/determinism/) - Ryan Anklam
+- [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) - Stacy London
+- [Outgoing Society by Shed](https://play.spotify.com/track/0TQpy8pYB3jPYaxTRnW5O6) - Stacy London
+
+
 ## Episode 035 - Top shelf style guides
 Published: June 4, 2017
 - [AdRoll style guide](http://ux.adroll.com/) - Jyri Tuulos
