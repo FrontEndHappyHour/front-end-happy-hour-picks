@@ -1,6 +1,28 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 037 - Amazing Manhattans Anywhere
+Published: July 5, 2017
+- [Breaker app](https://itunes.apple.com/us/app/breaker/id1215095006?mt=8) - Ryan Burgess
+- [PhoneSoap](https://www.amazon.com/dp/B016NGFY3C) - Ryan Burgess
+- [Front End Guide](https://github.com/grab/front-end-guide) - Augustus Yuan
+- [Summer sale on Steam](http://store.steampowered.com/app/485890/Summer_Sale/) - Augustus Yuan
+- [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) - Jem Young
+- [The Discovery](https://www.netflix.com/title/80115857) - Jem Young
+- [The Obesity Code](https://www.amazon.com/dp/B01C6D0LCK/) - Derrick Showers
+- [Headspace](https://www.headspace.com/) - Derrick Showers
+- [Children of Time Book](https://www.amazon.com/Children-Time-Adrian-Tchaikovsky-ebook/dp/B00SN93AHU) - Ryan Anklam
+- [Darigold Old Fashioned Chocolate Milk](http://www.darigold.com/products/milk/old-fashioned-chocolate-milk-half-gallon) - Ryan Anklam
+- [Bing](http://www.bing.com/) - Brian Holt
+- [OneNote](https://www.onenote.com/) - Brian Holt
+- [Regina LC Tattoo](https://www.instagram.com/rex_ttt/) - Brian Holt
+- [City Pups SF](http://www.citypupssf.com/) - Brian Holt
+- [Clif nut butter filled bars](http://www.clifbar.com/products/clif/nut-butter-filled) - Mars Jullian
+- [iShows app](https://itunes.apple.com/us/app/ishows-tv-tv-show-tracker-powered-by-trakt-tv/id992387872) - Mars Jullian
+- [Green Machine rolls at Bamboo in Portland](http://bamboosushi.com/menus/food/) - Stacy London
+- [Hands Down (feat. jennylee) by Trentemøller](https://play.spotify.com/track/10rNGCWcYPR3Oq3LT5FDxm) - Stacy London
+
+
 ## Episode 036 - First drink at a new bar
 Published: June 18, 2017
 - [Masters of Scale](https://mastersofscale.com/) - Ryan Burgess

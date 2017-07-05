@@ -1,5 +1,101 @@
 [
   {
+    "episode": "037 - Amazing Manhattans Anywhere",
+    "published": "July 5, 2017",
+    "picks": [
+      {
+        "title": "Breaker app",
+        "url": "https://itunes.apple.com/us/app/breaker/id1215095006?mt=8",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "PhoneSoap",
+        "url": "https://www.amazon.com/dp/B016NGFY3C",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Front End Guide",
+        "url": "https://github.com/grab/front-end-guide",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Summer sale on Steam",
+        "url": "http://store.steampowered.com/app/485890/Summer_Sale/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "A crash course in memory management",
+        "url": "https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Discovery",
+        "url": "https://www.netflix.com/title/80115857",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Obesity Code",
+        "url": "https://www.amazon.com/dp/B01C6D0LCK/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Headspace",
+        "url": "https://www.headspace.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Children of Time Book",
+        "url": "https://www.amazon.com/Children-Time-Adrian-Tchaikovsky-ebook/dp/B00SN93AHU",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Darigold Old Fashioned Chocolate Milk",
+        "url": "http://www.darigold.com/products/milk/old-fashioned-chocolate-milk-half-gallon",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Bing",
+        "url": "http://www.bing.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "OneNote",
+        "url": "https://www.onenote.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Regina LC Tattoo",
+        "url": "https://www.instagram.com/rex_ttt/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "City Pups SF",
+        "url": "http://www.citypupssf.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Clif nut butter filled bars",
+        "url": "http://www.clifbar.com/products/clif/nut-butter-filled",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "iShows app",
+        "url": "https://itunes.apple.com/us/app/ishows-tv-tv-show-tracker-powered-by-trakt-tv/id992387872",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Green Machine rolls at Bamboo in Portland",
+        "url": "http://bamboosushi.com/menus/food/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Hands Down (feat. jennylee) by Trentemøller",
+        "url": "https://play.spotify.com/track/10rNGCWcYPR3Oq3LT5FDxm",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "036 - First drink at a new bar",
     "published": "June 18, 2017",
     "picks": [
