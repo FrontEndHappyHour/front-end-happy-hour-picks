@@ -4,14 +4,14 @@ Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast
 ## Episode 037 - Amazing Manhattans Anywhere
 Published: July 5, 2017
 - [Breaker app](https://itunes.apple.com/us/app/breaker/id1215095006?mt=8) - Ryan Burgess
-- [PhoneSoap](https://www.amazon.com/dp/B016NGFY3C) - Ryan Burgess
+- [PhoneSoap](https://www.amazon.com/gp/product/B016NGFY3C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016NGFY3C&linkCode=as2&tag=frontendhappy-20&linkId=58aac0a86dc92b708edac4db2e6e9fb3) - Ryan Burgess
 - [Front End Guide](https://github.com/grab/front-end-guide) - Augustus Yuan
 - [Summer sale on Steam](http://store.steampowered.com/app/485890/Summer_Sale/) - Augustus Yuan
 - [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) - Jem Young
 - [The Discovery](https://www.netflix.com/title/80115857) - Jem Young
-- [The Obesity Code](https://www.amazon.com/dp/B01C6D0LCK/) - Derrick Showers
+- [The Obesity Code](https://www.amazon.com/gp/product/1771641258/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1771641258&linkCode=as2&tag=frontendhappy-20&linkId=fcf0954b2026da2776d055cba01ab42f) - Derrick Showers
 - [Headspace](https://www.headspace.com/) - Derrick Showers
-- [Children of Time Book](https://www.amazon.com/Children-Time-Adrian-Tchaikovsky-ebook/dp/B00SN93AHU) - Ryan Anklam
+- [Children of Time Book](https://www.amazon.com/gp/product/1447273303/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1447273303&linkCode=as2&tag=frontendhappy-20&linkId=8d23afb6d0f810c9d36ff3dfab567456) - Ryan Anklam
 - [Darigold Old Fashioned Chocolate Milk](http://www.darigold.com/products/milk/old-fashioned-chocolate-milk-half-gallon) - Ryan Anklam
 - [Bing](http://www.bing.com/) - Brian Holt
 - [OneNote](https://www.onenote.com/) - Brian Holt
@@ -41,7 +41,7 @@ Published: June 4, 2017
 - [Reasonably Sound](http://reasonablysound.com/) - Jyri Tuulos
 - [InspiRock](https://www.inspirock.com/) - Josh London
 - [React Sketch App](http://airbnb.io/react-sketchapp/) - Josh London
-- [XLR8 Connect Diaper Backpack](https://www.amazon.com/XLR8-Connect-Back-Pack-Diaper/dp/B019DHBWEI/ref=sr_1_1_a_it) - Ryan Burgess
+- [XLR8 Connect Diaper Backpack](https://www.amazon.com/gp/product/B019DHBWEI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019DHBWEI&linkCode=as2&tag=frontendhappy-20&linkId=7020af0e5a1b1b4bdb01ae1ee4b9ae99) - Ryan Burgess
 - [Bosch](https://www.amazon.com/gp/video/detail/B06WVFKQCY) - Ryan Burgess
 - [Quick Draw! Google Dataset](https://quickdraw.withgoogle.com/data) - Augustus Yuan
 - [Style Guides](http://styleguides.io/ ) - Augustus Yuan
@@ -85,7 +85,7 @@ Published: May 7, 2017
 - [The Wee Baby Burgess - Austin Ryan Burgess](https://twitter.com/austinrburgess/status/856203118807105536) - Jem Young
 - [Iron Fist](https://www.netflix.com/title/80002612) - Jem Young
 - [Spotify Discover Weekly Playlist](https://www.spotify.com/us/discoverweekly/) - Ryan Anklam
-- [Ancillary Justice](https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X) - Ryan Anklam
+- [Ancillary Justice](https://www.amazon.com/gp/product/031624662X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=031624662X&linkCode=as2&tag=frontendhappy-20&linkId=815c6677ab5863d495a4744ea783421b) - Ryan Anklam
 - [Flow Type](https://flow.org/) - Brian Holt
 - [Babel Preset Env](https://github.com/babel/babel-preset-env) - Brian Holt
 - [Planned Parenthood](https://www.plannedparenthood.org/) - Brian Holt
@@ -117,7 +117,7 @@ Published: April 9, 2017
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Augustus Yuan
 - [Hacking Node Seralize](http://blog.websecurify.com/2017/02/hacking-node-serialize.html) - Ryan Anklam
 - [Rocket](http://julianthayn.com/rocket) - Ryan Anklam
-- [Horizon Zero Dawn](https://www.amazon.com/Horizon-Zero-Dawn-PlayStation-4/dp/B00ZQC73O8) - Brian Holt
+- [Horizon Zero Dawn](https://www.amazon.com/gp/product/B00ZQC73O8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZQC73O8&linkCode=as2&tag=frontendhappy-20&linkId=7f9b3ee13ad0fcba60f9f506ba28c769) - Brian Holt
 - [Spindrift by Colin Stetson](https://open.spotify.com/track/3VyfaSBGhMIa6Np02DIf9h) - Stacy London
 - [It's not how many hours of sleep you get...](https://superyesmore.com/its-not-how-many-hours-of-sleep-you-get-31511419ec81ce17835eeeb6c1a570a5) - Stacy London
 
@@ -143,7 +143,7 @@ Published: March 24, 2017
 
 ## Episode 029 - Alcoholic Angular
 Published: March 12, 2017
-- [Yoga Trapeze Swing](https://www.amazon.com/YOGABODY-Naturals-Trapeze-Yoga-Inversion-Orange/dp/B0094H756W) - Ayşegül Yönet
+- [Yoga Trapeze Swing](https://www.amazon.com/gp/product/B0094H756W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0094H756W&linkCode=as2&tag=frontendhappy-20&linkId=8f274f069b13efdf95370a9832051bdd) - Ayşegül Yönet
 - [Google Home](https://madeby.google.com/home) - Ayşegül Yönet
 - [Girl Develop It](https://www.girldevelopit.com/) - Ayşegül Yönet
 - [Annie Cannons](http://www.anniecannons.com/) - Ayşegül Yönet
@@ -204,7 +204,7 @@ Published: February 7, 2017
 - [CSS Modules](https://github.com/css-modules/css-modules) - Julie Horvath
 - [BEM](http://getbem.com/introduction/) - Julie Horvath
 - [Baskets](http://www.fxnetworks.com/shows/baskets) - Julie Horvath
-- [Long Division](https://www.amazon.com/Long-Division-Kiese-Laymon/dp/1932841725) - Julie Horvath
+- [Long Division](https://www.amazon.com/gp/product/1932841725/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1932841725&linkCode=as2&tag=frontendhappy-20&linkId=30de272cadf662c4affe287b4ecbc361) - Julie Horvath
 - [ACLU](https://www.aclunc.org) - Julie Horvath
 - [East of West](https://imagecomics.com/comics/series/east-of-west) - Julie Horvath
 - [Kehlani - Sweet Sexy Savage](https://www.youtube.com/watch?v=TRwhfPskEL8) - Julie Horvath
@@ -324,7 +324,7 @@ Published: November 7, 2016
 - [The 10 Biggest Misconceptions About Remote Work](http://blog.trello.com/company-remote-work-myths) - Darren Buckner
 - [Toby: manage your tabs](https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip) - Darren Buckner
 - [Oversight](https://objective-see.com/products/oversight.html) - Ryan Burgess
-- [How To Open Locks With Improvised Tools](https://www.amazon.com/gp/product/0966608712/) - Ryan Burgess
+- [How To Open Locks With Improvised Tools](https://www.amazon.com/gp/product/0966608712/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0966608712&linkCode=as2&tag=frontendhappy-20&linkId=74e565103ce898cd6dee8bab01809f32) - Ryan Burgess
 - [Why work doesn’t happen at work TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) - Augustus Yuan
 - [Android 404 page](https://www.android.com/404/) - Augustus Yuan
 - [On Style Maintenance](https://css-tricks.com/on-style-maintenance/) - Jem Young
@@ -357,7 +357,7 @@ Published: October 13, 2016
 - [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - Chris Saint-Amant
 - [Suuns - Hold/Still](https://suuns.bandcamp.com/) - Chris Saint-Amant
 - [I'll Sleep When I'm Dead](https://www.netflix.com/title/80118930) - Ryan Burgess
-- [The Advantage](https://www.amazon.com/Summary-Advantage-Patrick-Lencioni-Analysis/dp/1519620314) - Ryan Burgess
+- [The Advantage](https://www.amazon.com/gp/product/0470941529/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470941529&linkCode=as2&tag=frontendhappy-20&linkId=70321ba90431558538768345dedca4d4) - Ryan Burgess
 - [Free O’Reilly Books](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/) - Augustus Yuan
 - [Noto font by Google](https://www.google.com/get/noto/) - Augustus Yuan
 - [Infinite Jukebox](http://labs.echonest.com/Uploader/index.html) - Jem Young
@@ -421,7 +421,7 @@ Published: August 17, 2016
 
 ## Episode 012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience
 Published: August 8, 2016
-- [Culture Map](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - Chrissy Running
+- [Culture Map](https://www.amazon.com/gp/product/1610392507/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1610392507&linkCode=as2&tag=frontendhappy-20&linkId=d0e03b2bd8cd6243c93daffa4732335a) - Chrissy Running
 - [The Night Of](http://www.hbo.com/the-night-of) - Chrissy Running
 - [The Fundamentals of Caring](https://www.netflix.com/title/80097349) - Alayna Ketner
 - [Song Exploder](http://songexploder.net/) - Alayna Ketner
@@ -601,7 +601,7 @@ Published: March 16, 2016
 - [Egghead.io](https://egghead.io/) - Ben Lesh
 - [Egghead.io - RxJS Creating Observables from Scratch](https://egghead.io/lessons/rxjs-creating-observable-from-scratch) - Ben Lesh
 - [Netflix UIE YouTube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA) - Ryan Burgess
-- [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E) - Ryan Burgess
+- [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X4WHP5E&linkCode=as2&tag=frontendhappy-20&linkId=bd58bc7d5a3f4206f94673b2f57edcca) - Ryan Burgess
 - [Tilt Brush](https://www.tiltbrush.com/) - Augustus Yuan
 - [EcmaScript Proposals](https://github.com/tc39/ecma262) - Jem Young
 - [VimCasts](http://vimcasts.org/) - Ryan Anklam
