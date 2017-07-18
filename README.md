@@ -1,6 +1,23 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 038 - Plotting our drinks
+Published: July 17, 2017
+- [Domestic Data Streamers](http://domesticstreamers.com/) - Shirley Wu
+- [Openviz](https://openvisconf.com/) - Shirley Wu
+- [D3 Unconf](http://visfest.com/d3unconf-2017/) - Shirley Wu
+- [Data Stories Podcast](http://datastori.es/) - Shirley Wu
+- [Shop Talk Show - React with Netflix](http://shoptalkshow.com/episodes/264-react-netflix/) - Ryan Burgess
+- [Amplifi](https://amplifi.com/) - Ryan Burgess
+- [svgomg](https://jakearchibald.github.io/svgomg/) - Stacy London
+- [Ellen Allien’s new album Nost](https://play.spotify.com/album/0XgRkMvWp5sF3RRIpKnC3o) - Stacy London
+- [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Augustus Yuan
+- [How Selections Work](https://bost.ocks.org/mike/selection/) - Augustus Yuan
+- [D3-Annotation](http://d3-annotation.susielu.com/) - Augustus Yuan
+- [Web Typography for Non-Designers](https://www.presslabs.com/blog/web-typography-for-non-designers/) - Jem Young
+- [The Story of O.J.](https://www.youtube.com/watch?v=RM7lw0Ovzq0) - Jem Young
+
+
 ## Episode 037 - Amazing Manhattans Anywhere
 Published: July 5, 2017
 - [Breaker app](https://itunes.apple.com/us/app/breaker/id1215095006?mt=8) - Ryan Burgess

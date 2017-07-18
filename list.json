@@ -1,5 +1,76 @@
 [
   {
+    "episode": "038 - Plotting our drinks",
+    "published": "July 17, 2017",
+    "picks": [
+      {
+        "title": "Domestic Data Streamers",
+        "url": "http://domesticstreamers.com/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Openviz",
+        "url": "https://openvisconf.com/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "D3 Unconf",
+        "url": "http://visfest.com/d3unconf-2017/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Data Stories Podcast",
+        "url": "http://datastori.es/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Shop Talk Show - React with Netflix",
+        "url": "http://shoptalkshow.com/episodes/264-react-netflix/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Amplifi",
+        "url": "https://amplifi.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "svgomg",
+        "url": "https://jakearchibald.github.io/svgomg/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Ellen Allien’s new album Nost",
+        "url": "https://play.spotify.com/album/0XgRkMvWp5sF3RRIpKnC3o",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Pokemon Terminal",
+        "url": "https://github.com/LazoCoder/Pokemon-Terminal",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "How Selections Work",
+        "url": "https://bost.ocks.org/mike/selection/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "D3-Annotation",
+        "url": "http://d3-annotation.susielu.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Web Typography for Non-Designers",
+        "url": "https://www.presslabs.com/blog/web-typography-for-non-designers/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Story of O.J.",
+        "url": "https://www.youtube.com/watch?v=RM7lw0Ovzq0",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "037 - Amazing Manhattans Anywhere",
     "published": "July 5, 2017",
     "picks": [
