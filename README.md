@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 039 - Smashed after a Swift shot
+Published: July 30, 2017
+- [Natasha the Robot](https://www.natashatherobot.com/) - Stefan Stumpfl
+- [Turner’s Kitchen](https://www.yelp.com/biz/turners-kitchen-san-francisco) - Stefan Stumpfl
+- [The Pitch](https://gimletmedia.com/thepitch/) - Ryan Burgess
+- [Ng-Atlanta](http://ng-atl.org/) - Ryan Burgess
+- [Moment](https://itunes.apple.com/us/app/moment-screen-time-tracker/id771541926?mt=8) - Ryan Burgess
+- [Plume Wifi](https://www.plumewifi.com/) - Jem Young
+- [Injury Reserve - ttktv](https://open.spotify.com/track/6U8wLl0pMsgS1Lcql3nQjH) - Jem Young
+- [Gullivers Travels](http://www.gutenberg.org/ebooks/829?msg=welcome_stranger) - Jem Young
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Derrick Showers
+- [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) - Derrick Showers
+- [Curious Incident of the Dog in the Nighttime](http://curiousonbroadway.com/) - Derrick Showers
+- [Watermelon Funk](http://21st-amendment.com/beers/watermelon-funk/) - Derrick Showers
+- [Linting styled-components](https://github.com/styled-components/stylelint-processor-styled-components) - Stacy London
+- [Weak by Maya Jane Coles](https://play.spotify.com/track/4NVpzUUoNWl7L8ZXYW8MlB) - Stacy London
+
+
 ## Episode 038 - Plotting our drinks
 Published: July 17, 2017
 - [Domestic Data Streamers](http://domesticstreamers.com/) - Shirley Wu

@@ -1,5 +1,81 @@
 [
   {
+    "episode": "039 - Smashed after a Swift shot",
+    "published": "July 30, 2017",
+    "picks": [
+      {
+        "title": "Natasha the Robot",
+        "url": "https://www.natashatherobot.com/",
+        "from": "Stefan Stumpfl"
+      },
+      {
+        "title": "Turner’s Kitchen",
+        "url": "https://www.yelp.com/biz/turners-kitchen-san-francisco",
+        "from": "Stefan Stumpfl"
+      },
+      {
+        "title": "The Pitch",
+        "url": "https://gimletmedia.com/thepitch/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ng-Atlanta",
+        "url": "http://ng-atl.org/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Moment",
+        "url": "https://itunes.apple.com/us/app/moment-screen-time-tracker/id771541926?mt=8",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Plume Wifi",
+        "url": "https://www.plumewifi.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Injury Reserve - ttktv",
+        "url": "https://open.spotify.com/track/6U8wLl0pMsgS1Lcql3nQjH",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Gullivers Travels",
+        "url": "http://www.gutenberg.org/ebooks/829?msg=welcome_stranger",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Swift Playgrounds",
+        "url": "https://www.apple.com/swift/playgrounds/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Swift Unwrapped",
+        "url": "https://spec.fm/podcasts/swift-unwrapped",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Curious Incident of the Dog in the Nighttime",
+        "url": "http://curiousonbroadway.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Watermelon Funk",
+        "url": "http://21st-amendment.com/beers/watermelon-funk/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Linting styled-components",
+        "url": "https://github.com/styled-components/stylelint-processor-styled-components",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Weak by Maya Jane Coles",
+        "url": "https://play.spotify.com/track/4NVpzUUoNWl7L8ZXYW8MlB",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "038 - Plotting our drinks",
     "published": "July 17, 2017",
     "picks": [
