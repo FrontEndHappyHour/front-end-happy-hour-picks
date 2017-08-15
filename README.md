@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 040 - React Native - Mix Once, Drink Everywhere
+Published: August 14, 2017
+- [Detour](https://www.detour.com/) - Naoufal Kadhom
+- [React Native Europe](https://react-native.eu/) - Naoufal Kadhom
+- [React Native Payments](https://github.com/naoufal/react-native-payments) - Ryan Burgess
+- [Robinhood](https://robinhood.com/referral/ryanb1470/) - Ryan Burgess
+- [Lottie](https://airbnb.design/lottie/) - Augustus Yuan
+- [Pismo Beach ATV sand dunes](http://www.classiccalifornia.com/atv-rentals-in-pismo-beach/) - Augustus Yuan
+- [Realm Academy](https://academy.realm.io/) - Derrick Showers
+- [Py App](https://www.downloadpy.com/) - Derrick Showers
+- [Hackages](https://hackages.io/) - Brian Holt
+- [Prettier + eslint-config-airbnb + Flowtype is the ultimate workflow for writing JS](https://twitter.com/holtbt/status/893932312269791232) - Brian Holt
+- [CodeSandbox](https://codesandbox.io/) - Stacy London
+- [Slow Motion by Lusine](https://open.spotify.com/track/17IeZrHH0ogSDFNTHbb1fC) - Stacy London
+
+
 ## Episode 039 - Smashed after a Swift shot
 Published: July 30, 2017
 - [Natasha the Robot](https://www.natashatherobot.com/) - Stefan Stumpfl

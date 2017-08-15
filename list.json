@@ -1,5 +1,71 @@
 [
   {
+    "episode": "040 - React Native - Mix Once, Drink Everywhere",
+    "published": "August 14, 2017",
+    "picks": [
+      {
+        "title": "Detour",
+        "url": "https://www.detour.com/",
+        "from": "Naoufal Kadhom"
+      },
+      {
+        "title": "React Native Europe",
+        "url": "https://react-native.eu/",
+        "from": "Naoufal Kadhom"
+      },
+      {
+        "title": "React Native Payments",
+        "url": "https://github.com/naoufal/react-native-payments",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Robinhood",
+        "url": "https://robinhood.com/referral/ryanb1470/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lottie",
+        "url": "https://airbnb.design/lottie/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Pismo Beach ATV sand dunes",
+        "url": "http://www.classiccalifornia.com/atv-rentals-in-pismo-beach/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Realm Academy",
+        "url": "https://academy.realm.io/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Py App",
+        "url": "https://www.downloadpy.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Hackages",
+        "url": "https://hackages.io/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Prettier + eslint-config-airbnb + Flowtype is the ultimate workflow for writing JS",
+        "url": "https://twitter.com/holtbt/status/893932312269791232",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "CodeSandbox",
+        "url": "https://codesandbox.io/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Slow Motion by Lusine",
+        "url": "https://open.spotify.com/track/17IeZrHH0ogSDFNTHbb1fC",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "039 - Smashed after a Swift shot",
     "published": "July 30, 2017",
     "picks": [
