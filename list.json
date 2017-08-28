@@ -1,5 +1,66 @@
 [
   {
+    "episode": "041 - Maintaining a healthy buzz",
+    "published": "August 27, 2017",
+    "picks": [
+      {
+        "title": "Brazil JS - Jem’s talk on code maintenance",
+        "url": "https://braziljs.org/conf/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Senior UI Engineer at Netflix",
+        "url": "https://jobs.netflix.com/jobs/864767",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ali Wong",
+        "url": "https://www.netflix.com/title/80101493",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "AI with DeepMind and Blizzard",
+        "url": "https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Blurred by Kiasmos",
+        "url": "https://open.spotify.com/track/28u92L77wqbWYXMnw0nPIW",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Particles by Ólafur Arnalds",
+        "url": "https://open.spotify.com/track/0Qk4wUSuCRkpIdTYuqhYaT",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Stacy’s haircut",
+        "url": "https://twitter.com/stacylondoner",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Defenders - Episode 3",
+        "url": "https://www.netflix.com/title/80002566",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Best Practices for Reusable Components",
+        "url": "http://nordicjs.com/speakers#mars-jullian",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Plant nanny",
+        "url": "https://itunes.apple.com/us/app/plant-nanny-water-reminder-with-cute-plants/id590216134?mt=8",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "MindNode",
+        "url": "https://mindnode.com/",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "040 - React Native - Mix Once, Drink Everywhere",
     "published": "August 14, 2017",
     "picks": [

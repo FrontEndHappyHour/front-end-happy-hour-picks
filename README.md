@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 041 - Maintaining a healthy buzz
+Published: August 27, 2017
+- [Brazil JS - Jem’s talk on code maintenance](https://braziljs.org/conf/) - Ryan Burgess
+- [Senior UI Engineer at Netflix](https://jobs.netflix.com/jobs/864767) - Ryan Burgess
+- [Ali Wong](https://www.netflix.com/title/80101493) - Augustus Yuan
+- [AI with DeepMind and Blizzard](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/) - Augustus Yuan
+- [Blurred by Kiasmos](https://open.spotify.com/track/28u92L77wqbWYXMnw0nPIW) - Stacy London
+- [Particles by Ólafur Arnalds](https://open.spotify.com/track/0Qk4wUSuCRkpIdTYuqhYaT) - Stacy London
+- [Stacy’s haircut](https://twitter.com/stacylondoner) - Jem Young
+- [The Defenders - Episode 3](https://www.netflix.com/title/80002566) - Jem Young
+- [Best Practices for Reusable Components](http://nordicjs.com/speakers#mars-jullian) - Jem Young
+- [Plant nanny](https://itunes.apple.com/us/app/plant-nanny-water-reminder-with-cute-plants/id590216134?mt=8) - Mars Jullian
+- [MindNode](https://mindnode.com/) - Mars Jullian
+
+
 ## Episode 040 - React Native - Mix Once, Drink Everywhere
 Published: August 14, 2017
 - [Detour](https://www.detour.com/) - Naoufal Kadhom
