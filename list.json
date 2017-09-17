@@ -1,5 +1,61 @@
 [
   {
+    "episode": "042 - Work hard, drink hard",
+    "published": "September 13, 2017",
+    "picks": [
+      {
+        "title": "Best Self Journal",
+        "url": "https://bestself.co/",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Movo Photo MTP-11",
+        "url": "https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=4df5c888ca253903fdff5842d988b08b&creativeASIN=B01K0LLQ38",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "SVG Animations - Sarah Drasner",
+        "url": "https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=0872a0a0efd3a599dd336dc75fc1c145&creativeASIN=1491939702",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How to fix a toilet",
+        "url": "http://how-to-fix-a-toilet.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Sketch 2 After Effects",
+        "url": "https://github.com/google/sketch2ae",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "One World Observatory",
+        "url": "https://oneworldobservatory.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Shake Shack",
+        "url": "https://www.shakeshack.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "JetBlue",
+        "url": "https://www.jetblue.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Focus app",
+        "url": "https://www.focusboosterapp.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Todoist",
+        "url": "https://todoist.com/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "041 - Maintaining a healthy buzz",
     "published": "August 27, 2017",
     "picks": [

@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 042 - Work hard, drink hard
+Published: September 13, 2017
+- [Best Self Journal](https://bestself.co/) - Sarah Showers
+- [Movo Photo MTP-11](https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=4df5c888ca253903fdff5842d988b08b&creativeASIN=B01K0LLQ38) - Ryan Burgess
+- [SVG Animations - Sarah Drasner](https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=0872a0a0efd3a599dd336dc75fc1c145&creativeASIN=1491939702) - Ryan Burgess
+- [How to fix a toilet](http://how-to-fix-a-toilet.com/) - Augustus Yuan
+- [Sketch 2 After Effects](https://github.com/google/sketch2ae) - Augustus Yuan
+- [One World Observatory](https://oneworldobservatory.com/) - Derrick Showers
+- [Shake Shack](https://www.shakeshack.com/) - Derrick Showers
+- [JetBlue](https://www.jetblue.com/) - Derrick Showers
+- [Focus app](https://www.focusboosterapp.com/) - Brian Holt
+- [Todoist](https://todoist.com/) - Brian Holt
+
+
 ## Episode 041 - Maintaining a healthy buzz
 Published: August 27, 2017
 - [Brazil JS - Jem’s talk on code maintenance](https://braziljs.org/conf/) - Ryan Burgess
