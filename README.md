@@ -1,6 +1,23 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 043 - Our first drink
+Published: October 1, 2017
+- [Front End Happy Hour](http://frontendhappyhour.com) - Preethi Kasireddy
+- [Changelog](https://changelog.com/podcast) - Preethi Kasireddy
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) - Preethi Kasireddy
+- [Twitter](https://twitter.com) - Preethi Kasireddy
+- [freeCodeCamp](https://medium.freecodecamp.org/?gi=71f00401e3b8) - Preethi Kasireddy
+- [We All Started Somewhere - Preethi Kasireddy - React Rally](https://www.youtube.com/watch?v=maykR0aVsj8) - Ryan Burgess
+- [Fed Up](https://www.netflix.com/title/70299287) - Ryan Burgess
+- [CS50](http://docs.cs50.net/2017/fall/syllabus/cs50.html) - Derrick Showers
+- [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/) - Derrick Showers
+- [Fatal Error](https://fatalerror.fm/) - Derrick Showers
+- [Frontend Masters](https://frontendmasters.com/) - Stacy London
+- [Nordic.js](http://nordicjs.com/) - Stacy London
+- [Fjords near Flåm in Norway](https://twitter.com/stacylondoner/status/907529092496543744) - Stacy London
+
+
 ## Episode 042 - Work hard, drink hard
 Published: September 13, 2017
 - [Best Self Journal](https://bestself.co/) - Sarah Showers

@@ -1,5 +1,76 @@
 [
   {
+    "episode": "043 - Our first drink",
+    "published": "October 1, 2017",
+    "picks": [
+      {
+        "title": "Front End Happy Hour",
+        "url": "http://frontendhappyhour.com",
+        "from": "Preethi Kasireddy"
+      },
+      {
+        "title": "Changelog",
+        "url": "https://changelog.com/podcast",
+        "from": "Preethi Kasireddy"
+      },
+      {
+        "title": "Software Engineering Daily",
+        "url": "https://softwareengineeringdaily.com/",
+        "from": "Preethi Kasireddy"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com",
+        "from": "Preethi Kasireddy"
+      },
+      {
+        "title": "freeCodeCamp",
+        "url": "https://medium.freecodecamp.org/?gi=71f00401e3b8",
+        "from": "Preethi Kasireddy"
+      },
+      {
+        "title": "We All Started Somewhere - Preethi Kasireddy - React Rally",
+        "url": "https://www.youtube.com/watch?v=maykR0aVsj8",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Fed Up",
+        "url": "https://www.netflix.com/title/70299287",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "CS50",
+        "url": "http://docs.cs50.net/2017/fall/syllabus/cs50.html",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Pocket Casts",
+        "url": "https://www.shiftyjelly.com/pocketcasts/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Fatal Error",
+        "url": "https://fatalerror.fm/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Frontend Masters",
+        "url": "https://frontendmasters.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Nordic.js",
+        "url": "http://nordicjs.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Fjords near Flåm in Norway",
+        "url": "https://twitter.com/stacylondoner/status/907529092496543744",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "042 - Work hard, drink hard",
     "published": "September 13, 2017",
     "picks": [
