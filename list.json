@@ -1,5 +1,61 @@
 [
   {
+    "episode": "044 - Champagne ideas and caviar dreams",
+    "published": "October 15, 2017",
+    "picks": [
+      {
+        "title": "D3 Unconf",
+        "url": "http://visfest.com/d3unconf-2017/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "The Stormlight Archive",
+        "url": "https://brandonsanderson.com/books/the-stormlight-archive/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Social Network soundtrack",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "American Vandal",
+        "url": "https://www.netflix.com/title/80117545",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": " Essential Image Optimization",
+        "url": "https://images.guide/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "LeetCode Articles",
+        "url": "https://leetcode.com/articles/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "size-limit",
+        "url": "https://www.npmjs.com/package/size-limit",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Choir of the Mind by Emily Haines & The Soft Skeleton",
+        "url": "https://open.spotify.com/album/00lyG12Yb79SNS4InddHvs",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Vallis Alps - Oceans",
+        "url": "https://open.spotify.com/track/2suCvIjriPQrcYHGmWjFh8",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Beeple",
+        "url": "https://www.instagram.com/beeple_crap/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "043 - Our first drink",
     "published": "October 1, 2017",
     "picks": [

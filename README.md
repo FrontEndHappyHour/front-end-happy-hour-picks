@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 044 - Champagne ideas and caviar dreams
+Published: October 15, 2017
+- [D3 Unconf](http://visfest.com/d3unconf-2017/) - Shirley Wu
+- [The Stormlight Archive](https://brandonsanderson.com/books/the-stormlight-archive/) - Shirley Wu
+- [Social Network soundtrack](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) - Ryan Burgess
+- [American Vandal](https://www.netflix.com/title/80117545) - Ryan Burgess
+- [ Essential Image Optimization](https://images.guide/) - Augustus Yuan
+- [LeetCode Articles](https://leetcode.com/articles/) - Augustus Yuan
+- [size-limit](https://www.npmjs.com/package/size-limit) - Brian Holt
+- [Choir of the Mind by Emily Haines & The Soft Skeleton](https://open.spotify.com/album/00lyG12Yb79SNS4InddHvs) - Brian Holt
+- [Vallis Alps - Oceans](https://open.spotify.com/track/2suCvIjriPQrcYHGmWjFh8) - Stacy London
+- [Beeple](https://www.instagram.com/beeple_crap/) - Stacy London
+
+
 ## Episode 043 - Our first drink
 Published: October 1, 2017
 - [Front End Happy Hour](http://frontendhappyhour.com) - Preethi Kasireddy
