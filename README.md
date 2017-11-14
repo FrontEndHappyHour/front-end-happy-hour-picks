@@ -1,6 +1,33 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 046 - Locking down the liquor
+Published: November 14, 2017
+- [Engineer Manager Resources](https://github.com/ryanburgess/engineer-manager) - Ryan Burgess
+- [Netflix JavaScript Talks - Building Performant Signup Flows in React](https://youtu.be/V8oTJ8OZ5S0?t=9m50s) - Ryan Burgess
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Jem Young
+- [Stranger Things](https://www.netflix.com/title/80057281) - Jem Young
+- [Certbot](https://certbot.eff.org/) - Derrick Showers
+- [Airbnb Experiences](https://www.airbnb.com/experiences) - Derrick Showers
+- [DripDrop](https://dripdrop.com/) - Derrick Showers
+- [Lisbon, Portugal](https://www.tripadvisor.com/Tourism-g189158-Lisbon_Lisbon_District_Central_Portugal-Vacations.html) - Stacy London
+- [Girl in a Band by Kim Gordon](https://www.amazon.com/gp/product/006229590X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006229590X&linkCode=as2&tag=frontendhappy-20&linkId=57605bd62405de7dd904f495cdbc16c6) - Stacy London
+
+
+## Episode 045 - Getting the bartender's attention
+Published: October 29, 2017
+- [Apple Watch 3](https://www.apple.com/apple-watch-series-3/) - Bianca Bortolussi
+- [Netflix JS Talks](https://jstalks.splashthat.com/) - Bianca Bortolussi
+- [Women in Tech Show](https://thewomenintechshow.com/) - Ryan Burgess
+- [Kotlin Conf](https://www.kotlinconf.com/) - Ryan Burgess
+- [Firefox Focus](https://www.mozilla.org/en-US/firefox/focus/) - Jem Young
+- [Sony MDR 1000x](https://www.sony.com/electronics/headband-headphones/mdr-1000x) - Jem Young
+- [Spotify Time Capsule Playlist](https://timecapsule.spotify.com/) - Ryan Anklam
+- [Dirty Hacks From The Dark Corners of Front-End](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end) - Ryan Anklam
+- [November 17th HTML5 Meetup](https://www.meetup.com/sfhtml5/events/244074642/) - Mars Jullian
+- [Interactive Visualization of Every Line in Hamilton by Shirley Wu](https://pudding.cool/2017/03/hamilton/index.html) - Mars Jullian
+
+
 ## Episode 044 - Champagne ideas and caviar dreams
 Published: October 15, 2017
 - [D3 Unconf](http://visfest.com/d3unconf-2017/) - Shirley Wu
@@ -155,7 +182,7 @@ Published: June 4, 2017
 - [XLR8 Connect Diaper Backpack](https://www.amazon.com/gp/product/B019DHBWEI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019DHBWEI&linkCode=as2&tag=frontendhappy-20&linkId=7020af0e5a1b1b4bdb01ae1ee4b9ae99) - Ryan Burgess
 - [Bosch](https://www.amazon.com/gp/video/detail/B06WVFKQCY) - Ryan Burgess
 - [Quick Draw! Google Dataset](https://quickdraw.withgoogle.com/data) - Augustus Yuan
-- [Style Guides](http://styleguides.io/ ) - Augustus Yuan
+- [Style Guides](http://styleguides.io/) - Augustus Yuan
 - [Google I/O videos](https://events.google.com/io/) - Augustus Yuan
 - [Why did the chicken cross the road](http://philosophy.eserver.org/chicken.txt) - Jem Young
 - [ES6 Proxies and Reflection](https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/) - Jem Young

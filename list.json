@@ -1,5 +1,112 @@
 [
   {
+    "episode": "046 - Locking down the liquor",
+    "published": "November 14, 2017",
+    "picks": [
+      {
+        "title": "Engineer Manager Resources",
+        "url": "https://github.com/ryanburgess/engineer-manager",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Netflix JavaScript Talks - Building Performant Signup Flows in React",
+        "url": "https://youtu.be/V8oTJ8OZ5S0?t=9m50s",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Puppeteer",
+        "url": "https://github.com/GoogleChrome/puppeteer",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Stranger Things",
+        "url": "https://www.netflix.com/title/80057281",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Certbot",
+        "url": "https://certbot.eff.org/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Airbnb Experiences",
+        "url": "https://www.airbnb.com/experiences",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "DripDrop",
+        "url": "https://dripdrop.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Lisbon, Portugal",
+        "url": "https://www.tripadvisor.com/Tourism-g189158-Lisbon_Lisbon_District_Central_Portugal-Vacations.html",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Girl in a Band by Kim Gordon",
+        "url": "https://www.amazon.com/gp/product/006229590X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006229590X&linkCode=as2&tag=frontendhappy-20&linkId=57605bd62405de7dd904f495cdbc16c6",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "045 - Getting the bartender's attention",
+    "published": "October 29, 2017",
+    "picks": [
+      {
+        "title": "Apple Watch 3",
+        "url": "https://www.apple.com/apple-watch-series-3/",
+        "from": "Bianca Bortolussi"
+      },
+      {
+        "title": "Netflix JS Talks",
+        "url": "https://jstalks.splashthat.com/",
+        "from": "Bianca Bortolussi"
+      },
+      {
+        "title": "Women in Tech Show",
+        "url": "https://thewomenintechshow.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Kotlin Conf",
+        "url": "https://www.kotlinconf.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Firefox Focus",
+        "url": "https://www.mozilla.org/en-US/firefox/focus/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Sony MDR 1000x",
+        "url": "https://www.sony.com/electronics/headband-headphones/mdr-1000x",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Spotify Time Capsule Playlist",
+        "url": "https://timecapsule.spotify.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Dirty Hacks From The Dark Corners of Front-End",
+        "url": "https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "November 17th HTML5 Meetup",
+        "url": "https://www.meetup.com/sfhtml5/events/244074642/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Interactive Visualization of Every Line in Hamilton by Shirley Wu",
+        "url": "https://pudding.cool/2017/03/hamilton/index.html",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "044 - Champagne ideas and caviar dreams",
     "published": "October 15, 2017",
     "picks": [
@@ -639,7 +746,7 @@
       },
       {
         "title": "Style Guides",
-        "url": "http://styleguides.io/ ",
+        "url": "http://styleguides.io/",
         "from": "Augustus Yuan"
       },
       {
