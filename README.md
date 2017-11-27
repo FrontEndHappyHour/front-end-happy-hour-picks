@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 047 - Speak(easy)
+Published: November 26, 2017
+- [Obey Giant Documentary](https://www.hulu.com/watch/1170629) - Ryan Burgess
+- [Southpaw](http://www.southpawbbqsf.com/) - Ryan Burgess
+- [Seashells.io](https://seashells.io/) - Augustus Yuan
+- [The Working Man (animation)](https://www.youtube.com/watch?v=OYxEBxmZEUo) - Augustus Yuan
+- [The Room](http://www.theroommovie.com/) - Jem Young
+- [Firefox Quantum](https://www.mozilla.org) - Jem Young
+- [HTML5 Meetup](https://www.meetup.com/sfhtml5/events/244074642/) - Mars Jullian
+- [Dickens Fair](https://dickensfair.com/) - Mars Jullian
+- [Illumina by Lamb](https://open.spotify.com/track/5YMypqZz3fJAoltYpBLzTW) - Stacy London
+- [Rodent by Burial](https://open.spotify.com/track/6tLrODUVVwClg1EhuXwk2i) - Stacy London
+
+
 ## Episode 046 - Locking down the liquor
 Published: November 14, 2017
 - [Engineer Manager Resources](https://github.com/ryanburgess/engineer-manager) - Ryan Burgess
