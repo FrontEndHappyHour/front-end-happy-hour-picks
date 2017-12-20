@@ -1,5 +1,86 @@
 [
   {
+    "episode": "048 - Toast to a new year",
+    "published": "December 18, 2017",
+    "picks": [
+      {
+        "title": "2018 Conferences",
+        "url": "https://github.com/ryanburgess/2018-conferences",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Kevin Marr",
+        "url": "https://www.instagram.com/kevinmarr_horikema/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Mozilla Voice Project",
+        "url": "https://voice.mozilla.org/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Algorithmic Art by Tyler Hobbs",
+        "url": "http://www.tylerlhobbs.com/writings",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Perf Matters Conference",
+        "url": "https://perfmattersconf.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Slow TV",
+        "url": "https://www.netflix.com/title/80119525",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Surface Book 2",
+        "url": "https://www.microsoft.com/en-us/surface/devices/surface-book-2/overview",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Castro",
+        "url": "http://supertop.co/castro/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "try! Swift",
+        "url": "https://www.tryswift.co/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Babel",
+        "url": "https://babeljs.io/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Henry Zhu",
+        "url": "https://twitter.com/left_pad",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Webpack",
+        "url": "https://webpack.js.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Parcel",
+        "url": "https://parceljs.org/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "SFO",
+        "url": "https://github.com/btholt/sfo",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "SFO",
+        "url": "https://github.com/btholt/sfo",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "047 - Speak(easy)",
     "published": "November 26, 2017",
     "picks": [

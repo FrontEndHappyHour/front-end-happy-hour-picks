@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 048 - Toast to a new year
+Published: December 18, 2017
+- [2018 Conferences](https://github.com/ryanburgess/2018-conferences) - Ryan Burgess
+- [Kevin Marr](https://www.instagram.com/kevinmarr_horikema/) - Ryan Burgess
+- [Mozilla Voice Project](https://voice.mozilla.org/) - Augustus Yuan
+- [Algorithmic Art by Tyler Hobbs](http://www.tylerlhobbs.com/writings) - Augustus Yuan
+- [Perf Matters Conference](https://perfmattersconf.com/) - Jem Young
+- [Slow TV](https://www.netflix.com/title/80119525) - Jem Young
+- [Surface Book 2](https://www.microsoft.com/en-us/surface/devices/surface-book-2/overview) - Jem Young
+- [Castro](http://supertop.co/castro/) - Derrick Showers
+- [try! Swift](https://www.tryswift.co/) - Derrick Showers
+- [Babel](https://babeljs.io/) - Brian Holt
+- [Henry Zhu](https://twitter.com/left_pad) - Brian Holt
+- [Webpack](https://webpack.js.org/) - Brian Holt
+- [Parcel](https://parceljs.org/) - Brian Holt
+- [SFO](https://github.com/btholt/sfo) - Brian Holt
+- [SFO](https://github.com/btholt/sfo) - Brian Holt
+
+
 ## Episode 047 - Speak(easy)
 Published: November 26, 2017
 - [Obey Giant Documentary](https://www.hulu.com/watch/1170629) - Ryan Burgess
