@@ -1,6 +1,30 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 049 - Independent taste testing
+Published: January 21, 2018
+- [Bubblesort Zines](https://shop.bubblesort.io/) - Shirley Wu
+- [Coding like a girl by Amy Wibowo](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) - Shirley Wu
+- [OpenVis Conf](http://www.openvisconf.com/) - Shirley Wu
+- [Kimi No Na Wa (Your name)](https://www.rottentomatoes.com/m/your_name_2017/) - Shirley Wu
+- [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533) - Amy Wibowo
+- [ConferCal](http://www.confercal.com/) - Ryan Burgess
+- [Black Mirror Season 4](https://www.netflix.com/title/70264888) - Ryan Burgess
+- [Smog Free Tower](https://www.studioroosegaarde.net/project/smog-free-tower) - Augustus Yuan
+- [Speedometer 2.0](http://browserbench.org/Speedometer2.0/) - Augustus Yuan
+- [Cowarobot](http://www.cowarobot.com/) - Jem Young
+- [Code Problems](http://www.techiedelight.com/) - Jem Young
+- [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Jem Young
+- [Gramercy Tavern](https://www.gramercytavern.com/) - Derrick Showers
+- [My Next Guest Needs No Introduction With David Letterman](https://www.netflix.com/title/80209096) - Derrick Showers
+- [Creating a Vue.js Serverless Checkout Form: Setup and Testing](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/) - Brian Holt
+- [Bussed out - How America moves its homeless](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study) - Brian Holt
+- [5 Things Episode 1: Five Things About Create React App](https://www.youtube.com/watch?v=9t2GWFegnkQ) - Brian Holt
+- [Git it gurl from BubbleSort Zines from Amy!](https://shop.bubblesort.io/products/git-it-gurl-shirt?variant=37201321537) - Stacy London
+- [Change the Paradigm by Austra](https://open.spotify.com/track/5a98u76nZcFgGrejxnh3LV) - Stacy London
+- [World of Tomorrow Episode Two: The Burden of Other People's Thoughts by Don Hertzfeldt](https://vimeo.com/ondemand/worldoftomorrow2) - Stacy London
+
+
 ## Episode 048 - Toast to a new year
 Published: December 18, 2017
 - [2018 Conferences](https://github.com/ryanburgess/2018-conferences) - Ryan Burgess

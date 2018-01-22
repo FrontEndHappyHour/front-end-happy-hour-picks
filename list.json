@@ -1,5 +1,111 @@
 [
   {
+    "episode": "049 - Independent taste testing",
+    "published": "January 21, 2018",
+    "picks": [
+      {
+        "title": "Bubblesort Zines",
+        "url": "https://shop.bubblesort.io/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Coding like a girl by Amy Wibowo",
+        "url": "https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "OpenVis Conf",
+        "url": "http://www.openvisconf.com/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Kimi No Na Wa (Your name)",
+        "url": "https://www.rottentomatoes.com/m/your_name_2017/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "The Hate U Give",
+        "url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533",
+        "from": "Amy Wibowo"
+      },
+      {
+        "title": "ConferCal",
+        "url": "http://www.confercal.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Black Mirror Season 4",
+        "url": "https://www.netflix.com/title/70264888",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Smog Free Tower",
+        "url": "https://www.studioroosegaarde.net/project/smog-free-tower",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Speedometer 2.0",
+        "url": "http://browserbench.org/Speedometer2.0/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Cowarobot",
+        "url": "http://www.cowarobot.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Code Problems",
+        "url": "http://www.techiedelight.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Babel Time Travel",
+        "url": "https://babel-time-travel.boopathi.in/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Gramercy Tavern",
+        "url": "https://www.gramercytavern.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "My Next Guest Needs No Introduction With David Letterman",
+        "url": "https://www.netflix.com/title/80209096",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Creating a Vue.js Serverless Checkout Form: Setup and Testing",
+        "url": "https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Bussed out - How America moves its homeless",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "5 Things Episode 1: Five Things About Create React App",
+        "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Git it gurl from BubbleSort Zines from Amy!",
+        "url": "https://shop.bubblesort.io/products/git-it-gurl-shirt?variant=37201321537",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Change the Paradigm by Austra",
+        "url": "https://open.spotify.com/track/5a98u76nZcFgGrejxnh3LV",
+        "from": "Stacy London"
+      },
+      {
+        "title": "World of Tomorrow Episode Two: The Burden of Other People's Thoughts by Don Hertzfeldt",
+        "url": "https://vimeo.com/ondemand/worldoftomorrow2",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "048 - Toast to a new year",
     "published": "December 18, 2017",
     "picks": [
