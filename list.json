@@ -1,5 +1,142 @@
 [
   {
+    "episode": "051 - Gin and toxic culture",
+    "published": "February 18, 2018",
+    "picks": [
+      {
+        "title": "Altered Carbon",
+        "url": "https://www.netflix.com/title/80097140",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Framework Summit",
+        "url": "https://www.frameworksummit.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Year in Pixels",
+        "url": "https://year-in-pixels.glitch.me/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Haven",
+        "url": "https://github.com/guardianproject/haven",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Uphill Conf",
+        "url": "https://uphillconf.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Bitcoin",
+        "url": "https://bitcoin.org",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Grand Tour",
+        "url": "https://www.amazon.com/dp/B01J94A5GQ",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "The noun project",
+        "url": "https://thenounproject.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Carbon.now.sh",
+        "url": "https://carbon.now.sh/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Sunder by Nathan Fake",
+        "url": "https://nathanfake.bandcamp.com/album/sunder",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "050 - Angling for a drink",
+    "published": "February 5, 2018",
+    "picks": [
+      {
+        "title": "Zackary Chapple",
+        "url": "https://twitter.com/ZChapple",
+        "from": "Aimee Knight"
+      },
+      {
+        "title": "What does code readability mean?",
+        "url": "http://typicalprogrammer.com/what-does-code-readability-mean",
+        "from": "Aimee Knight"
+      },
+      {
+        "title": "BCAA - Gummy Worm",
+        "url": "https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91",
+        "from": "Aimee Knight"
+      },
+      {
+        "title": "Code: Debugging the gender gap",
+        "url": "https://www.netflix.com/title/80130565",
+        "from": "Simona Cotin"
+      },
+      {
+        "title": "CodeBar",
+        "url": "https://codebar.io/",
+        "from": "Simona Cotin"
+      },
+      {
+        "title": "Readable Code",
+        "url": "http://typicalprogrammer.com/what-does-code-readability-mean",
+        "from": "John Papa"
+      },
+      {
+        "title": "The Greatest Showman",
+        "url": "http://www.imdb.com/title/tt1485796/",
+        "from": "John Papa"
+      },
+      {
+        "title": "The Power of Full Engagement",
+        "url": "https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS",
+        "from": "April Wensel"
+      },
+      {
+        "title": "The Beyond Burger",
+        "url": "http://beyondmeat.com/products/view/beyond-burger",
+        "from": "April Wensel"
+      },
+      {
+        "title": "Viva La Vegan",
+        "url": "https://www.yelp.com/biz/viva-la-vegan-atlanta",
+        "from": "April Wensel"
+      },
+      {
+        "title": "Dark",
+        "url": "https://www.netflix.com/title/80100172",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ng-Atlanta",
+        "url": "http://ng-atl.org/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Harry Wolff - The Console Log",
+        "url": "https://www.youtube.com/watch?v=CjPs6cGnoIQ&list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Neat Beats - Cosmic Surgery",
+        "url": "https://open.spotify.com/album/0zlLi9xAKvF6fDVIW4XZbJ",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Flamethrower",
+        "url": "https://www.theverge.com/2018/2/2/16966338/elon-musk-boring-company-flamethrower-renamed-customs-scrutiny",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "049 - Independent taste testing",
     "published": "January 21, 2018",
     "picks": [

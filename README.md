@@ -1,6 +1,39 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 051 - Gin and toxic culture
+Published: February 18, 2018
+- [Altered Carbon](https://www.netflix.com/title/80097140) - Ryan Burgess
+- [Framework Summit](https://www.frameworksummit.com/) - Ryan Burgess
+- [Year in Pixels](https://year-in-pixels.glitch.me/) - Augustus Yuan
+- [Haven](https://github.com/guardianproject/haven) - Augustus Yuan
+- [Uphill Conf](https://uphillconf.com/) - Jem Young
+- [Bitcoin](https://bitcoin.org) - Jem Young
+- [The Grand Tour](https://www.amazon.com/dp/B01J94A5GQ) - Mars Jullian
+- [The noun project](https://thenounproject.com/) - Mars Jullian
+- [Carbon.now.sh](https://carbon.now.sh/) - Stacy London
+- [Sunder by Nathan Fake](https://nathanfake.bandcamp.com/album/sunder) - Stacy London
+
+
+## Episode 050 - Angling for a drink
+Published: February 5, 2018
+- [Zackary Chapple](https://twitter.com/ZChapple) - Aimee Knight
+- [What does code readability mean?](http://typicalprogrammer.com/what-does-code-readability-mean) - Aimee Knight
+- [BCAA - Gummy Worm](https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91) - Aimee Knight
+- [Code: Debugging the gender gap](https://www.netflix.com/title/80130565) - Simona Cotin
+- [CodeBar](https://codebar.io/) - Simona Cotin
+- [Readable Code](http://typicalprogrammer.com/what-does-code-readability-mean) - John Papa
+- [The Greatest Showman](http://www.imdb.com/title/tt1485796/) - John Papa
+- [The Power of Full Engagement](https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS) - April Wensel
+- [The Beyond Burger](http://beyondmeat.com/products/view/beyond-burger) - April Wensel
+- [Viva La Vegan](https://www.yelp.com/biz/viva-la-vegan-atlanta) - April Wensel
+- [Dark](https://www.netflix.com/title/80100172) - Ryan Burgess
+- [Ng-Atlanta](http://ng-atl.org/) - Ryan Burgess
+- [Harry Wolff - The Console Log](https://www.youtube.com/watch?v=CjPs6cGnoIQ&list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc) - Jem Young
+- [Neat Beats - Cosmic Surgery](https://open.spotify.com/album/0zlLi9xAKvF6fDVIW4XZbJ) - Jem Young
+- [Flamethrower](https://www.theverge.com/2018/2/2/16966338/elon-musk-boring-company-flamethrower-renamed-customs-scrutiny) - Jem Young
+
+
 ## Episode 049 - Independent taste testing
 Published: January 21, 2018
 - [Bubblesort Zines](https://shop.bubblesort.io/) - Shirley Wu
