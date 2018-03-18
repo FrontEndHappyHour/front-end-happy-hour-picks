@@ -1,5 +1,10 @@
 [
   {
+    "episode": "052 - Looking Forward to a drink",
+    "published": "March 4, 2018",
+    "picks": []
+  },
+  {
     "episode": "051 - Gin and toxic culture",
     "published": "February 18, 2018",
     "picks": [
@@ -309,11 +314,6 @@
       {
         "title": "Parcel",
         "url": "https://parceljs.org/",
-        "from": "Brian Holt"
-      },
-      {
-        "title": "SFO",
-        "url": "https://github.com/btholt/sfo",
         "from": "Brian Holt"
       },
       {

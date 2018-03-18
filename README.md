@@ -1,6 +1,10 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 052 - Looking Forward to a drink
+Published: March 4, 2018
+
+
 ## Episode 051 - Gin and toxic culture
 Published: February 18, 2018
 - [Altered Carbon](https://www.netflix.com/title/80097140) - Ryan Burgess
@@ -73,7 +77,6 @@ Published: December 18, 2017
 - [Henry Zhu](https://twitter.com/left_pad) - Brian Holt
 - [Webpack](https://webpack.js.org/) - Brian Holt
 - [Parcel](https://parceljs.org/) - Brian Holt
-- [SFO](https://github.com/btholt/sfo) - Brian Holt
 - [SFO](https://github.com/btholt/sfo) - Brian Holt
 
 
