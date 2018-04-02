@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 053 - Bar-tending to your codebase
+Published: March 18, 2018
+- [Flavors of Engineering management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/) - Augustus Yuan
+- [Thanks (github)](https://github.com/feross/thanks) - Augustus Yuan
+- [Sealab 2021](http://www.imdb.com/title/tt0278877/) - Jem Young
+- [Four Semesters of CS Part II](https://frontendmasters.com/workshops/computer-science-v2/) - Jem Young
+- [Petro](https://en.wikipedia.org/wiki/Petro_(cryptocurrency)) - Jem Young
+- [Twenty Thousand Hertz](https://www.20k.org/) - Derrick Showers
+- [Timbuk2](https://www.timbuk2.com/) - Derrick Showers
+- [Master of None](https://www.netflix.com/title/80049714) - Derrick Showers
+- [Luis.ai](https://www.luis.ai/) - Brian Holt
+- [Full Stack 2 on Frontend Masters](https://frontendmasters.com/workshops/full-stack-front-ends-part-2/) - Brian Holt
+- [Second Career Devs w/ Madison Kanna](https://secondcareerdevs.com/episodes/madison-kanna) - Brian Holt
+- [Lovesick](https://www.netflix.com/title/80041601) - Mars Jullian
+- [Inside Dev newsletter](https://inside.com/dev) - Mars Jullian
+- [Unfolding by Rival Consoles](https://open.spotify.com/track/6ZEZULYpOIcgGW1pHn4Hn9?si=SLjkT6svQLyQKuzWDWJr5g) - Stacy London
+- [Git for Humans by David Demaree](https://abookapart.com/products/git-for-humans) - Stacy London
+
+
 ## Episode 052 - Looking Forward to a drink
 Published: March 4, 2018
 

@@ -1,5 +1,86 @@
 [
   {
+    "episode": "053 - Bar-tending to your codebase",
+    "published": "March 18, 2018",
+    "picks": [
+      {
+        "title": "Flavors of Engineering management",
+        "url": "http://blog.benjamin-encz.de/post/flavors-of-engineering-management/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Thanks (github)",
+        "url": "https://github.com/feross/thanks",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Sealab 2021",
+        "url": "http://www.imdb.com/title/tt0278877/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Four Semesters of CS Part II",
+        "url": "https://frontendmasters.com/workshops/computer-science-v2/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Petro",
+        "url": "https://en.wikipedia.org/wiki/Petro_(cryptocurrency)",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Twenty Thousand Hertz",
+        "url": "https://www.20k.org/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Timbuk2",
+        "url": "https://www.timbuk2.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Master of None",
+        "url": "https://www.netflix.com/title/80049714",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Luis.ai",
+        "url": "https://www.luis.ai/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Full Stack 2 on Frontend Masters",
+        "url": "https://frontendmasters.com/workshops/full-stack-front-ends-part-2/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Second Career Devs w/ Madison Kanna",
+        "url": "https://secondcareerdevs.com/episodes/madison-kanna",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Lovesick",
+        "url": "https://www.netflix.com/title/80041601",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Inside Dev newsletter",
+        "url": "https://inside.com/dev",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Unfolding by Rival Consoles",
+        "url": "https://open.spotify.com/track/6ZEZULYpOIcgGW1pHn4Hn9?si=SLjkT6svQLyQKuzWDWJr5g",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Git for Humans by David Demaree",
+        "url": "https://abookapart.com/products/git-for-humans",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "052 - Looking Forward to a drink",
     "published": "March 4, 2018",
     "picks": []
