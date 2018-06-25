@@ -1,6 +1,74 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 059 - A/B testing - Ale or Bourbon?
+Published: June 10, 2018
+- [Ali Wong: Hard Knock Wife](https://www.netflix.com/title/80186940) - Lisa Burgess
+- [Safe](https://www.netflix.com/title/80240177) - Ryan Burgess
+- [Hiya](https://hiya.com/) - Ryan Burgess
+- [The Pudding - Stand Up](https://pudding.cool/2018/02/stand-up/) - Augustus Yuan
+- [NYC Buildings](https://tbaldw.in/nyc-buildings/) - Augustus Yuan
+- [Syre](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) - Jem Young
+- [American Hero](https://www.netflix.com/title/80081379) - Jem Young
+
+
+## Episode 058 - User testing - Even a drunk person can do it
+Published: May 28, 2018
+- [3M Command Strips](https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48) - Ryan Burgess
+- [Sonos speakers](https://www.sonos.com/) - Ryan Burgess
+- [Talk to Books](https://books.google.com/talktobooks/) - Augustus Yuan
+- [Pocket Developer Dice](https://pretendstore.co/products/pocket-developer) - Augustus Yuan
+- [The Little Prince](https://www.netflix.com/title/80057578) - Jem Young
+- [Slack incubator](https://slack.com/developers/fund) - Jem Young
+
+
+## Episode 057 - Falcor - Modeling our drinks
+Published: April 13, 2018
+- [IPFS](https://www.sitepoint.com/http-vs-ipfs-is-peer-to-peer-sharing-the-future-of-the-web/) - Anup Bishnoi
+- [Everything Sucks](https://www.netflix.com/title/80117551) - Anup Bishnoi
+- [The Daily](https://www.nytimes.com/podcasts/the-daily) - Anup Bishnoi
+- [Up Next](https://itunes.apple.com/us/app/up-next/id1355117041?ls=1&mt=12) - Ryan Burgess
+- [Electron](https://electronjs.org/) - Ryan Burgess
+- [Comply Ear Plugs](https://www.complyfoam.com/) - Jem Young
+- [Jarv Nmotion ear buds](https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6) - Jem Young
+- [Fastest Car](https://www.netflix.com/title/80190009) - Jem Young
+- [Orphan Master’s Son](https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622) - Ryan Anklam
+- [Barkley Marathons - The Race that Eats its Young](http://barkleymovie.com/) - Ryan Anklam
+
+
+## Episode 056 - Drink-a-thon onstage at Reactathon
+Published: April 29, 2018
+
+
+## Episode 055 - A mixologist's tools
+Published: April 16, 2018
+- [Dark - Frontend Engineer](https://darklang.com/) - Ellen Chisa
+- [SkeletonCSS](http://getskeleton.com/) - Ellen Chisa
+- [Manual.is](http://www.manual.is/) - Ellen Chisa
+- [Soapbox](https://wistia.com/soapbox) - Ryan Burgess
+- [Tales from the Script](http://www.tftscript.com/ab5b259e) - Ryan Burgess
+- [NPM Compare](https://npmcompare.com/) - Jem Young
+- [Raw Water](https://www.vox.com/science-and-health/2018/1/4/16846048/raw-water-trend-silicon-valley) - Jem Young
+- [Texture](https://www.texture.com/) - Mars Jullian
+- [PseudoLocalizer](https://chrome.google.com/webstore/detail/pseudolocalizer/cemecdhgfjmgndjdnlofnenhiekppnep) - Mars Jullian
+- [Bolt](http://boltpkg.com/) - Stacy London
+- [Emerald Rush by Jon Hopkins](https://open.spotify.com/track/5Pw45Vda5KA0kHxxMR8wRM?si=V-dQ06XzR1i1v3BwUSMlFg) - Stacy London
+
+
+## Episode 054 - Wasted on Elm
+Published: April 1, 2018
+- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Richard Feldman
+- [Richard Feldman: CSS as Bytecode](https://www.youtube.com/watch?v=bt1TzVngOqY) - Richard Feldman
+- [Elm Town](https://elmtown.audio/) - Richard Feldman
+- [Absentia](https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y) - Ryan Burgess
+- [Seven Seconds](https://www.netflix.com/title/80117555) - Ryan Burgess
+- [Workbox](https://github.com/GoogleChrome/workbox) - Augustus Yuan
+- [Evernote Spaces](http://evernote.com/spaces) - Augustus Yuan
+- [Secret of Mana](https://store.playstation.com/en-us/product/UP0082-CUSA09565_00-SECRETOFMANAPS40) - Brian Holt
+- [Kubo and the Two Strings](https://www.youtube.com/watch?v=9nSSk7spa2M&feature=youtu.be) - Stacy London
+- [Fever Ray’s new album Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC?si=369DuRroTkmvWNdU12W2IQ) - Stacy London
+
+
 ## Episode 053 - Bar-tending to your codebase
 Published: March 18, 2018
 - [Flavors of Engineering management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/) - Augustus Yuan

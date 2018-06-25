@@ -1,5 +1,260 @@
 [
   {
+    "episode": "059 - A/B testing - Ale or Bourbon?",
+    "published": "June 10, 2018",
+    "picks": [
+      {
+        "title": "Ali Wong: Hard Knock Wife",
+        "url": "https://www.netflix.com/title/80186940",
+        "from": "Lisa Burgess"
+      },
+      {
+        "title": "Safe",
+        "url": "https://www.netflix.com/title/80240177",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Hiya",
+        "url": "https://hiya.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Pudding - Stand Up",
+        "url": "https://pudding.cool/2018/02/stand-up/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "NYC Buildings",
+        "url": "https://tbaldw.in/nyc-buildings/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Syre",
+        "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E",
+        "from": "Jem Young"
+      },
+      {
+        "title": "American Hero",
+        "url": "https://www.netflix.com/title/80081379",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "058 - User testing - Even a drunk person can do it",
+    "published": "May 28, 2018",
+    "picks": [
+      {
+        "title": "3M Command Strips",
+        "url": "https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Sonos speakers",
+        "url": "https://www.sonos.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Talk to Books",
+        "url": "https://books.google.com/talktobooks/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Pocket Developer Dice",
+        "url": "https://pretendstore.co/products/pocket-developer",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "The Little Prince",
+        "url": "https://www.netflix.com/title/80057578",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Slack incubator",
+        "url": "https://slack.com/developers/fund",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "057 - Falcor - Modeling our drinks",
+    "published": "April 13, 2018",
+    "picks": [
+      {
+        "title": "IPFS",
+        "url": "https://www.sitepoint.com/http-vs-ipfs-is-peer-to-peer-sharing-the-future-of-the-web/",
+        "from": "Anup Bishnoi"
+      },
+      {
+        "title": "Everything Sucks",
+        "url": "https://www.netflix.com/title/80117551",
+        "from": "Anup Bishnoi"
+      },
+      {
+        "title": "The Daily",
+        "url": "https://www.nytimes.com/podcasts/the-daily",
+        "from": "Anup Bishnoi"
+      },
+      {
+        "title": "Up Next",
+        "url": "https://itunes.apple.com/us/app/up-next/id1355117041?ls=1&mt=12",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Electron",
+        "url": "https://electronjs.org/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Comply Ear Plugs",
+        "url": "https://www.complyfoam.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Jarv Nmotion ear buds",
+        "url": "https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Fastest Car",
+        "url": "https://www.netflix.com/title/80190009",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Orphan Master’s Son",
+        "url": "https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Barkley Marathons - The Race that Eats its Young",
+        "url": "http://barkleymovie.com/",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
+    "episode": "056 - Drink-a-thon onstage at Reactathon",
+    "published": "April 29, 2018",
+    "picks": []
+  },
+  {
+    "episode": "055 - A mixologist's tools",
+    "published": "April 16, 2018",
+    "picks": [
+      {
+        "title": "Dark - Frontend Engineer",
+        "url": "https://darklang.com/",
+        "from": "Ellen Chisa"
+      },
+      {
+        "title": "SkeletonCSS",
+        "url": "http://getskeleton.com/",
+        "from": "Ellen Chisa"
+      },
+      {
+        "title": "Manual.is",
+        "url": "http://www.manual.is/",
+        "from": "Ellen Chisa"
+      },
+      {
+        "title": "Soapbox",
+        "url": "https://wistia.com/soapbox",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Tales from the Script",
+        "url": "http://www.tftscript.com/ab5b259e",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "NPM Compare",
+        "url": "https://npmcompare.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Raw Water",
+        "url": "https://www.vox.com/science-and-health/2018/1/4/16846048/raw-water-trend-silicon-valley",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Texture",
+        "url": "https://www.texture.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "PseudoLocalizer",
+        "url": "https://chrome.google.com/webstore/detail/pseudolocalizer/cemecdhgfjmgndjdnlofnenhiekppnep",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Bolt",
+        "url": "http://boltpkg.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Emerald Rush by Jon Hopkins",
+        "url": "https://open.spotify.com/track/5Pw45Vda5KA0kHxxMR8wRM?si=V-dQ06XzR1i1v3BwUSMlFg",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "054 - Wasted on Elm",
+    "published": "April 1, 2018",
+    "picks": [
+      {
+        "title": "Predictably Irrational",
+        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
+        "from": "Richard Feldman"
+      },
+      {
+        "title": "Richard Feldman: CSS as Bytecode",
+        "url": "https://www.youtube.com/watch?v=bt1TzVngOqY",
+        "from": "Richard Feldman"
+      },
+      {
+        "title": "Elm Town",
+        "url": "https://elmtown.audio/",
+        "from": "Richard Feldman"
+      },
+      {
+        "title": "Absentia",
+        "url": "https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Seven Seconds",
+        "url": "https://www.netflix.com/title/80117555",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Workbox",
+        "url": "https://github.com/GoogleChrome/workbox",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Evernote Spaces",
+        "url": "http://evernote.com/spaces",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Secret of Mana",
+        "url": "https://store.playstation.com/en-us/product/UP0082-CUSA09565_00-SECRETOFMANAPS40",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Kubo and the Two Strings",
+        "url": "https://www.youtube.com/watch?v=9nSSk7spa2M&feature=youtu.be",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Fever Ray’s new album Plunge",
+        "url": "https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC?si=369DuRroTkmvWNdU12W2IQ",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "053 - Bar-tending to your codebase",
     "published": "March 18, 2018",
     "picks": [
