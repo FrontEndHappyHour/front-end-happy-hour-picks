@@ -1,5 +1,117 @@
 [
   {
+    "episode": "061 - Build tooling - brewing complex bundles",
+    "published": "July 8, 2018",
+    "picks": [
+      {
+        "title": "Queer Eye",
+        "url": "https://www.netflix.com/title/80160037",
+        "from": "Jamie Kyle"
+      },
+      {
+        "title": "The Break with Michelle Wolf",
+        "url": "https://www.netflix.com/title/80239459",
+        "from": "Maia Teegarden"
+      },
+      {
+        "title": "Wild Wild Country",
+        "url": "https://www.netflix.com/title/80145240",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Rise Against - House on Fire",
+        "url": "https://open.spotify.com/track/1dxtwB6QHEZoTzw0GBMisa?si=fp7OOOAZTRSOXXbFFkLUZw",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "AllBirds Tree Runners",
+        "url": "https://www.allbirds.com/products/mens-tree-runners",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Figma",
+        "url": "https://www.figma.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Horizon - Poolside Remix by Tycho, Poolside",
+        "url": "https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp?si=9LJJPCO2SkiK_6fAih-P1g",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Echospace Island by Robert Babicz (Bab-itch)",
+        "url": "https://open.spotify.com/track/6X94jPitFlcpz6qTUQzZvi?si=WTvSWMt-TDKk3Kc04mvbog",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "060 - Shots to growlers - finding the right size drink",
+    "published": "June 24, 2018",
+    "picks": [
+      {
+        "title": "Team Lab",
+        "url": "https://www.teamlab.art/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Kubernetes",
+        "url": "https://kubernetes.io/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Evil Genius",
+        "url": "https://www.netflix.com/title/80158319",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Model Zoo",
+        "url": "https://modelzoo.co/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Human Benchark",
+        "url": "https://www.humanbenchmark.com/tests/reactiontime/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Google Doubleclick Mozilla",
+        "url": "http://yuhongbao.blogspot.com/2018/04/google-doubleclick-mozilla-essay-final.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Strong Web",
+        "url": "https://thestrongweb.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hiya",
+        "url": "https://hiya.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Explained on Netflix",
+        "url": "https://www.netflix.com/title/80216752",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "CSS Conf - Laura Schneck algorithms of CSS talk",
+        "url": "https://notlaura.com/algorithms-of-css-sources/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "JS Conf EU - Beaker browser by Tara Vancil",
+        "url": "http://jsconfeu-taravancil.hashbase.io/slides.pdf",
+        "from": "Stacy London"
+      },
+      {
+        "title": "JS Conf EU - Empathy driven development by Marcy Sutton",
+        "url": "https://youtu.be/l95VFLj3e2w",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "059 - A/B testing - Ale or Bourbon?",
     "published": "June 10, 2018",
     "picks": [

@@ -1,6 +1,34 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 061 - Build tooling - brewing complex bundles
+Published: July 8, 2018
+- [Queer Eye](https://www.netflix.com/title/80160037) - Jamie Kyle
+- [The Break with Michelle Wolf](https://www.netflix.com/title/80239459) - Maia Teegarden
+- [Wild Wild Country](https://www.netflix.com/title/80145240) - Ryan Burgess
+- [Rise Against - House on Fire](https://open.spotify.com/track/1dxtwB6QHEZoTzw0GBMisa?si=fp7OOOAZTRSOXXbFFkLUZw) - Ryan Burgess
+- [AllBirds Tree Runners](https://www.allbirds.com/products/mens-tree-runners) - Augustus Yuan
+- [Figma](https://www.figma.com/) - Augustus Yuan
+- [Horizon - Poolside Remix by Tycho, Poolside](https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp?si=9LJJPCO2SkiK_6fAih-P1g) - Stacy London
+- [Echospace Island by Robert Babicz (Bab-itch)](https://open.spotify.com/track/6X94jPitFlcpz6qTUQzZvi?si=WTvSWMt-TDKk3Kc04mvbog) - Stacy London
+
+
+## Episode 060 - Shots to growlers - finding the right size drink
+Published: June 24, 2018
+- [Team Lab](https://www.teamlab.art/) - Shirley Wu
+- [Kubernetes](https://kubernetes.io/) - Brian Holt
+- [Evil Genius](https://www.netflix.com/title/80158319) - Ryan Burgess
+- [Model Zoo](https://modelzoo.co/) - Augustus Yuan
+- [Human Benchark](https://www.humanbenchmark.com/tests/reactiontime/) - Augustus Yuan
+- [Google Doubleclick Mozilla](http://yuhongbao.blogspot.com/2018/04/google-doubleclick-mozilla-essay-final.html) - Jem Young
+- [The Strong Web](https://thestrongweb.com/) - Jem Young
+- [Hiya](https://hiya.com/) - Mars Jullian
+- [Explained on Netflix](https://www.netflix.com/title/80216752) - Mars Jullian
+- [CSS Conf - Laura Schneck algorithms of CSS talk](https://notlaura.com/algorithms-of-css-sources/) - Stacy London
+- [JS Conf EU - Beaker browser by Tara Vancil](http://jsconfeu-taravancil.hashbase.io/slides.pdf) - Stacy London
+- [JS Conf EU - Empathy driven development by Marcy Sutton](https://youtu.be/l95VFLj3e2w) - Stacy London
+
+
 ## Episode 059 - A/B testing - Ale or Bourbon?
 Published: June 10, 2018
 - [Ali Wong: Hard Knock Wife](https://www.netflix.com/title/80186940) - Lisa Burgess
