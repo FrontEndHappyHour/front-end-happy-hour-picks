@@ -1,5 +1,46 @@
 [
   {
+    "episode": "062 - Web Components - Shots of shadow dom",
+    "published": "July 22, 2018",
+    "picks": [
+      {
+        "title": "Muzzle App",
+        "url": "https://muzzleapp.com/",
+        "from": "Ravi Srinivas"
+      },
+      {
+        "title": "Osaka, Japan",
+        "url": "https://en.wikipedia.org/wiki/Osaka",
+        "from": "Erick Purino"
+      },
+      {
+        "title": "The Gaslight Anthem - God’s Gonna Cut You Down",
+        "url": "https://open.spotify.com/track/6cvP3wZCKR7OArNNhjsU8w?si=YPtUo3ACSkq6uVW5U9TuWw",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Nest + Yale Smart Lock",
+        "url": "https://nest.com/lock/nest-yale-lock-key-free-smart-lock/overview/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Valley Silicon: Dyson Fans",
+        "url": "https://www.dyson.com/fans-and-heaters/dyson-cool-overview.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Jak Jones - Breath",
+        "url": "https://open.spotify.com/track/0KsB4TwgATg88aXCMBoO3Y?si=DFT108WWTl2z0aezqmxMTw",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Nativefier",
+        "url": "https://github.com/jiahaog/nativefier",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
     "episode": "061 - Build tooling - brewing complex bundles",
     "published": "July 8, 2018",
     "picks": [

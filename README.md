@@ -1,6 +1,17 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 062 - Web Components - Shots of shadow dom
+Published: July 22, 2018
+- [Muzzle App](https://muzzleapp.com/) - Ravi Srinivas
+- [Osaka, Japan](https://en.wikipedia.org/wiki/Osaka) - Erick Purino
+- [The Gaslight Anthem - God’s Gonna Cut You Down](https://open.spotify.com/track/6cvP3wZCKR7OArNNhjsU8w?si=YPtUo3ACSkq6uVW5U9TuWw) - Ryan Burgess
+- [Nest + Yale Smart Lock](https://nest.com/lock/nest-yale-lock-key-free-smart-lock/overview/) - Ryan Burgess
+- [Valley Silicon: Dyson Fans](https://www.dyson.com/fans-and-heaters/dyson-cool-overview.html) - Jem Young
+- [Jak Jones - Breath](https://open.spotify.com/track/0KsB4TwgATg88aXCMBoO3Y?si=DFT108WWTl2z0aezqmxMTw) - Ryan Anklam
+- [Nativefier](https://github.com/jiahaog/nativefier) - Ryan Anklam
+
+
 ## Episode 061 - Build tooling - brewing complex bundles
 Published: July 8, 2018
 - [Queer Eye](https://www.netflix.com/title/80160037) - Jamie Kyle
