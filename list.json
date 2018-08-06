@@ -1,5 +1,66 @@
 [
   {
+    "episode": "063 - IoT - Internet of Tequila",
+    "published": "August 5, 2018",
+    "picks": [
+      {
+        "title": "Twenty Thousand Hertz podcast",
+        "url": "https://www.20k.org/episodes/dolls",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "D’cappella",
+        "url": "https://www.youtube.com/watch?v=1wRW8eh6hGI",
+        "from": "Sarah Showers"
+      },
+      {
+        "title": "Hannah Gadsby: Nanette",
+        "url": "https://www.netflix.com/title/80233611",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Amazing Interiors",
+        "url": "https://www.netflix.com/title/80184067",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Hoover Cordless",
+        "url": "https://www.amazon.com/gp/product/B01KWZECOM",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Battletech",
+        "url": "https://store.steampowered.com/app/637090/BATTLETECH/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Medium Raw by Anthony Bourdain",
+        "url": "https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Three identical strangers",
+        "url": "http://www.threeidenticalstrangers.com/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "NYC",
+        "url": "https://en.wikipedia.org/wiki/New_York_City",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Amazing Hotels: life beyond the lobby",
+        "url": "https://www.netflix.com/title/80212125",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "SureFeed microchip pet feeder",
+        "url": "https://www.surepetcare.com/en-us/pet-feeder/microchip-pet-feeder",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "062 - Web Components - Shots of shadow dom",
     "published": "July 22, 2018",
     "picks": [

@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 063 - IoT - Internet of Tequila
+Published: August 5, 2018
+- [Twenty Thousand Hertz podcast](https://www.20k.org/episodes/dolls) - Sarah Showers
+- [D’cappella](https://www.youtube.com/watch?v=1wRW8eh6hGI) - Sarah Showers
+- [Hannah Gadsby: Nanette](https://www.netflix.com/title/80233611) - Ryan Burgess
+- [Amazing Interiors](https://www.netflix.com/title/80184067) - Ryan Burgess
+- [Hoover Cordless](https://www.amazon.com/gp/product/B01KWZECOM) - Jem Young
+- [Battletech](https://store.steampowered.com/app/637090/BATTLETECH/) - Jem Young
+- [Medium Raw by Anthony Bourdain](https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/) - Derrick Showers
+- [Three identical strangers](http://www.threeidenticalstrangers.com/) - Derrick Showers
+- [NYC](https://en.wikipedia.org/wiki/New_York_City) - Derrick Showers
+- [Amazing Hotels: life beyond the lobby](https://www.netflix.com/title/80212125) - Mars Jullian
+- [SureFeed microchip pet feeder](https://www.surepetcare.com/en-us/pet-feeder/microchip-pet-feeder) - Mars Jullian
+
+
 ## Episode 062 - Web Components - Shots of shadow dom
 Published: July 22, 2018
 - [Muzzle App](https://muzzleapp.com/) - Ravi Srinivas
