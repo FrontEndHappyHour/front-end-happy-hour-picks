@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 064 - Librations - JavaScript libraries
+Published: August 19, 2018
+- [Cleanshot](https://producthunt.com/posts/cleanshot) - Ryan Burgess
+- [So You Want To Talk About Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776) - Ryan Burgess
+- [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Jem Young
+- [Warframe](https://www.warframe.com) - Jem Young
+- [Chicken Diapers](https://theoutline.com/post/5608/bury-me-in-chicken-diapers?zd=3&zi=wru4qzuh) - Jem Young
+- [Itty Bitty](https://www.theverge.com/2018/7/5/17538474/itty-bitty-site-self-contained-websites-urls-open-web) - Stacy London
+- [Dust by Nicolas Bougaïeff](https://soundcloud.com/nicolasbougaieff/nicolas-bougaieff-dust-mesh008) - Stacy London
+- [Dust - Max Cooper Remix](https://open.spotify.com/track/4VoybEhsh9PVbqkQpdHrVk?si=q3frYAB_QNOgNFBe5UrZRg) - Stacy London
+
+
 ## Episode 063 - IoT - Internet of Tequila
 Published: August 5, 2018
 - [Twenty Thousand Hertz podcast](https://www.20k.org/episodes/dolls) - Sarah Showers
