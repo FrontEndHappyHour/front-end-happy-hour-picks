@@ -1,6 +1,36 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 066 - Type systems - a static drink list
+Published: September 16, 2018
+- [Marvel's Spider-Man](https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSPIDERMAN) - Lauren Tan
+- [Ken Wheeler - Love Songs For your Mother](https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=EjYRXo5iTOuGMAXJGqtLSQ) - Lauren Tan
+- [Darksynth](https://open.spotify.com/user/1213866633/playlist/16Ag5G93c24I2kA6aIal9W) - Lauren Tan
+- [The Seventh Seal](https://www.imdb.com/title/tt0050976/) - Kunal Bohra
+- [What I Talk About When I Talk About Running](https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839) - Kunal Bohra
+- [Toddler Tattoos](https://toddlertattoos.com/) - Ryan Burgess
+- [Ozark](https://www.netflix.com/title/80117552) - Ryan Burgess
+- [Stay Here](https://www.netflix.com/title/80201870) - Ryan Burgess
+- [Lauren Tan's talk at React Rally](https://www.youtube.com/watch?v=y3uXazpAdwo) - Ryan Burgess
+- [Kill or Cure](http://kill-or-cure.herokuapp.com/) - Jem Young
+- [Luke Cage](https://www.netflix.com/title/80002537) - Jem Young
+- [Infinite](https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335) - Ryan Anklam
+- [Panic Cord Remix](https://open.spotify.com/track/7s61CkW9KFKc4E4R0BVoiq?si=xaGr80kcRuC_ljMIvNqtqg) - Ryan Anklam
+
+
+## Episode 065 - Recruiting - do you have time for a quick beer?
+Published: September 2, 2018
+- [interviewing.io](https://interviewing.io/) - Matt
+- [Y Combinator Podcast](https://itunes.apple.com/us/podcast/y-combinator/id1236907421?mt=2) - Zack
+- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Zack
+- [Front End Happy Hour at React Rally](https://www.youtube.com/watch?v=X4t7kxC2e04) - Ryan Burgess
+- [Ken Wheeler - Love Songs for Your Mother](https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=zpnJb8BqTDKWqZukbbWr-w) - Ryan Burgess
+- [NDB](https://www.npmjs.com/package/ndb) - Jem Young
+- [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK?autoplay=true&v=A) - Jem Young
+- [Somewhere Else by Elsa Hewitt](https://open.spotify.com/track/1A6wgK3Sf6BZHzJH29MeQU?si=OzrvtvRiRZycYKjy_qOiGQ) - Stacy London
+- [Visualize your NPM package dependencies](https://beta.observablehq.com/@mbostock/package-dependencies) - Stacy London
+
+
 ## Episode 064 - Librations - JavaScript libraries
 Published: August 19, 2018
 - [Cleanshot](https://producthunt.com/posts/cleanshot) - Ryan Burgess

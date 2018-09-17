@@ -1,5 +1,127 @@
 [
   {
+    "episode": "066 - Type systems - a static drink list",
+    "published": "September 16, 2018",
+    "picks": [
+      {
+        "title": "Marvel's Spider-Man",
+        "url": "https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSPIDERMAN",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "Ken Wheeler - Love Songs For your Mother",
+        "url": "https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=EjYRXo5iTOuGMAXJGqtLSQ",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "Darksynth",
+        "url": "https://open.spotify.com/user/1213866633/playlist/16Ag5G93c24I2kA6aIal9W",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "The Seventh Seal",
+        "url": "https://www.imdb.com/title/tt0050976/",
+        "from": "Kunal Bohra"
+      },
+      {
+        "title": "What I Talk About When I Talk About Running",
+        "url": "https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839",
+        "from": "Kunal Bohra"
+      },
+      {
+        "title": "Toddler Tattoos",
+        "url": "https://toddlertattoos.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ozark",
+        "url": "https://www.netflix.com/title/80117552",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Stay Here",
+        "url": "https://www.netflix.com/title/80201870",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lauren Tan's talk at React Rally",
+        "url": "https://www.youtube.com/watch?v=y3uXazpAdwo",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Kill or Cure",
+        "url": "http://kill-or-cure.herokuapp.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Luke Cage",
+        "url": "https://www.netflix.com/title/80002537",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Infinite",
+        "url": "https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Panic Cord Remix",
+        "url": "https://open.spotify.com/track/7s61CkW9KFKc4E4R0BVoiq?si=xaGr80kcRuC_ljMIvNqtqg",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
+    "episode": "065 - Recruiting - do you have time for a quick beer?",
+    "published": "September 2, 2018",
+    "picks": [
+      {
+        "title": "interviewing.io",
+        "url": "https://interviewing.io/",
+        "from": "Matt"
+      },
+      {
+        "title": "Y Combinator Podcast",
+        "url": "https://itunes.apple.com/us/podcast/y-combinator/id1236907421?mt=2",
+        "from": "Zack"
+      },
+      {
+        "title": "Crypto Canon",
+        "url": "https://a16z.com/2018/02/10/crypto-readings-resources/",
+        "from": "Zack"
+      },
+      {
+        "title": "Front End Happy Hour at React Rally",
+        "url": "https://www.youtube.com/watch?v=X4t7kxC2e04",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ken Wheeler - Love Songs for Your Mother",
+        "url": "https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=zpnJb8BqTDKWqZukbbWr-w",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "NDB",
+        "url": "https://www.npmjs.com/package/ndb",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Godspeed You! Black Emperor",
+        "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK?autoplay=true&v=A",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Somewhere Else by Elsa Hewitt",
+        "url": "https://open.spotify.com/track/1A6wgK3Sf6BZHzJH29MeQU?si=OzrvtvRiRZycYKjy_qOiGQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Visualize your NPM package dependencies",
+        "url": "https://beta.observablehq.com/@mbostock/package-dependencies",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "064 - Librations - JavaScript libraries",
     "published": "August 19, 2018",
     "picks": [
