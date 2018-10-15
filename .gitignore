@@ -8,3 +8,4 @@
 *.min.js
 node_modules/
 episodes/
+package-lock.json
