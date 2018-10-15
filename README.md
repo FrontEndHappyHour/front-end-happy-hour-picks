@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 068 - Progressive Web Apps - Pale Wheat Ale
+Published: October 14, 2018
+- [Seeing White](http://www.sceneonradio.org/seeing-white/) - Aaron Gustafson
+- [Uncivil](http://www.gimletmedia.com/uncivil) - Aaron Gustafson
+- [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061) - Aaron Gustafson
+- [Ng-Atlanta](http://ng-atl.org) - Ryan Burgess
+- [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461) - Ryan Burgess
+- [Celeste](http://www.celestegame.com/) - Augustus Yuan
+- [Bao](https://en.wikipedia.org/wiki/Bao_(film)) - Augustus Yuan
+- [Supreme Brick](https://www.stadiumgoods.com/brick-red-su1187) - Jem Young
+- [LoFi Hip Hop](https://www.youtube.com/watch?v=hHW1oY26kxQ) - Jem Young
+- [Farfetch](https://www.farfetch.com/) - Jem Young
+- [Wrong Days by Sun Glitters](https://open.spotify.com/track/0spbJHJ3IgpLWMQj7S3lYS?si=WTOlUIx9RBiN9hSRdZ9Ubw) - Stacy London
+- [Atome de danse by Mark Romboy](https://open.spotify.com/track/0Xb6O0wdhcL9dthiWNgsFc?si=2d0etOJEQnOPj0oGULhQ-g) - Stacy London
+- [Aaron Gustafson](https://www.aaron-gustafson.com/) - Stacy London
+
+
+## Episode 067 - Ethics - to drink or not to drink?
+Published: September 30, 2018
+
+
 ## Episode 066 - Type systems - a static drink list
 Published: September 16, 2018
 - [Marvel's Spider-Man](https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSPIDERMAN) - Lauren Tan
