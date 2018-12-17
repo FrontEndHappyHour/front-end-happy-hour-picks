@@ -1,5 +1,173 @@
 [
   {
+    "episode": "071 - Web Performance - Chugging our drinks down fast",
+    "published": "December 9, 2018",
+    "picks": [
+      {
+        "title": "The Great British Baking Show",
+        "url": "https://www.netflix.com/title/80063224",
+        "from": "Addy Osmani"
+      },
+      {
+        "title": "Chrome User Experience Report",
+        "url": "https://developers.google.com/web/tools/chrome-user-experience-report/",
+        "from": "Addy Osmani"
+      },
+      {
+        "title": "Addy’s Netflix Case study",
+        "url": "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "PhotoPills",
+        "url": "https://www.photopills.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Final Table",
+        "url": "https://www.netflix.com/title/80201866",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Yoshi App",
+        "url": "https://www.startyoshi.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Ballad of Buster Scruggs",
+        "url": "https://www.netflix.com/title/80200267",
+        "from": "Jem Young"
+      },
+      {
+        "title": "All Systems Red",
+        "url": "https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536/ref=sr_1_1?s=books&ie=UTF8&qid=1543530699&sr=1-1&keywords=all+systems+red",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Android Call Screening",
+        "url": "https://www.androidcentral.com/call-screening-starts-appearing-some-google-pixel-and-pixel-xl-phones",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Guides by Lonely Planet",
+        "url": "https://itunes.apple.com/us/app/guides-by-lonely-planet/id1045791869?mt=8",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "React Profiler",
+        "url": "https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Daydream by Shelf Nunny",
+        "url": "https://open.spotify.com/album/381HbSeGGBmKitijpeDz7h",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "070 - Senior Engineer - Master Brewer",
+    "published": "November 25, 2018",
+    "picks": [
+      {
+        "title": "DotJS",
+        "url": "https://www.dotjs.io/",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "React JS Hooks - Harry Wolff",
+        "url": "https://www.youtube.com/watch?v=jd8R0a2Ur8Q",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Joy Buolamwini: How I'm fighting bias in algorithms",
+        "url": "https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Haunting of Hill House",
+        "url": "https://www.netflix.com/title/80189221",
+        "from": "Jem Young"
+      },
+      {
+        "title": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq?si=9DRfAsKTRaebWZXn8lbMrg",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Fifth Season",
+        "url": "https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Code Runner plugin for VSCode",
+        "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Redux Sagas",
+        "url": "https://redux-saga.js.org/",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
+    "episode": "069 - Internships - Intern-sips",
+    "published": "October 28, 2018",
+    "picks": [
+      {
+        "title": "Chihuly Garden",
+        "url": "https://www.chihulygardenandglass.com/",
+        "from": "Moira Huang"
+      },
+      {
+        "title": "Priscilla Chan",
+        "url": "https://www.youtube.com/watch?v=s8fN8HqoCMk",
+        "from": "Moira Huang"
+      },
+      {
+        "title": "Tales by Light",
+        "url": "https://www.netflix.com/title/80133187",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Github Actions",
+        "url": "https://css-tricks.com/introducing-github-actions/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Code Black",
+        "url": "https://www.cbs.com/shows/code-black/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "The Mentorship",
+        "url": "https://medium.com/@augburto/the-menternship-why-mentoring-isnt-a-chore-54c04e75335f",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Recovery - August Bell",
+        "url": "https://open.spotify.com/album/0NIvB8XXPj1sp1V2vJfid3",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Nike Air Zoom Pegasus 35",
+        "url": "https://www.nike.com/t/air-zoom-pegasus-35-mens-running-shoe-kX9NZL",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Spotify workday lounge playlist",
+        "url": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWT5lkChsPmpy?si=9GpUgHf1QZCHgjPCqdJb3Q",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Moleskine Voyageur notebook",
+        "url": "https://us.moleskine.com/voyageur-notebook-coffee-brown/p1329?ftm=8058647620381&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQCzfY9u-20qFc0vVExsyNaIWnE4-QCLOezOkrw135oXN7eaLv4EP84aAk-qEALw_wcB",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "068 - Progressive Web Apps - Pale Wheat Ale",
     "published": "October 14, 2018",
     "picks": [

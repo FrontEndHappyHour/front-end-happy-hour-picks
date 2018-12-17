@@ -1,6 +1,48 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 071 - Web Performance - Chugging our drinks down fast
+Published: December 9, 2018
+- [The Great British Baking Show](https://www.netflix.com/title/80063224) - Addy Osmani
+- [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) - Addy Osmani
+- [Addy’s Netflix Case study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - Ryan Burgess
+- [PhotoPills](https://www.photopills.com/) - Ryan Burgess
+- [Final Table](https://www.netflix.com/title/80201866) - Ryan Burgess
+- [Yoshi App](https://www.startyoshi.com/) - Jem Young
+- [The Ballad of Buster Scruggs](https://www.netflix.com/title/80200267) - Jem Young
+- [All Systems Red](https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536/ref=sr_1_1?s=books&ie=UTF8&qid=1543530699&sr=1-1&keywords=all+systems+red) - Ryan Anklam
+- [Android Call Screening](https://www.androidcentral.com/call-screening-starts-appearing-some-google-pixel-and-pixel-xl-phones) - Ryan Anklam
+- [Guides by Lonely Planet](https://itunes.apple.com/us/app/guides-by-lonely-planet/id1045791869?mt=8) - Mars Jullian
+- [React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html) - Stacy London
+- [Daydream by Shelf Nunny](https://open.spotify.com/album/381HbSeGGBmKitijpeDz7h) - Stacy London
+
+
+## Episode 070 - Senior Engineer - Master Brewer
+Published: November 25, 2018
+- [DotJS](https://www.dotjs.io/) - Lauren Tan
+- [React JS Hooks - Harry Wolff](https://www.youtube.com/watch?v=jd8R0a2Ur8Q) - Ryan Burgess
+- [Joy Buolamwini: How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) - Ryan Burgess
+- [Haunting of Hill House](https://www.netflix.com/title/80189221) - Jem Young
+- [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq?si=9DRfAsKTRaebWZXn8lbMrg) - Jem Young
+- [The Fifth Season](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296) - Jem Young
+- [Code Runner plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Ryan Anklam
+- [Redux Sagas](https://redux-saga.js.org/) - Ryan Anklam
+
+
+## Episode 069 - Internships - Intern-sips
+Published: October 28, 2018
+- [Chihuly Garden](https://www.chihulygardenandglass.com/) - Moira Huang
+- [Priscilla Chan](https://www.youtube.com/watch?v=s8fN8HqoCMk) - Moira Huang
+- [Tales by Light](https://www.netflix.com/title/80133187) - Ryan Burgess
+- [Github Actions](https://css-tricks.com/introducing-github-actions/) - Ryan Burgess
+- [Code Black](https://www.cbs.com/shows/code-black/) - Augustus Yuan
+- [The Mentorship](https://medium.com/@augburto/the-menternship-why-mentoring-isnt-a-chore-54c04e75335f) - Augustus Yuan
+- [Recovery - August Bell](https://open.spotify.com/album/0NIvB8XXPj1sp1V2vJfid3) - Ryan Anklam
+- [Nike Air Zoom Pegasus 35](https://www.nike.com/t/air-zoom-pegasus-35-mens-running-shoe-kX9NZL) - Ryan Anklam
+- [Spotify workday lounge playlist](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWT5lkChsPmpy?si=9GpUgHf1QZCHgjPCqdJb3Q) - Mars Jullian
+- [Moleskine Voyageur notebook](https://us.moleskine.com/voyageur-notebook-coffee-brown/p1329?ftm=8058647620381&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQCzfY9u-20qFc0vVExsyNaIWnE4-QCLOezOkrw135oXN7eaLv4EP84aAk-qEALw_wcB) - Mars Jullian
+
+
 ## Episode 068 - Progressive Web Apps - Pale Wheat Ale
 Published: October 14, 2018
 - [Seeing White](http://www.sceneonradio.org/seeing-white/) - Aaron Gustafson
