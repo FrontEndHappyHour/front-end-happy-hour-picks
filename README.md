@@ -1,6 +1,28 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 073 - Drinks to go - Native mobile solutions
+Published: January 20, 2019
+- [Veronica Lewis Birdbox Tweet](https://twitter.com/veron4ica/status/1081636644753674240) - Jordanna Kwok
+- [You](https://www.netflix.com/title/80211991) - Ryan Burgess
+- [Black Mirror Bandersnatch](https://www.netflix.com/title/80988062) - Ryan Burgess
+- [Netflix UIE JavaScript Talk Bandersnatch](https://javascripttalks2019.splashthat.com/) - Ryan Burgess
+- [The Gymkhana Files](https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV) - Jem Young
+- [ForwardJS](https://forwardjs.com/) - Jem Young
+
+
+## Episode 072 - Pacing our drinks - Engineering Performance
+Published: January 6, 2019
+- [Netflix JS Talks](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA) - Jacques Favreau
+- [Fatherhood]() - Michael Paulson
+- [Public speaker]() - Michael Paulson
+- [Bad Blood](https://www.netflix.com/title/80221787) - Ryan Burgess
+- [Robin Sushi](http://www.robinsanfrancisco.com/) - Ryan Burgess
+- [Measure the Change You Want to See in the World](https://www.youtube.com/watch?v=f_wbCaSApFg) - Jem Young
+- [Approachable Performance](https://www.youtube.com/watch?v=sB5dwHjSRFc&t=2s) - Jem Young
+- [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - Jem Young
+
+
 ## Episode 071 - Web Performance - Chugging our drinks down fast
 Published: December 9, 2018
 - [The Great British Baking Show](https://www.netflix.com/title/80063224) - Addy Osmani

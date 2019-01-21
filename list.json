@@ -1,5 +1,87 @@
 [
   {
+    "episode": "073 - Drinks to go - Native mobile solutions",
+    "published": "January 20, 2019",
+    "picks": [
+      {
+        "title": "Veronica Lewis Birdbox Tweet",
+        "url": "https://twitter.com/veron4ica/status/1081636644753674240",
+        "from": "Jordanna Kwok"
+      },
+      {
+        "title": "You",
+        "url": "https://www.netflix.com/title/80211991",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Black Mirror Bandersnatch",
+        "url": "https://www.netflix.com/title/80988062",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Netflix UIE JavaScript Talk Bandersnatch",
+        "url": "https://javascripttalks2019.splashthat.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Gymkhana Files",
+        "url": "https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV",
+        "from": "Jem Young"
+      },
+      {
+        "title": "ForwardJS",
+        "url": "https://forwardjs.com/",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "072 - Pacing our drinks - Engineering Performance",
+    "published": "January 6, 2019",
+    "picks": [
+      {
+        "title": "Netflix JS Talks",
+        "url": "https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA",
+        "from": "Jacques Favreau"
+      },
+      {
+        "title": "Fatherhood",
+        "url": "",
+        "from": "Michael Paulson"
+      },
+      {
+        "title": "Public speaker",
+        "url": "",
+        "from": "Michael Paulson"
+      },
+      {
+        "title": "Bad Blood",
+        "url": "https://www.netflix.com/title/80221787",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Robin Sushi",
+        "url": "http://www.robinsanfrancisco.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Measure the Change You Want to See in the World",
+        "url": "https://www.youtube.com/watch?v=f_wbCaSApFg",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Approachable Performance",
+        "url": "https://www.youtube.com/watch?v=sB5dwHjSRFc&t=2s",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Matt Levine",
+        "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "071 - Web Performance - Chugging our drinks down fast",
     "published": "December 9, 2018",
     "picks": [
