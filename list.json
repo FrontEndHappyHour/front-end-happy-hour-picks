@@ -1,5 +1,173 @@
 [
   {
+    "episode": "076 - Bandersnatching our drinks",
+    "published": "March 3, 2019",
+    "picks": [
+      {
+        "title": "Tidying Up with  Marie Kondo",
+        "url": "https://www.netflix.com/title/80209379",
+        "from": "Maxine Cheung"
+      },
+      {
+        "title": "Sour Beer - Alvarado Street Brewing",
+        "url": "http://www.alvaradostreetbrewery.com/",
+        "from": "Maria Kazandjieva"
+      },
+      {
+        "title": "Autotune Cats",
+        "url": "https://www.youtube.com/watch?v=vanP07y1Xgw",
+        "from": "Maria Kazandjieva"
+      },
+      {
+        "title": "Amusing Ourselves to Death",
+        "url": "https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X",
+        "from": "Maria Kazandjieva"
+      },
+      {
+        "title": "Arctic Monkeys - Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp",
+        "from": "Maria Kazandjieva"
+      },
+      {
+        "title": "Scott Manley",
+        "url": "https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A",
+        "from": "Maria Kazandjieva"
+      },
+      {
+        "title": "Quincy Documentary",
+        "url": "https://www.netflix.com/title/80102952",
+        "from": "Courtney Kennedy"
+      },
+      {
+        "title": "The Upside of Stress",
+        "url": "https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934",
+        "from": "Courtney Kennedy"
+      },
+      {
+        "title": "Foam Back Roller",
+        "url": "https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?ref_=fsclp_pl_dp_6",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Umbrella Academy",
+        "url": "https://www.netflix.com/title/80186863",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Young Blood",
+        "url": "https://www.theverge.com/platform/amp/2019/2/19/18231673/young-blood-fda-warning-aging-plasma",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "075 - Component libraries - sharing our drinks",
+    "published": "February 18, 2019",
+    "picks": [
+      {
+        "title": "Learn Git Branching",
+        "url": "https://learngitbranching.js.org/",
+        "from": "Jeeyun Linn"
+      },
+      {
+        "title": "Flexbox Froggy",
+        "url": "http://flexboxfroggy.com/",
+        "from": "Jeeyun Linn"
+      },
+      {
+        "title": "Russian Doll",
+        "url": "https://www.netflix.com/title/80211627",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "FYRE",
+        "url": "https://www.netflix.com/title/81035279",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Atomic design",
+        "url": "http://atomicdesign.bradfrost.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Good UI Blog",
+        "url": "https://GoodUI.org/blog",
+        "from": "Jem Young"
+      },
+      {
+        "title": "It’s Always Sunny in Philadelphia",
+        "url": "https://www.fxnetworks.com/shows/its-always-sunny-in-philadelphia",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Counterrpart",
+        "url": "https://www.starz.com/series/counterpart",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Elevate for Strava",
+        "url": "https://thomaschampagne.github.io/elevate/#/landing",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
+    "episode": "074 - Beer money - negotiating salaries",
+    "published": "February 3, 2019",
+    "picks": [
+      {
+        "title": "Be More Chill Musical",
+        "url": "http://bemorechillmusical.com/",
+        "from": "Matthew Gerstman"
+      },
+      {
+        "title": "Puffs the play",
+        "url": "http://www.puffstheplay.com/",
+        "from": "Matthew Gerstman"
+      },
+      {
+        "title": "Double your salary with this one simple trick - Matthew Gerstman",
+        "url": "https://www.youtube.com/watch?v=m1XdasrstCc",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Engineering Management: The Pendulum or the ladder",
+        "url": "https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Fearless Salary Negotiation",
+        "url": "https://fearlesssalarynegotiation.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Project Alias",
+        "url": "https://www.producthunt.com/posts/project-alias",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "2018 Logo Trends",
+        "url": "https://www.logolounge.com/articles/2018-logo-trends",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hired",
+        "url": "https://hired.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "2nd World by HVOB",
+        "url": "https://open.spotify.com/album/7abnLAJGMdl7uNXkR047dY",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Phaedra - 1995 Remaster by Tangerine Dream",
+        "url": "https://open.spotify.com/album/7KRXWeJYBkyUmwOFTayiQk",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "073 - Drinks to go - Native mobile solutions",
     "published": "January 20, 2019",
     "picks": [

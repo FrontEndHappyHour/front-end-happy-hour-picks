@@ -1,6 +1,48 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 076 - Bandersnatching our drinks
+Published: March 3, 2019
+- [Tidying Up with  Marie Kondo](https://www.netflix.com/title/80209379) - Maxine Cheung
+- [Sour Beer - Alvarado Street Brewing](http://www.alvaradostreetbrewery.com/) - Maria Kazandjieva
+- [Autotune Cats](https://www.youtube.com/watch?v=vanP07y1Xgw) - Maria Kazandjieva
+- [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X) - Maria Kazandjieva
+- [Arctic Monkeys - Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) - Maria Kazandjieva
+- [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Maria Kazandjieva
+- [Quincy Documentary](https://www.netflix.com/title/80102952) - Courtney Kennedy
+- [The Upside of Stress](https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934) - Courtney Kennedy
+- [Foam Back Roller](https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?ref_=fsclp_pl_dp_6) - Ryan Burgess
+- [The Umbrella Academy](https://www.netflix.com/title/80186863) - Jem Young
+- [Young Blood](https://www.theverge.com/platform/amp/2019/2/19/18231673/young-blood-fda-warning-aging-plasma) - Jem Young
+
+
+## Episode 075 - Component libraries - sharing our drinks
+Published: February 18, 2019
+- [Learn Git Branching](https://learngitbranching.js.org/) - Jeeyun Linn
+- [Flexbox Froggy](http://flexboxfroggy.com/) - Jeeyun Linn
+- [Russian Doll](https://www.netflix.com/title/80211627) - Cole Turner
+- [FYRE](https://www.netflix.com/title/81035279) - Ryan Burgess
+- [Atomic design](http://atomicdesign.bradfrost.com/) - Ryan Burgess
+- [Good UI Blog](https://GoodUI.org/blog) - Jem Young
+- [It’s Always Sunny in Philadelphia](https://www.fxnetworks.com/shows/its-always-sunny-in-philadelphia) - Jem Young
+- [Counterrpart](https://www.starz.com/series/counterpart) - Ryan Anklam
+- [Elevate for Strava](https://thomaschampagne.github.io/elevate/#/landing) - Ryan Anklam
+
+
+## Episode 074 - Beer money - negotiating salaries
+Published: February 3, 2019
+- [Be More Chill Musical](http://bemorechillmusical.com/) - Matthew Gerstman
+- [Puffs the play](http://www.puffstheplay.com/) - Matthew Gerstman
+- [Double your salary with this one simple trick - Matthew Gerstman](https://www.youtube.com/watch?v=m1XdasrstCc) - Ryan Burgess
+- [Engineering Management: The Pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) - Ryan Burgess
+- [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/) - Augustus Yuan
+- [Project Alias](https://www.producthunt.com/posts/project-alias) - Augustus Yuan
+- [2018 Logo Trends](https://www.logolounge.com/articles/2018-logo-trends) - Jem Young
+- [Hired](https://hired.com/) - Jem Young
+- [2nd World by HVOB](https://open.spotify.com/album/7abnLAJGMdl7uNXkR047dY) - Stacy London
+- [Phaedra - 1995 Remaster by Tangerine Dream](https://open.spotify.com/album/7KRXWeJYBkyUmwOFTayiQk) - Stacy London
+
+
 ## Episode 073 - Drinks to go - Native mobile solutions
 Published: January 20, 2019
 - [Veronica Lewis Birdbox Tweet](https://twitter.com/veron4ica/status/1081636644753674240) - Jordanna Kwok
