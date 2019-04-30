@@ -1,6 +1,48 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 079 - Home-brewing front end culture
+Published: April 28, 2019
+- [The Fascinating Chimera Project](https://thefascinatingchimeraproject.bandcamp.com/) - Katie Sylor-Miller
+- [Karbon.now.sh](https://karbon.now.sh/) - Katie Sylor-Miller
+- [Tiki bar - Pagan Idol](https://www.paganidol.com/) - Katie Sylor-Miller
+- [Tiki bar - Tonga room](https://www.tongaroom.com/) - Katie Sylor-Miller
+- [Tiki bar - Smugglers Cove](http://www.smugglerscovesf.com/) - Katie Sylor-Miller
+- [Tiki bar - Last Rites](https://www.lastritesbar.com/) - Katie Sylor-Miller
+- [Tiki bar - Frankie’s Tiki room](http://www.frankiestikiroom.com/) - Katie Sylor-Miller
+- [Skywalk.er](https://www.instagram.com/skywalk.er/) - Ryan Burgess
+- [Humza Deas](https://www.instagram.com/humzadeas/) - Ryan Burgess
+- [Spiderman: Into the spider-verse](https://www.imdb.com/title/tt4633694/) - Jem Young
+- [Deadpool 2](https://www.imdb.com/title/tt5463162/) - Jem Young
+- [Plus codes](https://plus.codes/) - Jem Young
+- [Inside deals](https://inside.com/deals) - Mars Jullian
+- [Routing with React hooks](https://parastudios.de/modern-and-clean-routing-with-hooks/) - Mars Jullian
+- [Stimulation by Ellen Allien](https://open.spotify.com/track/5FN7GiTllKfK1qSyWytFmp?si=EKcFcXojTLKFk3l9IZ-1Aw) - Stacy London
+- [Pour by Recondite](https://open.spotify.com/album/5DudjTM01Qm2l4GB6IVsz2) - Stacy London
+
+
+## Episode 078 - Our drinking is overrated
+Published: April 14, 2019
+- [Martha & Bros. Coffee](https://www.marthabros.com/) - Ryan Burgess
+- [True Detective Season 3](https://www.hbo.com/true-detective/season-3/season-3-everything-you-need-to-know-cast-trailer) - Ryan Burgess
+- [Losers](https://www.netflix.com/title/80198306) - Jem Young
+
+
+## Episode 077 - Career growth - beers and careers
+Published: March 31, 2019
+- [Photos with iCloud](https://support.apple.com/en-us/HT204264) - Ryan Burgess
+- [Workin’ Moms](https://www.netflix.com/title/80198991) - Ryan Burgess
+- [The OA season 2](https://www.netflix.com/title/80044950) - Ryan Burgess
+- [Silicon Valley Smash](https://svsmash.splashthat.com/) - Augustus Yuan
+- [Chrome 73 update (installing PWAs via Chrome in Mac!)](https://developers.google.com/web/updates/2019/03/nic73) - Augustus Yuan
+- [three.js/editor](https://threejs.org/editor/) - Augustus Yuan
+- [Casper Glow](https://casper.com/glow-light/) - Jem Young
+- [Oakley Prizm](https://www.oakley.com/en-us/prizm) - Jem Young
+- [Love, Death, and Robots](https://www.netflix.com/title/80174608) - Jem Young
+- [Screenshots in Chrome (Cmd+Shift+P with DevTools open then type ‘screenshot’)]() - Stacy London
+- [Daniel Avery’s Song for Alpha album](https://open.spotify.com/album/2ZJvD9UiI3NcoPS8K7IF5i?si=HguMqn6PSiq_hjqEHiR4dQ) - Stacy London
+
+
 ## Episode 076 - Bandersnatching our drinks
 Published: March 3, 2019
 - [Tidying Up with  Marie Kondo](https://www.netflix.com/title/80209379) - Maxine Cheung

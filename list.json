@@ -1,5 +1,173 @@
 [
   {
+    "episode": "079 - Home-brewing front end culture",
+    "published": "April 28, 2019",
+    "picks": [
+      {
+        "title": "The Fascinating Chimera Project",
+        "url": "https://thefascinatingchimeraproject.bandcamp.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Karbon.now.sh",
+        "url": "https://karbon.now.sh/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Tiki bar - Pagan Idol",
+        "url": "https://www.paganidol.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Tiki bar - Tonga room",
+        "url": "https://www.tongaroom.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Tiki bar - Smugglers Cove",
+        "url": "http://www.smugglerscovesf.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Tiki bar - Last Rites",
+        "url": "https://www.lastritesbar.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Tiki bar - Frankie’s Tiki room",
+        "url": "http://www.frankiestikiroom.com/",
+        "from": "Katie Sylor-Miller"
+      },
+      {
+        "title": "Skywalk.er",
+        "url": "https://www.instagram.com/skywalk.er/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Humza Deas",
+        "url": "https://www.instagram.com/humzadeas/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Spiderman: Into the spider-verse",
+        "url": "https://www.imdb.com/title/tt4633694/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Deadpool 2",
+        "url": "https://www.imdb.com/title/tt5463162/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Plus codes",
+        "url": "https://plus.codes/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Inside deals",
+        "url": "https://inside.com/deals",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Routing with React hooks",
+        "url": "https://parastudios.de/modern-and-clean-routing-with-hooks/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Stimulation by Ellen Allien",
+        "url": "https://open.spotify.com/track/5FN7GiTllKfK1qSyWytFmp?si=EKcFcXojTLKFk3l9IZ-1Aw",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Pour by Recondite",
+        "url": "https://open.spotify.com/album/5DudjTM01Qm2l4GB6IVsz2",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "078 - Our drinking is overrated",
+    "published": "April 14, 2019",
+    "picks": [
+      {
+        "title": "Martha & Bros. Coffee",
+        "url": "https://www.marthabros.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "True Detective Season 3",
+        "url": "https://www.hbo.com/true-detective/season-3/season-3-everything-you-need-to-know-cast-trailer",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Losers",
+        "url": "https://www.netflix.com/title/80198306",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "077 - Career growth - beers and careers",
+    "published": "March 31, 2019",
+    "picks": [
+      {
+        "title": "Photos with iCloud",
+        "url": "https://support.apple.com/en-us/HT204264",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Workin’ Moms",
+        "url": "https://www.netflix.com/title/80198991",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The OA season 2",
+        "url": "https://www.netflix.com/title/80044950",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Silicon Valley Smash",
+        "url": "https://svsmash.splashthat.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Chrome 73 update (installing PWAs via Chrome in Mac!)",
+        "url": "https://developers.google.com/web/updates/2019/03/nic73",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "three.js/editor",
+        "url": "https://threejs.org/editor/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Casper Glow",
+        "url": "https://casper.com/glow-light/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Oakley Prizm",
+        "url": "https://www.oakley.com/en-us/prizm",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Love, Death, and Robots",
+        "url": "https://www.netflix.com/title/80174608",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Screenshots in Chrome (Cmd+Shift+P with DevTools open then type ‘screenshot’)",
+        "url": "",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Daniel Avery’s Song for Alpha album",
+        "url": "https://open.spotify.com/album/2ZJvD9UiI3NcoPS8K7IF5i?si=HguMqn6PSiq_hjqEHiR4dQ",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "076 - Bandersnatching our drinks",
     "published": "March 3, 2019",
     "picks": [
