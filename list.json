@@ -1,5 +1,81 @@
 [
   {
+    "episode": "080 - User experience - what if users are drunk?",
+    "published": "May 14, 2019",
+    "picks": [
+      {
+        "title": "Swords on Amazon",
+        "url": "https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2",
+        "from": "Randall Koutnik"
+      },
+      {
+        "title": "Factorio game",
+        "url": "https://www.factorio.com/",
+        "from": "Randall Koutnik"
+      },
+      {
+        "title": "The Highwaymen",
+        "url": "https://www.netflix.com/title/80200571",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Santa Clarita Diet Season 3",
+        "url": "https://www.netflix.com/title/80095815",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Svelte 3: Rethinking Reactivity",
+        "url": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Parable of the blender - Randall Koutnik",
+        "url": "https://www.youtube.com/watch?v=ATqmMuq0gNk",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Personas and Jobs-to-be-Done",
+        "url": "https://www.nngroup.com/articles/personas-jobs-be-done/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Build Reactive Websites with RXJS",
+        "url": "https://pragprog.com/book/rkrxjs/build-reactive-websites-with-rxjs",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Dream Podcast",
+        "url": "https://www.stitcher.com/podcast/stitcher/the-dream",
+        "from": "Jem Young"
+      },
+      {
+        "title": "2019 Front-end developer handbook",
+        "url": "https://frontendmasters.com/books/front-end-handbook/2019/#1.1",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Litter robot",
+        "url": "https://www.litter-robot.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Xkcd comic",
+        "url": "https://xkcd.com/2141/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Schitt’s Creek",
+        "url": "https://www.netflix.com/title/80036165",
+        "from": "Stacy London"
+      },
+      {
+        "title": "May Day by Mike Slott",
+        "url": "https://open.spotify.com/track/40sFep2wZeBGSU2r4eSxBG?si=qt9pUZpRTw6kmAVVxKenCA",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "079 - Home-brewing front end culture",
     "published": "April 28, 2019",
     "picks": [

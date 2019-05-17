@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 080 - User experience - what if users are drunk?
+Published: May 14, 2019
+- [Swords on Amazon](https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2) - Randall Koutnik
+- [Factorio game](https://www.factorio.com/) - Randall Koutnik
+- [The Highwaymen](https://www.netflix.com/title/80200571) - Ryan Burgess
+- [Santa Clarita Diet Season 3](https://www.netflix.com/title/80095815) - Ryan Burgess
+- [Svelte 3: Rethinking Reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity) - Augustus Yuan
+- [Parable of the blender - Randall Koutnik](https://www.youtube.com/watch?v=ATqmMuq0gNk) - Augustus Yuan
+- [Personas and Jobs-to-be-Done](https://www.nngroup.com/articles/personas-jobs-be-done/) - Augustus Yuan
+- [Build Reactive Websites with RXJS](https://pragprog.com/book/rkrxjs/build-reactive-websites-with-rxjs) - Jem Young
+- [The Dream Podcast](https://www.stitcher.com/podcast/stitcher/the-dream) - Jem Young
+- [2019 Front-end developer handbook](https://frontendmasters.com/books/front-end-handbook/2019/#1.1) - Mars Jullian
+- [Litter robot](https://www.litter-robot.com/) - Mars Jullian
+- [Xkcd comic](https://xkcd.com/2141/) - Mars Jullian
+- [Schitt’s Creek](https://www.netflix.com/title/80036165) - Stacy London
+- [May Day by Mike Slott](https://open.spotify.com/track/40sFep2wZeBGSU2r4eSxBG?si=qt9pUZpRTw6kmAVVxKenCA) - Stacy London
+
+
 ## Episode 079 - Home-brewing front end culture
 Published: April 28, 2019
 - [The Fascinating Chimera Project](https://thefascinatingchimeraproject.bandcamp.com/) - Katie Sylor-Miller
