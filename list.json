@@ -1,5 +1,142 @@
 [
   {
+    "episode": "082 - Product management - Pouring Martinis",
+    "published": "June 9, 2019",
+    "picks": [
+      {
+        "title": "Everybody Matters",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796",
+        "from": "Cathy Conk"
+      },
+      {
+        "title": "Severance",
+        "url": "https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598",
+        "from": "Cathy Conk"
+      },
+      {
+        "title": "The OA",
+        "url": "https://www.netflix.com/title/80044950",
+        "from": "Cathy Conk"
+      },
+      {
+        "title": "Gully Boy",
+        "url": "https://www.imdb.com/title/tt2395469/",
+        "from": "Eddy Wu"
+      },
+      {
+        "title": "Campfire Stout",
+        "url": "http://www.highwaterbrewing.com/campfire-stout/",
+        "from": "Eddy Wu"
+      },
+      {
+        "title": "Rust: the longest war",
+        "url": "https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602",
+        "from": "Eddy Wu"
+      },
+      {
+        "title": "Thinking Fast and Slow",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+        "from": "Michael Spiegelman"
+      },
+      {
+        "title": "Predictably Irrational",
+        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
+        "from": "Michael Spiegelman"
+      },
+      {
+        "title": "Sapiens",
+        "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?gclid=Cj0KCQjw3PLnBRCpARIsAKaUbguJJx3PLwN-gQUJa7yA7ZkO3RBHMNNP9rWmjgqD-Kq3Qvjd63buy5UaAiFTEALw_wcB&hvadid=241894695810&hvdev=c&hvlocphy=9061273&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18291623973545407828&hvtargid=kwd-269114732332&hydadcr=22532_10344436&keywords=sapiens+books&qid=1560106894&s=gateway&sr=8-1",
+        "from": "Michael Spiegelman"
+      },
+      {
+        "title": "The world until yesterday",
+        "url": "https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404",
+        "from": "Michael Spiegelman"
+      },
+      {
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ/ref=sr_1_1?crid=3F11FGB2793BJ&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking&qid=1556898368&s=gateway&sprefix=quiet+%2Caps%2C347&sr=8-1",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React Day New York",
+        "url": "https://reactnewyork.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Fast Fourier Transform",
+        "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Vite Ramen",
+        "url": "https://viteramen.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Chewie IPO",
+        "url": "https://www.marketwatch.com/story/chewy-is-going-public-5-things-to-know-about-the-pet-humanization-products-seller-2019-05-03",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "081 - CSS - continually sipping sazeracs",
+    "published": "May 26, 2019",
+    "picks": [
+      {
+        "title": "Fantasy Survivor Game.com",
+        "url": "",
+        "from": "Tyler Childs"
+      },
+      {
+        "title": "Laphroaig Triple Wood Whisky",
+        "url": "https://www.laphroaig.com/product/triple-wood",
+        "from": "Tyler Childs"
+      },
+      {
+        "title": "Marvel 1602",
+        "url": "https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340",
+        "from": "Tyler Childs"
+      },
+      {
+        "title": "Batman Hush",
+        "url": "https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176",
+        "from": "Tyler Childs"
+      },
+      {
+        "title": "The Wake",
+        "url": "https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918",
+        "from": "Tyler Childs"
+      },
+      {
+        "title": "The Five Dysfunctions of a Team: A Leadership Fable",
+        "url": "https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Pathfinding with A*",
+        "url": "http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Writing a game loop",
+        "url": "https://isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hooka Speedgoat",
+        "url": "https://www.hokaoneone.com/speedgoat/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Milwaukee Bucks",
+        "url": "https://www.nba.com/bucks/?tmd=1",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
     "episode": "080 - User experience - what if users are drunk?",
     "published": "May 14, 2019",
     "picks": [

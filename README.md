@@ -1,6 +1,39 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 082 - Product management - Pouring Martinis
+Published: June 9, 2019
+- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796) - Cathy Conk
+- [Severance](https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598) - Cathy Conk
+- [The OA](https://www.netflix.com/title/80044950) - Cathy Conk
+- [Gully Boy](https://www.imdb.com/title/tt2395469/) - Eddy Wu
+- [Campfire Stout](http://www.highwaterbrewing.com/campfire-stout/) - Eddy Wu
+- [Rust: the longest war](https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602) - Eddy Wu
+- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Michael Spiegelman
+- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Michael Spiegelman
+- [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?gclid=Cj0KCQjw3PLnBRCpARIsAKaUbguJJx3PLwN-gQUJa7yA7ZkO3RBHMNNP9rWmjgqD-Kq3Qvjd63buy5UaAiFTEALw_wcB&hvadid=241894695810&hvdev=c&hvlocphy=9061273&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18291623973545407828&hvtargid=kwd-269114732332&hydadcr=22532_10344436&keywords=sapiens+books&qid=1560106894&s=gateway&sr=8-1) - Michael Spiegelman
+- [The world until yesterday](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404) - Michael Spiegelman
+- [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ/ref=sr_1_1?crid=3F11FGB2793BJ&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking&qid=1556898368&s=gateway&sprefix=quiet+%2Caps%2C347&sr=8-1) - Ryan Burgess
+- [React Day New York](https://reactnewyork.com/) - Ryan Burgess
+- [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) - Jem Young
+- [Vite Ramen](https://viteramen.com/) - Jem Young
+- [Chewie IPO](https://www.marketwatch.com/story/chewy-is-going-public-5-things-to-know-about-the-pet-humanization-products-seller-2019-05-03) - Jem Young
+
+
+## Episode 081 - CSS - continually sipping sazeracs
+Published: May 26, 2019
+- [Fantasy Survivor Game.com]() - Tyler Childs
+- [Laphroaig Triple Wood Whisky](https://www.laphroaig.com/product/triple-wood) - Tyler Childs
+- [Marvel 1602](https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340) - Tyler Childs
+- [Batman Hush](https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176) - Tyler Childs
+- [The Wake](https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918) - Tyler Childs
+- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC) - Ryan Burgess
+- [Pathfinding with A*](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html) - Jem Young
+- [Writing a game loop](https://isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing) - Jem Young
+- [Hooka Speedgoat](https://www.hokaoneone.com/speedgoat/) - Ryan Anklam
+- [Milwaukee Bucks](https://www.nba.com/bucks/?tmd=1) - Ryan Anklam
+
+
 ## Episode 080 - User experience - what if users are drunk?
 Published: May 14, 2019
 - [Swords on Amazon](https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2) - Randall Koutnik
