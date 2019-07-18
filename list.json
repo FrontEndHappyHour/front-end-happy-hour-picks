@@ -1,5 +1,66 @@
 [
   {
+    "episode": "083 - Behind the bar - Collaborating with the Backend",
+    "published": "June 23, 2019",
+    "picks": [
+      {
+        "title": "Chicago",
+        "url": "https://en.wikipedia.org/wiki/Chicago",
+        "from": "Ujjwal Tyagi"
+      },
+      {
+        "title": "Spicy chicken at Peri Peri",
+        "url": "https://www.nandosperiperi.com/",
+        "from": "Ujjwal Tyagi"
+      },
+      {
+        "title": "Free Solo",
+        "url": "https://www.imdb.com/title/tt7775622/",
+        "from": "Eric Eiswerth"
+      },
+      {
+        "title": "Montana M28 Guitar",
+        "url": "http://montanaguitarshop.com/",
+        "from": "Eric Eiswerth"
+      },
+      {
+        "title": "Expack",
+        "url": "https://expack.co/",
+        "from": "Eric Eiswerth"
+      },
+      {
+        "title": "Google Home Hub",
+        "url": "https://store.google.com/us/product/google_nest_hub",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Hawkins Cheezies",
+        "url": "https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?th=1",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Bad Blood Season 2",
+        "url": "https://www.netflix.com/title/80221787",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Valley Silicon: Toaster",
+        "url": "https://www.bloomberg.com/news/articles/2019-05-16/this-japanese-toaster-costs-270-it-only-makes-one-slice-at-a-time",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Mechanical movements",
+        "url": "http://507movements.com/toc.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "It’s Bruno",
+        "url": "https://www.netflix.com/title/80999455",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "082 - Product management - Pouring Martinis",
     "published": "June 9, 2019",
     "picks": [

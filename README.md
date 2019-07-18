@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 083 - Behind the bar - Collaborating with the Backend
+Published: June 23, 2019
+- [Chicago](https://en.wikipedia.org/wiki/Chicago) - Ujjwal Tyagi
+- [Spicy chicken at Peri Peri](https://www.nandosperiperi.com/) - Ujjwal Tyagi
+- [Free Solo](https://www.imdb.com/title/tt7775622/) - Eric Eiswerth
+- [Montana M28 Guitar](http://montanaguitarshop.com/) - Eric Eiswerth
+- [Expack](https://expack.co/) - Eric Eiswerth
+- [Google Home Hub](https://store.google.com/us/product/google_nest_hub) - Ryan Burgess
+- [Hawkins Cheezies](https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?th=1) - Ryan Burgess
+- [Bad Blood Season 2](https://www.netflix.com/title/80221787) - Ryan Burgess
+- [Valley Silicon: Toaster](https://www.bloomberg.com/news/articles/2019-05-16/this-japanese-toaster-costs-270-it-only-makes-one-slice-at-a-time) - Jem Young
+- [Mechanical movements](http://507movements.com/toc.html) - Jem Young
+- [It’s Bruno](https://www.netflix.com/title/80999455) - Jem Young
+
+
 ## Episode 082 - Product management - Pouring Martinis
 Published: June 9, 2019
 - [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796) - Cathy Conk
