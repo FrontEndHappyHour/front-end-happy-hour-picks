@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 084 - Niagara Falls, on the rocks - development process
+Published: July 21, 2019
+- [Lacasa De Papel (Money Heist)](https://www.netflix.com/title/80192098) - Ryan Burgess
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889/ref=sr_1_3?crid=J4OO9PDCO9DD&keywords=how+to+talk+so+kids+will+listen+%26+listen+so+kids+will+talk&qid=1561132573&s=gateway&sprefix=how+to+talk+so+%2Caps%2C239&sr=8-3) - Ryan Burgess
+- [Karat](https://karat.com/) - Augustus Yuan
+- [FoodieLand Night Market](https://www.foodielandnm.com/) - Augustus Yuan
+- [This toaster](https://www.amazon.com/dp/B007RUC6LC/) - Jem Young
+- [Dark season 2](https://www.netflix.com/title/80100172) - Jem Young
+- [Pock](https://pock.dev/) - Jem Young
+- [Anima - Thom Yorke](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) - Stacy London
+- [Anima](https://www.netflix.com/title/81110498) - Stacy London
+- [Holly H](https://open.spotify.com/playlist/7KsYn1GfjB1uENQFPYJwON) - Stacy London
+
+
 ## Episode 083 - Behind the bar - Collaborating with the Backend
 Published: June 23, 2019
 - [Chicago](https://en.wikipedia.org/wiki/Chicago) - Ujjwal Tyagi

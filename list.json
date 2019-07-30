@@ -1,5 +1,61 @@
 [
   {
+    "episode": "084 - Niagara Falls, on the rocks - development process",
+    "published": "July 21, 2019",
+    "picks": [
+      {
+        "title": "Lacasa De Papel (Money Heist)",
+        "url": "https://www.netflix.com/title/80192098",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+        "url": "https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889/ref=sr_1_3?crid=J4OO9PDCO9DD&keywords=how+to+talk+so+kids+will+listen+%26+listen+so+kids+will+talk&qid=1561132573&s=gateway&sprefix=how+to+talk+so+%2Caps%2C239&sr=8-3",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Karat",
+        "url": "https://karat.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "FoodieLand Night Market",
+        "url": "https://www.foodielandnm.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "This toaster",
+        "url": "https://www.amazon.com/dp/B007RUC6LC/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Dark season 2",
+        "url": "https://www.netflix.com/title/80100172",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Pock",
+        "url": "https://pock.dev/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Anima - Thom Yorke",
+        "url": "https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Anima",
+        "url": "https://www.netflix.com/title/81110498",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Holly H",
+        "url": "https://open.spotify.com/playlist/7KsYn1GfjB1uENQFPYJwON",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "083 - Behind the bar - Collaborating with the Backend",
     "published": "June 23, 2019",
     "picks": [
