@@ -1,6 +1,76 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 089 - Hollywood Martinis - Netflix Studio Engineering
+Published: October 27, 2019
+- [Living with Yourself](https://www.netflix.com/title/80178724) - Priyankaa Vijayakumar
+- [Harry Potter the Play](https://www.harrypottertheplay.com/) - Priyankaa Vijayakumar
+- [TSConf](https://tsconf.io) - Lauren Tan
+- [The Meta-conversation](https://medium.com/the-year-of-the-looking-glass/the-meta-conversation-9f9abe16c6ac) - Lauren Tan
+- [El Camino](https://www.netflix.com/title/81078819) - Lauren Tan
+- [Watchmen](https://www.hbo.com/order/watchmen) - Ryan Burgess
+- [$100 toothpaste](https://intothegloss.com/2014/06/chocolate-toothpaste/) - Jem Young
+- [The Politician](https://www.netflix.com/title/80241248) - Jem Young
+
+
+## Episode 088 - Tech lead engineer - herding cats & drinks
+Published: September 29, 2019
+- [Lana Del Rey: Norman Fucking Rockwell](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) - Tony Edwards
+- [The Indicator from Planet Money](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money) - Tony Edwards
+- [Steve1989MREInfo](https://www.youtube.com/channel/UC2I6Et1JkidnnbWgJFiMeHA) - Tony Edwards
+- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - Ryan Burgess
+- [Super Pumped: The Battle for Uber](https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ/) - Ryan Burgess
+- [Abstract Season 2](https://www.netflix.com/title/80057883) - Ryan Burgess
+- [Great British Baking Show](https://www.netflix.com/title/80063224) - Jem Young
+- [Duer Jeans](https://shopduer.com/) - Jem Young
+- [Frontend Masters - Full Stack](https://frontendmasters.com/learn/fullstack/) - Jem Young
+- [Airbnb open homes program](https://www.airbnb.com/openhomes) - Mars Jullian
+- [catalogchoice.org](https://catalogchoice.org) - Mars Jullian
+- [Fear Inoculum by Tool](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5?si=a8TGIu0QTQeoNabOVaV4YQ) - Stacy London
+- [Blood Year by Russian Circles](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb?si=PKx_SK51QG6tjVUfXmrboA) - Stacy London
+- [Unending by Cloudkicker](https://open.spotify.com/album/0tPKMMTGWdnB5LyWEj74tX?si=nqOc-5HYSZGbtWrXaeLovw) - Stacy London
+
+
+## Episode 087 - Open bar - all things open source
+Published: September 15, 2019
+- [Hyperdrive](https://www.netflix.com/title/80189648) - Ryan Burgess
+- [Unbelievable](https://www.netflix.com/title/80153467) - Ryan Burgess
+- [The Boys](https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjwwvfrBRBIEiwA2nFiPdVNJ1nQGkHf4yqgHo1UlDTJVZg7UAVIyEQ5f-wIMkbmaL7yiyU40RoCqlEQAvD_BwE) - Jem Young
+- [Hamilton](https://hamiltonmusical.com/new-york/) - Jem Young
+- [Queer Eye - Japan](https://www.netflix.com/title/81075744) - Mars Jullian
+- [Blue Star Donuts Portland](https://www.bluestardonuts.com/) - Mars Jullian
+
+
+## Episode 086 - A new brand of bourbon - code migrations
+Published: August 18, 2019
+- [React Rally](https://www.reactrally.com/) - Micah Ransdell
+- [Wemo light switches](https://www.belkin.com/us/p/P-F7C030/) - Ryan Burgess
+- [How Brokerages Make Money](https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/) - Jem Young
+- [Managing Yourself](https://hbr.org/2010/05/managing-yourself-bringing-out-the-best-in-your-people) - Jem Young
+- [Forge](https://firstbuild.com/products/forge/) - Jem Young
+- [Conditional types in TypeScript](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/) - Ryan Anklam
+- [Roomba](https://www.irobot.com/?gclid=EAIaIQobChMIga_u87zd4wIVVuDtCh1RzAE2EAAYASAAEgJpvPD_BwE) - Ryan Anklam
+
+
+## Episode 085 - The art of mixology - creative coding
+Published: August 4, 2019
+- [Team lab Tokyo crystal universe](https://www.teamlab.art/?submit=crystal+universe) - Shirley Wu
+- [Misaki Nakano](https://twitter.com/misaki_mofu) - Shirley Wu
+- [Matt DesLauriers](https://twitter.com/mattdesl) - Shirley Wu
+- [Tyler Halves]() - Shirley Wu
+- [Matt’s Frontend Masters creative coding](https://frontendmasters.com/courses/canvas-webgl/) - Shirley Wu
+- [Joshua Davis](https://joshuadavis.com/) - Ryan Burgess
+- [Nikka Coffey Grain Whiskey](https://www.thewhiskyexchange.com/p/23928/nikka-coffey-grain-whisky) - Ryan Burgess
+- [Like-so app](https://sayitlikeso.com/) - Ryan Burgess
+- [@beesandbombs](https://twitter.com/beesandbombs) - Augustus Yuan
+- [Zdog](https://github.com/metafizzy/zdog) - Augustus Yuan
+- [A Single Div](https://a.singlediv.com/) - Mars Jullian
+- [Aphantasia](https://www.scientificamerican.com/article/when-the-minds-eye-is-blind1/) - Mars Jullian
+- [Simon Stålenhag](https://www.simonstalenhag.se/) - Stacy London
+- [make8bitart.com by Jenn Schiffer](https://make8bitart.com/) - Stacy London
+- [Once Upon a Forest by Maruto (aka Joshua Davis)](http://www.once-upon-a-forest.com/) - Stacy London
+
+
 ## Episode 084 - Niagara Falls, on the rocks - development process
 Published: July 21, 2019
 - [Lacasa De Papel (Money Heist)](https://www.netflix.com/title/80192098) - Ryan Burgess

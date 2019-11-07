@@ -1,5 +1,285 @@
 [
   {
+    "episode": "089 - Hollywood Martinis - Netflix Studio Engineering",
+    "published": "October 27, 2019",
+    "picks": [
+      {
+        "title": "Living with Yourself",
+        "url": "https://www.netflix.com/title/80178724",
+        "from": "Priyankaa Vijayakumar"
+      },
+      {
+        "title": "Harry Potter the Play",
+        "url": "https://www.harrypottertheplay.com/",
+        "from": "Priyankaa Vijayakumar"
+      },
+      {
+        "title": "TSConf",
+        "url": "https://tsconf.io",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "The Meta-conversation",
+        "url": "https://medium.com/the-year-of-the-looking-glass/the-meta-conversation-9f9abe16c6ac",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "El Camino",
+        "url": "https://www.netflix.com/title/81078819",
+        "from": "Lauren Tan"
+      },
+      {
+        "title": "Watchmen",
+        "url": "https://www.hbo.com/order/watchmen",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "$100 toothpaste",
+        "url": "https://intothegloss.com/2014/06/chocolate-toothpaste/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Politician",
+        "url": "https://www.netflix.com/title/80241248",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "088 - Tech lead engineer - herding cats & drinks",
+    "published": "September 29, 2019",
+    "picks": [
+      {
+        "title": "Lana Del Rey: Norman Fucking Rockwell",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A",
+        "from": "Tony Edwards"
+      },
+      {
+        "title": "The Indicator from Planet Money",
+        "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
+        "from": "Tony Edwards"
+      },
+      {
+        "title": "Steve1989MREInfo",
+        "url": "https://www.youtube.com/channel/UC2I6Et1JkidnnbWgJFiMeHA",
+        "from": "Tony Edwards"
+      },
+      {
+        "title": "Everybody Matters",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Super Pumped: The Battle for Uber",
+        "url": "https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Abstract Season 2",
+        "url": "https://www.netflix.com/title/80057883",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Great British Baking Show",
+        "url": "https://www.netflix.com/title/80063224",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Duer Jeans",
+        "url": "https://shopduer.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Frontend Masters - Full Stack",
+        "url": "https://frontendmasters.com/learn/fullstack/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Airbnb open homes program",
+        "url": "https://www.airbnb.com/openhomes",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "catalogchoice.org",
+        "url": "https://catalogchoice.org",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Fear Inoculum by Tool",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5?si=a8TGIu0QTQeoNabOVaV4YQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Blood Year by Russian Circles",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb?si=PKx_SK51QG6tjVUfXmrboA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Unending by Cloudkicker",
+        "url": "https://open.spotify.com/album/0tPKMMTGWdnB5LyWEj74tX?si=nqOc-5HYSZGbtWrXaeLovw",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "087 - Open bar - all things open source",
+    "published": "September 15, 2019",
+    "picks": [
+      {
+        "title": "Hyperdrive",
+        "url": "https://www.netflix.com/title/80189648",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Unbelievable",
+        "url": "https://www.netflix.com/title/80153467",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Boys",
+        "url": "https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjwwvfrBRBIEiwA2nFiPdVNJ1nQGkHf4yqgHo1UlDTJVZg7UAVIyEQ5f-wIMkbmaL7yiyU40RoCqlEQAvD_BwE",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hamilton",
+        "url": "https://hamiltonmusical.com/new-york/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Queer Eye - Japan",
+        "url": "https://www.netflix.com/title/81075744",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Blue Star Donuts Portland",
+        "url": "https://www.bluestardonuts.com/",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
+    "episode": "086 - A new brand of bourbon - code migrations",
+    "published": "August 18, 2019",
+    "picks": [
+      {
+        "title": "React Rally",
+        "url": "https://www.reactrally.com/",
+        "from": "Micah Ransdell"
+      },
+      {
+        "title": "Wemo light switches",
+        "url": "https://www.belkin.com/us/p/P-F7C030/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How Brokerages Make Money",
+        "url": "https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Managing Yourself",
+        "url": "https://hbr.org/2010/05/managing-yourself-bringing-out-the-best-in-your-people",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Forge",
+        "url": "https://firstbuild.com/products/forge/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Conditional types in TypeScript",
+        "url": "https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Roomba",
+        "url": "https://www.irobot.com/?gclid=EAIaIQobChMIga_u87zd4wIVVuDtCh1RzAE2EAAYASAAEgJpvPD_BwE",
+        "from": "Ryan Anklam"
+      }
+    ]
+  },
+  {
+    "episode": "085 - The art of mixology - creative coding",
+    "published": "August 4, 2019",
+    "picks": [
+      {
+        "title": "Team lab Tokyo crystal universe",
+        "url": "https://www.teamlab.art/?submit=crystal+universe",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Misaki Nakano",
+        "url": "https://twitter.com/misaki_mofu",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Matt DesLauriers",
+        "url": "https://twitter.com/mattdesl",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Tyler Halves",
+        "url": "",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Matt’s Frontend Masters creative coding",
+        "url": "https://frontendmasters.com/courses/canvas-webgl/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Joshua Davis",
+        "url": "https://joshuadavis.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Nikka Coffey Grain Whiskey",
+        "url": "https://www.thewhiskyexchange.com/p/23928/nikka-coffey-grain-whisky",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Like-so app",
+        "url": "https://sayitlikeso.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "@beesandbombs",
+        "url": "https://twitter.com/beesandbombs",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Zdog",
+        "url": "https://github.com/metafizzy/zdog",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "A Single Div",
+        "url": "https://a.singlediv.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Aphantasia",
+        "url": "https://www.scientificamerican.com/article/when-the-minds-eye-is-blind1/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Simon Stålenhag",
+        "url": "https://www.simonstalenhag.se/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "make8bitart.com by Jenn Schiffer",
+        "url": "https://make8bitart.com/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Once Upon a Forest by Maruto (aka Joshua Davis)",
+        "url": "http://www.once-upon-a-forest.com/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "084 - Niagara Falls, on the rocks - development process",
     "published": "July 21, 2019",
     "picks": [
