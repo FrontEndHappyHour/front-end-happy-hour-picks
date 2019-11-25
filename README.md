@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 090 - Sipping our drinks, enjoying the Vue - Vue JS
+Published: November 24, 2019
+- [Greensock v3](https://greensock.com/3) - Sarah Drasner
+- [Harry Potter and the Escape from Gringotts Ride](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-escape-from-gringotts) - Gift Egwuenu
+- [Nigerian Playlist](https://www.youtube.com/watch?v=WUAp2EKbAJs&list=RDMMWUAp2EKbAJs&start_radio=1) - Gift Egwuenu
+- [Mike Giant podcast](https://mikegiantpodcast.fireside.fm/) - Ryan Burgess
+- [Tombow Dual Brush pens](https://www.tombowusa.com/dual-brush-pen.html) - Ryan Burgess
+- [React adaptive hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Augustus Yuan
+- [Trader Joe’s Cauliflower Ravioli](https://www.traderjoes.com/recipes/lunch/roasted-cauliflower-mezzelune-fried-basil) - Augustus Yuan
+- [Buffet Lines](https://erikbern.com/2019/10/16/buffet-lines-are-terrible.html) - Jem Young
+- [Hap and Leonard](https://www.sundancetv.com/shows/hap-and-leonard) - Jem Young
+- [Yearning for the Infinite - Max Cooper](https://open.spotify.com/album/2qOai8aBLM3813p4luleGt?si=VBx4xz6TSPWK7T8_U5ILxQ) - Stacy London
+- [Immerse - Alex Banks](https://open.spotify.com/track/2MO7kZINKTTFZfCccM9GTy?si=1KDZcAWCSLGxO8zuI9ieuQ) - Stacy London
+
+
 ## Episode 089 - Hollywood Martinis - Netflix Studio Engineering
 Published: October 27, 2019
 - [Living with Yourself](https://www.netflix.com/title/80178724) - Priyankaa Vijayakumar

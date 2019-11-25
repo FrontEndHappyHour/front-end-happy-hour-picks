@@ -1,5 +1,66 @@
 [
   {
+    "episode": "090 - Sipping our drinks, enjoying the Vue - Vue JS",
+    "published": "November 24, 2019",
+    "picks": [
+      {
+        "title": "Greensock v3",
+        "url": "https://greensock.com/3",
+        "from": "Sarah Drasner"
+      },
+      {
+        "title": "Harry Potter and the Escape from Gringotts Ride",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-escape-from-gringotts",
+        "from": "Gift Egwuenu"
+      },
+      {
+        "title": "Nigerian Playlist",
+        "url": "https://www.youtube.com/watch?v=WUAp2EKbAJs&list=RDMMWUAp2EKbAJs&start_radio=1",
+        "from": "Gift Egwuenu"
+      },
+      {
+        "title": "Mike Giant podcast",
+        "url": "https://mikegiantpodcast.fireside.fm/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Tombow Dual Brush pens",
+        "url": "https://www.tombowusa.com/dual-brush-pen.html",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "React adaptive hooks",
+        "url": "https://github.com/GoogleChromeLabs/react-adaptive-hooks",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Trader Joe’s Cauliflower Ravioli",
+        "url": "https://www.traderjoes.com/recipes/lunch/roasted-cauliflower-mezzelune-fried-basil",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Buffet Lines",
+        "url": "https://erikbern.com/2019/10/16/buffet-lines-are-terrible.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Hap and Leonard",
+        "url": "https://www.sundancetv.com/shows/hap-and-leonard",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Yearning for the Infinite - Max Cooper",
+        "url": "https://open.spotify.com/album/2qOai8aBLM3813p4luleGt?si=VBx4xz6TSPWK7T8_U5ILxQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Immerse - Alex Banks",
+        "url": "https://open.spotify.com/track/2MO7kZINKTTFZfCccM9GTy?si=1KDZcAWCSLGxO8zuI9ieuQ",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "089 - Hollywood Martinis - Netflix Studio Engineering",
     "published": "October 27, 2019",
     "picks": [
