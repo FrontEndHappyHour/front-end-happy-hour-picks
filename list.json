@@ -1,5 +1,208 @@
 [
   {
+    "episode": "093 - Beers and Careers - Career Management",
+    "published": "January 5, 2020",
+    "picks": [
+      {
+        "title": "Code Radio by freecodecamp",
+        "url": "https://coderadio.freecodecamp.org/",
+        "from": "Michael Gaskill"
+      },
+      {
+        "title": "Marengo",
+        "url": "https://www.marengosf.com/",
+        "from": "Michael Gaskill"
+      },
+      {
+        "title": "The Pivot Point",
+        "url": "https://medium.com/swlh/the-pivot-point-3fb8bdde884",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Radical Candor",
+        "url": "https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Uber Go Style Guide",
+        "url": "https://github.com/uber-go/guide/blob/master/style.md",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Open Diablo 2",
+        "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "CSS units explained",
+        "url": "https://alligator.io/css/css-units-explained/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Theodent Toothpaste",
+        "url": "https://theodent.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "It Should Be Us by Andy Stott",
+        "url": "https://open.spotify.com/album/2b4RNCznna9U13uXza9jdl?si=CsQRkxIHQy6MnvctG978YA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "The Center Won't Hold by Sleater-Kinney",
+        "url": "https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58?si=dvTDwPRHS8GFNJmmLUS43g",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "092 - Keeping the taps on - Holiday code freeze",
+    "published": "December 22, 2019",
+    "picks": [
+      {
+        "title": "Jay-z on Spotify",
+        "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB?si=yDf8X1sBTlyJwNZD-N27gg",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Nest Hello Doorbell",
+        "url": "https://store.google.com/us/product/nest_hello_doorbell",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Irishman",
+        "url": "https://www.netflix.com/title/80175798",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Pixel 4",
+        "url": "https://arstechnica.com/gadgets/2019/11/google-pixel-4-review-overpriced-uncompetitive-and-out-of-touch/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Efficiency destroying magic of tidying up",
+        "url": "https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "TC39",
+        "url": "https://tc39.es/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Love Island",
+        "url": "https://www.cbs.com/shows/love-island/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Bay Curious podcast",
+        "url": "https://www.kqed.org/podcasts/baycurious",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Dust Circles by Loscil",
+        "url": "https://open.spotify.com/album/5yOWC5VU94C69zUYliMGwy?highlight=spotify:track:1aP2qFyy1QUYJkWryKypCv",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Luminous Spaces by Jon Hopkins, Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F?highlight=spotify:track:7nbLUoUimkbWVQqsZ1mkp8",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "091 - Balancing your drinks & belonging - Inclusion & Diversity in Tech",
+    "published": "December 8, 2019",
+    "picks": [
+      {
+        "title": "Stamped from the Beginning",
+        "url": "https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985",
+        "from": "Cher"
+      },
+      {
+        "title": "Magdalene - FKA twigs",
+        "url": "https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY",
+        "from": "Cher"
+      },
+      {
+        "title": "Modern Figures",
+        "url": "http://modernfigurespodcast.com/",
+        "from": "Cher"
+      },
+      {
+        "title": "Megan Rapinoe",
+        "url": "https://www.glamour.com/video/watch/women-of-the-year-megan-rapinoe-s-acceptance-speech-2019-women-of-the-year",
+        "from": "Cher"
+      },
+      {
+        "title": "Programming as theory building",
+        "url": "http://pages.cs.wisc.edu/~remzi/Naur.pdf",
+        "from": "Henry Zhu"
+      },
+      {
+        "title": "Tools for conviviality",
+        "url": "https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113",
+        "from": "Henry Zhu"
+      },
+      {
+        "title": "Blog post by Henry - Seeking Serendipity",
+        "url": "https://www.henryzoo.com/serendipity/",
+        "from": "Henry Zhu"
+      },
+      {
+        "title": "Brene Brown: The Anatomy of Trust",
+        "url": "https://brenebrown.com/videos/anatomy-trust-video/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How to build (and rebuild) trust",
+        "url": "https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Better Allies newsletter",
+        "url": "https://betterallies.com/more-content/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Cyclismo cafe",
+        "url": "http://www.cyclismocafe.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Black Sugar Boba",
+        "url": "https://www.blacksugarboba.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Arcs of Seniority",
+        "url": "https://www.stevanpopovic.com/arcs-of-seniority/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Uncluded",
+        "url": "https://rhymesayers.com/artists/theuncluded",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Henry Zhu",
+        "url": "https://github.com/hzoo",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Proud by the Nunnery",
+        "url": "https://open.spotify.com/album/65gSPsIKvfvmyKGwebMUhZ?highlight=spotify:track:1kCJsgHV3oOAIxWlLj9ZSk",
+        "from": "Stacy London"
+      },
+      {
+        "title": "16 Psyche by Chelsea Wolfe",
+        "url": "https://open.spotify.com/album/1nnenAgIzIipcodyg879Vx",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "090 - Sipping our drinks, enjoying the Vue - Vue JS",
     "published": "November 24, 2019",
     "picks": [

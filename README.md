@@ -1,6 +1,55 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 093 - Beers and Careers - Career Management
+Published: January 5, 2020
+- [Code Radio by freecodecamp](https://coderadio.freecodecamp.org/) - Michael Gaskill
+- [Marengo](https://www.marengosf.com/) - Michael Gaskill
+- [The Pivot Point](https://medium.com/swlh/the-pivot-point-3fb8bdde884) - Ryan Burgess
+- [Radical Candor](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - Ryan Burgess
+- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Augustus Yuan
+- [Open Diablo 2](https://github.com/OpenDiablo2/OpenDiablo2) - Augustus Yuan
+- [CSS units explained](https://alligator.io/css/css-units-explained/) - Jem Young
+- [Theodent Toothpaste](https://theodent.com/) - Jem Young
+- [It Should Be Us by Andy Stott](https://open.spotify.com/album/2b4RNCznna9U13uXza9jdl?si=CsQRkxIHQy6MnvctG978YA) - Stacy London
+- [The Center Won't Hold by Sleater-Kinney](https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58?si=dvTDwPRHS8GFNJmmLUS43g) - Stacy London
+
+
+## Episode 092 - Keeping the taps on - Holiday code freeze
+Published: December 22, 2019
+- [Jay-z on Spotify](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB?si=yDf8X1sBTlyJwNZD-N27gg) - Ryan Burgess
+- [Nest Hello Doorbell](https://store.google.com/us/product/nest_hello_doorbell) - Ryan Burgess
+- [The Irishman](https://www.netflix.com/title/80175798) - Ryan Burgess
+- [Pixel 4](https://arstechnica.com/gadgets/2019/11/google-pixel-4-review-overpriced-uncompetitive-and-out-of-touch/) - Jem Young
+- [The Efficiency destroying magic of tidying up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - Jem Young
+- [TC39](https://tc39.es/) - Jem Young
+- [Love Island](https://www.cbs.com/shows/love-island/) - Mars Jullian
+- [Bay Curious podcast](https://www.kqed.org/podcasts/baycurious) - Mars Jullian
+- [Dust Circles by Loscil](https://open.spotify.com/album/5yOWC5VU94C69zUYliMGwy?highlight=spotify:track:1aP2qFyy1QUYJkWryKypCv) - Stacy London
+- [Luminous Spaces by Jon Hopkins, Kelly Lee Owens](https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F?highlight=spotify:track:7nbLUoUimkbWVQqsZ1mkp8) - Stacy London
+
+
+## Episode 091 - Balancing your drinks & belonging - Inclusion & Diversity in Tech
+Published: December 8, 2019
+- [Stamped from the Beginning](https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985) - Cher
+- [Magdalene - FKA twigs](https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY) - Cher
+- [Modern Figures](http://modernfigurespodcast.com/) - Cher
+- [Megan Rapinoe](https://www.glamour.com/video/watch/women-of-the-year-megan-rapinoe-s-acceptance-speech-2019-women-of-the-year) - Cher
+- [Programming as theory building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) - Henry Zhu
+- [Tools for conviviality](https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113) - Henry Zhu
+- [Blog post by Henry - Seeking Serendipity](https://www.henryzoo.com/serendipity/) - Henry Zhu
+- [Brene Brown: The Anatomy of Trust](https://brenebrown.com/videos/anatomy-trust-video/) - Ryan Burgess
+- [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust) - Ryan Burgess
+- [Better Allies newsletter](https://betterallies.com/more-content/) - Ryan Burgess
+- [Cyclismo cafe](http://www.cyclismocafe.com/) - Augustus Yuan
+- [Black Sugar Boba](https://www.blacksugarboba.com/) - Augustus Yuan
+- [Arcs of Seniority](https://www.stevanpopovic.com/arcs-of-seniority/) - Jem Young
+- [The Uncluded](https://rhymesayers.com/artists/theuncluded) - Jem Young
+- [Henry Zhu](https://github.com/hzoo) - Jem Young
+- [Proud by the Nunnery](https://open.spotify.com/album/65gSPsIKvfvmyKGwebMUhZ?highlight=spotify:track:1kCJsgHV3oOAIxWlLj9ZSk) - Stacy London
+- [16 Psyche by Chelsea Wolfe](https://open.spotify.com/album/1nnenAgIzIipcodyg879Vx) - Stacy London
+
+
 ## Episode 090 - Sipping our drinks, enjoying the Vue - Vue JS
 Published: November 24, 2019
 - [Greensock v3](https://greensock.com/3) - Sarah Drasner
