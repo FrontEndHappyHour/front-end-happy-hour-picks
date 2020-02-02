@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 094 - Will code for wine - Civic hacking
+Published: January 20, 2020
+- [Code for America](https://www.codeforamerica.org/) - Sarah Yu
+- [Pat McGrath labs](https://www.patmcgrath.com/) - Sarah Yu
+- [You season 2](https://www.netflix.com/title/80211991) - Ryan Burgess
+- [Dirty John](https://www.netflix.com/title/80241855) - Ryan Burgess
+- [Devocion Coffee - Williamsburg, Brooklyn](https://www.devocion.com/pages/devocion-cafe-williamsburg-brooklyn-ny) - Augustus Yuan
+- [data.gov](https://www.data.gov/open-gov/) - Augustus Yuan
+- [Valley Silicon: Hidrate Spark](https://hidratespark.com/) - Jem Young
+- [Messiah Season 1](https://www.netflix.com/title/80117557) - Jem Young
+- [Theragun](https://www.theragun.com/) - Mars Jullian
+- [Code for America](https://www.codeforamerica.org/) - Stacy London
+- [Wild by Tourist](https://open.spotify.com/track/3HZcmaxzwPF0bXXPUdTJQ2?si=RskPhwnETqu_GV2m9afljg) - Stacy London
+- [Radical by Amtrac & Totally Enormous Extinct Dinosaurs](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ?si=cmIuzmF7TQKPHlyfn_nw_A) - Stacy London
+
+
 ## Episode 093 - Beers and Careers - Career Management
 Published: January 5, 2020
 - [Code Radio by freecodecamp](https://coderadio.freecodecamp.org/) - Michael Gaskill
