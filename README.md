@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 095 - Shot for Shot - One on Ones
+Published: February 16, 2020
+- [SkyCandy app](https://skycandy.app/) - Ryan Burgess
+- [2020 conference list](https://github.com/ryanburgess/2020-conferences) - Ryan Burgess
+- [AWS in plain English](https://expeditedsecurity.com/aws-in-plain-english/) - Augustus Yuan
+- [Play Wright](https://github.com/microsoft/playwright) - Augustus Yuan
+- [Stylex (Facebook CSS in JS framework)](https://www.youtube.com/watch?v=9JZHodNR184&feature=youtu.be&t=209) - Mars Jullian
+- [Pet Playlist by Spotify](https://pets.byspotify.com/) - Mars Jullian
+- [Lara Hogan - Manager handoffs](https://larahogan.me/blog/manager-handoffs/) - Stacy London
+- [Illusion of Time by Daniel Avery & Alessandro Cortini](https://open.spotify.com/track/2QuXTxQ8PGGVXPRAkSHyKS?si=QlOB9V3yS4WNTpq9Wmz2iQ) - Stacy London
+
+
 ## Episode 094 - Will code for wine - Civic hacking
 Published: January 20, 2020
 - [Code for America](https://www.codeforamerica.org/) - Sarah Yu

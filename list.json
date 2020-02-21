@@ -1,5 +1,51 @@
 [
   {
+    "episode": "095 - Shot for Shot - One on Ones",
+    "published": "February 16, 2020",
+    "picks": [
+      {
+        "title": "SkyCandy app",
+        "url": "https://skycandy.app/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "2020 conference list",
+        "url": "https://github.com/ryanburgess/2020-conferences",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "AWS in plain English",
+        "url": "https://expeditedsecurity.com/aws-in-plain-english/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Play Wright",
+        "url": "https://github.com/microsoft/playwright",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Stylex (Facebook CSS in JS framework)",
+        "url": "https://www.youtube.com/watch?v=9JZHodNR184&feature=youtu.be&t=209",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Pet Playlist by Spotify",
+        "url": "https://pets.byspotify.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Lara Hogan - Manager handoffs",
+        "url": "https://larahogan.me/blog/manager-handoffs/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Illusion of Time by Daniel Avery & Alessandro Cortini",
+        "url": "https://open.spotify.com/track/2QuXTxQ8PGGVXPRAkSHyKS?si=QlOB9V3yS4WNTpq9Wmz2iQ",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "094 - Will code for wine - Civic hacking",
     "published": "January 20, 2020",
     "picks": [
