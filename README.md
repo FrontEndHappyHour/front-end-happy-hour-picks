@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 096 - Our preferred beverages - Work preferences
+Published: March 1, 2020
+- [Logitech Spotlight Presentation Remote](https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH/ref=sr_1_7?keywords=presenter+remote&qid=1580869579&sr=8-7) - Ryan Burgess
+- [On being wrong - Kathryn Schultz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - Ryan Burgess
+- [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/) - Augustus Yuan
+- [Weathering With You - Makoto Shinkai](https://www.imdb.com/title/tt9426210/) - Augustus Yuan
+- [Open office freakonomics episode](http://freakonomics.com/podcast/open-offices/) - Mars Jullian
+- [“No lyrics - study” spotify playlist](https://open.spotify.com/playlist/1WPz1yv8jJlAM5DG9XZj0i?si=4eDBO2lzShqwHjNg8-XTCQ) - Mars Jullian
+- [Numeronyms](https://en.wikipedia.org/wiki/Numeronym) - Stacy London
+- [Gentle Practice by Heathered Pearls](https://open.spotify.com/track/44vf6CvS5qUHLRXIJ7ySWh?si=nf9Vp9b7TtuPabH_XDwVEg) - Stacy London
+
+
 ## Episode 095 - Shot for Shot - One on Ones
 Published: February 16, 2020
 - [SkyCandy app](https://skycandy.app/) - Ryan Burgess
