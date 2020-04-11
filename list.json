@@ -1,5 +1,187 @@
 [
   {
+    "episode": "099 - No REST with Quintessential Libations - GraphQL",
+    "published": "March 29, 2020",
+    "picks": [
+      {
+        "title": "Complete developers guide to GraphQL - Udemy",
+        "url": "https://www.udemy.com/course/graphql-with-react-course/",
+        "from": "Shruti Kapoor"
+      },
+      {
+        "title": "GraphQL playground + Graphical",
+        "url": "https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/",
+        "from": "Shruti Kapoor"
+      },
+      {
+        "title": "Big Magic: Creative Living Beyond Fear",
+        "url": "https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726",
+        "from": "Shruti Kapoor"
+      },
+      {
+        "title": "Revlon One-Step Hair Dryer & Volumizer",
+        "url": "https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0",
+        "from": "Shruti Kapoor"
+      },
+      {
+        "title": "Dark",
+        "url": "https://www.netflix.com/title/80100172",
+        "from": "Shruti Kapoor"
+      },
+      {
+        "title": "Heist Podcast",
+        "url": "https://www.heistpodcast.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Oh crap I have a toddler",
+        "url": "https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "USB Switch selector",
+        "url": "https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?ref_=fsclp_pl_dp_1",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "GoReplay",
+        "url": "https://github.com/buger/goreplay",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Dev Jokes",
+        "url": "https://github.com/shrutikapoor08/devjoke",
+        "from": "Jem Young"
+      },
+      {
+        "title": "This foot does not exist",
+        "url": "https://thisfootdoesnotexist.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon - Iniegogo",
+        "url": "https://www.indiegogo.com/campaign_collections/production-ready",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Song For The Passing by Shelf Nunny",
+        "url": "https://open.spotify.com/track/2VJ9QjicKJB97yMUI6J42Y?si=VBdNr-eST06UvANNphKyOg",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Meneerea by Erased",
+        "url": "https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk?si=Tq4Im5y1QnGuHz3MDZ_aSA",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "098 - Drinking alone? Together? - Working from home",
+    "published": "March 20, 2020",
+    "picks": [
+      {
+        "title": "Bare Bottle",
+        "url": "https://www.barebottle.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Coffivitity",
+        "url": "https://coffitivity.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "ncov2019.live",
+        "url": "https://ncov2019.live/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "14-Day Quarantine Workout Plan",
+        "url": "https://www.blogilates.com/14-day-quarantine-workout-plan/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Avenue 5",
+        "url": "https://www.hbo.com/avenue-5",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Joe Pera Talks With You",
+        "url": "https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Lazy recruiters",
+        "url": "",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Change/Opportunity",
+        "url": "",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Mastermind Book",
+        "url": "https://www.penguinrandomhouse.com/books/549566/the-mastermind-by-evan-ratliff/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Ace Sweatpants",
+        "url": "https://mackweldon.com/products/ace-sweatpant?utm_source=googlecpc&utm_medium=sem&utm_campaign=ne_google_search_brand_Specific_Exact_l_All&utm_term=kwd-303076422639_-_414799782613&utm_content=9159804636_-_99530706384&gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpWPyGmtc63oJdGdiPTrKUu8FuRkYXtU42rSnR3bYGfmhhhC3LjpEQYaAl-vEALw_wcB",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Reply All: The Case of The Missing Hit",
+        "url": "https://gimletmedia.com/shows/reply-all/o2h8bx",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Anecdote Candles",
+        "url": "https://anecdotecandles.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "San Francisco Restaurants That Are Open For Delivery",
+        "url": "https://sf.eater.com/2020/3/17/21184129/san-francisco-takeout-delivery-coronavirus",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Check in on your friends & family",
+        "url": "",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Psychic Data by TVAM",
+        "url": "https://www.youtube.com/watch?v=vRkwVxXsmK8",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Shedding Layers by Rob Clouth",
+        "url": "https://open.spotify.com/track/0vHSZ0ASWja0MvdabS8JLE?si=3F7xY7XPT42M2EJKtN5NnQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Talking to Strangers by Malcolm Gladwell",
+        "url": "https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Gift cards to local restaurants and bars",
+        "url": "",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Folding@home",
+        "url": "https://en.wikipedia.org/wiki/Folding@home",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
+    "episode": "097 - Cocktail recipes - Design systems",
+    "published": "March 15, 2020",
+    "picks": []
+  },
+  {
     "episode": "096 - Our preferred beverages - Work preferences",
     "published": "March 1, 2020",
     "picks": [

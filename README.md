@@ -1,6 +1,51 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 099 - No REST with Quintessential Libations - GraphQL
+Published: March 29, 2020
+- [Complete developers guide to GraphQL - Udemy](https://www.udemy.com/course/graphql-with-react-course/) - Shruti Kapoor
+- [GraphQL playground + Graphical](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/) - Shruti Kapoor
+- [Big Magic: Creative Living Beyond Fear](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726) - Shruti Kapoor
+- [Revlon One-Step Hair Dryer & Volumizer](https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0) - Shruti Kapoor
+- [Dark](https://www.netflix.com/title/80100172) - Shruti Kapoor
+- [Heist Podcast](https://www.heistpodcast.com/) - Ryan Burgess
+- [Oh crap I have a toddler](https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734) - Ryan Burgess
+- [USB Switch selector](https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?ref_=fsclp_pl_dp_1) - Augustus Yuan
+- [GoReplay](https://github.com/buger/goreplay) - Augustus Yuan
+- [Dev Jokes](https://github.com/shrutikapoor08/devjoke) - Jem Young
+- [This foot does not exist](https://thisfootdoesnotexist.com/) - Jem Young
+- [Valley Silicon - Iniegogo](https://www.indiegogo.com/campaign_collections/production-ready) - Jem Young
+- [Song For The Passing by Shelf Nunny](https://open.spotify.com/track/2VJ9QjicKJB97yMUI6J42Y?si=VBdNr-eST06UvANNphKyOg) - Stacy London
+- [Meneerea by Erased](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk?si=Tq4Im5y1QnGuHz3MDZ_aSA) - Stacy London
+
+
+## Episode 098 - Drinking alone? Together? - Working from home
+Published: March 20, 2020
+- [Bare Bottle](https://www.barebottle.com/) - Ryan Burgess
+- [Coffivitity](https://coffitivity.com/) - Ryan Burgess
+- [ncov2019.live](https://ncov2019.live/) - Augustus Yuan
+- [14-Day Quarantine Workout Plan](https://www.blogilates.com/14-day-quarantine-workout-plan/) - Augustus Yuan
+- [Avenue 5](https://www.hbo.com/avenue-5) - Jem Young
+- [Joe Pera Talks With You](https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree) - Jem Young
+- [Lazy recruiters]() - Jem Young
+- [Change/Opportunity]() - Jem Young
+- [The Mastermind Book](https://www.penguinrandomhouse.com/books/549566/the-mastermind-by-evan-ratliff/) - Ryan Anklam
+- [Ace Sweatpants](https://mackweldon.com/products/ace-sweatpant?utm_source=googlecpc&utm_medium=sem&utm_campaign=ne_google_search_brand_Specific_Exact_l_All&utm_term=kwd-303076422639_-_414799782613&utm_content=9159804636_-_99530706384&gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpWPyGmtc63oJdGdiPTrKUu8FuRkYXtU42rSnR3bYGfmhhhC3LjpEQYaAl-vEALw_wcB) - Ryan Anklam
+- [Reply All: The Case of The Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx) - Ryan Anklam
+- [Anecdote Candles](https://anecdotecandles.com/) - Mars Jullian
+- [San Francisco Restaurants That Are Open For Delivery](https://sf.eater.com/2020/3/17/21184129/san-francisco-takeout-delivery-coronavirus) - Mars Jullian
+- [Check in on your friends & family]() - Stacy London
+- [Psychic Data by TVAM](https://www.youtube.com/watch?v=vRkwVxXsmK8) - Stacy London
+- [Shedding Layers by Rob Clouth](https://open.spotify.com/track/0vHSZ0ASWja0MvdabS8JLE?si=3F7xY7XPT42M2EJKtN5NnQ) - Stacy London
+- [Talking to Strangers by Malcolm Gladwell](https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW) - Brian Holt
+- [Gift cards to local restaurants and bars]() - Brian Holt
+- [Folding@home](https://en.wikipedia.org/wiki/Folding@home) - Brian Holt
+
+
+## Episode 097 - Cocktail recipes - Design systems
+Published: March 15, 2020
+
+
 ## Episode 096 - Our preferred beverages - Work preferences
 Published: March 1, 2020
 - [Logitech Spotlight Presentation Remote](https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH/ref=sr_1_7?keywords=presenter+remote&qid=1580869579&sr=8-7) - Ryan Burgess
