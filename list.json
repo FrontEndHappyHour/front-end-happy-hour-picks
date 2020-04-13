@@ -1,5 +1,96 @@
 [
   {
+    "episode": "100 - 100 beers on the wall",
+    "published": "April 12, 2020",
+    "picks": [
+      {
+        "title": "Ozark Season 3",
+        "url": "https://www.netflix.com/title/80117552",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "La Casa De Papel Season 4",
+        "url": "https://www.netflix.com/title/80192098",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Wuhan I know",
+        "url": "https://www.lauragao.com/wuhan",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Stations by Spotify",
+        "url": "https://www.spotify.com/us/stations/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Jupiter",
+        "url": "https://jupiter.co/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Rhythm + Flow",
+        "url": "https://www.netflix.com/title/80216665",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Santa Cruz Mountain Brewing",
+        "url": "https://www.scmbrew.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "My Brother Rabbit",
+        "url": "https://mybrotherrabbit.com/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Simple Habit",
+        "url": "https://www.simplehabit.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Backgrounds.win",
+        "url": "https://backgrounds.win/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "United We Stream",
+        "url": "https://en.unitedwestream.berlin/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Pius in Tacet by Pantha Du Prince",
+        "url": "https://open.spotify.com/track/6QmNMVPkpjxnSRl7gpEHV7?si=BLCeU1MbS3uESNRdkce0Dw",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Lovevery",
+        "url": "https://lovevery.com",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Masterclass: Thomas Keller",
+        "url": "https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques/",
+        "from": "Derrick Showers"
+      },
+      {
+        "title": "Magdalena Bay - A Little Rhythm and a Wicked Feeling",
+        "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc?si=jc0D4OnHSg6AmKXyvs_jsQ",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Peloton Trial",
+        "url": "https://www.onepeloton.com/app",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "UW CoVID19 Emergency Response Fund",
+        "url": "https://www.acceleratemed.org/give/?source=HEROES&appeal=M20CVD",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "099 - No REST with Quintessential Libations - GraphQL",
     "published": "March 29, 2020",
     "picks": [
@@ -1953,17 +2044,17 @@
       {
         "title": "interviewing.io",
         "url": "https://interviewing.io/",
-        "from": "Matt"
+        "from": "Matt Stepehson"
       },
       {
         "title": "Y Combinator Podcast",
         "url": "https://itunes.apple.com/us/podcast/y-combinator/id1236907421?mt=2",
-        "from": "Zack"
+        "from": "Zack Skelly"
       },
       {
         "title": "Crypto Canon",
         "url": "https://a16z.com/2018/02/10/crypto-readings-resources/",
-        "from": "Zack"
+        "from": "Zack Skelly"
       },
       {
         "title": "Front End Happy Hour at React Rally",

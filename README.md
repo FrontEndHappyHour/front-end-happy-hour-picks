@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 100 - 100 beers on the wall
+Published: April 12, 2020
+- [Ozark Season 3](https://www.netflix.com/title/80117552) - Ryan Burgess
+- [La Casa De Papel Season 4](https://www.netflix.com/title/80192098) - Ryan Burgess
+- [The Wuhan I know](https://www.lauragao.com/wuhan) - Augustus Yuan
+- [Stations by Spotify](https://www.spotify.com/us/stations/) - Augustus Yuan
+- [Jupiter](https://jupiter.co/) - Jem Young
+- [Rhythm + Flow](https://www.netflix.com/title/80216665) - Jem Young
+- [Santa Cruz Mountain Brewing](https://www.scmbrew.com/) - Ryan Anklam
+- [My Brother Rabbit](https://mybrotherrabbit.com/) - Ryan Anklam
+- [Simple Habit](https://www.simplehabit.com/) - Mars Jullian
+- [Backgrounds.win](https://backgrounds.win/) - Mars Jullian
+- [United We Stream](https://en.unitedwestream.berlin/) - Stacy London
+- [Pius in Tacet by Pantha Du Prince](https://open.spotify.com/track/6QmNMVPkpjxnSRl7gpEHV7?si=BLCeU1MbS3uESNRdkce0Dw) - Stacy London
+- [Lovevery](https://lovevery.com) - Derrick Showers
+- [Masterclass: Thomas Keller](https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques/) - Derrick Showers
+- [Magdalena Bay - A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc?si=jc0D4OnHSg6AmKXyvs_jsQ) - Brian Holt
+- [Peloton Trial](https://www.onepeloton.com/app) - Brian Holt
+- [UW CoVID19 Emergency Response Fund](https://www.acceleratemed.org/give/?source=HEROES&appeal=M20CVD) - Brian Holt
+
+
 ## Episode 099 - No REST with Quintessential Libations - GraphQL
 Published: March 29, 2020
 - [Complete developers guide to GraphQL - Udemy](https://www.udemy.com/course/graphql-with-react-course/) - Shruti Kapoor
@@ -488,9 +509,9 @@ Published: September 16, 2018
 
 ## Episode 065 - Recruiting - do you have time for a quick beer?
 Published: September 2, 2018
-- [interviewing.io](https://interviewing.io/) - Matt
-- [Y Combinator Podcast](https://itunes.apple.com/us/podcast/y-combinator/id1236907421?mt=2) - Zack
-- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Zack
+- [interviewing.io](https://interviewing.io/) - Matt Stepehson
+- [Y Combinator Podcast](https://itunes.apple.com/us/podcast/y-combinator/id1236907421?mt=2) - Zack Skelly
+- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Zack Skelly
 - [Front End Happy Hour at React Rally](https://www.youtube.com/watch?v=X4t7kxC2e04) - Ryan Burgess
 - [Ken Wheeler - Love Songs for Your Mother](https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=zpnJb8BqTDKWqZukbbWr-w) - Ryan Burgess
 - [NDB](https://www.npmjs.com/package/ndb) - Jem Young
