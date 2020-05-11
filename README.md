@@ -1,6 +1,29 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 102 - Complex flavors - complex systems
+Published: May 10, 2020
+- [Handmaid’s Tale](https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f) - Sarah Drasner
+- [Don’t F**K with Cats](https://www.netflix.com/title/81031373) - Ryan Burgess
+- [Spotify: Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/) - Ryan Burgess
+- [The Last Dance](https://www.netflix.com/gb/title/80203144) - Jem Young
+- [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - Jem Young
+- [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) - Ryan Anklam
+- [Powerblock weight set](https://powerblock.com/product/sport/) - Ryan Anklam
+- [Leaving the Grid by Ital Tek](https://open.spotify.com/track/2u1hLuyPC4QfSAsbG2e9mT?si=8LmLniJGRTGTOyFk2IH_Cg) - Stacy London
+- [Video for Leaving the Grid by Ruben Fro](https://youtu.be/4UuwLrcEtvg) - Stacy London
+- [Under the Table by Fiona Apple](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY?si=vjpcQ8lyR7-eQNDrY22I2w) - Stacy London
+
+
+## Episode 101 - Showing off our personal bars - Personal projects
+Published: April 26, 2020
+- [Remington Hc6550 Cordless Vacuum Haircut Kit](https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I/ref=sr_1_2?crid=3JWKHCH4IFTV4&dchild=1&keywords=hair+clippers+with+vacuum&qid=1587503389&sprefix=hair+clippers+with+vac%2Caps%2C236&sr=8-2) - Ryan Burgess
+- [NetSpot](https://www.netspotapp.com/) - Ryan Burgess
+- [#blackAF](https://www.netflix.com/title/81056700) - Ryan Burgess
+- [Broken picture phone](https://www.brokenpicturephone.com/) - Augustus Yuan
+- [Cognitive Biases in Software](http://smyachenkov.com/posts/cognitive-biases-software-development/) - Jem Young
+
+
 ## Episode 100 - 100 beers on the wall
 Published: April 12, 2020
 - [Ozark Season 3](https://www.netflix.com/title/80117552) - Ryan Burgess

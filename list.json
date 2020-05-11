@@ -1,5 +1,92 @@
 [
   {
+    "episode": "102 - Complex flavors - complex systems",
+    "published": "May 10, 2020",
+    "picks": [
+      {
+        "title": "Handmaid’s Tale",
+        "url": "https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f",
+        "from": "Sarah Drasner"
+      },
+      {
+        "title": "Don’t F**K with Cats",
+        "url": "https://www.netflix.com/title/81031373",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Spotify: Failed #SquadGoals",
+        "url": "https://www.jeremiahlee.com/posts/failed-squad-goals/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Last Dance",
+        "url": "https://www.netflix.com/gb/title/80203144",
+        "from": "Jem Young"
+      },
+      {
+        "title": "On Being a Senior Engineer",
+        "url": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Effective TypeScript",
+        "url": "https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Powerblock weight set",
+        "url": "https://powerblock.com/product/sport/",
+        "from": "Ryan Anklam"
+      },
+      {
+        "title": "Leaving the Grid by Ital Tek",
+        "url": "https://open.spotify.com/track/2u1hLuyPC4QfSAsbG2e9mT?si=8LmLniJGRTGTOyFk2IH_Cg",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Video for Leaving the Grid by Ruben Fro",
+        "url": "https://youtu.be/4UuwLrcEtvg",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Under the Table by Fiona Apple",
+        "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY?si=vjpcQ8lyR7-eQNDrY22I2w",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "101 - Showing off our personal bars - Personal projects",
+    "published": "April 26, 2020",
+    "picks": [
+      {
+        "title": "Remington Hc6550 Cordless Vacuum Haircut Kit",
+        "url": "https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I/ref=sr_1_2?crid=3JWKHCH4IFTV4&dchild=1&keywords=hair+clippers+with+vacuum&qid=1587503389&sprefix=hair+clippers+with+vac%2Caps%2C236&sr=8-2",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "NetSpot",
+        "url": "https://www.netspotapp.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "#blackAF",
+        "url": "https://www.netflix.com/title/81056700",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Broken picture phone",
+        "url": "https://www.brokenpicturephone.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Cognitive Biases in Software",
+        "url": "http://smyachenkov.com/posts/cognitive-biases-software-development/",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "100 - 100 beers on the wall",
     "published": "April 12, 2020",
     "picks": [
