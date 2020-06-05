@@ -1,5 +1,137 @@
 [
   {
+    "episode": "104 - #BlackLivesMatter",
+    "published": "June 5, 2020",
+    "picks": [
+      {
+        "title": "13th",
+        "url": "https://www.netflix.com/title/80091741",
+        "from": "(Netflix) - Documentary"
+      },
+      {
+        "title": "Explained: The Racial Wage Gap",
+        "url": "https://www.netflix.com/title/80216752",
+        "from": "(Netflix) - Documentary"
+      },
+      {
+        "title": "Who Killed Malcolm X?",
+        "url": "https://www.netflix.com/title/80217478",
+        "from": "(Netflix) - Documentary"
+      },
+      {
+        "title": "When They See Us",
+        "url": "https://www.netflix.com/title/80200549",
+        "from": "(Netflix) - Series"
+      },
+      {
+        "title": "Talks to help you understand racism in America",
+        "url": "https://www.ted.com/playlists/250/talks_to_help_you_understand_r",
+        "from": "TED Playlist"
+      },
+      {
+        "title": "Stamped from the Beginning - The Definitive History of Racist Ideas in America",
+        "url": "https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA",
+        "from": "FREE Book on Spotify"
+      },
+      {
+        "title": "So You Want to Talk about Race",
+        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1",
+        "from": "Book"
+      },
+      {
+        "title": "The Colors of Us",
+        "url": "https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636",
+        "from": "Book"
+      },
+      {
+        "title": "Waking Up White",
+        "url": "https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I",
+        "from": "Book"
+      },
+      {
+        "title": "1619 (NYTimes)",
+        "url": "https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html",
+        "from": "Podcast"
+      },
+      {
+        "title": "Code Switch (NPR)",
+        "url": "https://www.npr.org/podcasts/510312/codeswitch",
+        "from": "Podcast"
+      },
+      {
+        "title": "Pod Save the People",
+        "url": "https://crooked.com/podcast-series/pod-save-the-people/",
+        "from": "Podcast"
+      },
+      {
+        "title": "Our National Conversation About Race",
+        "url": "https://www.showaboutrace.com/",
+        "from": "Podcast"
+      },
+      {
+        "title": "The Death of George Floyd, In Context",
+        "url": "https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context",
+        "from": "Article"
+      },
+      {
+        "title": "How to Make This Moment the Turning Point for Real Change",
+        "url": "https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067",
+        "from": "Article"
+      },
+      {
+        "title": "For Our White Friends Desiring to Be Allies",
+        "url": "https://sojo.net/articles/our-white-friends-desiring-be-allies",
+        "from": "Article"
+      }
+    ]
+  },
+  {
+    "episode": "103 - Brews in Bars - Ecosystem Engineering",
+    "published": "May 24, 2020",
+    "picks": [
+      {
+        "title": "Giri / Haji",
+        "url": "https://www.netflix.com/title/80190519",
+        "from": "Michael James"
+      },
+      {
+        "title": "Netflix DVD Subscription",
+        "url": "https://dvd.netflix.com/",
+        "from": "Michael James"
+      },
+      {
+        "title": "The Last Kingdom",
+        "url": "https://www.netflix.com/title/80074249",
+        "from": "Shravan Heroor"
+      },
+      {
+        "title": "Tiger Belly podcast",
+        "url": "http://tigerbelly.libsyn.com/podcast",
+        "from": "Shravan Heroor"
+      },
+      {
+        "title": "Apple Thunderbolt Display replacement glass",
+        "url": "https://www.amazon.com/gp/product/B00CMNDBBI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Gorilla Super Glue Gel",
+        "url": "https://www.gorillatough.com/product/gorilla-super-glue-gel/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Great Canadian Baking Show",
+        "url": "https://www.netflix.com/ca/title/81250962",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Ultimate “treehouse”",
+        "url": "https://www.etsy.com/listing/294533825/exotic-treehouse",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "102 - Complex flavors - complex systems",
     "published": "May 10, 2020",
     "picks": [

@@ -1,6 +1,38 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 104 - #BlackLivesMatter
+Published: June 5, 2020
+- [13th](https://www.netflix.com/title/80091741) - (Netflix) - Documentary
+- [Explained: The Racial Wage Gap](https://www.netflix.com/title/80216752) - (Netflix) - Documentary
+- [Who Killed Malcolm X?](https://www.netflix.com/title/80217478) - (Netflix) - Documentary
+- [When They See Us](https://www.netflix.com/title/80200549) - (Netflix) - Series
+- [Talks to help you understand racism in America](https://www.ted.com/playlists/250/talks_to_help_you_understand_r) - TED Playlist
+- [Stamped from the Beginning - The Definitive History of Racist Ideas in America](https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA) - FREE Book on Spotify
+- [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1) - Book
+- [The Colors of Us](https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636) - Book
+- [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I) - Book
+- [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - Podcast
+- [Code Switch (NPR)](https://www.npr.org/podcasts/510312/codeswitch) - Podcast
+- [Pod Save the People](https://crooked.com/podcast-series/pod-save-the-people/) - Podcast
+- [Our National Conversation About Race](https://www.showaboutrace.com/) - Podcast
+- [The Death of George Floyd, In Context](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context) - Article
+- [How to Make This Moment the Turning Point for Real Change](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) - Article
+- [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) - Article
+
+
+## Episode 103 - Brews in Bars - Ecosystem Engineering
+Published: May 24, 2020
+- [Giri / Haji](https://www.netflix.com/title/80190519) - Michael James
+- [Netflix DVD Subscription](https://dvd.netflix.com/) - Michael James
+- [The Last Kingdom](https://www.netflix.com/title/80074249) - Shravan Heroor
+- [Tiger Belly podcast](http://tigerbelly.libsyn.com/podcast) - Shravan Heroor
+- [Apple Thunderbolt Display replacement glass](https://www.amazon.com/gp/product/B00CMNDBBI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - Ryan Burgess
+- [Gorilla Super Glue Gel](https://www.gorillatough.com/product/gorilla-super-glue-gel/) - Ryan Burgess
+- [The Great Canadian Baking Show](https://www.netflix.com/ca/title/81250962) - Jem Young
+- [Valley Silicon: Ultimate “treehouse”](https://www.etsy.com/listing/294533825/exotic-treehouse) - Jem Young
+
+
 ## Episode 102 - Complex flavors - complex systems
 Published: May 10, 2020
 - [Handmaid’s Tale](https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f) - Sarah Drasner
