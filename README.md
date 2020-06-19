@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 105 - A parcel of drinks - Parcel
+Published: June 14, 2020
+- [Don’t Let Get You Down by Wajatta](https://open.spotify.com/album/4JZjID5JmCUCvR8pu8RGUw?si=KDZ3MMfoSa2HoSnHBZbw1A) - Maia Teegarden
+- [It Is What It Is by Thundercat](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9?si=0rlBEDHfRdGTXbO1bQUfUg) - Maia Teegarden
+- [Take a break - PTO WFH]() - Will Binns-Smith
+- [Dokku](https://github.com/dokku/dokku) - Will Binns-Smith
+- [Breville Bambino+](https://www.breville.com/us/en/products/espresso/bes500.html) - Devon Govett
+- [Fork](https://git-fork.com/) - Devon Govett
+- [Kim's Convenience](https://www.netflix.com/title/80199128) - Ryan Burgess
+- [Master Class](https://www.masterclass.com/) - Ryan Burgess
+- [The Half of It](https://www.netflix.com/title/81005150) - Augustus Yuan
+- [Parcel T-Shirt](https://cottonbureau.com/products/parcel-t-shirt#/1592149/tee-men-standard-tee-vintage-navy-tri-blend-s) - Augustus Yuan
+- [Uunnrreeaall by Sun Glitters](https://open.spotify.com/track/1ljgMQYhJTjphiEm9kYk1m?si=ValbG_LtQ6iFbtSYIead_w) - Stacy London
+- [Breathtaker by Geotic](https://open.spotify.com/track/1jA5GvGUsGqNNe4cdzXHdO?si=lb-HugsIQLi1U3rteByMMw) - Stacy London
+
+
 ## Episode 104 - #BlackLivesMatter
 Published: June 5, 2020
 - [13th](https://www.netflix.com/title/80091741) - (Netflix) - Documentary
