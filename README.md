@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 106 - Carefully Sipping Sangria - CSS
+Published: June 28, 2020
+- [ModernCSS.dev](https://moderncss.dev/) - Brad Frost
+- [Seals singing Seal by kiss from a rose?](https://www.youtube.com/watch?v=G76nKGWRLPU) - Brad Frost
+- [Radiooooo (A musical time machine)](https://radiooooo.com/) - Brad Frost
+- [Atomic Design](https://atomicdesign.bradfrost.com/) - Ryan Burgess
+- [SMACSS](http://smacss.com/) - Ryan Burgess
+- [Deno](https://deno.land/) - Augustus Yuan
+- [10 Things I Regret About Node.js - Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Augustus Yuan
+- [Theonline.town](https://theonline.town/) - Mars Jullian
+- [Paint the Void](https://paintthevoid.org/murals) - Mars Jullian
+- [This is Responsive - Resources (by Brad Frost!)](http://bradfrost.github.io/this-is-responsive/resources.html) - Stacy London
+- [Does Masonry belong in the CSS Grid specification](https://rachelandrew.co.uk/archives/2020/05/05/does-masonry-belong-in-the-css-grid-specification/) - Stacy London
+- [Retrospective mix (1993 - 2019) by Orphx](https://orphx.bandcamp.com/album/retrospective-mix-1993-2019) - Stacy London
+
+
 ## Episode 105 - A parcel of drinks - Parcel
 Published: June 14, 2020
 - [Don’t Let Get You Down by Wajatta](https://open.spotify.com/album/4JZjID5JmCUCvR8pu8RGUw?si=KDZ3MMfoSa2HoSnHBZbw1A) - Maia Teegarden

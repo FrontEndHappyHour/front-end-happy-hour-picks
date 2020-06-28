@@ -1,5 +1,71 @@
 [
   {
+    "episode": "106 - Carefully Sipping Sangria - CSS",
+    "published": "June 28, 2020",
+    "picks": [
+      {
+        "title": "ModernCSS.dev",
+        "url": "https://moderncss.dev/",
+        "from": "Brad Frost"
+      },
+      {
+        "title": "Seals singing Seal by kiss from a rose?",
+        "url": "https://www.youtube.com/watch?v=G76nKGWRLPU",
+        "from": "Brad Frost"
+      },
+      {
+        "title": "Radiooooo (A musical time machine)",
+        "url": "https://radiooooo.com/",
+        "from": "Brad Frost"
+      },
+      {
+        "title": "Atomic Design",
+        "url": "https://atomicdesign.bradfrost.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "SMACSS",
+        "url": "http://smacss.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Deno",
+        "url": "https://deno.land/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "10 Things I Regret About Node.js - Ryan Dahl",
+        "url": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Theonline.town",
+        "url": "https://theonline.town/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Paint the Void",
+        "url": "https://paintthevoid.org/murals",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "This is Responsive - Resources (by Brad Frost!)",
+        "url": "http://bradfrost.github.io/this-is-responsive/resources.html",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Does Masonry belong in the CSS Grid specification",
+        "url": "https://rachelandrew.co.uk/archives/2020/05/05/does-masonry-belong-in-the-css-grid-specification/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Retrospective mix (1993 - 2019) by Orphx",
+        "url": "https://orphx.bandcamp.com/album/retrospective-mix-1993-2019",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "105 - A parcel of drinks - Parcel",
     "published": "June 14, 2020",
     "picks": [
