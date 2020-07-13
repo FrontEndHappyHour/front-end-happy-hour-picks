@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 107 - Public speakeasy - Public speaking
+Published: July 12, 2020
+- [Unorthodox](https://www.netflix.com/title/81019069) - Anne Ricketts
+- [Fresh Air](https://www.npr.org/podcasts/381444908/fresh-air) - Anne Ricketts
+- [How to Make Clear and Concise Points](https://www.youtube.com/watch?v=jOiI3O8l6AQ) - Ryan Burgess
+- [Blue Yeti Mic](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S) - Ryan Burgess
+- [The Midnight Gospel](https://www.netflix.com/title/80987903) - Jem Young
+- [What do executives do?](https://apenwarr.ca/log/?m=201909) - Jem Young
+- [Valley Silicon: Suvie](https://www.suvie.com/) - Jem Young
+- [Companion Wine Company Skin Contact Pinot Gris](https://companionwine.shop/products/2019-pinot-gris) - Mars Jullian
+
+
 ## Episode 106 - Carefully Sipping Sangria - CSS
 Published: June 28, 2020
 - [ModernCSS.dev](https://moderncss.dev/) - Brad Frost

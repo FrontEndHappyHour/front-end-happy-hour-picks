@@ -1,5 +1,51 @@
 [
   {
+    "episode": "107 - Public speakeasy - Public speaking",
+    "published": "July 12, 2020",
+    "picks": [
+      {
+        "title": "Unorthodox",
+        "url": "https://www.netflix.com/title/81019069",
+        "from": "Anne Ricketts"
+      },
+      {
+        "title": "Fresh Air",
+        "url": "https://www.npr.org/podcasts/381444908/fresh-air",
+        "from": "Anne Ricketts"
+      },
+      {
+        "title": "How to Make Clear and Concise Points",
+        "url": "https://www.youtube.com/watch?v=jOiI3O8l6AQ",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Blue Yeti Mic",
+        "url": "https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Midnight Gospel",
+        "url": "https://www.netflix.com/title/80987903",
+        "from": "Jem Young"
+      },
+      {
+        "title": "What do executives do?",
+        "url": "https://apenwarr.ca/log/?m=201909",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Suvie",
+        "url": "https://www.suvie.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Companion Wine Company Skin Contact Pinot Gris",
+        "url": "https://companionwine.shop/products/2019-pinot-gris",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
     "episode": "106 - Carefully Sipping Sangria - CSS",
     "published": "June 28, 2020",
     "picks": [
