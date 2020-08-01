@@ -1,6 +1,20 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 108 - Whiteboarding for our drinks - The coding interview
+Published: July 26, 2020
+- [The Developer's Guide to Book Publishing](https://www.developersguidetocontent.com/book-publishing-guide) - Emma Bostian
+- [Launch](https://www.audible.com/pd/Launch-Audiobook/B01ETNAEE0?ds_rl=1262685&ds_rl=1263561&ds_rl=1260658&source_code=GO1GB907OSH060513&gclid=CjwKCAjw0_T4BRBlEiwAwoEiAXEf0teLi80KrzRFPaJr60MUw4yQscd-bFZ6hg8dTt4zCgHS2HJ6OBoCJu0QAvD_BwE&gclsrc=aw.ds) - Emma Bostian
+- [Bus Simulator](https://store.playstation.com/en-us/product/UP2565-CUSA12261_00-BUSSIMXXXXXXXXXX) - Emma Bostian
+- [De-Coding The Technical Interview Process](https://gumroad.com/l/aUVXY#:~:text=Emma%20Bostian%20%F0%9F%90%9E,writing%20for%20all%20of%20you.) - Ryan Burgess
+- [Nomad List](https://nomadlist.com/) - Ryan Burgess
+- [Pixel Buds 2](https://store.google.com/us/product/pixel_buds) - Ryan Anklam
+- [The Last Dance Playlist](https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi?si=UWU6vFQzT-S7w5nPEew0NQ) - Ryan Anklam
+- [MagicaVoxel](https://ephtracy.github.io/) - Stacy London
+- [Leicester by Lambert](https://open.spotify.com/track/3xNGLXWGtyFsDREQJqhV8s?si=IgrOSLQARTyUEBFqqAag8A) - Stacy London
+- [I Feel Better by Ghost Culture & Kiwi](https://open.spotify.com/track/55oJX0JIBpsvr7I3zvkglz?si=Nut91SKtQFWzYc95oDVqlw) - Stacy London
+
+
 ## Episode 107 - Public speakeasy - Public speaking
 Published: July 12, 2020
 - [Unorthodox](https://www.netflix.com/title/81019069) - Anne Ricketts
