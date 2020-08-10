@@ -1,5 +1,86 @@
 [
   {
+    "episode": "109 - Quick pour - Web Performance",
+    "published": "August 09, 2020",
+    "picks": [
+      {
+        "title": "Vets who code",
+        "url": "https://vetswhocode.io/",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "Core web vitals",
+        "url": "https://web.dev/vitals/",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "You and me - meute",
+        "url": "https://www.youtube.com/watch?v=fKFbnhcNnjE",
+        "from": "Jason Miller"
+      },
+      {
+        "title": "AST Explorer",
+        "url": "https://astexplorer.net/",
+        "from": "Jason Miller"
+      },
+      {
+        "title": "Fyrtur blackout blinds from IKEA",
+        "url": "https://www.ikea.com/us/en/p/fyrtur-blackout-roller-blind-wireless-battery-operated-gray-90417462/",
+        "from": "Jason Miller"
+      },
+      {
+        "title": "When They See Us",
+        "url": "https://www.netflix.com/title/80200549",
+        "from": "Jason Miller"
+      },
+      {
+        "title": "Pink Panther Jewelry heist in a mall in Dubai",
+        "url": "https://www.youtube.com/watch?v=pG1jx7WhaAQ",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Gardner Bender EFT-15 Mini Cable",
+        "url": "https://www.amazon.com/dp/B074B3ZWMH?ref=ppx_pop_mob_ap_share",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "How to Be an Antiracist by Ibram X. Kendi",
+        "url": "https://www.ibramxkendi.com/how-to-be-an-antiracist-1",
+        "from": "Stacy London"
+      },
+      {
+        "title": "The Cost of JavaScript Frameworks by Tim Kadlec",
+        "url": "https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "User-centric performance metrics",
+        "url": "https://web.dev/user-centric-performance-metrics/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Storybook performance addon",
+        "url": "https://www.npmjs.com/package/storybook-addon-performance",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Mutt's Sauce",
+        "url": "https://www.muttssauce.com/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Vets who code",
+        "url": "https://vetswhocode.io/",
+        "from": "Brian Holt"
+      },
+      {
+        "title": "Black Visions Minnesota",
+        "url": "https://www.blackvisionsmn.org/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "108 - Whiteboarding for our drinks - The coding interview",
     "published": "July 26, 2020",
     "picks": [

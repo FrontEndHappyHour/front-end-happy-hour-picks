@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 109 - Quick pour - Web Performance
+Published: August 09, 2020
+- [Vets who code](https://vetswhocode.io/) - Kristofer Baxter
+- [Core web vitals](https://web.dev/vitals/) - Kristofer Baxter
+- [You and me - meute](https://www.youtube.com/watch?v=fKFbnhcNnjE) - Jason Miller
+- [AST Explorer](https://astexplorer.net/) - Jason Miller
+- [Fyrtur blackout blinds from IKEA](https://www.ikea.com/us/en/p/fyrtur-blackout-roller-blind-wireless-battery-operated-gray-90417462/) - Jason Miller
+- [When They See Us](https://www.netflix.com/title/80200549) - Jason Miller
+- [Pink Panther Jewelry heist in a mall in Dubai](https://www.youtube.com/watch?v=pG1jx7WhaAQ) - Ryan Burgess
+- [Gardner Bender EFT-15 Mini Cable](https://www.amazon.com/dp/B074B3ZWMH?ref=ppx_pop_mob_ap_share) - Ryan Burgess
+- [How to Be an Antiracist by Ibram X. Kendi](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) - Stacy London
+- [The Cost of JavaScript Frameworks by Tim Kadlec](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) - Stacy London
+- [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/) - Mars Jullian
+- [Storybook performance addon](https://www.npmjs.com/package/storybook-addon-performance) - Mars Jullian
+- [Mutt's Sauce](https://www.muttssauce.com/) - Brian Holt
+- [Vets who code](https://vetswhocode.io/) - Brian Holt
+- [Black Visions Minnesota](https://www.blackvisionsmn.org/) - Brian Holt
+
+
 ## Episode 108 - Whiteboarding for our drinks - The coding interview
 Published: July 26, 2020
 - [The Developer's Guide to Book Publishing](https://www.developersguidetocontent.com/book-publishing-guide) - Emma Bostian
