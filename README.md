@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 110 - Bartending to everyone - Inclusive language
+Published: August 23, 2020
+- [All Nighter playlist](https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW?si=mpBkPcVAQKuhpuefyiJWhQ) - Ryan Burgess
+- [Backwoods Chubby 3400 Smoker](https://www.backwoods-smoker.com/chubby-3400/) - Ryan Burgess
+- [Night Shift - KCET](https://www.kcet.org/shows/nightshift) - Augustus Yuan
+- [Trader Joe’s Mango & Cream Bars](https://www.traderjoes.com/digin/post/mango--cream-bars) - Augustus Yuan
+- [Seattle bans words “Brown Bag”](https://www.telegraph.co.uk/news/worldnews/northamerica/usa/10219389/Seattle-bans-words-citizen-and-brown-bag.html#:~:text=The%20phrase%20'brown%20bag'%20is,to%20gauge%20their%20skin%20tone.) - Augustus Yuan
+- [I’m no longer here](https://www.netflix.com/title/81025595) - Jem Young
+- [Valley Silicon: Balmuda - THE Toaster](https://us.balmuda.com/products/balmuda-the-toaster?variant=29954712567883) - Jem Young
+- [Progressive style guide](https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf) - Mars Jullian
+- [Dolly Chugh -- how to let go of being a good person](https://www.ted.com/talks/dolly_chugh_how_to_let_go_of_being_a_good_person_and_become_a_better_person?language=en) - Mars Jullian
+- [Part II by Spotlights](https://open.spotify.com/track/3cY28PG997flmTaWMC3Z3t?si=MaPEJNlgSgiwoFC6dpmu3Q) - Stacy London
+- [All I Need (Radiohead Cover) by Spotlights](https://spotlights.bandcamp.com/track/all-i-need-radiohead-cover) - Stacy London
+- [Alexjs.com](https://alexjs.com/) - Stacy London
+
+
 ## Episode 109 - Quick pour - Web Performance
 Published: August 09, 2020
 - [Vets who code](https://vetswhocode.io/) - Kristofer Baxter

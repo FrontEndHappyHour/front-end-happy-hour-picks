@@ -1,5 +1,71 @@
 [
   {
+    "episode": "110 - Bartending to everyone - Inclusive language",
+    "published": "August 23, 2020",
+    "picks": [
+      {
+        "title": "All Nighter playlist",
+        "url": "https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW?si=mpBkPcVAQKuhpuefyiJWhQ",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Backwoods Chubby 3400 Smoker",
+        "url": "https://www.backwoods-smoker.com/chubby-3400/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Night Shift - KCET",
+        "url": "https://www.kcet.org/shows/nightshift",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Trader Joe’s Mango & Cream Bars",
+        "url": "https://www.traderjoes.com/digin/post/mango--cream-bars",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Seattle bans words “Brown Bag”",
+        "url": "https://www.telegraph.co.uk/news/worldnews/northamerica/usa/10219389/Seattle-bans-words-citizen-and-brown-bag.html#:~:text=The%20phrase%20'brown%20bag'%20is,to%20gauge%20their%20skin%20tone.",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "I’m no longer here",
+        "url": "https://www.netflix.com/title/81025595",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Balmuda - THE Toaster",
+        "url": "https://us.balmuda.com/products/balmuda-the-toaster?variant=29954712567883",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Progressive style guide",
+        "url": "https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Dolly Chugh -- how to let go of being a good person",
+        "url": "https://www.ted.com/talks/dolly_chugh_how_to_let_go_of_being_a_good_person_and_become_a_better_person?language=en",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Part II by Spotlights",
+        "url": "https://open.spotify.com/track/3cY28PG997flmTaWMC3Z3t?si=MaPEJNlgSgiwoFC6dpmu3Q",
+        "from": "Stacy London"
+      },
+      {
+        "title": "All I Need (Radiohead Cover) by Spotlights",
+        "url": "https://spotlights.bandcamp.com/track/all-i-need-radiohead-cover",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Alexjs.com",
+        "url": "https://alexjs.com/",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "109 - Quick pour - Web Performance",
     "published": "August 09, 2020",
     "picks": [
