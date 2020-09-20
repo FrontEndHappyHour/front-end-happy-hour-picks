@@ -1,6 +1,33 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 112 - SEO - Searching for our drinks
+Published: September 20, 2020
+- [Awake](https://www.netflix.com/title/81218079) - Cole Turner
+- [Goldbelly](https://www.goldbelly.com/) - Cole Turner
+- [Coola sunscreen](https://coola.com/) - Ryan Burgess
+- [Bose 700 headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700-bose-0.html#v=noise_cancelling_headphones_700_triple_midnight) - Ryan Burgess
+- [Drivey.js](https://rezmason.github.io/drivey/) - Jem Young
+- [The Titan Games](https://www.nbc.com/the-titan-games) - Jem Young
+- [The Difference - Jon Hopkins Remix by Flume, Toro y Moi, Jon Hopkins](https://open.spotify.com/track/3743gdiZ12ZJA3VrOf6U61?si=9Y3mBFizRRysnhOfmtqmow) - Stacy London
+- [Puzzle - Trentemøller Remix by TOM And His Computer](https://open.spotify.com/track/4ZPBFxe77zzs6sGSeX9xLl?si=PYkiGR0PStOD_rubQzWjfg) - Stacy London
+
+
+## Episode 111 - Patron, Palomas, and programmatic problem solving
+Published: September 6, 2020
+- [Taco Bell Cheese Burrito](https://www.tacobell.com/news/grilled-cheese-burrito) - Nicole Archambault
+- [Battlestar Galactica](https://www.imdb.com/title/tt0407362/) - Nicole Archambault
+- [Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246) - Nicole Archambault
+- [Twenty Thousand Hertz - Ta-dum! It’s Netflix](https://www.20k.org/episodes/netflix) - Ryan Burgess
+- [Ugly Delicious](https://www.netflix.com/title/80170368) - Ryan Burgess
+- [Jem](https://twitter.com/jemyoung) - Augustus Yuan
+- [Why Interviewing is Terrible - Jem Young](https://www.reactrally.com/) - Augustus Yuan
+- [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) - Augustus Yuan
+- [Product management templates](https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37) - Jem Young
+- [Valley Silicon: Wave roller](https://www.theragun.com/us/en-us/wave-roller-us.html) - Jem Young
+- [Cole Turner: AMA](https://cole.codes/posts/ask-me-anything-career-development#how-do-you-structure-your-project-code) - Jem Young
+
+
 ## Episode 110 - Bartending to everyone - Inclusive language
 Published: August 23, 2020
 - [All Nighter playlist](https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW?si=mpBkPcVAQKuhpuefyiJWhQ) - Ryan Burgess

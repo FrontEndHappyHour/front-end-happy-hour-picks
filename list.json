@@ -1,5 +1,112 @@
 [
   {
+    "episode": "112 - SEO - Searching for our drinks",
+    "published": "September 20, 2020",
+    "picks": [
+      {
+        "title": "Awake",
+        "url": "https://www.netflix.com/title/81218079",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "Goldbelly",
+        "url": "https://www.goldbelly.com/",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "Coola sunscreen",
+        "url": "https://coola.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Bose 700 headphones",
+        "url": "https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700-bose-0.html#v=noise_cancelling_headphones_700_triple_midnight",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Drivey.js",
+        "url": "https://rezmason.github.io/drivey/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Titan Games",
+        "url": "https://www.nbc.com/the-titan-games",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Difference - Jon Hopkins Remix by Flume, Toro y Moi, Jon Hopkins",
+        "url": "https://open.spotify.com/track/3743gdiZ12ZJA3VrOf6U61?si=9Y3mBFizRRysnhOfmtqmow",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Puzzle - Trentemøller Remix by TOM And His Computer",
+        "url": "https://open.spotify.com/track/4ZPBFxe77zzs6sGSeX9xLl?si=PYkiGR0PStOD_rubQzWjfg",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "111 - Patron, Palomas, and programmatic problem solving",
+    "published": "September 6, 2020",
+    "picks": [
+      {
+        "title": "Taco Bell Cheese Burrito",
+        "url": "https://www.tacobell.com/news/grilled-cheese-burrito",
+        "from": "Nicole Archambault"
+      },
+      {
+        "title": "Battlestar Galactica",
+        "url": "https://www.imdb.com/title/tt0407362/",
+        "from": "Nicole Archambault"
+      },
+      {
+        "title": "Think Like a Programmer",
+        "url": "https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246",
+        "from": "Nicole Archambault"
+      },
+      {
+        "title": "Twenty Thousand Hertz - Ta-dum! It’s Netflix",
+        "url": "https://www.20k.org/episodes/netflix",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ugly Delicious",
+        "url": "https://www.netflix.com/title/80170368",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Jem",
+        "url": "https://twitter.com/jemyoung",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Why Interviewing is Terrible - Jem Young",
+        "url": "https://www.reactrally.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "James Hoffman",
+        "url": "https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Product management templates",
+        "url": "https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Wave roller",
+        "url": "https://www.theragun.com/us/en-us/wave-roller-us.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Cole Turner: AMA",
+        "url": "https://cole.codes/posts/ask-me-anything-career-development#how-do-you-structure-your-project-code",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "110 - Bartending to everyone - Inclusive language",
     "published": "August 23, 2020",
     "picks": [
