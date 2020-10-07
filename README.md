@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 113 - Severless - serving(less) drinks
+Published: October 4, 2020
+- [Serverless - CSS Tricks](https://serverless.css-tricks.com/) - Jerome Hardaway
+- [Lucifer](https://www.netflix.com/title/80057918) - Jerome Hardaway
+- [The Boys Season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH) - Jerome Hardaway
+- [Chef's Table BBQ](https://www.netflix.com/title/81292974) - Ryan Burgess
+- [Mixel cocktail app](https://www.mixelcocktails.com/) - Ryan Burgess
+- [Sukhe Phool - Max Cooper Firefly Remix by Yorkston/Thorne/Khan, Max Cooper](https://open.spotify.com/track/5gx6DzU69FWhz8RGn2zWXQ?si=CJDRKJLoSY2Yj2Y4r9I8KQ) - Stacy London
+- [Back to the Sky by Ólafur Arnalds](https://open.spotify.com/track/7bxHVCYpHpMn0PJEb2SwQq?si=YZkgachKQu2ZNT0ZSrxHPA) - Stacy London
+- [Fall Guys](https://fallguys.com/) - Augustus Yuan
+- [Intro to AWS Lambda and Serverless Apps ](https://www.youtube.com/watch?v=EBSdyoO3goc) - Augustus Yuan
+- [Valley Silicon: Fake window](https://www.day-lite.com/product-page/the-original-daylite-window) - Jem Young
+- [World's toughest race](https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ) - Jem Young
+
+
 ## Episode 112 - SEO - Searching for our drinks
 Published: September 20, 2020
 - [Awake](https://www.netflix.com/title/81218079) - Cole Turner

@@ -1,5 +1,66 @@
 [
   {
+    "episode": "113 - Severless - serving(less) drinks",
+    "published": "October 4, 2020",
+    "picks": [
+      {
+        "title": "Serverless - CSS Tricks",
+        "url": "https://serverless.css-tricks.com/",
+        "from": "Jerome Hardaway"
+      },
+      {
+        "title": "Lucifer",
+        "url": "https://www.netflix.com/title/80057918",
+        "from": "Jerome Hardaway"
+      },
+      {
+        "title": "The Boys Season 2",
+        "url": "https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH",
+        "from": "Jerome Hardaway"
+      },
+      {
+        "title": "Chef's Table BBQ",
+        "url": "https://www.netflix.com/title/81292974",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Mixel cocktail app",
+        "url": "https://www.mixelcocktails.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Sukhe Phool - Max Cooper Firefly Remix by Yorkston/Thorne/Khan, Max Cooper",
+        "url": "https://open.spotify.com/track/5gx6DzU69FWhz8RGn2zWXQ?si=CJDRKJLoSY2Yj2Y4r9I8KQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Back to the Sky by Ólafur Arnalds",
+        "url": "https://open.spotify.com/track/7bxHVCYpHpMn0PJEb2SwQq?si=YZkgachKQu2ZNT0ZSrxHPA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Fall Guys",
+        "url": "https://fallguys.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Intro to AWS Lambda and Serverless Apps ",
+        "url": "https://www.youtube.com/watch?v=EBSdyoO3goc",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Valley Silicon: Fake window",
+        "url": "https://www.day-lite.com/product-page/the-original-daylite-window",
+        "from": "Jem Young"
+      },
+      {
+        "title": "World's toughest race",
+        "url": "https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "112 - SEO - Searching for our drinks",
     "published": "September 20, 2020",
     "picks": [
