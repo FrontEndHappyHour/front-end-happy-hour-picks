@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 114 - Remote interviewing - drinking on video calls
+Published: October 18, 2020
+- [Polymer Clay earrings](https://www.etsy.com/market/polymer_clay_earring) - Bianca Bortolussi
+- [My Octopus Teacher](https://www.netflix.com/title/81045007) - Jen Pi
+- [Robin Sharma - The Monk Who Sold His Ferrari](https://www.amazon.com/Monk-Who-Sold-His-Ferrari/dp/0062515675) - Jen Pi
+- [Robin Sharma - The 5am Club](https://www.robinsharma.com/book/the-5am-club) - Jen Pi
+- [AMPLIFI Alien](https://amplifi.com/alien) - Ryan Burgess
+- [The American Barbecue Showdown](https://www.netflix.com/title/81057855) - Ryan Burgess
+- [It is as if you were doing work](https://www.pippinbarr.com/games/2017/07/03/it-is-as-if-you-were-doing-work.html) - Jem Young
+- [The Boys season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH) - Jem Young
+
+
 ## Episode 113 - Severless - serving(less) drinks
 Published: October 4, 2020
 - [Serverless - CSS Tricks](https://serverless.css-tricks.com/) - Jerome Hardaway
