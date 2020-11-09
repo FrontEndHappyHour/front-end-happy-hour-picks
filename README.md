@@ -1,6 +1,25 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 115 - Imposter Syndrome - Wine connoisseur with a $15 bottle
+Published: November 4, 2020
+- [OneAction.today](https://oneaction.today/) - Shirley Wu
+- [Asian Americans](https://www.pbs.org/show/asian-americans/) - Shirley Wu
+- [Nintendo Ring Fit](https://ringfitadventure.nintendo.com/) - Shirley Wu
+- [Great Pretender](https://en.wikipedia.org/wiki/Great_Pretender_(TV_series)) - Shirley Wu
+- [Knives Out](https://www.amazon.com/Knives-Out-Ana-Armas/dp/B081W544J7) - Ryan Burgess
+- [Netflix vs. the World](https://www.amazon.com/Netflix-vs-World-Derek-Cecil/dp/B087MW5JG4) - Ryan Burgess
+- [The Great British Baking Show](https://www.netflix.com/title/80063224) - Mars Jullian
+- [The Social Dilemma](https://www.netflix.com/title/81254224) - Augustus Yuan
+- [Rocket League Free to Play!](https://www.rocketleague.com/) - Augustus Yuan
+- [Fuoripista](https://www.elite-it.com/en/products/fuoripista) - Jem Young
+- [Notorious XX](https://music.youtube.com/watch?v=UC5YUaqQzb0&list=PLcyk36t4wD4bJaj7awryxAMVnRE8LlwML) - Jem Young
+- [What They Do Is Not Art by Cloudkicker](https://open.spotify.com/track/5lB7vyxgh64kyaG1SmxDF5?si=SC6mna9hRiygdwOKOi4ajw) - Stacy London
+- [Ashtabula by Cloudkicker](https://open.spotify.com/track/6YPcL1ZzJStZAgVwxoSwpZ?si=jgdaquVmQ-KnXzgXq7KANg) - Stacy London
+- [Answer My Prayer by Eschaton, Ancient Methods, Orphx](https://open.spotify.com/track/1T2rNamAQ3EDH81L1J2zdF?si=q4YG3Q5zSzO0I3n0d580Fw) - Stacy London
+- [Mozilla thread about The Social Dilemma](https://twitter.com/mozilla/status/1308542908291661824) - Stacy London
+
+
 ## Episode 114 - Remote interviewing - drinking on video calls
 Published: October 18, 2020
 - [Polymer Clay earrings](https://www.etsy.com/market/polymer_clay_earring) - Bianca Bortolussi
