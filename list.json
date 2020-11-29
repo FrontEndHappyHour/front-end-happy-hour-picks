@@ -1,5 +1,86 @@
 [
   {
+    "episode": "117 - Quitting a job - leaving the bar",
+    "published": "November 29, 2020",
+    "picks": [
+      {
+        "title": "The Art of the Protest",
+        "url": "https://www.artofprotestmovie.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Home before dark",
+        "url": "https://tv.apple.com/us/show/home-before-dark/umc.cmc.5yqy2wv4w7l0v4x5mn3le8l1y",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "In the Dark Podcast",
+        "url": "https://features.apmreports.org/in-the-dark/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Queen's Gambit",
+        "url": "https://www.netflix.com/title/80234304",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Crater Lake National Park",
+        "url": "https://www.nps.gov/crla/index.htm",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Cobra Kai",
+        "url": "https://www.netflix.com/title/81002370",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Luxury Ice",
+        "url": "https://www.glaceluxuryice.com/purchase.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Lamentations by Sufjan Stevens",
+        "url": "https://open.spotify.com/track/7sqd2IJakkVoaDHPtgB8jw?si=4qOHYlVvSZGaghg3tYZpHg",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Solutions and Other Problems by Allie Brosh",
+        "url": "https://bookshop.org/books/solutions-and-other-problems/9781982156947",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Bookshop.org",
+        "url": "https://bookshop.org",
+        "from": "Stacy London"
+      },
+      {
+        "title": "The Widening Responsibility for Frontend Developers",
+        "url": "https://app.getpocket.com/read/3134724374",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Happy Masks",
+        "url": "https://www.happymasks.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "The Good Place",
+        "url": "https://www.netflix.com/title/80113701",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Make my vote count",
+        "url": "https://www.makemyvotecount.party/",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "116 - Live at QCon Plus 2020",
+    "published": "November 15, 2020",
+    "picks": []
+  },
+  {
     "episode": "115 - Imposter Syndrome - Wine connoisseur with a $15 bottle",
     "published": "November 4, 2020",
     "picks": [

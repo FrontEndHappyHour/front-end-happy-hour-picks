@@ -1,6 +1,28 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 117 - Quitting a job - leaving the bar
+Published: November 29, 2020
+- [The Art of the Protest](https://www.artofprotestmovie.com/) - Ryan Burgess
+- [Home before dark](https://tv.apple.com/us/show/home-before-dark/umc.cmc.5yqy2wv4w7l0v4x5mn3le8l1y) - Ryan Burgess
+- [In the Dark Podcast](https://features.apmreports.org/in-the-dark/) - Augustus Yuan
+- [Queen's Gambit](https://www.netflix.com/title/80234304) - Augustus Yuan
+- [Crater Lake National Park](https://www.nps.gov/crla/index.htm) - Augustus Yuan
+- [Cobra Kai](https://www.netflix.com/title/81002370) - Jem Young
+- [Valley Silicon: Luxury Ice](https://www.glaceluxuryice.com/purchase.html) - Jem Young
+- [Lamentations by Sufjan Stevens](https://open.spotify.com/track/7sqd2IJakkVoaDHPtgB8jw?si=4qOHYlVvSZGaghg3tYZpHg) - Stacy London
+- [Solutions and Other Problems by Allie Brosh](https://bookshop.org/books/solutions-and-other-problems/9781982156947) - Stacy London
+- [Bookshop.org](https://bookshop.org) - Stacy London
+- [The Widening Responsibility for Frontend Developers](https://app.getpocket.com/read/3134724374) - Mars Jullian
+- [Happy Masks](https://www.happymasks.com/) - Mars Jullian
+- [The Good Place](https://www.netflix.com/title/80113701) - Shirley Wu
+- [Make my vote count](https://www.makemyvotecount.party/) - Shirley Wu
+
+
+## Episode 116 - Live at QCon Plus 2020
+Published: November 15, 2020
+
+
 ## Episode 115 - Imposter Syndrome - Wine connoisseur with a $15 bottle
 Published: November 4, 2020
 - [OneAction.today](https://oneaction.today/) - Shirley Wu
