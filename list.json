@@ -1,5 +1,264 @@
 [
   {
+    "episode": "121 - Transitioning to a new role - Bar hopping",
+    "published": "January 31, 2021",
+    "picks": [
+      {
+        "title": "A Promising Young Woman",
+        "url": "https://www.imdb.com/title/tt9620292/",
+        "from": "Tara Ellis"
+      },
+      {
+        "title": "Lianne La Havas",
+        "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt?autoplay=true",
+        "from": "Tara Ellis"
+      },
+      {
+        "title": "The Thrill of the Fight VR Boxing",
+        "url": "https://www.oculus.com/experiences/quest/3008315795852749",
+        "from": "Jared Jordan"
+      },
+      {
+        "title": "Nerf Rival XXI 2000 Gun",
+        "url": "https://www.theverge.com/2021/1/25/22249059/nerf-rival-curve-shot-wanted-blaster",
+        "from": "Jared Jordan"
+      },
+      {
+        "title": "The First 90 Days",
+        "url": "https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612#ace-g9766277718",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "ThermoPro meat thermometer",
+        "url": "https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Midnight Sky",
+        "url": "https://www.netflix.com/title/80244645",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Trumps Over - Macklemore",
+        "url": "https://www.youtube.com/watch?v=oq39hsXuG94",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Zen Egg",
+        "url": "https://zenegg.si/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Alternative wood Egg",
+        "url": "https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6",
+        "from": "Jem Young"
+      },
+      {
+        "title": "css-for-js.dev",
+        "url": "https://css-for-js.dev/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Happy Masks",
+        "url": "https://www.happymasks.com/",
+        "from": "Mars Jullian"
+      }
+    ]
+  },
+  {
+    "episode": "120 - Building side projects - Served with a tasty Sidecar",
+    "published": "Jan 17, 2020",
+    "picks": [
+      {
+        "title": "The Adventure Zone",
+        "url": "https://maximumfun.org/podcasts/adventure-zone/",
+        "from": "Evan Payne"
+      },
+      {
+        "title": "CriticalRole",
+        "url": "https://www.twitch.tv/criticalrole",
+        "from": "Evan Payne"
+      },
+      {
+        "title": "The Undoing",
+        "url": "https://www.hbo.com/the-undoing",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Euphoria",
+        "url": "https://www.hbomax.com/eu",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lupin",
+        "url": "https://www.netflix.com/title/80994082",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Awair Element",
+        "url": "https://www.getawair.com/home/element",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Green Onion Kit",
+        "url": "https://www.hamama.com/products/green-onion-kit",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Bubblesort Zines",
+        "url": "https://shop.bubblesort.io/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Semihandmade",
+        "url": "https://www.semihandmade.com/",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "119 - 2020 reflections - Fireball shots",
+    "published": "December 31, 2020",
+    "picks": [
+      {
+        "title": "A Teacher",
+        "url": "https://www.hulu.com/series/a-teacher-1c871218-05b1-4c66-a22f-260b2cb9bbf9",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Big Sky",
+        "url": "https://www.hulu.com/series/big-sky-ffef9dd4-c116-4bdb-9e76-a7ea41ad95cf",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Alice in Borderland",
+        "url": "https://www.netflix.com/title/80200575",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Building a button",
+        "url": "https://react-spectrum.adobe.com/blog/building-a-button-part-1.html",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Professional Tag",
+        "url": "https://kottke.org/20/12/inside-the-world-of-professional-tag",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Lovesac",
+        "url": "https://www.lovesac.com/sacs/supersac-insert-and-cover-wombat-wombat-phur.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Her Revolution by Burial, Four Tet, Thom Yorke",
+        "url": "https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw?si=adkW-1eSRjO5ryqw-Wy8Vw",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Dawn Chorus by Jon Hopkins",
+        "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D?si=uSvcVdM0QditLY615327Aw",
+        "from": "Stacy London"
+      },
+      {
+        "title": "My favorite tracks from 2020",
+        "url": "https://open.spotify.com/playlist/38gCMR935kMiiBCBYJr6lR?si=j3PLxZkfTX2sl0nt2ZkZIQ",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Dermaplus SF",
+        "url": "https://www.dermaplusskin.com/shop",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Smart Pet Feeder (Feeder Connect)",
+        "url": "https://www.surepetcare.com/en-us/pet-feeder/microchip-pet-feeder-connect",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "BLACKPINK: Light Up the Sky",
+        "url": "https://www.netflix.com/title/81106901",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Doodle Therapy",
+        "url": "https://www.byalicelee.com/doodle-therapy",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "118 - Good manager, bad manager - tasty drink, bland drink",
+    "published": "December 20, 2020",
+    "picks": [
+      {
+        "title": "Engineering Manager Resources",
+        "url": "https://github.com/ryanburgess/engineer-manager",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Seeking Truth in Networking - Insider Stories from Early Silicon Valley (and Ethernet!) with Bob Metcalfe",
+        "url": "https://seekingtruthinnetworking.com/podcast/episode-02-bob-metcalfe-pt-1/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "SVG Path Editor",
+        "url": "https://yqnn.github.io/svg-path-editor/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "The rising of the shield hero",
+        "url": "https://en.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Aunty Donna’s Big Ol’ House of Fun",
+        "url": "https://www.netflix.com/title/81009617",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Cuddle Down Pillow",
+        "url": "https://www.cuddledown.com/itemdy00.aspx?ID=79,3280&T1=Z1199+100+72+03",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Black Trees by Indian Wells",
+        "url": "",
+        "from": "Stacy London"
+      },
+      {
+        "title": "The Upward Spiral - Overlook Remix by Overlook & Nicolas Bougaïeff",
+        "url": "",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Trader Joe’s advent calendar for cats",
+        "url": "https://www.traderjoes.com/FearlessFlyer/Article/5655",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Stasher reusable silicone bag",
+        "url": "https://www.stasherbag.com/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "The Imagineering Story",
+        "url": "https://en.wikipedia.org/wiki/The_Imagineering_Story",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Going Under",
+        "url": "https://aggrocrab.com/GoingUnder-1",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Vets who code",
+        "url": "https://vetswhocode.io/",
+        "from": "Brian Holt"
+      }
+    ]
+  },
+  {
     "episode": "117 - Quitting a job - leaving the bar",
     "published": "November 29, 2020",
     "picks": [

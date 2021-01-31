@@ -1,6 +1,69 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 121 - Transitioning to a new role - Bar hopping
+Published: January 31, 2021
+- [A Promising Young Woman](https://www.imdb.com/title/tt9620292/) - Tara Ellis
+- [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt?autoplay=true) - Tara Ellis
+- [The Thrill of the Fight VR Boxing](https://www.oculus.com/experiences/quest/3008315795852749) - Jared Jordan
+- [Nerf Rival XXI 2000 Gun](https://www.theverge.com/2021/1/25/22249059/nerf-rival-curve-shot-wanted-blaster) - Jared Jordan
+- [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612#ace-g9766277718) - Ryan Burgess
+- [ThermoPro meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/) - Ryan Burgess
+- [The Midnight Sky](https://www.netflix.com/title/80244645) - Jem Young
+- [Trumps Over - Macklemore](https://www.youtube.com/watch?v=oq39hsXuG94) - Jem Young
+- [Valley Silicon: Zen Egg](https://zenegg.si/) - Jem Young
+- [Alternative wood Egg](https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6) - Jem Young
+- [css-for-js.dev](https://css-for-js.dev/) - Mars Jullian
+- [Happy Masks](https://www.happymasks.com/) - Mars Jullian
+
+
+## Episode 120 - Building side projects - Served with a tasty Sidecar
+Published: Jan 17, 2020
+- [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - Evan Payne
+- [CriticalRole](https://www.twitch.tv/criticalrole) - Evan Payne
+- [The Undoing](https://www.hbo.com/the-undoing) - Ryan Burgess
+- [Euphoria](https://www.hbomax.com/eu) - Ryan Burgess
+- [Lupin](https://www.netflix.com/title/80994082) - Jem Young
+- [Awair Element](https://www.getawair.com/home/element) - Jem Young
+- [Valley Silicon: Green Onion Kit](https://www.hamama.com/products/green-onion-kit) - Jem Young
+- [Bubblesort Zines](https://shop.bubblesort.io/) - Shirley Wu
+- [Semihandmade](https://www.semihandmade.com/) - Shirley Wu
+
+
+## Episode 119 - 2020 reflections - Fireball shots
+Published: December 31, 2020
+- [A Teacher](https://www.hulu.com/series/a-teacher-1c871218-05b1-4c66-a22f-260b2cb9bbf9) - Ryan Burgess
+- [Big Sky](https://www.hulu.com/series/big-sky-ffef9dd4-c116-4bdb-9e76-a7ea41ad95cf) - Ryan Burgess
+- [Alice in Borderland](https://www.netflix.com/title/80200575) - Augustus Yuan
+- [Building a button](https://react-spectrum.adobe.com/blog/building-a-button-part-1.html) - Augustus Yuan
+- [Professional Tag](https://kottke.org/20/12/inside-the-world-of-professional-tag) - Jem Young
+- [Valley Silicon: Lovesac](https://www.lovesac.com/sacs/supersac-insert-and-cover-wombat-wombat-phur.html) - Jem Young
+- [Her Revolution by Burial, Four Tet, Thom Yorke](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw?si=adkW-1eSRjO5ryqw-Wy8Vw) - Stacy London
+- [Dawn Chorus by Jon Hopkins](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D?si=uSvcVdM0QditLY615327Aw) - Stacy London
+- [My favorite tracks from 2020](https://open.spotify.com/playlist/38gCMR935kMiiBCBYJr6lR?si=j3PLxZkfTX2sl0nt2ZkZIQ) - Stacy London
+- [Dermaplus SF](https://www.dermaplusskin.com/shop) - Mars Jullian
+- [Smart Pet Feeder (Feeder Connect)](https://www.surepetcare.com/en-us/pet-feeder/microchip-pet-feeder-connect) - Mars Jullian
+- [BLACKPINK: Light Up the Sky](https://www.netflix.com/title/81106901) - Shirley Wu
+- [Doodle Therapy](https://www.byalicelee.com/doodle-therapy) - Shirley Wu
+
+
+## Episode 118 - Good manager, bad manager - tasty drink, bland drink
+Published: December 20, 2020
+- [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Ryan Burgess
+- [Seeking Truth in Networking - Insider Stories from Early Silicon Valley (and Ethernet!) with Bob Metcalfe](https://seekingtruthinnetworking.com/podcast/episode-02-bob-metcalfe-pt-1/) - Ryan Burgess
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) - Augustus Yuan
+- [The rising of the shield hero](https://en.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero) - Augustus Yuan
+- [Aunty Donna’s Big Ol’ House of Fun](https://www.netflix.com/title/81009617) - Jem Young
+- [Valley Silicon: Cuddle Down Pillow](https://www.cuddledown.com/itemdy00.aspx?ID=79,3280&T1=Z1199+100+72+03) - Jem Young
+- [Black Trees by Indian Wells]() - Stacy London
+- [The Upward Spiral - Overlook Remix by Overlook & Nicolas Bougaïeff]() - Stacy London
+- [Trader Joe’s advent calendar for cats](https://www.traderjoes.com/FearlessFlyer/Article/5655) - Mars Jullian
+- [Stasher reusable silicone bag](https://www.stasherbag.com/) - Mars Jullian
+- [The Imagineering Story](https://en.wikipedia.org/wiki/The_Imagineering_Story) - Shirley Wu
+- [Going Under](https://aggrocrab.com/GoingUnder-1) - Shirley Wu
+- [Vets who code](https://vetswhocode.io/) - Brian Holt
+
+
 ## Episode 117 - Quitting a job - leaving the bar
 Published: November 29, 2020
 - [The Art of the Protest](https://www.artofprotestmovie.com/) - Ryan Burgess
