@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 122 - Productivity Engineering - Ballmer Peak
+Published: February 14, 2021
+- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/) - Kathryn Koehler
+- [Lolita](https://www.audible.com/ep/title/?asin=B002V8MJ9Y) - Kathryn Koehler
+- [Team of Rivals](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0684824906) - Andy Glover
+- [Undercover](https://www.netflix.com/title/80225312) - Andy Glover
+- [NetflixEng Spotify playlist](https://open.spotify.com/playlist/45hTU6aykhDtSgy9DT5Nsh?si=2L2Z8t8jRq6NUiPUQtbDNw) - Ryan Burgess
+- [Mother In Law's Tongue Plant](https://www.thesill.com/products/snake-plant-laurentii?variant=32566748053609) - Ryan Burgess
+- [Star Trek Discovery](https://www.netflix.com/gb/title/80126024) - Jem Young
+- [AirBiotech 360](https://www.aroma360.com/products/airbiotech360) - Jem Young
+- [Colours so Dub by Tiga](https://open.spotify.com/track/57vXrMyOHtJnCVEGlWHNFM?si=pr_4CWkeSYq-mBmawNgMsQ) - Stacy London
+- [Colours so Bright by Tiga](https://open.spotify.com/track/01DZS6bsY83AOwJ4cJ1hyG?si=Q6sw7_mgRTGTWtoCeA9N-w) - Stacy London
+- [6000 Ft. Bonobo, Totally Enormous Extinct Dinosaurs](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1?si=c5zBdgK5QCmb-AFzez87vQ) - Stacy London
+
+
 ## Episode 121 - Transitioning to a new role - Bar hopping
 Published: January 31, 2021
 - [A Promising Young Woman](https://www.imdb.com/title/tt9620292/) - Tara Ellis
