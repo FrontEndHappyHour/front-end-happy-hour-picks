@@ -1,6 +1,47 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 125 - Non-traditional backgrounds - Old Fashioneds with a twist
+Published: March 28, 2021
+- [Peter Gregson: Bach - The Cello Suites](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ?si=BUfy7xM_QfKvBt-Eo887Gw) - David Simmer
+- [The Aviary Book](https://www.theaviarybook.com/) - David Simmer
+- [Matt Levine Newsletter](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - David Simmer
+- [Reuschelle’s Cheesecakes](https://www.reuschelles.com/) - David Simmer
+- [Change Github repositories from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/) - Ryan Burgess
+- [Ryan’s Dad’s In Tech Interview](https://dadsintech.substack.com/p/ryan-burgess-software-engineering?token=eyJ1c2VyX2lkIjoxMDQ5MDM0MCwicG9zdF9pZCI6MzEzMTU5MzYsIl8iOiJYeldzaiIsImlhdCI6MTYxNjg3NTM2MiwiZXhwIjoxNjE2ODc4OTYyLCJpc3MiOiJwdWItMTE4MjU3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.FBV5YglW_kJpyxBEHYKQLSlkw898ObKYD12Kdv2v1BI) - Ryan Burgess
+- [Valley Silicon: Burrito Holder](https://www.kickstarter.com/projects/madelinw/burrito-pop-a-twistable-burrito-holder) - Jem Young
+- [Visual Cinnamon](https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz/) - Shirley Wu
+- [Visual Cinnamon Resources](https://www.visualcinnamon.com/resources/learning-data-visualization/ ) - Shirley Wu
+- [Cinema Therapy](https://www.youtube.com/channel/UCCYX4s1DCn51Hpf1peHS30Q) - Shirley Wu
+
+
+## Episode 124 - Software estimating - two finger pour
+Published: March 14, 2021
+- [Rebuild Black Business](https://www.youtube.com/channel/UCk01dYcLW-j3W_cND0lc0vQ) - Ryan Burgess
+- [Good Girls](https://www.netflix.com/title/80177342) - Ryan Burgess
+- [Amazon Builders Library](https://aws.amazon.com/builders-library/) - Augustus Yuan
+- [Valheim](https://store.steampowered.com/app/892970/Valheim/) - Augustus Yuan
+- [Agile](https://www.atlassian.com/agile) - Augustus Yuan
+- [Here’s Why All Your Projects Are Always Late — and What to Do About It](https://freakonomics.com/podcast/project-management/) - Stacy London
+- [Innergaze by Heidi Sabertooth](https://open.spotify.com/track/5UXZtddbtZqzqZYzqhIPAe?si=awPXFWEKTkqo2xZsUU54ng) - Stacy London
+- [Lenticular Hologram Rainbow Gradient Puzzle](https://www.playgroup.design/#1000-colours) - Shirley Wu
+- [D3 10 Years! Livestream](https://www.youtube.com/watch?v=1YLvtnQGXK0) - Shirley Wu
+- [Creative Cuties Discord](http://creativecuties.net/) - Shirley Wu
+
+
+## Episode 123 - Documentation - the bartenders' almanac
+Published: February 28, 2021
+- [Quevos Chips](https://quevos.com/) - Ryan Burgess
+- [Oreo ID cookies](https://www.oreo.com/oreoid-1) - Ryan Burgess
+- [Warrior](https://www.hbomax.com/series/urn:hbo:series:GXSySgQ5Pe06olAEAAAJr) - Augustus Yuan
+- [Slack's Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/) - Augustus Yuan
+- [Summoning by Hum](https://open.spotify.com/track/0kyK9b2bC3INVSZza9kq2o?si=zX9jGZy4QFOg0O7Ak_M1jg) - Stacy London
+- [River by Octo Octa](https://open.spotify.com/track/5su53Xdmss3Sh3Fhv9BkUf?si=aYdGK11lTOq624zUrnwxRA) - Stacy London
+- [Frontend focus](https://frontendfoc.us/) - Mars Jullian
+- [Bling Empire](https://www.netflix.com/title/81039144) - Shirley Wu
+- [Accented Cinema](https://www.youtube.com/channel/UCH_VqR5rFFhgjZmM31xA3Ag) - Shirley Wu
+
+
 ## Episode 122 - Productivity Engineering - Ballmer Peak
 Published: February 14, 2021
 - [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/) - Kathryn Koehler

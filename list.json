@@ -1,5 +1,168 @@
 [
   {
+    "episode": "125 - Non-traditional backgrounds - Old Fashioneds with a twist",
+    "published": "March 28, 2021",
+    "picks": [
+      {
+        "title": "Peter Gregson: Bach - The Cello Suites",
+        "url": "https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ?si=BUfy7xM_QfKvBt-Eo887Gw",
+        "from": "David Simmer"
+      },
+      {
+        "title": "The Aviary Book",
+        "url": "https://www.theaviarybook.com/",
+        "from": "David Simmer"
+      },
+      {
+        "title": "Matt Levine Newsletter",
+        "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine",
+        "from": "David Simmer"
+      },
+      {
+        "title": "Reuschelle’s Cheesecakes",
+        "url": "https://www.reuschelles.com/",
+        "from": "David Simmer"
+      },
+      {
+        "title": "Change Github repositories from master to main",
+        "url": "https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ryan’s Dad’s In Tech Interview",
+        "url": "https://dadsintech.substack.com/p/ryan-burgess-software-engineering?token=eyJ1c2VyX2lkIjoxMDQ5MDM0MCwicG9zdF9pZCI6MzEzMTU5MzYsIl8iOiJYeldzaiIsImlhdCI6MTYxNjg3NTM2MiwiZXhwIjoxNjE2ODc4OTYyLCJpc3MiOiJwdWItMTE4MjU3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.FBV5YglW_kJpyxBEHYKQLSlkw898ObKYD12Kdv2v1BI",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Valley Silicon: Burrito Holder",
+        "url": "https://www.kickstarter.com/projects/madelinw/burrito-pop-a-twistable-burrito-holder",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Visual Cinnamon",
+        "url": "https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Visual Cinnamon Resources",
+        "url": "https://www.visualcinnamon.com/resources/learning-data-visualization/ ",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Cinema Therapy",
+        "url": "https://www.youtube.com/channel/UCCYX4s1DCn51Hpf1peHS30Q",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "124 - Software estimating - two finger pour",
+    "published": "March 14, 2021",
+    "picks": [
+      {
+        "title": "Rebuild Black Business",
+        "url": "https://www.youtube.com/channel/UCk01dYcLW-j3W_cND0lc0vQ",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Good Girls",
+        "url": "https://www.netflix.com/title/80177342",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Amazon Builders Library",
+        "url": "https://aws.amazon.com/builders-library/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Valheim",
+        "url": "https://store.steampowered.com/app/892970/Valheim/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Agile",
+        "url": "https://www.atlassian.com/agile",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Here’s Why All Your Projects Are Always Late — and What to Do About It",
+        "url": "https://freakonomics.com/podcast/project-management/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Innergaze by Heidi Sabertooth",
+        "url": "https://open.spotify.com/track/5UXZtddbtZqzqZYzqhIPAe?si=awPXFWEKTkqo2xZsUU54ng",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Lenticular Hologram Rainbow Gradient Puzzle",
+        "url": "https://www.playgroup.design/#1000-colours",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "D3 10 Years! Livestream",
+        "url": "https://www.youtube.com/watch?v=1YLvtnQGXK0",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Creative Cuties Discord",
+        "url": "http://creativecuties.net/",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "123 - Documentation - the bartenders' almanac",
+    "published": "February 28, 2021",
+    "picks": [
+      {
+        "title": "Quevos Chips",
+        "url": "https://quevos.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Oreo ID cookies",
+        "url": "https://www.oreo.com/oreoid-1",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Warrior",
+        "url": "https://www.hbomax.com/series/urn:hbo:series:GXSySgQ5Pe06olAEAAAJr",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Slack's Outage on January 4th 2021",
+        "url": "https://slack.engineering/slacks-outage-on-january-4th-2021/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Summoning by Hum",
+        "url": "https://open.spotify.com/track/0kyK9b2bC3INVSZza9kq2o?si=zX9jGZy4QFOg0O7Ak_M1jg",
+        "from": "Stacy London"
+      },
+      {
+        "title": "River by Octo Octa",
+        "url": "https://open.spotify.com/track/5su53Xdmss3Sh3Fhv9BkUf?si=aYdGK11lTOq624zUrnwxRA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Frontend focus",
+        "url": "https://frontendfoc.us/",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "Bling Empire",
+        "url": "https://www.netflix.com/title/81039144",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Accented Cinema",
+        "url": "https://www.youtube.com/channel/UCH_VqR5rFFhgjZmM31xA3Ag",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
     "episode": "122 - Productivity Engineering - Ballmer Peak",
     "published": "February 14, 2021",
     "picks": [
