@@ -1,5 +1,76 @@
 [
   {
+    "episode": "126 - Core Web Vitals - Vital libations",
+    "published": "April 11, 2021",
+    "picks": [
+      {
+        "title": "Hackers movie Soundtrack",
+        "url": "https://open.spotify.com/playlist/1CPRHLYc5fSjEGy9Rge065",
+        "from": "Addy Osmani"
+      },
+      {
+        "title": "Web.dev Content Visibility",
+        "url": "https://web.dev/content-visibility/",
+        "from": "Addy Osmani"
+      },
+      {
+        "title": "ESBuild",
+        "url": "https://github.com/evanw/esbuild",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "Outsmartly",
+        "url": "https://www.outsmartly.com/",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "Soul Soundtrack",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "AMP Project",
+        "url": "https://opensource.google/projects/ampproject",
+        "from": "Kristofer Baxter"
+      },
+      {
+        "title": "Tell Us Your Secrets",
+        "url": "https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Dave",
+        "url": "https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Excalidraw",
+        "url": "https://excalidraw.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Web.dev Defining Core Web Vitals",
+        "url": "https://web.dev/defining-core-web-vitals-thresholds/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Gold by Glassjaw",
+        "url": "https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj?si=Dpzkmrl4TP61OOLKH2ccSA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Clipper - Another 5 Years by Overmono",
+        "url": "https://open.spotify.com/track/2BNYD9fzhgODUQ5rrCDHm9?si=lUcBa4UMTB2xhb-z-dId0w",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Chinese knots earrings by _baomii",
+        "url": "https://www.instagram.com/p/CL7Sg_Mji_c/",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
     "episode": "125 - Non-traditional backgrounds - Old Fashioneds with a twist",
     "published": "March 28, 2021",
     "picks": [

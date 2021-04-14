@@ -1,6 +1,23 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 126 - Core Web Vitals - Vital libations
+Published: April 11, 2021
+- [Hackers movie Soundtrack](https://open.spotify.com/playlist/1CPRHLYc5fSjEGy9Rge065) - Addy Osmani
+- [Web.dev Content Visibility](https://web.dev/content-visibility/) - Addy Osmani
+- [ESBuild](https://github.com/evanw/esbuild) - Kristofer Baxter
+- [Outsmartly](https://www.outsmartly.com/) - Kristofer Baxter
+- [Soul Soundtrack](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) - Kristofer Baxter
+- [AMP Project](https://opensource.google/projects/ampproject) - Kristofer Baxter
+- [Tell Us Your Secrets](https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z) - Ryan Burgess
+- [Dave](https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946) - Ryan Burgess
+- [Excalidraw](https://excalidraw.com/) - Augustus Yuan
+- [Web.dev Defining Core Web Vitals](https://web.dev/defining-core-web-vitals-thresholds/) - Augustus Yuan
+- [Gold by Glassjaw](https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj?si=Dpzkmrl4TP61OOLKH2ccSA) - Stacy London
+- [Clipper - Another 5 Years by Overmono](https://open.spotify.com/track/2BNYD9fzhgODUQ5rrCDHm9?si=lUcBa4UMTB2xhb-z-dId0w) - Stacy London
+- [Chinese knots earrings by _baomii](https://www.instagram.com/p/CL7Sg_Mji_c/) - Shirley Wu
+
+
 ## Episode 125 - Non-traditional backgrounds - Old Fashioneds with a twist
 Published: March 28, 2021
 - [Peter Gregson: Bach - The Cello Suites](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ?si=BUfy7xM_QfKvBt-Eo887Gw) - David Simmer
