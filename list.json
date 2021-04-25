@@ -1,5 +1,41 @@
 [
   {
+    "episode": "127 - Writing a technical book - drafts on tap",
+    "published": "April 25, 2021",
+    "picks": [
+      {
+        "title": "Datasketch.es",
+        "url": "https://www.datasketch.es/",
+        "from": "Nadieh Bremer"
+      },
+      {
+        "title": "Fab Academy",
+        "url": "https://fabacademy.org/",
+        "from": "Nadieh Bremer"
+      },
+      {
+        "title": "Biggie: I Got a Story to Tell",
+        "url": "https://www.netflix.com/title/80202829",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Everybody Matters: The Extraordinary Power of Caring for Your People Like Family",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lullatone",
+        "url": "https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Data Sketches Book Launch",
+        "url": "https://www.youtube.com/watch?v=qkoEN0P29Q0",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
     "episode": "126 - Core Web Vitals - Vital libations",
     "published": "April 11, 2021",
     "picks": [

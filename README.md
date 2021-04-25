@@ -1,6 +1,16 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 127 - Writing a technical book - drafts on tap
+Published: April 25, 2021
+- [Datasketch.es](https://www.datasketch.es/) - Nadieh Bremer
+- [Fab Academy](https://fabacademy.org/) - Nadieh Bremer
+- [Biggie: I Got a Story to Tell](https://www.netflix.com/title/80202829) - Ryan Burgess
+- [Everybody Matters: The Extraordinary Power of Caring for Your People Like Family](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - Ryan Burgess
+- [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) - Shirley Wu
+- [Data Sketches Book Launch](https://www.youtube.com/watch?v=qkoEN0P29Q0) - Shirley Wu
+
+
 ## Episode 126 - Core Web Vitals - Vital libations
 Published: April 11, 2021
 - [Hackers movie Soundtrack](https://open.spotify.com/playlist/1CPRHLYc5fSjEGy9Rge065) - Addy Osmani
