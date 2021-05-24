@@ -1,6 +1,33 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 129 - Allyship - Inviting everyone to the party
+Published: May 23, 2021
+- [Genius Series](https://www.hulu.com/series/genius-aretha-7af1d69e-e299-4f1c-be19-00018b903d3c) - Karen Catlin
+- [Better Allies Newsletter](https://betterallies.com/more-content/) - Karen Catlin
+- [Inclusion resources](https://github.com/ryanburgess/inclusion) - Ryan Burgess
+- [Stream Deck](https://www.elgato.com/en/stream-deck-mini) - Ryan Burgess
+- [Being the glue](https://noidea.dog/glue) - Stacy London
+- [Foxglove by Tor](https://open.spotify.com/track/1hlRIwZvOmQZVepbj10cJ1?si=WGAlcQ6FQ0SXJaXPQ_Avuw) - Stacy London
+- [Ellery Studio](https://www.ellerystudio.com/) - Shirley Wu
+- [Kontinentalist](https://kontinentalist.com/) - Shirley Wu
+
+
+## Episode 128 - Branding & self-promotion - mimosa and self-promosa
+Published: May 9, 2021
+- [Creative Cuties Discord](https://discord.com/invite/TrbPtEf3NH) - Alice Lee
+- [Survivor](https://www.cbs.com/shows/survivor/) - Alice Lee
+- [Better Allies](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - Ryan Burgess
+- [Megalobox](https://www.netflix.com/title/80987707) - Augustus Yuan
+- [Raya and the Last Dragon](https://movies.disney.com/raya-and-the-last-dragon) - Augustus Yuan
+- [Summit1G quit Fortnite and everything change](https://www.youtube.com/watch?v=PM1SEjbUfzI) - Augustus Yuan
+- [Formula 1: Drive to Survive](https://www.netflix.com/title/80204890) - Jem Young
+- [Buttplug.io](https://buttplug.io/) - Jem Young
+- [Alice's mural at the Asian Art Museum](https://www.byalicelee.com/asian-art-museum) - Shirley Wu
+- [Chinese Animation: In Search of a Style](https://www.youtube.com/watch?v=Xwx6i4IQcFw) - Shirley Wu
+- [WandaVision](https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH) - Shirley Wu
+
+
 ## Episode 127 - Writing a technical book - drafts on tap
 Published: April 25, 2021
 - [Datasketch.es](https://www.datasketch.es/) - Nadieh Bremer
