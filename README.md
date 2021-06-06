@@ -1,6 +1,23 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 130 - Stack and infrastructure shaping culture - Drink choice to set the vibe
+Published: June 6, 2021
+- [Ooni Koda Pizza Oven](https://ooni.com/products/ooni-koda) - Jason Lengstorf
+- [Coava Coffee](https://coavacoffee.com/) - Jason Lengstorf
+- [Standing Out LOUDER in the Technical Interview](https://cole.codes/posts/standing-out-louder-in-the-technical-interview) - Ryan Burgess
+- [Mare of Easttown](https://www.hbo.com/mare-of-easttown) - Ryan Burgess
+- [Invincible](https://www.amazon.com/INVINCIBLE-SEASON-1/dp/B08WJMRHYZ) - Jem Young
+- [FLoC](https://plausible.io/blog/google-floc) - Jem Young
+- [Workout axe](https://b8ta.com/product/chopper) - Jem Young
+- [Lilys by Warpaint](https://open.spotify.com/track/4oK4XJa92LlpMNAzx1TMlP?si=d362b7fc70064ea8) - Stacy London
+- [Animal by LUMP, Laura Marling, Mike Lindsay](https://open.spotify.com/track/6fcJI9qrH0vr9EYxjpQdaM?si=4010b3def71a4e89) - Stacy London
+- [So I’m a Spider, So What?](https://www.netflix.com/title/81392169) - Shirley Wu
+- [Amy’s Noisebridge mural!](https://www.noisebridge.net/) - Shirley Wu
+- [Tropical weather coffee - Onyx coffee](https://onyxcoffeelab.com/products/tropical-weather) - Brian Holt
+- [Mythic Quest](https://tv.apple.com/us/show/mythic-quest/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3) - Brian Holt
+
+
 ## Episode 129 - Allyship - Inviting everyone to the party
 Published: May 23, 2021
 - [Genius Series](https://www.hulu.com/series/genius-aretha-7af1d69e-e299-4f1c-be19-00018b903d3c) - Karen Catlin
