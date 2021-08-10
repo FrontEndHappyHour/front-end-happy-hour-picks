@@ -1,5 +1,102 @@
 [
   {
+    "episode": "133 - It’s 5 o’clock somewhere - Joining a remote team",
+    "published": "August 8, 2021",
+    "picks": [
+      {
+        "title": "T-Pain tiny desk concert",
+        "url": "https://www.youtube.com/watch?v=CIjXUg1s5gc",
+        "from": "Laurie Barth"
+      },
+      {
+        "title": "Love Island (US)",
+        "url": "https://www.cbs.com/shows/love-island/",
+        "from": "Laurie Barth"
+      },
+      {
+        "title": "Deep kitchen sinks",
+        "url": "",
+        "from": "Laurie Barth"
+      },
+      {
+        "title": "Vacation Races",
+        "url": "https://vacationraces.com/",
+        "from": "Lucero Carmona"
+      },
+      {
+        "title": "Radiolab podcast",
+        "url": "https://www.wnycstudios.org/podcasts/radiolab/podcasts",
+        "from": "Lucero Carmona"
+      },
+      {
+        "title": "Heist",
+        "url": "https://www.netflix.com/title/81087195",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Coolibar clothing",
+        "url": "https://www.coolibar.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Alone",
+        "url": "https://www.netflix.com/watch/81281294?trackId=14170056",
+        "from": "Jem Young"
+      },
+      {
+        "title": "'Smart' motorcycle vest",
+        "url": "https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Drive to Survive",
+        "url": "https://www.netflix.com/title/80204890",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "This is Pop",
+        "url": "https://www.netflix.com/title/81050786",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Anti-pick: Kumoko",
+        "url": "https://kumodesu.fandom.com/wiki/Kumoko",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "132 - Test Engineering - Beverage quality assurance",
+    "published": "July 18, 2021",
+    "picks": [
+      {
+        "title": "Sand cloud towel beach",
+        "url": "https://www.sandcloud.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Bissell Little Green",
+        "url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK/ref=sr_1_3?dchild=1&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4at4HiUYEAzfsTi9Xy5k4W7bsZb9TXJm3gG8sP9Dm6gcya0TqRY_FFUaAl8wEALw_wcB&hvadid=346223982684&hvdev=c&hvlocphy=9061273&hvnetw=g&hvqmt=e&hvrand=3845771443590492108&hvtargid=kwd-295629423066&hydadcr=8677_9761165&keywords=bissell+little+green&qid=1625753759&sr=8-3",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Xupermask",
+        "url": "https://xupermask.com/buy/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "100 Tips for a better life",
+        "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "131 - Diversity and inclusion - Tech(K)now Day",
+    "published": "July 4, 2021",
+    "picks": []
+  },
+  {
     "episode": "130 - Stack and infrastructure shaping culture - Drink choice to set the vibe",
     "published": "June 6, 2021",
     "picks": [

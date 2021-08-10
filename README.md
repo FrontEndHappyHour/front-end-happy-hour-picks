@@ -1,6 +1,34 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 133 - It’s 5 o’clock somewhere - Joining a remote team
+Published: August 8, 2021
+- [T-Pain tiny desk concert](https://www.youtube.com/watch?v=CIjXUg1s5gc) - Laurie Barth
+- [Love Island (US)](https://www.cbs.com/shows/love-island/) - Laurie Barth
+- [Deep kitchen sinks]() - Laurie Barth
+- [Vacation Races](https://vacationraces.com/) - Lucero Carmona
+- [Radiolab podcast](https://www.wnycstudios.org/podcasts/radiolab/podcasts) - Lucero Carmona
+- [Heist](https://www.netflix.com/title/81087195) - Ryan Burgess
+- [Coolibar clothing](https://www.coolibar.com/) - Ryan Burgess
+- [Alone](https://www.netflix.com/watch/81281294?trackId=14170056) - Jem Young
+- ['Smart' motorcycle vest](https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment) - Jem Young
+- [Drive to Survive](https://www.netflix.com/title/80204890) - Shirley Wu
+- [This is Pop](https://www.netflix.com/title/81050786) - Shirley Wu
+- [Anti-pick: Kumoko](https://kumodesu.fandom.com/wiki/Kumoko) - Shirley Wu
+
+
+## Episode 132 - Test Engineering - Beverage quality assurance
+Published: July 18, 2021
+- [Sand cloud towel beach](https://www.sandcloud.com/) - Ryan Burgess
+- [Bissell Little Green](https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK/ref=sr_1_3?dchild=1&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4at4HiUYEAzfsTi9Xy5k4W7bsZb9TXJm3gG8sP9Dm6gcya0TqRY_FFUaAl8wEALw_wcB&hvadid=346223982684&hvdev=c&hvlocphy=9061273&hvnetw=g&hvqmt=e&hvrand=3845771443590492108&hvtargid=kwd-295629423066&hydadcr=8677_9761165&keywords=bissell+little+green&qid=1625753759&sr=8-3) - Ryan Burgess
+- [Xupermask](https://xupermask.com/buy/) - Jem Young
+- [100 Tips for a better life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) - Jem Young
+
+
+## Episode 131 - Diversity and inclusion - Tech(K)now Day
+Published: July 4, 2021
+
+
 ## Episode 130 - Stack and infrastructure shaping culture - Drink choice to set the vibe
 Published: June 6, 2021
 - [Ooni Koda Pizza Oven](https://ooni.com/products/ooni-koda) - Jason Lengstorf
