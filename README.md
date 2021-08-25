@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 134 - Individual contributor to manager - Transitioning into a bartender
+Published: August 22, 2021
+- [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_3?dchild=1&keywords=Turn+the+Ship+Around&qid=1629686865&sr=8-3) - Nazanin Delam
+- [Animal Crossing](https://animal-crossing.com/) - Nazanin Delam
+- [Say Goodbye to MBTI, the Fad That Won't Die](https://www.linkedin.com/pulse/20130917155206-69244073-say-goodbye-to-mbti-the-fad-that-won-t-die/) - Dan DiGangi
+- [Third Circle Theory: Purpose Through Observation](https://www.amazon.com/Third-Circle-Theory-Purpose-Observation/dp/0985601337/ref=sr_1_1?dchild=1&gclid=CjwKCAjw64eJBhAGEiwABr9o2MokmP71pHEzJBb9NH34N0x1sdbxFVMNzf4YIdzPZD-dIWfDSTmoxRoCThMQAvD_BwE&hvadid=174215607770&hvdev=c&hvlocphy=9031945&hvnetw=g&hvqmt=e&hvrand=18420852271578163854&hvtargid=kwd-58989990157&hydadcr=22538_9636740&keywords=third+circle+theory&qid=1629686836&sr=8-1) - Dan DiGangi
+- [Ted Lasso](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) - Ryan Burgess
+- [The Power of Vulnerability - Brené Brown](https://www.amazon.com/The-Power-of-Vulnerability-audiobook/dp/B00D1Z9RFU) - Ryan Burgess
+- [The Suicide Squad](https://www.hbomax.com/the-suicide-squad) - Jem Young
+- [The history of the segway](https://slate.com/human-interest/2021/08/dean-kamen-viral-mystery-invention-2001.html) - Jem Young
+
+
 ## Episode 133 - It’s 5 o’clock somewhere - Joining a remote team
 Published: August 8, 2021
 - [T-Pain tiny desk concert](https://www.youtube.com/watch?v=CIjXUg1s5gc) - Laurie Barth
