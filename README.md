@@ -1,6 +1,16 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 140 - Crafting your cocktail mixture to learning
+Published: November 28, 2021
+- [The GraphQL Guide](https://graphql.guide/) - Loren Sands-Ramshaw
+- [The 5 Personality Patterns (book on developmental psychology)](https://www.amazon.com/gp/product/0996343903) - Loren Sands-Ramshaw
+- [Dopesick](https://www.hulu.com/series/dopesick-227de06a-d3d4-42e0-9df1-bb5495e1738d?cmp=11932) - Ryan Burgess
+- [UGG® Mammoth Tipped Throw Blanket](https://www.bedbathandbeyond.com/store/product/ugg-reg-mammoth-tipped-throw-blanket-in-grey-tipped/5595389) - Ryan Burgess
+- [Anker USB-C hub](https://us.anker.com/products/a8392) - Jem Young
+- [Narcos Season 3](https://www.netflix.com/title/80025172) - Jem Young
+
+
 ## Episode 139 - Preparing ingredients - Interview prep
 Published: October 31, 2021
 - [You Season 3](https://www.netflix.com/title/80211991) - Ryan Burgess
