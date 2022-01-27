@@ -1,6 +1,31 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 142 - Job hunting in 2022 - Standing out in a crowded bar
+Published: January 23, 2022
+- [Group Chat Podcast](https://podcasts.apple.com/us/podcast/group-chat/id1311062310) - Taylor Desseyn
+- [Kenu Stance Mini Tripod Stand](https://www.amazon.com/Kenu-Stance-Tripod-iPhone-iTouch/dp/B01ECPWC5E) - Taylor Desseyn
+- [Ororo heated vest](https://www.ororowear.com/products/men-heated-vest-black) - Jono Grayson
+- [Organic Gatorade](https://www.amazon.com/Organic-Gatorade-Sports-Certified-Bottle) - Jono Grayson
+- [14 Peaks](https://www.netflix.com/title/81464765) - Ryan Burgess
+- [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) - Jem Young
+- [Valley Silicon: Bartesian cocktail maker](https://bartesian.com/products/the-bartesian) - Jem Young
+
+
+## Episode 141 - 2021 Hangover
+Published: January 9, 2022
+- [Rolling Like Thunder](https://www.sho.com/titles/3503734/rolling-like-thunder) - Ryan Burgess
+- [School of Chocolate](https://www.netflix.com/title/81207686) - Ryan Burgess
+- [log4j memes](https://log4jmemes.com/) - Ryan Burgess
+- [Black Sea](https://www.netflix.com/title/80013271) - Jem Young
+- [Star Trek chairs](https://www.ex-astris-scientia.org/database/chairs-trek.htm) - Jem Young
+- [Valley Silicon: Gucci Xbox](https://kotaku.com/gucci-is-selling-an-xbox-series-x-for-10-000-1848050557/amp) - Jem Young
+- [Sky H1's mix on the Dekmantel Podcast](https://soundcloud.com/dkmntl/dekmantel-podcast-365-sky-h1) - Stacy London
+- [Studio Drift Fragile Future](https://theshed.org/program/217-drift-fragile-future) - Shirley Wu
+- [Danny Rozin](https://www.wired.com/story/daniel-rozin-mechanical-mirrors/) - Shirley Wu
+- [Shang-Chi](https://www.disneyplus.com/?cid=DSS-Search-Google-71700000088153601-&s_kwcid=AL!8468!3!558770286902!e!!g!!shang%20chi&gclid=CjwKCAiArOqOBhBmEiwAsgeLmWkPRt-MK5oIakKU3yQGyzbDZTMrx9n0C5yzJTH41dszysgwTr50qxoCJiQQAvD_BwE&gclsrc=aw.ds) - Shirley Wu
+
+
 ## Episode 140 - Crafting your cocktail mixture to learning
 Published: November 28, 2021
 - [The GraphQL Guide](https://graphql.guide/) - Loren Sands-Ramshaw
