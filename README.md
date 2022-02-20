@@ -1,6 +1,24 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 144 - Sidebar interview with Ryan Burgess
+Published: February 20, 2022
+
+
+## Episode 143 - TypeScript migration - Strict type of cocktails
+Published: February 6, 2022
+- [The Woman in the House Across the Street from the Girl in the Window](https://www.netflix.com/title/81305952) - Sumana Mohan
+- [Arcane](https://www.netflix.com/title/81435684) - Joe King
+- [The Book of Boba Fett](https://disneyplusoriginals.disney.com/show/the-book-of-boba-fett) - Joe King
+- [Tonal](https://www.tonal.com/) - Joe King
+- [High Res Uber Rap Videos](https://www.youtube.com/watch?v=T85RJIcBL2U) - Ryan Burgess
+- [Tinder Swindler](https://www.netflix.com/title/81254340) - Ryan Burgess
+- [Alaska Off-road warriors](https://www.amazon.com/gp/video/detail/B07PZ964LP) - Jem Young
+- [It’s Always Sunny Podcast](https://the-always-sunny-podcast.simplecast.com/) - Jem Young
+- [Tristan Arp's mix on Dekmantel Podcast](https://soundcloud.com/dkmntl/dekmantel-podcast-356-tristan-arp?in=stacylondon/sets/mixes&si=52fbdc7270ce4821b5545589b88599dc) - Stacy London
+- [Sky H1's mix for Resident Advisor](https://soundcloud.com/resident-advisor/ra815-sky-h1) - Stacy London
+
+
 ## Episode 142 - Job hunting in 2022 - Standing out in a crowded bar
 Published: January 23, 2022
 - [Group Chat Podcast](https://podcasts.apple.com/us/podcast/group-chat/id1311062310) - Taylor Desseyn
