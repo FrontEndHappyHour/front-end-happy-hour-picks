@@ -1,6 +1,78 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 152 - Sidebar interview with Shirley Wu
+Published: June 19, 2022
+
+
+## Episode 151 - Building in 2022 and tasting the beverage trends
+Published: June 5, 2022
+- [patterns.dev](https://www.patterns.dev/) - Rhian van Esch
+- [Google Home](https://home.google.com/welcome/) - Rhian van Esch
+- [Critical Role](https://critrole.com/) - Rhian van Esch
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Carlos Castro
+- [CSS tricks](https://css-tricks.com/) - Carlos Castro
+- [The House](https://www.netflix.com/title/81178338) - Carlos Castro
+- [Pursuit of wonder](https://www.youtube.com/c/PursuitofWonder) - Carlos Castro
+- [Vuori clothing](https://vuoriclothing.com/) - Ryan Burgess
+- [Elgato Key Light Air](https://www.elgato.com/en/key-light-air) - Ryan Burgess
+- [Hannibal and Me](https://www.goodreads.com/en/book/show/11566000-hannibal-and-me) - Jem Young
+- [Guardians of Justice](https://www.netflix.com/title/80141172) - Jem Young
+- [Bone Mics by Overmono](https://overmono.bandcamp.com/track/bone-mics) - Stacy London
+- [Vocoder by Floating Points](https://floatingpoints.bandcamp.com/album/vocoder) - Stacy London
+
+
+## Episode 150 - Reorgs with a sip of spiced rum
+Published: May 22, 2022
+- [The Ultimatum](https://www.netflix.com/title/81292203) - Ryan Burgess
+- [Lutron Light Switches](https://www.casetawireless.com/us/en) - Ryan Burgess
+- [Severance](https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx?ctx_brand=tvs.sbd.4000&ign-itscg=MC_20000&ign-itsct=atvp_brand_omd&mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019927_1-592764821446-c&mttnsubkw=133111427260__zxnj5jSX_&mttnsubplmnt=) - Jem Young
+- [Sorry to bother you](https://www.netflix.com/title/80240589) - Jem Young
+- [War by Brutus](https://youtu.be/5XgCfAK-3pA) - Stacy London
+- [Beings of Light by Fort Romeau](https://fort-romeau.bandcamp.com/album/beings-of-light) - Stacy London
+- [Endgame](https://github.com/DavidDikker/endgame) - Augustus Yuan
+- [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record) - Augustus Yuan
+
+
+## Episode 149 - Open source software with open liquor
+Published: May 8, 2022
+- [micro.blog](https://micro.blog/) - Jesse Tomchak
+- [Killing Eve](https://www.amcplus.com/pages/killingeve) - Jesse Tomchak
+- [Tony Hawk - Until the wheels fall off](https://www.hbo.com/movies/tony-hawk-until-the-wheels-fall-off) - Ryan Burgess
+- [Snak the Ripper - Let It Rip](https://open.spotify.com/album/2O7W0TpDx0pjYKcEuID1NM) - Ryan Burgess
+- [MotoGP Unlimited S1](https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS) - Jem Young
+
+
+## Episode 148 - Sidebar interview with Stacy London
+Published: April 24, 2022
+
+
+## Episode 147 - Debugging Asynchronous JavaScript - Awaiting My Drink
+Published: April 7, 2022
+- [Blue Star Ferns]() - Jenn Creighton
+- [Yoga]() - Jenn Creighton
+- [Dropout](https://www.hulu.com/series/the-dropout-13988f84-f1c8-40dd-a73c-4e71ab4bbe63) - Ryan Burgess
+- [Media Malpractice in the war in Ukraine](https://www.thenation.com/article/world/information-war-media-ukraine/) - Jem Young
+- [Drive to Survive S4](https://www.netflix.com/title/80204890) - Jem Young
+
+
+## Episode 146 - Sidebar interview with Jem Young
+Published: March 20, 2022
+
+
+## Episode 145 - Server Driven UI - Served from behind the bar
+Published: March 6, 2022
+- [Netflix Tudum](https://www.netflix.com/tudum) - Cole Turner
+- [Shaker and Spoon](https://shakerandspoon.com/) - Cole Turner
+- [Advantage Aviation](https://www.advantage-aviation.com/) - Cole Turner
+- [Pieces of Her](https://www.netflix.com/title/81015514) - Ryan Burgess
+- [Skate City Game](https://skatecitygame.com/) - Ryan Burgess
+- [Rule of 72](https://betterexplained.com/articles/the-rule-of-72/) - Jem Young
+- [Dark patterns in games](https://www.darkpattern.games/) - Jem Young
+- [Working Title by Walton](https://walton.bandcamp.com/track/working-title) - Stacy London
+- [Everything by Max Cooper](https://maxcooper.bandcamp.com/track/everything-2) - Stacy London
+
+
 ## Episode 144 - Sidebar interview with Ryan Burgess
 Published: February 20, 2022
 

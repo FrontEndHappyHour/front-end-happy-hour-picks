@@ -1,5 +1,250 @@
 [
   {
+    "episode": "152 - Sidebar interview with Shirley Wu",
+    "published": "June 19, 2022",
+    "picks": []
+  },
+  {
+    "episode": "151 - Building in 2022 and tasting the beverage trends",
+    "published": "June 5, 2022",
+    "picks": [
+      {
+        "title": "patterns.dev",
+        "url": "https://www.patterns.dev/",
+        "from": "Rhian van Esch"
+      },
+      {
+        "title": "Google Home",
+        "url": "https://home.google.com/welcome/",
+        "from": "Rhian van Esch"
+      },
+      {
+        "title": "Critical Role",
+        "url": "https://critrole.com/",
+        "from": "Rhian van Esch"
+      },
+      {
+        "title": "Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/",
+        "from": "Carlos Castro"
+      },
+      {
+        "title": "CSS tricks",
+        "url": "https://css-tricks.com/",
+        "from": "Carlos Castro"
+      },
+      {
+        "title": "The House",
+        "url": "https://www.netflix.com/title/81178338",
+        "from": "Carlos Castro"
+      },
+      {
+        "title": "Pursuit of wonder",
+        "url": "https://www.youtube.com/c/PursuitofWonder",
+        "from": "Carlos Castro"
+      },
+      {
+        "title": "Vuori clothing",
+        "url": "https://vuoriclothing.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Elgato Key Light Air",
+        "url": "https://www.elgato.com/en/key-light-air",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Hannibal and Me",
+        "url": "https://www.goodreads.com/en/book/show/11566000-hannibal-and-me",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Guardians of Justice",
+        "url": "https://www.netflix.com/title/80141172",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Bone Mics by Overmono",
+        "url": "https://overmono.bandcamp.com/track/bone-mics",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Vocoder by Floating Points",
+        "url": "https://floatingpoints.bandcamp.com/album/vocoder",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "150 - Reorgs with a sip of spiced rum",
+    "published": "May 22, 2022",
+    "picks": [
+      {
+        "title": "The Ultimatum",
+        "url": "https://www.netflix.com/title/81292203",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Lutron Light Switches",
+        "url": "https://www.casetawireless.com/us/en",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Severance",
+        "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx?ctx_brand=tvs.sbd.4000&ign-itscg=MC_20000&ign-itsct=atvp_brand_omd&mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019927_1-592764821446-c&mttnsubkw=133111427260__zxnj5jSX_&mttnsubplmnt=",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Sorry to bother you",
+        "url": "https://www.netflix.com/title/80240589",
+        "from": "Jem Young"
+      },
+      {
+        "title": "War by Brutus",
+        "url": "https://youtu.be/5XgCfAK-3pA",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Beings of Light by Fort Romeau",
+        "url": "https://fort-romeau.bandcamp.com/album/beings-of-light",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Endgame",
+        "url": "https://github.com/DavidDikker/endgame",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Architecture Decision Record",
+        "url": "https://github.com/joelparkerhenderson/architecture-decision-record",
+        "from": "Augustus Yuan"
+      }
+    ]
+  },
+  {
+    "episode": "149 - Open source software with open liquor",
+    "published": "May 8, 2022",
+    "picks": [
+      {
+        "title": "micro.blog",
+        "url": "https://micro.blog/",
+        "from": "Jesse Tomchak"
+      },
+      {
+        "title": "Killing Eve",
+        "url": "https://www.amcplus.com/pages/killingeve",
+        "from": "Jesse Tomchak"
+      },
+      {
+        "title": "Tony Hawk - Until the wheels fall off",
+        "url": "https://www.hbo.com/movies/tony-hawk-until-the-wheels-fall-off",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Snak the Ripper - Let It Rip",
+        "url": "https://open.spotify.com/album/2O7W0TpDx0pjYKcEuID1NM",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "MotoGP Unlimited S1",
+        "url": "https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "148 - Sidebar interview with Stacy London",
+    "published": "April 24, 2022",
+    "picks": []
+  },
+  {
+    "episode": "147 - Debugging Asynchronous JavaScript - Awaiting My Drink",
+    "published": "April 7, 2022",
+    "picks": [
+      {
+        "title": "Blue Star Ferns",
+        "url": "",
+        "from": "Jenn Creighton"
+      },
+      {
+        "title": "Yoga",
+        "url": "",
+        "from": "Jenn Creighton"
+      },
+      {
+        "title": "Dropout",
+        "url": "https://www.hulu.com/series/the-dropout-13988f84-f1c8-40dd-a73c-4e71ab4bbe63",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Media Malpractice in the war in Ukraine",
+        "url": "https://www.thenation.com/article/world/information-war-media-ukraine/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Drive to Survive S4",
+        "url": "https://www.netflix.com/title/80204890",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "146 - Sidebar interview with Jem Young",
+    "published": "March 20, 2022",
+    "picks": []
+  },
+  {
+    "episode": "145 - Server Driven UI - Served from behind the bar",
+    "published": "March 6, 2022",
+    "picks": [
+      {
+        "title": "Netflix Tudum",
+        "url": "https://www.netflix.com/tudum",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "Shaker and Spoon",
+        "url": "https://shakerandspoon.com/",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "Advantage Aviation",
+        "url": "https://www.advantage-aviation.com/",
+        "from": "Cole Turner"
+      },
+      {
+        "title": "Pieces of Her",
+        "url": "https://www.netflix.com/title/81015514",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Skate City Game",
+        "url": "https://skatecitygame.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Rule of 72",
+        "url": "https://betterexplained.com/articles/the-rule-of-72/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Dark patterns in games",
+        "url": "https://www.darkpattern.games/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Working Title by Walton",
+        "url": "https://walton.bandcamp.com/track/working-title",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Everything by Max Cooper",
+        "url": "https://maxcooper.bandcamp.com/track/everything-2",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "144 - Sidebar interview with Ryan Burgess",
     "published": "February 20, 2022",
     "picks": []
