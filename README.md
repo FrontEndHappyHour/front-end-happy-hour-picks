@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 153 - (Re)mixology
+Published: July 17, 2022
+- [Hooked on Phonics](https://subscriptions.hookedonphonics.com/) - Shaundai Person
+- [The Boys](https://www.amazon.com/gp/video/detail/B09WV8HF7Q) - Shaundai Person
+- [Ultimate Bar Book the comprehensive guide](https://www.amazon.com/Ultimate-Bar-Book-Comprehensive-Cocktails/dp/0811843513) - Ryan Burgess
+- [The Hill Bombing Skateboarders of San Francisco](https://www.youtube.com/watch?v=2d6TBfIZzh0&ab_channel=TheNewYorker) - Ryan Burgess
+- [Valley Silicon: Mini Porsche](https://www.maisonette.com/product/porsche-cayenne-s-12v-r-c-white) - Jem Young
+- [Baby, We're Ascending by HAAi, Jon Hopkins]() - Stacy London
+- [Drum Glow by Moderat]() - Stacy London
+- [Neon Rats by Moderat]() - Stacy London
+
+
 ## Episode 152 - Sidebar interview with Shirley Wu
 Published: June 19, 2022
 
