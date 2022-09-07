@@ -1,6 +1,10 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 154 - Sidebar interview with Mars Jullian
+Published: September 4, 2022
+
+
 ## Episode 153 - (Re)mixology
 Published: July 17, 2022
 - [Hooked on Phonics](https://subscriptions.hookedonphonics.com/) - Shaundai Person
