@@ -1,5 +1,41 @@
 [
   {
+    "episode": "155 - Testing cocktails at a robot bar - Automated testing at scale",
+    "published": "September 18, 2022",
+    "picks": [
+      {
+        "title": "Hidden Brain",
+        "url": "https://hiddenbrain.org/",
+        "from": "Janaki Ramachandran"
+      },
+      {
+        "title": "Junior Bake Off",
+        "url": "https://www.netflix.com/title/81613670",
+        "from": "Janaki Ramachandran"
+      },
+      {
+        "title": "The Sandman",
+        "url": "https://www.netflix.com/title/81150303",
+        "from": "Benoit Fontaine"
+      },
+      {
+        "title": "Hero Ranch Kitchen",
+        "url": "https://www.theheroranch.com/",
+        "from": "Benoit Fontaine"
+      },
+      {
+        "title": "Black Bird",
+        "url": "https://tv.apple.com/us/show/black-bird/umc.cmc.30gx1y8nwthydkrvhqu156p3",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Nix Color Sensor Mini 2",
+        "url": "https://www.nixsensor.com/nix-mini/",
+        "from": "Ryan Burgess"
+      }
+    ]
+  },
+  {
     "episode": "154 - Sidebar interview with Mars Jullian",
     "published": "September 4, 2022",
     "picks": []

@@ -1,6 +1,16 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 155 - Testing cocktails at a robot bar - Automated testing at scale
+Published: September 18, 2022
+- [Hidden Brain](https://hiddenbrain.org/) - Janaki Ramachandran
+- [Junior Bake Off](https://www.netflix.com/title/81613670) - Janaki Ramachandran
+- [The Sandman](https://www.netflix.com/title/81150303) - Benoit Fontaine
+- [Hero Ranch Kitchen](https://www.theheroranch.com/) - Benoit Fontaine
+- [Black Bird](https://tv.apple.com/us/show/black-bird/umc.cmc.30gx1y8nwthydkrvhqu156p3) - Ryan Burgess
+- [Nix Color Sensor Mini 2](https://www.nixsensor.com/nix-mini/) - Ryan Burgess
+
+
 ## Episode 154 - Sidebar interview with Mars Jullian
 Published: September 4, 2022
 
