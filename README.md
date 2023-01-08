@@ -1,6 +1,58 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 160 - Efficient drinks - staying productive in 2023
+Published: January 8, 2023
+- [Ken Block - Ultimate Urban Playground; San Francisco](https://www.youtube.com/watch?v=LuDN2bCIyus&ab_channel=DCShoes) - Ryan Burgess
+- [Engineering Management for the Rest of Us - Sarah Drasner](https://www.engmanagement.dev/) - Ryan Burgess
+- [Stacy’s favorite new songs of 2022](https://open.spotify.com/playlist/4QKoWsh2EHdwALaEIeaUxj?si=bb16de02afad4fbe&nd=1) - Stacy London
+- [Dreading by Plastician](https://gd4ya.bandcamp.com/album/dreading) - Stacy London
+- [2022 UK Bass Favorites](https://www.buymusic.club/list/djscreendoor-2022-uk-bass-favorites) - Stacy London
+- [Tin Tran](https://www.instagram.com/bottegatinnie/?hl=en) - Augustus Yuan
+- [Edward Tian](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - Augustus Yuan
+- [Clockwise](https://www.getclockwise.com/) - Augustus Yuan
+- [Hobonichi planners & Lofi lol Hobonichi planner](https://www.1101.com/store/techo/en/lineup/) - Shirley Wu
+- [Planet Word](https://planetwordmuseum.org/) - Shirley Wu
+- [MIT Museum Arthur Ganson& Andy Cavatorta](https://mitmuseum.mit.edu/exhibitions/in-concert-ganson-cavatorta) - Shirley Wu
+- [Turning Red](https://www.imdb.com/title/tt8097030/) - Shirley Wu
+
+
+## Episode 159 - Drinks on stage - live at Jamstack 2022
+Published: December 4, 2022
+
+
+## Episode 158 - Layoffs
+Published: November 20, 2022
+- [White fudge covered Oreos](https://www.target.com/p/oreo-white-fudge-covered-chocolate-sandwich-cookies-8-5oz/-/A-14922631?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000012732781&CPNG=PLA_Grocery%2BShopping_Local%7CGrocery_Ecomm_Food_Bev&adgroup=SC_Grocery&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9031961&targetid=pla-457453509548&ds_rl=1246978&gclid=Cj0KCQiA37KbBhDgARIsAIzce16KFnzFQjjlOZEYVmLACvD6gV6VovemP6pfmtl_3suubKg4dQfnxosaAi8REALw_wcB&gclsrc=aw.ds) - Ryan Burgess
+- [Drink Masters](https://www.netflix.com/title/81437299) - Ryan Burgess
+- [Jungle](https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ) - Jem Young
+- [Pointer Instruments](https://www.lunarartefacts.com/products/pointer-instruments-classic-brown) - Jem Young
+- [layoffs.fyi](https://layoffs.fyi) - Stacy London
+- [To Feel Again / Trois by Jon Hopkins, Kelly Lee Owens, Sultan + Shepard, Jerro](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX?si=c876ffdd3b7c4b29) - Stacy London
+- [Evolve Game (it’s back!)](https://www.reddit.com/r/EvolveGame/) - Augustus Yuan
+- [Moderator Toolbox for Reddit](https://chrome.google.com/webstore/detail/moderator-toolbox-for-red/jhjpjhhkcbkmgdkahnckfboefnkgghpo?hl=en) - Augustus Yuan
+- []() - Mars Jullian
+- []() - Mars Jullian
+- []() - Shirley Wu
+- []() - Shirley Wu
+
+
+## Episode 157 - Public sector tech - Public bar vs private club
+Published: October 16, 2022
+- [Super-glueing airtags to remotes](https://www.apple.com/airtag/) - Jasmine Robinson
+- [Andrew Hubberman](https://hubermanlab.com/) - Jasmine Robinson
+- [The Bear](https://www.hulu.com/series/05eb6a8e-90ed-4947-8c0b-e6536cbddd5f) - Ryan Burgess
+- [Anatomy of a Scandal](https://www.netflix.com/watch/81204752) - Ryan Burgess
+- [The Redeem Team](https://www.netflix.com/title/81452996) - Jem Young
+- [Parental Leave]() - Jem Young
+- [Jungle by Fred again..](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE?si=737e179e8d804903) - Stacy London
+- [Avalanche by Tourist](https://open.spotify.com/track/5nlOiNyfDrQZI1qqcJiW4D?si=f8f5d07dbc054683) - Stacy London
+
+
+## Episode 156 - Sidebar interview with Brian Holt
+Published: October 2, 2022
+
+
 ## Episode 155 - Testing cocktails at a robot bar - Automated testing at scale
 Published: September 18, 2022
 - [Hidden Brain](https://hiddenbrain.org/) - Janaki Ramachandran

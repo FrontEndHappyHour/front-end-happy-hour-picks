@@ -1,5 +1,193 @@
 [
   {
+    "episode": "160 - Efficient drinks - staying productive in 2023",
+    "published": "January 8, 2023",
+    "picks": [
+      {
+        "title": "Ken Block - Ultimate Urban Playground; San Francisco",
+        "url": "https://www.youtube.com/watch?v=LuDN2bCIyus&ab_channel=DCShoes",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Engineering Management for the Rest of Us - Sarah Drasner",
+        "url": "https://www.engmanagement.dev/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Stacy’s favorite new songs of 2022",
+        "url": "https://open.spotify.com/playlist/4QKoWsh2EHdwALaEIeaUxj?si=bb16de02afad4fbe&nd=1",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Dreading by Plastician",
+        "url": "https://gd4ya.bandcamp.com/album/dreading",
+        "from": "Stacy London"
+      },
+      {
+        "title": "2022 UK Bass Favorites",
+        "url": "https://www.buymusic.club/list/djscreendoor-2022-uk-bass-favorites",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Tin Tran",
+        "url": "https://www.instagram.com/bottegatinnie/?hl=en",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Edward Tian",
+        "url": "https://etedward-gptzero-main-zqgfwb.streamlit.app/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Clockwise",
+        "url": "https://www.getclockwise.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Hobonichi planners & Lofi lol Hobonichi planner",
+        "url": "https://www.1101.com/store/techo/en/lineup/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Planet Word",
+        "url": "https://planetwordmuseum.org/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "MIT Museum Arthur Ganson& Andy Cavatorta",
+        "url": "https://mitmuseum.mit.edu/exhibitions/in-concert-ganson-cavatorta",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Turning Red",
+        "url": "https://www.imdb.com/title/tt8097030/",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "159 - Drinks on stage - live at Jamstack 2022",
+    "published": "December 4, 2022",
+    "picks": []
+  },
+  {
+    "episode": "158 - Layoffs",
+    "published": "November 20, 2022",
+    "picks": [
+      {
+        "title": "White fudge covered Oreos",
+        "url": "https://www.target.com/p/oreo-white-fudge-covered-chocolate-sandwich-cookies-8-5oz/-/A-14922631?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000012732781&CPNG=PLA_Grocery%2BShopping_Local%7CGrocery_Ecomm_Food_Bev&adgroup=SC_Grocery&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9031961&targetid=pla-457453509548&ds_rl=1246978&gclid=Cj0KCQiA37KbBhDgARIsAIzce16KFnzFQjjlOZEYVmLACvD6gV6VovemP6pfmtl_3suubKg4dQfnxosaAi8REALw_wcB&gclsrc=aw.ds",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Drink Masters",
+        "url": "https://www.netflix.com/title/81437299",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Jungle",
+        "url": "https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Pointer Instruments",
+        "url": "https://www.lunarartefacts.com/products/pointer-instruments-classic-brown",
+        "from": "Jem Young"
+      },
+      {
+        "title": "layoffs.fyi",
+        "url": "https://layoffs.fyi",
+        "from": "Stacy London"
+      },
+      {
+        "title": "To Feel Again / Trois by Jon Hopkins, Kelly Lee Owens, Sultan + Shepard, Jerro",
+        "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX?si=c876ffdd3b7c4b29",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Evolve Game (it’s back!)",
+        "url": "https://www.reddit.com/r/EvolveGame/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Moderator Toolbox for Reddit",
+        "url": "https://chrome.google.com/webstore/detail/moderator-toolbox-for-red/jhjpjhhkcbkmgdkahnckfboefnkgghpo?hl=en",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "",
+        "url": "",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "",
+        "url": "",
+        "from": "Mars Jullian"
+      },
+      {
+        "title": "",
+        "url": "",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "",
+        "url": "",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "episode": "157 - Public sector tech - Public bar vs private club",
+    "published": "October 16, 2022",
+    "picks": [
+      {
+        "title": "Super-glueing airtags to remotes",
+        "url": "https://www.apple.com/airtag/",
+        "from": "Jasmine Robinson"
+      },
+      {
+        "title": "Andrew Hubberman",
+        "url": "https://hubermanlab.com/",
+        "from": "Jasmine Robinson"
+      },
+      {
+        "title": "The Bear",
+        "url": "https://www.hulu.com/series/05eb6a8e-90ed-4947-8c0b-e6536cbddd5f",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Anatomy of a Scandal",
+        "url": "https://www.netflix.com/watch/81204752",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Redeem Team",
+        "url": "https://www.netflix.com/title/81452996",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Parental Leave",
+        "url": "",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Jungle by Fred again..",
+        "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE?si=737e179e8d804903",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Avalanche by Tourist",
+        "url": "https://open.spotify.com/track/5nlOiNyfDrQZI1qqcJiW4D?si=f8f5d07dbc054683",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "156 - Sidebar interview with Brian Holt",
+    "published": "October 2, 2022",
+    "picks": []
+  },
+  {
     "episode": "155 - Testing cocktails at a robot bar - Automated testing at scale",
     "published": "September 18, 2022",
     "picks": [
