@@ -1,5 +1,71 @@
 [
   {
+    "episode": "161 - Engineering with AI - Always Intoxicated",
+    "published": "January 22, 2023",
+    "picks": [
+      {
+        "title": "Kaleidoscope",
+        "url": "https://www.netflix.com/title/80992058",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Flame",
+        "url": "https://www.bespokepost.com/box/flame",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Non-consensual AI use",
+        "url": "https://arstechnica.com/information-technology/2023/01/contoversy-erupts-over-non-consensual-ai-mental-health-experiment/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Moonwalker shoes",
+        "url": "https://shiftrobotics.io/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Jeremy Is Not Painting",
+        "url": "https://www.instagram.com/jeremyisnotpainting/",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Expert In A Dying Field by The Beths",
+        "url": "https://thebethsnz.bandcamp.com/track/expert-in-a-dying-field",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Artist banned from art Reddit",
+        "url": "https://www.vice.com/en/article/y3p9yg/artist-banned-from-art-reddit",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "How we built React Devtools with Replay routines",
+        "url": "https://blog.replay.io/how-we-rebuilt-react-devtools-with-replay-routines",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Encore",
+        "url": "https://baratza.com/grinder/encore/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Yuko Shimizu",
+        "url": "https://www.instagram.com/yukoart/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Ani Liu",
+        "url": "https://ani-liu.com/",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "",
+        "url": "https://vimeo.com/778319497",
+        "from": "Shirley Wu"
+      }
+    ]
+  },
+  {
     "episode": "160 - Efficient drinks - staying productive in 2023",
     "published": "January 8, 2023",
     "picks": [

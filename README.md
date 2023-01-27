@@ -1,6 +1,22 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 161 - Engineering with AI - Always Intoxicated
+Published: January 22, 2023
+- [Kaleidoscope](https://www.netflix.com/title/80992058) - Ryan Burgess
+- [Flame](https://www.bespokepost.com/box/flame) - Ryan Burgess
+- [Non-consensual AI use](https://arstechnica.com/information-technology/2023/01/contoversy-erupts-over-non-consensual-ai-mental-health-experiment/) - Jem Young
+- [Valley Silicon: Moonwalker shoes](https://shiftrobotics.io/) - Jem Young
+- [Jeremy Is Not Painting](https://www.instagram.com/jeremyisnotpainting/) - Stacy London
+- [Expert In A Dying Field by The Beths](https://thebethsnz.bandcamp.com/track/expert-in-a-dying-field) - Stacy London
+- [Artist banned from art Reddit](https://www.vice.com/en/article/y3p9yg/artist-banned-from-art-reddit) - Augustus Yuan
+- [How we built React Devtools with Replay routines](https://blog.replay.io/how-we-rebuilt-react-devtools-with-replay-routines) - Augustus Yuan
+- [Encore](https://baratza.com/grinder/encore/) - Augustus Yuan
+- [Yuko Shimizu](https://www.instagram.com/yukoart/) - Shirley Wu
+- [Ani Liu](https://ani-liu.com/) - Shirley Wu
+- [](https://vimeo.com/778319497) - Shirley Wu
+
+
 ## Episode 160 - Efficient drinks - staying productive in 2023
 Published: January 8, 2023
 - [Ken Block - Ultimate Urban Playground; San Francisco](https://www.youtube.com/watch?v=LuDN2bCIyus&ab_channel=DCShoes) - Ryan Burgess
