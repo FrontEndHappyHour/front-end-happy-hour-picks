@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 163 - Patents - Drinks pending
+Published: February 19, 2023
+- [You - Season 4](https://www.netflix.com/title/80211991) - Ryan Burgess
+- [EFF whitepaper “Defend Innovation: How to Fix Our Broken Patent System”](https://www.eff.org/pages/defend-innovation) - Stacy London
+- [Still Life by ALASKALASKA](https://alaskalaska.bandcamp.com/track/still-life) - Stacy London
+- [Riot Games Tech Blog](https://technology.riotgames.com/news/peeking-valorants-netcode) - Augustus Yuan
+- [Physical 100](https://www.netflix.com/title/81587446) - Augustus Yuan
+
+
+## Episode 162 - Micro Frontends - Micro Brewing
+Published: February 5, 2023
+- [Building Microfrontends](https://www.amazon.com/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996/ref=sr_1_1?gclid=Cj0KCQiA8t2eBhDeARIsAAVEga0hCiNXw0_1mFmzaaXU7S2pUwrlFbm-hG7hLKiwq1XTvrs7HXye0LYaAvjyEALw_wcB&hvadid=590801818528&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=1642759814538321933&hvtargid=kwd-1413735243496&hydadcr=22564_10354991&keywords=building+micro+frontends&qid=1675110373&sr=8-1) - Ruben Casas
+- [Micro-frontend dev](https://microfrontend.dev/) - Ruben Casas
+- [The Last of Us](https://www.hbo.com/the-last-of-us) - Ruben Casas
+- [The Risks of Micro-Frontends - Ruben Casas](https://www.youtube.com/watch?v=R8dTiT9nKow) - Ryan Burgess
+- [The Pez Outlaw](https://www.netflix.com/title/81641996) - Ryan Burgess
+- [Beanie Mania](https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH) - Ryan Burgess
+- [Engineering Management for the Rest of Us by Sarah Drasner](https://www.engmanagement.dev/) - Jem Young
+- [Valley Silicon: Lomi Food Composter](https://store.moma.org/products/lomi-food-waste-composter) - Jem Young
+
+
 ## Episode 161 - Engineering with AI - Always Intoxicated
 Published: January 22, 2023
 - [Kaleidoscope](https://www.netflix.com/title/80992058) - Ryan Burgess
