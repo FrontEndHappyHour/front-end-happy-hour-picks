@@ -1,5 +1,102 @@
 [
   {
+    "episode": "165 - The art of estimates - how many drinks have we had?",
+    "published": "March 19, 2023",
+    "picks": [
+      {
+        "title": "What is ChatGPT doing… and why does it work?",
+        "url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?s=35",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Elgato Mic Arm LP",
+        "url": "https://www.elgato.com/en/wave-mic-arm-lp",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Physical 100",
+        "url": "https://www.netflix.com/title/81587446",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Valley Silicon: Ringo",
+        "url": "https://www.kickstarter.com/projects/ringobottle/ringo-the-water-bottle-that-magnetically-holds-your-phone",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Bala Rocky by Minihi",
+        "url": "https://minihimusic.bandcamp.com/track/bala-rocky",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Glycerine by Allison Lorenzen, Midwife",
+        "url": "https://allisonlorenzen.bandcamp.com/album/glycerine",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Windows XP logos",
+        "url": "https://www.caseypotterdesign.com/windowsxp",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Web Push for Web Apps on iOS and iPadOS",
+        "url": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
+        "from": "Augustus Yuan"
+      }
+    ]
+  },
+  {
+    "episode": "164 - Engineering levels - our glass level is full",
+    "published": "March 5, 2023",
+    "picks": [
+      {
+        "title": "Levels.fyi",
+        "url": "https://www.levels.fyi/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "BriteBrush",
+        "url": "https://www.amazon.com/dp/B07VLL8QH4/ref=cm_sw_r_as_gl_api_gl_i_BQZYAHQDSR1NWNER38NJ?linkCode=ml1&tag=frontendhappy-20",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Insider guide to tech interviews",
+        "url": "https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Promotion driven development",
+        "url": "https://twitter.com/GergelyOrosz/status/1442215732545216518",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Induction cooking",
+        "url": "",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Wall of Sleep by Daniel Avery, HAAi",
+        "url": "https://danielavery.bandcamp.com/track/wall-of-sleep",
+        "from": "Stacy London"
+      },
+      {
+        "title": "A Model of Reality - Sebastien Veyan Remix by Max Cooper, Kotomi, Sebastien Veyan",
+        "url": "https://www.youtube.com/watch?v=PWew8ExXWW8",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Defcon 18 Pwned By The Owner",
+        "url": "https://www.youtube.com/watch?v=OAI8S2houW4",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Amazon Leveling Progress",
+        "url": "https://www.levels.fyi/blog/amazon-leveling-progress.html",
+        "from": "Augustus Yuan"
+      }
+    ]
+  },
+  {
     "episode": "163 - Patents - Drinks pending",
     "published": "February 19, 2023",
     "picks": [

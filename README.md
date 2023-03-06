@@ -1,6 +1,31 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 165 - The art of estimates - how many drinks have we had?
+Published: March 19, 2023
+- [What is ChatGPT doing… and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?s=35) - Ryan Burgess
+- [Elgato Mic Arm LP](https://www.elgato.com/en/wave-mic-arm-lp) - Ryan Burgess
+- [Physical 100](https://www.netflix.com/title/81587446) - Jem Young
+- [Valley Silicon: Ringo](https://www.kickstarter.com/projects/ringobottle/ringo-the-water-bottle-that-magnetically-holds-your-phone) - Jem Young
+- [Bala Rocky by Minihi](https://minihimusic.bandcamp.com/track/bala-rocky) - Stacy London
+- [Glycerine by Allison Lorenzen, Midwife](https://allisonlorenzen.bandcamp.com/album/glycerine) - Stacy London
+- [Windows XP logos](https://www.caseypotterdesign.com/windowsxp) - Augustus Yuan
+- [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/) - Augustus Yuan
+
+
+## Episode 164 - Engineering levels - our glass level is full
+Published: March 5, 2023
+- [Levels.fyi](https://www.levels.fyi/) - Ryan Burgess
+- [BriteBrush](https://www.amazon.com/dp/B07VLL8QH4/ref=cm_sw_r_as_gl_api_gl_i_BQZYAHQDSR1NWNER38NJ?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - Jem Young
+- [Promotion driven development](https://twitter.com/GergelyOrosz/status/1442215732545216518) - Jem Young
+- [Induction cooking]() - Jem Young
+- [Wall of Sleep by Daniel Avery, HAAi](https://danielavery.bandcamp.com/track/wall-of-sleep) - Stacy London
+- [A Model of Reality - Sebastien Veyan Remix by Max Cooper, Kotomi, Sebastien Veyan](https://www.youtube.com/watch?v=PWew8ExXWW8) - Stacy London
+- [Defcon 18 Pwned By The Owner](https://www.youtube.com/watch?v=OAI8S2houW4) - Augustus Yuan
+- [Amazon Leveling Progress](https://www.levels.fyi/blog/amazon-leveling-progress.html) - Augustus Yuan
+
+
 ## Episode 163 - Patents - Drinks pending
 Published: February 19, 2023
 - [You - Season 4](https://www.netflix.com/title/80211991) - Ryan Burgess
