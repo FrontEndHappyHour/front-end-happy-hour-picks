@@ -93,10 +93,6 @@ Published: November 20, 2022
 - [To Feel Again / Trois by Jon Hopkins, Kelly Lee Owens, Sultan + Shepard, Jerro](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX?si=c876ffdd3b7c4b29) - Stacy London
 - [Evolve Game (it’s back!)](https://www.reddit.com/r/EvolveGame/) - Augustus Yuan
 - [Moderator Toolbox for Reddit](https://chrome.google.com/webstore/detail/moderator-toolbox-for-red/jhjpjhhkcbkmgdkahnckfboefnkgghpo?hl=en) - Augustus Yuan
-- []() - Mars Jullian
-- []() - Mars Jullian
-- []() - Shirley Wu
-- []() - Shirley Wu
 
 
 ## Episode 157 - Public sector tech - Public bar vs private club
