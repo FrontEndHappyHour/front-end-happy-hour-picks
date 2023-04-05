@@ -1,6 +1,15 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 166 - Backstage - Behind the bar
+Published: April 2, 2023
+- [Diablo IV](https://gear.blizzard.com/products/diabcl0001-diablo-iv-limited-collector-s-box) - Jason Palmer
+- [Tidbyt](https://tidbyt.com/) - Jason Palmer
+- [Lakrids Bulow](https://lakridsbybulow.us/) - Ryan Burgess
+- [Lego Masters](https://www.hulu.com/series/fd4ada37-965a-4f86-9ea4-0b214f3e6d7e) - Ryan Burgess
+- [Vestaboard](https://shop.vestaboard.com/products/vestaboard-white) - Jem Young
+
+
 ## Episode 165 - The art of estimates - how many drinks have we had?
 Published: March 19, 2023
 - [What is ChatGPT doing… and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?s=35) - Ryan Burgess
