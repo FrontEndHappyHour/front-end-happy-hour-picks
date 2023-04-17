@@ -1,6 +1,21 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 167 - Learning - time to wine down and learn
+Published: April 16, 2023
+- [CS Primer](https://csprimer.com/) - Madison Kanna
+- [CodeTutor.ai](https://www.codetutor.ai/) - Madison Kanna
+- [Smart Brevity](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976) - Ryan Burgess
+- [alt-J - An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) - Jem Young
+- [Changing Minds](https://changingminds.org/) - Jem Young
+- [Woodworking class]() - Jem Young
+- [Algorithmic by Spotlights]() - Stacy London
+- [Three.js Journey](https://threejs-journey.com/) - Shirley Wu
+- [ITP Physical Computing](https://itp.nyu.edu/physcomp/) - Shirley Wu
+- [Alice Lee’s weekly ceramic foxes](https://www.instagram.com/p/CqEW-mWNXAs/) - Shirley Wu
+- [wonder & hope art show](https://www.wonder-and-hope.art/) - Shirley Wu
+
+
 ## Episode 166 - Backstage - Behind the bar
 Published: April 2, 2023
 - [Diablo IV](https://gear.blizzard.com/products/diabcl0001-diablo-iv-limited-collector-s-box) - Jason Palmer
