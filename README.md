@@ -1,6 +1,16 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 168 - Component libraries - cocktail ingredients
+Published: April 30, 2023
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/ref=sr_1_1?hvadid=605224886874&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=18173536944747149316&hvtargid=kwd-421963042545&hydadcr=6587_9607278&keywords=tomorrow+tomorrow+tomorrow&qid=1682375950&sr=8-1) - Kate Wardin
+- [Half-gallon water bottle]() - Kate Wardin
+- [Jay-z Decoded](https://www.amazon.com/Decoded-Jay-Z/dp/0812981154) - Ryan Burgess
+- [Rocket Bubble Machine](https://www.amazon.com/SHCKE-Launcher-Colorful-Birthday-Activity/dp/B09WD9S3C8) - Ryan Burgess
+- [Head On - Arp Version by José González](https://josgonzlez.bandcamp.com/track/head-on-arp-version) - Stacy London
+- [III by The Supervoid Choral Ensemble](https://ssupervvoid.bandcamp.com/track/--3) - Stacy London
+
+
 ## Episode 167 - Learning - time to wine down and learn
 Published: April 16, 2023
 - [CS Primer](https://csprimer.com/) - Madison Kanna
@@ -9,7 +19,7 @@ Published: April 16, 2023
 - [alt-J - An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) - Jem Young
 - [Changing Minds](https://changingminds.org/) - Jem Young
 - [Woodworking class]() - Jem Young
-- [Algorithmic by Spotlights]() - Stacy London
+- [Algorithmic by Spotlights](https://spotlights.bandcamp.com/track/algorithmic-2) - Stacy London
 - [Three.js Journey](https://threejs-journey.com/) - Shirley Wu
 - [ITP Physical Computing](https://itp.nyu.edu/physcomp/) - Shirley Wu
 - [Alice Lee’s weekly ceramic foxes](https://www.instagram.com/p/CqEW-mWNXAs/) - Shirley Wu
