@@ -1,5 +1,82 @@
 [
   {
+    "episode": "170 - Micro-interactions - micro-brews",
+    "published": "May 28, 2023",
+    "picks": [
+      {
+        "title": "Set Studio newsletter",
+        "url": "https://set.studio/category/newsletter/",
+        "from": "Evan Purkhiser"
+      },
+      {
+        "title": "Framer",
+        "url": "https://www.framer.com/motion/",
+        "from": "Evan Purkhiser"
+      },
+      {
+        "title": "Evan’s SoundCloud",
+        "url": "https://soundcloud.com/evanpurkhiser",
+        "from": "Evan Purkhiser"
+      },
+      {
+        "title": "Beef",
+        "url": "https://www.netflix.com/title/81447461",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Flipping the Bird",
+        "url": "https://wondery.com/shows/flipping-the-bird-elon-vs-twitter/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Bringing back buttons",
+        "url": "https://slate.com/business/2023/04/cars-buttons-touch-screens-vw-porsche-nissan-hyundai.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "When You Were A Child And I Was Young by Indian Wells",
+        "url": "https://indianwells.bandcamp.com/track/when-you-were-a-child-and-i-was-young",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Spirit Loop by Rival Consoles",
+        "url": "https://rivalconsoles.bandcamp.com/track/spirit-loop-2",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
+    "episode": "169 - Recruiting - Fill the glass to the correct level",
+    "published": "May 14, 2023",
+    "picks": [
+      {
+        "title": "Overystory NYC",
+        "url": "https://www.overstory-nyc.com/",
+        "from": "Hillary Mager"
+      },
+      {
+        "title": "Angel and Z podcast",
+        "url": "https://www.angelandzpodcast.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "1923",
+        "url": "https://www.paramountplus.com/shows/1923/",
+        "from": "Chris Running"
+      },
+      {
+        "title": "Andor",
+        "url": "https://ondisneyplus.disney.com/show/andor",
+        "from": "Jem Young"
+      },
+      {
+        "title": "and the colour red by Underworld",
+        "url": "https://www.youtube.com/watch?v=Rh4tuUkANtg",
+        "from": "Stacy London"
+      }
+    ]
+  },
+  {
     "episode": "168 - Component libraries - cocktail ingredients",
     "published": "April 30, 2023",
     "picks": [

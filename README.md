@@ -1,6 +1,27 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 170 - Micro-interactions - micro-brews
+Published: May 28, 2023
+- [Set Studio newsletter](https://set.studio/category/newsletter/) - Evan Purkhiser
+- [Framer](https://www.framer.com/motion/) - Evan Purkhiser
+- [Evan’s SoundCloud](https://soundcloud.com/evanpurkhiser) - Evan Purkhiser
+- [Beef](https://www.netflix.com/title/81447461) - Ryan Burgess
+- [Flipping the Bird](https://wondery.com/shows/flipping-the-bird-elon-vs-twitter/) - Ryan Burgess
+- [Bringing back buttons](https://slate.com/business/2023/04/cars-buttons-touch-screens-vw-porsche-nissan-hyundai.html) - Jem Young
+- [When You Were A Child And I Was Young by Indian Wells](https://indianwells.bandcamp.com/track/when-you-were-a-child-and-i-was-young) - Stacy London
+- [Spirit Loop by Rival Consoles](https://rivalconsoles.bandcamp.com/track/spirit-loop-2) - Stacy London
+
+
+## Episode 169 - Recruiting - Fill the glass to the correct level
+Published: May 14, 2023
+- [Overystory NYC](https://www.overstory-nyc.com/) - Hillary Mager
+- [Angel and Z podcast](https://www.angelandzpodcast.com/) - Ryan Burgess
+- [1923](https://www.paramountplus.com/shows/1923/) - Chris Running
+- [Andor](https://ondisneyplus.disney.com/show/andor) - Jem Young
+- [and the colour red by Underworld](https://www.youtube.com/watch?v=Rh4tuUkANtg) - Stacy London
+
+
 ## Episode 168 - Component libraries - cocktail ingredients
 Published: April 30, 2023
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/ref=sr_1_1?hvadid=605224886874&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=18173536944747149316&hvtargid=kwd-421963042545&hydadcr=6587_9607278&keywords=tomorrow+tomorrow+tomorrow&qid=1682375950&sr=8-1) - Kate Wardin
