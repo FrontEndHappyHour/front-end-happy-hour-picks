@@ -1,6 +1,14 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 172 - RenderATL Day 2 Recap
+Published: June 3, 2023
+
+
+## Episode 171 - RenderATL Day 1 Recap
+Published: June 1, 2023
+
+
 ## Episode 170 - Micro-interactions - micro-brews
 Published: May 28, 2023
 - [Set Studio newsletter](https://set.studio/category/newsletter/) - Evan Purkhiser
