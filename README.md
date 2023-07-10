@@ -1,6 +1,30 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 174 - Networking - Net-whiskey-ing
+Published: June 25, 2023
+- [Based on a True Story](https://www.peacocktv.com/stream-tv/based-on-a-true-story) - Ryan Burgess
+- [Bunch O Balloons](https://www.amazon.com/Bunch-Balloons-Tropical-Rapid-Filling-Self-Sealing/dp/B0B44PDCLC/ref=pd_lpo_sccl_1/135-5329622-0612361?pd_rd_w=H97wT&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=33P1VWTH54SEP5PX0E29&pd_rd_wg=RGwhy&pd_rd_r=5b7fc4b8-0bde-40aa-999d-c1f95cf5c07b&pd_rd_i=B0B44PDCLC&psc=1) - Ryan Burgess
+- [Tour de France Unchained](https://www.netflix.com/title/81153133) - Jem Young
+- [The Managers Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) - Jem Young
+- [Fast X](https://www.imdb.com/title/tt5433140/) - Jem Young
+- [Time Takes A While by Daniel Avery](https://danielavery.bandcamp.com/track/time-takes-a-while) - Stacy London
+- [Spiderman Across Spiderverse in Lego Trailer](https://www.youtube.com/watch?v=xc4jx4PugHI) - Augustus Yuan
+- [Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/) - Augustus Yuan
+- [Crucial Conversations: Tools for Talking When the Stakes are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Cole Turner
+- [Cann](https://drinkcann.com/) - Cole Turner
+
+
+## Episode 173 - Drag & Drop - drop a drink here
+Published: June 11, 2023
+- [Porcelain cup](https://www.google.com/search?q=porcelain+cup&oq=porcelain+cup&aqs=chrome..69i57j0i512l9.267j0j7&sourceid=chrome&ie=UTF-8) - Alex Reardon
+- [Barbecue Showdown Season 2](https://www.netflix.com/watch/81129024) - Ryan Burgess
+- [Pulse At The Centre Of Being - Mor Elian Remix by Max Cooper & Mor Elian](https://maxcooper.bandcamp.com/track/pulse-at-the-centre-of-being-mor-elian-remix) - Stacy London
+- [Plague X by Midwife, Vyva Melinkolya](https://midwifemusic.com/track/plague-x) - Stacy London
+- [Stacy's Drag and Drop comment]() - Cole Turner
+- [Two Hot Takes Podcast](https://www.youtube.com/c/twohottakes) - Cole Turner
+
+
 ## Episode 172 - RenderATL Day 2 Recap
 Published: June 3, 2023
 
