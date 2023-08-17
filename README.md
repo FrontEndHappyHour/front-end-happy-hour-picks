@@ -1,6 +1,48 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 177 - CSS - Cascading Sips of Sangria
+Published: August 13, 2023
+- [Gluten-free Oreo cookies](https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/ref=sr_1_2?hvadid=598805150115&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17321927947121720575&hvtargid=kwd-2340854902&hydadcr=3390_13571860&keywords=gluten+free+oreo+cookies&qid=1691971343&rdc=1&sr=8-2) - Estelle Weyl
+- [perfwork.com (Web Performance Job board)](https://perfwork.com) - Eric Meyer
+- [Mat Marquis Javascript for Web Designers A Book Apart](https://abookapart.com/products/javascript-for-web-designers) - Eric Meyer
+- [Estelle’s Tracker for Menstrual Cycle Web App](https://openwebdocs.org/content/posts/cycletracker/) - Eric Meyer
+- [Dewalt Air Inflator](https://www.amazon.com/DEWALT-DCC020IB-20V-Inflator-Bare/dp/B07H39S9JQ) - Ryan Burgess
+- [CSS: The Definitive Guide by Eric Meyer & Estelle Weyl](https://www.oreilly.com/library/view/css-the-definitive/9781098117603/) - Stacy London
+- [Vertebrae / Forgotten Places by Max Cooper](https://maxcooper.bandcamp.com/track/vertebrae-forgotten-places) - Stacy London
+- [Arc ](https://arc.net/) - Augustus Yuan
+- [Wagwellies dog crocs](https://wagwear.com/products/wagwellies-mojave?variant=43959804231915&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwz8emBhDrARIsANNJjS6IGXaaY8ld0tc85cXeKruw1UCSwTimLcliuD8EQmBnIkg0RqZ1FggaAjtkEALw_wcB) - Cole Turner
+- [BigMouth Inc. Ginormous Inflatable Green Dinosaur Yard Summer Sprinkler](https://www.amazon.com/dp/B078TKXWGN) - Cole Turner
+
+
+## Episode 176 - How is AI maturing? - Always intoxicated by augmented intelligence
+Published: July 30, 2023
+- [The City of Cape Town](https://en.wikipedia.org/wiki/Cape_Town) - Nick Heiner
+- [Dog Training](https://www.amazon.com/101-Dog-Tricks-Activities-Challenge/dp/1592533256) - Nick Heiner
+- [AI.JSX Open Source Framework](https://github.com/fixie-ai/ai-jsx) - Nick Heiner
+- [Zenpo - Bullet Train Sushi](https://zenposushisf.com/) - Ryan Burgess
+- [This Old Ledge: Embarcadero](https://cdn.jwplayer.com/previews/j8U09VT2) - Ryan Burgess
+- [Marvelous Ms. Maisel S5](https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0B7F6XRGS) - Jem Young
+- [Guide for AI newcomers](https://docs.ai-jsx.com/guides/brand-new) - Jem Young
+- [A Little Bit Further by Tourist](https://officialtourist.bandcamp.com/track/a-little-bit-further) - Stacy London
+- [Don’t Fall for the AI Hype w/ Timnit Gebru](https://podcasts.apple.com/podcast/dont-fall-for-the-ai-hype-w-timnit-gebru/id1507621076?i=1000595385583) - Stacy London
+- [Owala](https://owalalife.com/products/freesip?variant=43048895283359) - Augustus Yuan
+- [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) - Augustus Yuan
+- [Joy Ride](https://www.imdb.com/title/tt15268244/) - Cole Turner
+- [Tart Cherry Juice](https://www.target.com/p/r-w-knudsen-family-organic-just-tart-cherry-juice-32-fl-oz-glass-bottle/-/A-14753155) - Cole Turner
+
+
+## Episode 175 - Modern CSS - Drinking in style
+Published: July 16, 2023
+- [Tempered Glass Mouse Mat](https://www.razer.com/gaming-mouse-mats/razer-atlas) - Chris Coyier
+- [Doritos ketchup chips](https://www.amazon.com/DORITOS-FLAVORED-TORTILLA-CHIPS-KETCHUP/dp/B0C353B3WG) - Ryan Burgess
+- [Modern CSS in Real Life - Chris Coyier](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/) - Ryan Burgess
+- [Valley Silicon: Linn Sondek](https://www.linn.co.uk/us/turntables/lp12-50) - Jem Young
+- [Line of Fire (feat. Sharon Van Etten) by Junip, Elias Araya, José González, Sharon Van Etten, Tobias Winterkorn](https://junipjunip.bandcamp.com/album/line-of-fire-feat-sharon-van-etten) - Stacy London
+- [No Hard Feelings](https://www.imdb.com/title/tt15671028/) - Cole Turner
+- [Crocs - the perfect outdoor shoe](https://www.crocs.com/) - Cole Turner
+
+
 ## Episode 174 - Networking - Net-whiskey-ing
 Published: June 25, 2023
 - [Based on a True Story](https://www.peacocktv.com/stream-tv/based-on-a-true-story) - Ryan Burgess
