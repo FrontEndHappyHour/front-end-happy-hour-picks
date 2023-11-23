@@ -1,6 +1,46 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 181 - 2023 reflections - looking through the bottle
+Published: November 19, 2023
+- [Photographer - Marion Mou](https://www.instagram.com/moumarion) - Ryan Burgess
+- [Blue-eyed Samurai](https://www.netflix.com/title/81144203) - Jem Young
+- [Boudin Bakery - Grilled Brie with Apples & Fig Jam](https://order.boudinbakery.com/menu/boudin-sf-irvine/products/13844286) - Cole Turner
+- [DateUp](https://apps.apple.com/us/app/dateup-tall-dating-made-easy/id1536497144) - Cole Turner
+
+
+## Episode 180 - Online teaching courses - proof of knowledge
+Published: October 8, 2023
+- [Make it Stick](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?hvadid=616863168465&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=182076571795889892&hvtargid=kwd-2281475992&hydadcr=24662_13611802&keywords=make+it+stick&qid=1696615216&sr=8-1) - Josh W. Comeau
+- [Cozy science fiction]() - Josh W. Comeau
+- [Beep’s Burgers](https://www.beepsburgers.com/) - Ryan Burgess
+- [The Pitch - Kimoyo: Is This African Startup Venture Backable?](https://www.thepitch.show/116-kimoyo-is-this-african-startup-venture-backable/) - Ryan Burgess
+- [Extraction 2](https://www.netflix.com/title/81098494) - Jem Young
+- [Valley Silicon: Bugatti Scooter](https://store.millermotorcars.com/products/bugatti-electric-scooter-agile-bleu?variant=45020143845658) - Jem Young
+
+
+## Episode 179 - Security - what's your favorite happy hour beverage?
+Published: September 17, 2023
+- [Figjam](https://www.figma.com/figjam/) - Tony Edwards
+- [Foundation](https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3) - Charles Wartemberg
+- [Coffee habit]() - Charles Wartemberg
+- [Side channel attacks](https://www.sciencedirect.com/topics/computer-science/side-channel-attack#:~:text=A%20side%2Dchannel%20attack%20is,operation%20of%20the%20attacked%20system.) - Charlie Shaw
+- [7 Days in Chile - Graffiti video](https://youtu.be/uughdfZRpr8?si=KVp51kJg1JPSxGzr) - Ryan Burgess
+- [Name SF Streets](https://carvin.github.io/sf-street-names/) - Ryan Burgess
+- [Sanctuary](https://www.netflix.com/title/81144910) - Jem Young
+- [Valley Silicon: Telly - A “free” TV](https://www.wired.com/story/telly-tv-free-privacy/) - Jem Young
+- [Frontend Security best practices](https://securitytrails.com/blog/frontend-security-best-practices) - Cole Turner
+- [Stanford Javascript Crypto Library](https://crypto.stanford.edu/sjcl/) - Cole Turner
+
+
+## Episode 178 - Organizing a conference
+Published: August 27, 2023
+- [MagnoliaJS](https://www.magnoliajs.com/) - Kayla Sween
+- [Goodles Mac & Cheese](https://www.target.com/p/goodles-cheddy-mac-creamy-cheddar-protein-mac-38-cheese-6oz/-/A-84783715) - Kayla Sween
+- [Fallout 76](https://fallout.bethesda.net/en/) - Kayla Sween
+- [Koala Sour Soothers](https://www.amazon.com/Koala-Suckers-Gummy-Candy-38-8oz/dp/B00BPXO3ZE/) - Ryan Burgess
+
+
 ## Episode 177 - CSS - Cascading Sips of Sangria
 Published: August 13, 2023
 - [Gluten-free Oreo cookies](https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/ref=sr_1_2?hvadid=598805150115&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17321927947121720575&hvtargid=kwd-2340854902&hydadcr=3390_13571860&keywords=gluten+free+oreo+cookies&qid=1691971343&rdc=1&sr=8-2) - Estelle Weyl
