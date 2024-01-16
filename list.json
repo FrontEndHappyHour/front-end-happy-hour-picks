@@ -1,5 +1,72 @@
 [
   {
+    "episode": "184 - Online learning on the rocks",
+    "published": "January 7, 2024",
+    "picks": [
+      {
+        "title": "Askinosie chocolate",
+        "url": "https://askinosie.com/",
+        "from": "Marc Gabanski"
+      },
+      {
+        "title": "Not having a phone",
+        "url": "https://marcgrabanski.com/articles/going-phoneless/",
+        "from": "Marc Gabanski"
+      },
+      {
+        "title": "Glass straws",
+        "url": "https://www.amazon.com/Reusable-8-5x10MM-Including-Straight-Smoothies/dp/B0B63CWH1N/ref=sr_1_7?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0054484ea3305a7e381cfd41dc9fbdd8&camp=1789&creative=9325",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Sunlighten Infrared Sauna",
+        "url": "https://www.sunlighten.com/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Beef coast jerky",
+        "url": "https://www.beefcoast.com/",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Anti-pick: Rebel Moon",
+        "url": "https://www.netflix.com/title/81464239",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
+    "episode": "183 - Aged to perfection: crafting your internship experience",
+    "published": "Decembe 31, 2023",
+    "picks": [
+      {
+        "title": "Rewind AI",
+        "url": "https://www.rewind.ai/",
+        "from": "Mark Benliyan"
+      },
+      {
+        "title": "Squid Game Challenge",
+        "url": "https://www.netflix.com/title/81615540",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Fargo",
+        "url": "https://www.fxnetworks.com/shows/fargo",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Finals",
+        "url": "https://www.reachthefinals.com/",
+        "from": "Augustus Yuan"
+      }
+    ]
+  },
+  {
+    "episode": "182 - Documentation - Where is the menu bartender?",
+    "published": "December 17, 2023",
+    "picks": []
+  },
+  {
     "episode": "181 - 2023 reflections - looking through the bottle",
     "published": "November 19, 2023",
     "picks": [
@@ -31,7 +98,7 @@
     "picks": [
       {
         "title": "Make it Stick",
-        "url": "https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?hvadid=616863168465&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=182076571795889892&hvtargid=kwd-2281475992&hydadcr=24662_13611802&keywords=make+it+stick&qid=1696615216&sr=8-1",
+        "url": "https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=e062900575dea0ba9cf089cbcf0633eb&camp=1789&creative=9325",
         "from": "Josh W. Comeau"
       },
       {
@@ -138,7 +205,7 @@
       },
       {
         "title": "Koala Sour Soothers",
-        "url": "https://www.amazon.com/Koala-Suckers-Gummy-Candy-38-8oz/dp/B00BPXO3ZE/",
+        "url": "https://www.amazon.com/Koala-Suckers-Gummy-Candy-38-8oz/dp/B00BPXO3ZE/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0497e2e37d8bc924f77d12d26f8ed02b&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       }
     ]
@@ -149,7 +216,7 @@
     "picks": [
       {
         "title": "Gluten-free Oreo cookies",
-        "url": "https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/ref=sr_1_2?hvadid=598805150115&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17321927947121720575&hvtargid=kwd-2340854902&hydadcr=3390_13571860&keywords=gluten+free+oreo+cookies&qid=1691971343&rdc=1&sr=8-2",
+        "url": "https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=fc7acbdaac39d8f7888d8666cacb88d1&camp=1789&creative=9325",
         "from": "Estelle Weyl"
       },
       {
@@ -169,12 +236,12 @@
       },
       {
         "title": "Dewalt Air Inflator",
-        "url": "https://www.amazon.com/DEWALT-DCC020IB-20V-Inflator-Bare/dp/B07H39S9JQ",
+        "url": "https://www.amazon.com/DEWALT-DCC020IB-20V-Inflator-Bare/dp/B07H39S9JQ?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=92bbeccc427bda767f5c3d67bc279877&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
         "title": "CSS: The Definitive Guide by Eric Meyer & Estelle Weyl",
-        "url": "https://www.oreilly.com/library/view/css-the-definitive/9781098117603/",
+        "url": "https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=d1a8cc9a7d19230dfe683bca2265b578&camp=1789&creative=9325",
         "from": "Stacy London"
       },
       {
@@ -194,7 +261,7 @@
       },
       {
         "title": "BigMouth Inc. Ginormous Inflatable Green Dinosaur Yard Summer Sprinkler",
-        "url": "https://www.amazon.com/dp/B078TKXWGN",
+        "url": "https://www.amazon.com/dp/B078TKXWGN?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=20d87eccffb0c27134bc2c2b5196b4e8&camp=1789&creative=9325",
         "from": "Cole Turner"
       }
     ]
@@ -210,7 +277,7 @@
       },
       {
         "title": "Dog Training",
-        "url": "https://www.amazon.com/101-Dog-Tricks-Activities-Challenge/dp/1592533256",
+        "url": "https://www.amazon.com/101-Dog-Tricks-Activities-Challenge/dp/1592533256?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=5d1e2e0ac5af84f613a51956cf5783e4&camp=1789&creative=9325",
         "from": "Nick Heiner"
       },
       {
@@ -230,7 +297,7 @@
       },
       {
         "title": "Marvelous Ms. Maisel S5",
-        "url": "https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0B7F6XRGS",
+        "url": "https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0B7F6XRGS?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=5225483affd3b2381a8966899cbf2af1&camp=1789&creative=9325",
         "from": "Jem Young"
       },
       {
@@ -281,7 +348,7 @@
       },
       {
         "title": "Doritos ketchup chips",
-        "url": "https://www.amazon.com/DORITOS-FLAVORED-TORTILLA-CHIPS-KETCHUP/dp/B0C353B3WG",
+        "url": "https://www.amazon.com/DORITOS-FLAVORED-TORTILLA-CHIPS-KETCHUP/dp/B0C353B3WG?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=9e247a495a133ce112f6b7763641a3cb&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
@@ -322,7 +389,7 @@
       },
       {
         "title": "Bunch O Balloons",
-        "url": "https://www.amazon.com/Bunch-Balloons-Tropical-Rapid-Filling-Self-Sealing/dp/B0B44PDCLC/ref=pd_lpo_sccl_1/135-5329622-0612361?pd_rd_w=H97wT&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=33P1VWTH54SEP5PX0E29&pd_rd_wg=RGwhy&pd_rd_r=5b7fc4b8-0bde-40aa-999d-c1f95cf5c07b&pd_rd_i=B0B44PDCLC&psc=1",
+        "url": "https://www.amazon.com/Bunch-Balloons-Tropical-Rapid-Filling-Self-Sealing/dp/B0B44PDCLC/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=ca4f0a68d3299fc66a452cd0b7ff4c4e&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
@@ -332,7 +399,7 @@
       },
       {
         "title": "The Managers Path",
-        "url": "https://www.goodreads.com/book/show/33369254-the-manager-s-path",
+        "url": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/9352135474/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=8aea2681c43cfb6d2cb266dd4a7f8641&camp=1789&creative=9325",
         "from": "Jem Young"
       },
       {
@@ -357,7 +424,7 @@
       },
       {
         "title": "Crucial Conversations: Tools for Talking When the Stakes are High",
-        "url": "https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822",
+        "url": "https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=9a813937a92f865bbcb1217c785fc2ea&camp=1789&creative=9325",
         "from": "Cole Turner"
       },
       {
@@ -496,7 +563,7 @@
     "picks": [
       {
         "title": "Tomorrow, and Tomorrow, and Tomorrow",
-        "url": "https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/ref=sr_1_1?hvadid=605224886874&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=18173536944747149316&hvtargid=kwd-421963042545&hydadcr=6587_9607278&keywords=tomorrow+tomorrow+tomorrow&qid=1682375950&sr=8-1",
+        "url": "https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=d69907d8c526094a1fa7723954da4481&camp=1789&creative=9325",
         "from": "Kate Wardin"
       },
       {
@@ -506,12 +573,12 @@
       },
       {
         "title": "Jay-z Decoded",
-        "url": "https://www.amazon.com/Decoded-Jay-Z/dp/0812981154",
+        "url": "https://www.amazon.com/Decoded-Jay-Z/dp/0812981154?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0b844e9ec6e11493360e75865da66846&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
         "title": "Rocket Bubble Machine",
-        "url": "https://www.amazon.com/SHCKE-Launcher-Colorful-Birthday-Activity/dp/B09WD9S3C8",
+        "url": "https://www.amazon.com/SHCKE-Launcher-Colorful-Birthday-Activity/dp/B09WD9S3C8?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=46ff12b1a73c6b36370822c41ff29bae&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
@@ -542,7 +609,7 @@
       },
       {
         "title": "Smart Brevity",
-        "url": "https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976",
+        "url": "https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=7f6fc33a597017700dd86df1479e5088&camp=1789&creative=9325",
         "from": "Ryan Burgess"
       },
       {
@@ -752,7 +819,7 @@
     "picks": [
       {
         "title": "Building Microfrontends",
-        "url": "https://www.amazon.com/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996/ref=sr_1_1?gclid=Cj0KCQiA8t2eBhDeARIsAAVEga0hCiNXw0_1mFmzaaXU7S2pUwrlFbm-hG7hLKiwq1XTvrs7HXye0LYaAvjyEALw_wcB&hvadid=590801818528&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=1642759814538321933&hvtargid=kwd-1413735243496&hydadcr=22564_10354991&keywords=building+micro+frontends&qid=1675110373&sr=8-1",
+        "url": "https://www.amazon.com/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ruben Casas"
       },
       {
@@ -945,7 +1012,7 @@
       },
       {
         "title": "Jungle",
-        "url": "https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ",
+        "url": "https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -1078,12 +1145,12 @@
       },
       {
         "title": "The Boys",
-        "url": "https://www.amazon.com/gp/video/detail/B09WV8HF7Q",
+        "url": "https://www.amazon.com/gp/video/detail/B09WV8HF7Q?linkCode=ml1&tag=frontendhappy-20",
         "from": "Shaundai Person"
       },
       {
         "title": "Ultimate Bar Book the comprehensive guide",
-        "url": "https://www.amazon.com/Ultimate-Bar-Book-Comprehensive-Cocktails/dp/0811843513",
+        "url": "https://www.amazon.com/Ultimate-Bar-Book-Comprehensive-Cocktails/dp/0811843513?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -1261,7 +1328,7 @@
       },
       {
         "title": "MotoGP Unlimited S1",
-        "url": "https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS",
+        "url": "https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       }
     ]
@@ -1399,7 +1466,7 @@
       },
       {
         "title": "Alaska Off-road warriors",
-        "url": "https://www.amazon.com/gp/video/detail/B07PZ964LP",
+        "url": "https://www.amazon.com/gp/video/detail/B07PZ964LP?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -1430,7 +1497,7 @@
       },
       {
         "title": "Kenu Stance Mini Tripod Stand",
-        "url": "https://www.amazon.com/Kenu-Stance-Tripod-iPhone-iTouch/dp/B01ECPWC5E",
+        "url": "https://www.amazon.com/Kenu-Stance-Tripod-iPhone-iTouch/dp/B01ECPWC5E?linkCode=ml1&tag=frontendhappy-20",
         "from": "Taylor Desseyn"
       },
       {
@@ -1440,7 +1507,7 @@
       },
       {
         "title": "Organic Gatorade",
-        "url": "https://www.amazon.com/Organic-Gatorade-Sports-Certified-Bottle",
+        "url": "https://www.amazon.com/Organic-Gatorade-Sports-Certified-Bottle?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jono Grayson"
       },
       {
@@ -1527,7 +1594,7 @@
       },
       {
         "title": "The 5 Personality Patterns (book on developmental psychology)",
-        "url": "https://www.amazon.com/gp/product/0996343903",
+        "url": "https://www.amazon.com/gp/product/0996343903?linkCode=ml1&tag=frontendhappy-20",
         "from": "Loren Sands-Ramshaw"
       },
       {
@@ -1635,7 +1702,7 @@
       },
       {
         "title": "Everybody Matters",
-        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -1661,7 +1728,7 @@
       },
       {
         "title": "The Culture Map - Erin Meyer",
-        "url": "https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507",
+        "url": "https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -1798,7 +1865,7 @@
     "picks": [
       {
         "title": "Turn the Ship Around!",
-        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_3?dchild=1&keywords=Turn+the+Ship+Around&qid=1629686865&sr=8-3",
+        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404?linkCode=ml1&tag=frontendhappy-20",
         "from": "Nazanin Delam"
       },
       {
@@ -1813,7 +1880,7 @@
       },
       {
         "title": "Third Circle Theory: Purpose Through Observation",
-        "url": "https://www.amazon.com/Third-Circle-Theory-Purpose-Observation/dp/0985601337/ref=sr_1_1?dchild=1&gclid=CjwKCAjw64eJBhAGEiwABr9o2MokmP71pHEzJBb9NH34N0x1sdbxFVMNzf4YIdzPZD-dIWfDSTmoxRoCThMQAvD_BwE&hvadid=174215607770&hvdev=c&hvlocphy=9031945&hvnetw=g&hvqmt=e&hvrand=18420852271578163854&hvtargid=kwd-58989990157&hydadcr=22538_9636740&keywords=third+circle+theory&qid=1629686836&sr=8-1",
+        "url": "https://www.amazon.com/Third-Circle-Theory-Purpose-Observation/dp/0985601337?linkCode=ml1&tag=frontendhappy-20",
         "from": "Dan DiGangi"
       },
       {
@@ -1823,7 +1890,7 @@
       },
       {
         "title": "The Power of Vulnerability - Brené Brown",
-        "url": "https://www.amazon.com/The-Power-of-Vulnerability-audiobook/dp/B00D1Z9RFU",
+        "url": "https://www.amazon.com/The-Power-of-Vulnerability-audiobook/dp/B00D1Z9RFU?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -1915,7 +1982,7 @@
       },
       {
         "title": "Bissell Little Green",
-        "url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK/ref=sr_1_3?dchild=1&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4at4HiUYEAzfsTi9Xy5k4W7bsZb9TXJm3gG8sP9Dm6gcya0TqRY_FFUaAl8wEALw_wcB&hvadid=346223982684&hvdev=c&hvlocphy=9061273&hvnetw=g&hvqmt=e&hvrand=3845771443590492108&hvtargid=kwd-295629423066&hydadcr=8677_9761165&keywords=bissell+little+green&qid=1625753759&sr=8-3",
+        "url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -1961,7 +2028,7 @@
       },
       {
         "title": "Invincible",
-        "url": "https://www.amazon.com/INVINCIBLE-SEASON-1/dp/B08WJMRHYZ",
+        "url": "https://www.amazon.com/INVINCIBLE-SEASON-1/dp/B08WJMRHYZ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -2068,7 +2135,7 @@
       },
       {
         "title": "Better Allies",
-        "url": "https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303",
+        "url": "https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2134,7 +2201,7 @@
       },
       {
         "title": "Everybody Matters: The Extraordinary Power of Caring for Your People Like Family",
-        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2185,12 +2252,12 @@
       },
       {
         "title": "Tell Us Your Secrets",
-        "url": "https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z",
+        "url": "https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "Dave",
-        "url": "https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946",
+        "url": "https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2292,7 +2359,7 @@
       },
       {
         "title": "Amazon Builders Library",
-        "url": "https://aws.amazon.com/builders-library/",
+        "url": "https://aws.amazon.com/builders-library/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Augustus Yuan"
       },
       {
@@ -2389,7 +2456,7 @@
     "picks": [
       {
         "title": "Accelerate",
-        "url": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/",
+        "url": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Kathryn Koehler"
       },
       {
@@ -2399,7 +2466,7 @@
       },
       {
         "title": "Team of Rivals",
-        "url": "https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0684824906",
+        "url": "https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0684824906?linkCode=ml1&tag=frontendhappy-20",
         "from": "Andy Glover"
       },
       {
@@ -2475,7 +2542,7 @@
       },
       {
         "title": "ThermoPro meat thermometer",
-        "url": "https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/",
+        "url": "https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2495,7 +2562,7 @@
       },
       {
         "title": "Alternative wood Egg",
-        "url": "https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6",
+        "url": "https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -2810,12 +2877,12 @@
       },
       {
         "title": "Knives Out",
-        "url": "https://www.amazon.com/Knives-Out-Ana-Armas/dp/B081W544J7",
+        "url": "https://www.amazon.com/Knives-Out-Ana-Armas/dp/B081W544J7?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "Netflix vs. the World",
-        "url": "https://www.amazon.com/Netflix-vs-World-Derek-Cecil/dp/B087MW5JG4",
+        "url": "https://www.amazon.com/Netflix-vs-World-Derek-Cecil/dp/B087MW5JG4?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2881,7 +2948,7 @@
       },
       {
         "title": "Robin Sharma - The Monk Who Sold His Ferrari",
-        "url": "https://www.amazon.com/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+        "url": "https://www.amazon.com/Monk-Who-Sold-His-Ferrari/dp/0062515675?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jen Pi"
       },
       {
@@ -2891,7 +2958,7 @@
       },
       {
         "title": "AMPLIFI Alien",
-        "url": "https://amplifi.com/alien",
+        "url": "https://www.amazon.com/AmpliFi-Seamless-Wireless-Touchscreen-MeshPoint/dp/B088W3KFP7?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -2906,7 +2973,7 @@
       },
       {
         "title": "The Boys season 2",
-        "url": "https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH",
+        "url": "https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       }
     ]
@@ -2927,7 +2994,7 @@
       },
       {
         "title": "The Boys Season 2",
-        "url": "https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH",
+        "url": "https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jerome Hardaway"
       },
       {
@@ -2967,7 +3034,7 @@
       },
       {
         "title": "World's toughest race",
-        "url": "https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ",
+        "url": "https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       }
     ]
@@ -3034,7 +3101,7 @@
       },
       {
         "title": "Think Like a Programmer",
-        "url": "https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246",
+        "url": "https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246?linkCode=ml1&tag=frontendhappy-20",
         "from": "Nicole Archambault"
       },
       {
@@ -3186,7 +3253,7 @@
       },
       {
         "title": "Gardner Bender EFT-15 Mini Cable",
-        "url": "https://www.amazon.com/dp/B074B3ZWMH?ref=ppx_pop_mob_ap_share",
+        "url": "https://www.amazon.com/dp/B074B3ZWMH?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -3303,7 +3370,7 @@
       },
       {
         "title": "Blue Yeti Mic",
-        "url": "https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S",
+        "url": "https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -3496,17 +3563,17 @@
       },
       {
         "title": "So You Want to Talk about Race",
-        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1",
+        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825?linkCode=ml1&tag=frontendhappy-20",
         "from": "Book"
       },
       {
         "title": "The Colors of Us",
-        "url": "https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636",
+        "url": "https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636?linkCode=ml1&tag=frontendhappy-20",
         "from": "Book"
       },
       {
         "title": "Waking Up White",
-        "url": "https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I",
+        "url": "https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I?linkCode=ml1&tag=frontendhappy-20",
         "from": "Book"
       },
       {
@@ -3572,7 +3639,7 @@
       },
       {
         "title": "Apple Thunderbolt Display replacement glass",
-        "url": "https://www.amazon.com/gp/product/B00CMNDBBI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
+        "url": "https://www.amazon.com/gp/product/B00CMNDBBI?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -3623,7 +3690,7 @@
       },
       {
         "title": "Effective TypeScript",
-        "url": "https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740",
+        "url": "https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -3654,7 +3721,7 @@
     "picks": [
       {
         "title": "Remington Hc6550 Cordless Vacuum Haircut Kit",
-        "url": "https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I/ref=sr_1_2?crid=3JWKHCH4IFTV4&dchild=1&keywords=hair+clippers+with+vacuum&qid=1587503389&sprefix=hair+clippers+with+vac%2Caps%2C236&sr=8-2",
+        "url": "https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -3786,12 +3853,12 @@
       },
       {
         "title": "Big Magic: Creative Living Beyond Fear",
-        "url": "https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726",
+        "url": "https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726?linkCode=ml1&tag=frontendhappy-20",
         "from": "Shruti Kapoor"
       },
       {
         "title": "Revlon One-Step Hair Dryer & Volumizer",
-        "url": "https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0",
+        "url": "https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0?linkCode=ml1&tag=frontendhappy-20",
         "from": "Shruti Kapoor"
       },
       {
@@ -3806,12 +3873,12 @@
       },
       {
         "title": "Oh crap I have a toddler",
-        "url": "https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734",
+        "url": "https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "USB Switch selector",
-        "url": "https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?ref_=fsclp_pl_dp_1",
+        "url": "https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?linkCode=ml1&tag=frontendhappy-20",
         "from": "Augustus Yuan"
       },
       {
@@ -3932,7 +3999,7 @@
       },
       {
         "title": "Talking to Strangers by Malcolm Gladwell",
-        "url": "https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW",
+        "url": "https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW?linkCode=ml1&tag=frontendhappy-20",
         "from": "Brian Holt"
       },
       {
@@ -3958,7 +4025,7 @@
     "picks": [
       {
         "title": "Logitech Spotlight Presentation Remote",
-        "url": "https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH/ref=sr_1_7?keywords=presenter+remote&qid=1580869579&sr=8-7",
+        "url": "https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4228,7 +4295,7 @@
     "picks": [
       {
         "title": "Stamped from the Beginning",
-        "url": "https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985",
+        "url": "https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985?linkCode=ml1&tag=frontendhappy-20",
         "from": "Cher"
       },
       {
@@ -4253,7 +4320,7 @@
       },
       {
         "title": "Tools for conviviality",
-        "url": "https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113",
+        "url": "https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113?linkCode=ml1&tag=frontendhappy-20",
         "from": "Henry Zhu"
       },
       {
@@ -4441,12 +4508,12 @@
       },
       {
         "title": "Everybody Matters",
-        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "Super Pumped: The Battle for Uber",
-        "url": "https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ/",
+        "url": "https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4512,7 +4579,7 @@
       },
       {
         "title": "The Boys",
-        "url": "https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjwwvfrBRBIEiwA2nFiPdVNJ1nQGkHf4yqgHo1UlDTJVZg7UAVIyEQ5f-wIMkbmaL7yiyU40RoCqlEQAvD_BwE",
+        "url": "https://www.amazon.com/dp/B07QQQ52B3?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -4665,7 +4732,7 @@
       },
       {
         "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
-        "url": "https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889/ref=sr_1_3?crid=J4OO9PDCO9DD&keywords=how+to+talk+so+kids+will+listen+%26+listen+so+kids+will+talk&qid=1561132573&s=gateway&sprefix=how+to+talk+so+%2Caps%2C239&sr=8-3",
+        "url": "https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4680,7 +4747,7 @@
       },
       {
         "title": "This toaster",
-        "url": "https://www.amazon.com/dp/B007RUC6LC/",
+        "url": "https://www.amazon.com/dp/B007RUC6LC?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -4746,7 +4813,7 @@
       },
       {
         "title": "Hawkins Cheezies",
-        "url": "https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?th=1",
+        "url": "https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4777,12 +4844,12 @@
     "picks": [
       {
         "title": "Everybody Matters",
-        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796",
+        "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796?linkCode=ml1&tag=frontendhappy-20",
         "from": "Cathy Conk"
       },
       {
         "title": "Severance",
-        "url": "https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598",
+        "url": "https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598?linkCode=ml1&tag=frontendhappy-20",
         "from": "Cathy Conk"
       },
       {
@@ -4802,32 +4869,32 @@
       },
       {
         "title": "Rust: the longest war",
-        "url": "https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602",
+        "url": "https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602?linkCode=ml1&tag=frontendhappy-20",
         "from": "Eddy Wu"
       },
       {
         "title": "Thinking Fast and Slow",
-        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?linkCode=ml1&tag=frontendhappy-20",
         "from": "Michael Spiegelman"
       },
       {
         "title": "Predictably Irrational",
-        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
+        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?linkCode=ml1&tag=frontendhappy-20",
         "from": "Michael Spiegelman"
       },
       {
         "title": "Sapiens",
-        "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?gclid=Cj0KCQjw3PLnBRCpARIsAKaUbguJJx3PLwN-gQUJa7yA7ZkO3RBHMNNP9rWmjgqD-Kq3Qvjd63buy5UaAiFTEALw_wcB&hvadid=241894695810&hvdev=c&hvlocphy=9061273&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18291623973545407828&hvtargid=kwd-269114732332&hydadcr=22532_10344436&keywords=sapiens+books&qid=1560106894&s=gateway&sr=8-1",
+        "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117?linkCode=ml1&tag=frontendhappy-20",
         "from": "Michael Spiegelman"
       },
       {
         "title": "The world until yesterday",
-        "url": "https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404",
+        "url": "https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404?linkCode=ml1&tag=frontendhappy-20",
         "from": "Michael Spiegelman"
       },
       {
         "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ/ref=sr_1_1?crid=3F11FGB2793BJ&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking&qid=1556898368&s=gateway&sprefix=quiet+%2Caps%2C347&sr=8-1",
+        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4868,22 +4935,22 @@
       },
       {
         "title": "Marvel 1602",
-        "url": "https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340",
+        "url": "https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340?linkCode=ml1&tag=frontendhappy-20",
         "from": "Tyler Childs"
       },
       {
         "title": "Batman Hush",
-        "url": "https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176",
+        "url": "https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176?linkCode=ml1&tag=frontendhappy-20",
         "from": "Tyler Childs"
       },
       {
         "title": "The Wake",
-        "url": "https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918",
+        "url": "https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918?linkCode=ml1&tag=frontendhappy-20",
         "from": "Tyler Childs"
       },
       {
         "title": "The Five Dysfunctions of a Team: A Leadership Fable",
-        "url": "https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC",
+        "url": "https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -4914,7 +4981,7 @@
     "picks": [
       {
         "title": "Swords on Amazon",
-        "url": "https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2",
+        "url": "https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2&linkCode=ml1&tag=frontendhappy-20",
         "from": "Randall Koutnik"
       },
       {
@@ -5173,7 +5240,7 @@
       },
       {
         "title": "Amusing Ourselves to Death",
-        "url": "https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X",
+        "url": "https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X?linkCode=ml1&tag=frontendhappy-20",
         "from": "Maria Kazandjieva"
       },
       {
@@ -5193,12 +5260,12 @@
       },
       {
         "title": "The Upside of Stress",
-        "url": "https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934",
+        "url": "https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934?linkCode=ml1&tag=frontendhappy-20",
         "from": "Courtney Kennedy"
       },
       {
         "title": "Foam Back Roller",
-        "url": "https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?ref_=fsclp_pl_dp_6",
+        "url": "https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -5346,7 +5413,7 @@
       },
       {
         "title": "The Gymkhana Files",
-        "url": "https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV",
+        "url": "https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -5443,7 +5510,7 @@
       },
       {
         "title": "All Systems Red",
-        "url": "https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536/ref=sr_1_1?s=books&ie=UTF8&qid=1543530699&sr=1-1&keywords=all+systems+red",
+        "url": "https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -5499,7 +5566,7 @@
       },
       {
         "title": "The Fifth Season",
-        "url": "https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296",
+        "url": "https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -5586,7 +5653,7 @@
       },
       {
         "title": "Homegoing",
-        "url": "https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061",
+        "url": "https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061?linkCode=ml1&tag=frontendhappy-20",
         "from": "Aaron Gustafson"
       },
       {
@@ -5596,7 +5663,7 @@
       },
       {
         "title": "Culture Code",
-        "url": "https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461",
+        "url": "https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -5672,7 +5739,7 @@
       },
       {
         "title": "What I Talk About When I Talk About Running",
-        "url": "https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839",
+        "url": "https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839?linkCode=ml1&tag=frontendhappy-20",
         "from": "Kunal Bohra"
       },
       {
@@ -5707,7 +5774,7 @@
       },
       {
         "title": "Infinite",
-        "url": "https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335",
+        "url": "https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -5779,7 +5846,7 @@
       },
       {
         "title": "So You Want To Talk About Race",
-        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776",
+        "url": "https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -5840,7 +5907,7 @@
       },
       {
         "title": "Hoover Cordless",
-        "url": "https://www.amazon.com/gp/product/B01KWZECOM",
+        "url": "https://www.amazon.com/gp/product/B01KWZECOM?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -5850,7 +5917,7 @@
       },
       {
         "title": "Medium Raw by Anthony Bourdain",
-        "url": "https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/",
+        "url": "https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/?linkCode=ml1&tag=frontendhappy-20",
         "from": "Derrick Showers"
       },
       {
@@ -6075,7 +6142,7 @@
     "picks": [
       {
         "title": "3M Command Strips",
-        "url": "https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48",
+        "url": "https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -6141,7 +6208,7 @@
       },
       {
         "title": "Jarv Nmotion ear buds",
-        "url": "https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6",
+        "url": "https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6?linkCode=ml1&tag=frontendhappy-20",
         "from": "Jem Young"
       },
       {
@@ -6151,7 +6218,7 @@
       },
       {
         "title": "Orphan Master’s Son",
-        "url": "https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622",
+        "url": "https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -6233,7 +6300,7 @@
     "picks": [
       {
         "title": "Predictably Irrational",
-        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
+        "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?linkCode=ml1&tag=frontendhappy-20",
         "from": "Richard Feldman"
       },
       {
@@ -6248,7 +6315,7 @@
       },
       {
         "title": "Absentia",
-        "url": "https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y",
+        "url": "https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -6405,7 +6472,7 @@
       },
       {
         "title": "The Grand Tour",
-        "url": "https://www.amazon.com/dp/B01J94A5GQ",
+        "url": "https://www.amazon.com/dp/B01J94A5GQ?linkCode=ml1&tag=frontendhappy-20",
         "from": "Mars Jullian"
       },
       {
@@ -6441,7 +6508,7 @@
       },
       {
         "title": "BCAA - Gummy Worm",
-        "url": "https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91",
+        "url": "https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91?linkCode=ml1&tag=frontendhappy-20",
         "from": "Aimee Knight"
       },
       {
@@ -6466,7 +6533,7 @@
       },
       {
         "title": "The Power of Full Engagement",
-        "url": "https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS",
+        "url": "https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS?linkCode=ml1&tag=frontendhappy-20",
         "from": "April Wensel"
       },
       {
@@ -6532,7 +6599,7 @@
       },
       {
         "title": "The Hate U Give",
-        "url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533",
+        "url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?linkCode=ml1&tag=frontendhappy-20",
         "from": "Amy Wibowo"
       },
       {
@@ -6790,7 +6857,7 @@
       },
       {
         "title": "Girl in a Band by Kim Gordon",
-        "url": "https://www.amazon.com/gp/product/006229590X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006229590X&linkCode=as2&tag=frontendhappy-20&linkId=57605bd62405de7dd904f495cdbc16c6",
+        "url": "https://www.amazon.com/gp/product/006229590X?linkCode=ml1&tag=frontendhappy-20",
         "from": "Stacy London"
       }
     ]
@@ -6989,12 +7056,12 @@
       },
       {
         "title": "Movo Photo MTP-11",
-        "url": "https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=4df5c888ca253903fdff5842d988b08b&creativeASIN=B01K0LLQ38",
+        "url": "https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "SVG Animations - Sarah Drasner",
-        "url": "https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=0872a0a0efd3a599dd336dc75fc1c145&creativeASIN=1491939702",
+        "url": "https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -7319,7 +7386,7 @@
       },
       {
         "title": "PhoneSoap",
-        "url": "https://www.amazon.com/gp/product/B016NGFY3C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016NGFY3C&linkCode=as2&tag=frontendhappy-20&linkId=58aac0a86dc92b708edac4db2e6e9fb3",
+        "url": "https://www.amazon.com/gp/product/B016NGFY3C?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -7344,7 +7411,7 @@
       },
       {
         "title": "The Obesity Code",
-        "url": "https://www.amazon.com/gp/product/1771641258/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1771641258&linkCode=as2&tag=frontendhappy-20&linkId=fcf0954b2026da2776d055cba01ab42f",
+        "url": "https://www.amazon.com/gp/product/1771641258?linkCode=ml1&tag=frontendhappy-20",
         "from": "Derrick Showers"
       },
       {
@@ -7354,7 +7421,7 @@
       },
       {
         "title": "Children of Time Book",
-        "url": "https://www.amazon.com/gp/product/1447273303/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1447273303&linkCode=as2&tag=frontendhappy-20&linkId=8d23afb6d0f810c9d36ff3dfab567456",
+        "url": "https://www.amazon.com/gp/product/1447273303?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -7476,12 +7543,12 @@
       },
       {
         "title": "XLR8 Connect Diaper Backpack",
-        "url": "https://www.amazon.com/gp/product/B019DHBWEI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019DHBWEI&linkCode=as2&tag=frontendhappy-20&linkId=7020af0e5a1b1b4bdb01ae1ee4b9ae99",
+        "url": "https://www.amazon.com/gp/product/B019DHBWEI?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
         "title": "Bosch",
-        "url": "https://www.amazon.com/gp/video/detail/B06WVFKQCY",
+        "url": "https://www.amazon.com/gp/video/detail/B06WVFKQCY?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -7668,7 +7735,7 @@
       },
       {
         "title": "Ancillary Justice",
-        "url": "https://www.amazon.com/gp/product/031624662X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=031624662X&linkCode=as2&tag=frontendhappy-20&linkId=815c6677ab5863d495a4744ea783421b",
+        "url": "https://www.amazon.com/gp/product/031624662X?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Anklam"
       },
       {
@@ -7800,7 +7867,7 @@
       },
       {
         "title": "Horizon Zero Dawn",
-        "url": "https://www.amazon.com/gp/product/B00ZQC73O8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZQC73O8&linkCode=as2&tag=frontendhappy-20&linkId=7f9b3ee13ad0fcba60f9f506ba28c769",
+        "url": "https://www.amazon.com/gp/product/B00ZQC73O8?linkCode=ml1&tag=frontendhappy-20",
         "from": "Brian Holt"
       },
       {
@@ -7902,7 +7969,7 @@
     "picks": [
       {
         "title": "Yoga Trapeze Swing",
-        "url": "https://www.amazon.com/gp/product/B0094H756W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0094H756W&linkCode=as2&tag=frontendhappy-20&linkId=8f274f069b13efdf95370a9832051bdd",
+        "url": "https://www.amazon.com/gp/product/B0094H756W?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ayşegül Yönet"
       },
       {
@@ -8165,7 +8232,7 @@
       },
       {
         "title": "Long Division",
-        "url": "https://www.amazon.com/gp/product/1932841725/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1932841725&linkCode=as2&tag=frontendhappy-20&linkId=30de272cadf662c4affe287b4ecbc361",
+        "url": "https://www.amazon.com/gp/product/1932841725?linkCode=ml1&tag=frontendhappy-20",
         "from": "Julie Horvath"
       },
       {
@@ -8667,7 +8734,7 @@
       },
       {
         "title": "How To Open Locks With Improvised Tools",
-        "url": "https://www.amazon.com/gp/product/0966608712/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0966608712&linkCode=as2&tag=frontendhappy-20&linkId=74e565103ce898cd6dee8bab01809f32",
+        "url": "https://www.amazon.com/gp/product/0966608712?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -8763,7 +8830,7 @@
       },
       {
         "title": "Man In The High Castle",
-        "url": "https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO",
+        "url": "https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO?linkCode=ml1&tag=frontendhappy-20",
         "from": "Derrick Showers"
       },
       {
@@ -8804,7 +8871,7 @@
       },
       {
         "title": "The Advantage",
-        "url": "https://www.amazon.com/gp/product/0470941529/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470941529&linkCode=as2&tag=frontendhappy-20&linkId=70321ba90431558538768345dedca4d4",
+        "url": "https://www.amazon.com/gp/product/0470941529?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -9054,7 +9121,7 @@
     "picks": [
       {
         "title": "Culture Map",
-        "url": "https://www.amazon.com/gp/product/1610392507/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1610392507&linkCode=as2&tag=frontendhappy-20&linkId=d0e03b2bd8cd6243c93daffa4732335a",
+        "url": "https://www.amazon.com/gp/product/1610392507?linkCode=ml1&tag=frontendhappy-20",
         "from": "Chrissy Running"
       },
       {
@@ -9551,7 +9618,7 @@
       },
       {
         "title": "Amazon Dash Buttons",
-        "url": "https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011",
+        "url": "https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {
@@ -9814,7 +9881,7 @@
       },
       {
         "title": "Amazon Echo",
-        "url": "https://www.amazon.com/gp/product/B00X4WHP5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X4WHP5E&linkCode=as2&tag=frontendhappy-20&linkId=bd58bc7d5a3f4206f94673b2f57edcca",
+        "url": "https://www.amazon.com/gp/product/B00X4WHP5E?linkCode=ml1&tag=frontendhappy-20",
         "from": "Ryan Burgess"
       },
       {

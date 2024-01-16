@@ -1,6 +1,28 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 184 - Online learning on the rocks
+Published: January 7, 2024
+- [Askinosie chocolate](https://askinosie.com/) - Marc Gabanski
+- [Not having a phone](https://marcgrabanski.com/articles/going-phoneless/) - Marc Gabanski
+- [Glass straws](https://www.amazon.com/Reusable-8-5x10MM-Including-Straight-Smoothies/dp/B0B63CWH1N/ref=sr_1_7?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0054484ea3305a7e381cfd41dc9fbdd8&camp=1789&creative=9325) - Ryan Burgess
+- [Sunlighten Infrared Sauna](https://www.sunlighten.com/) - Ryan Burgess
+- [Beef coast jerky](https://www.beefcoast.com/) - Jem Young
+- [Anti-pick: Rebel Moon](https://www.netflix.com/title/81464239) - Jem Young
+
+
+## Episode 183 - Aged to perfection: crafting your internship experience
+Published: Decembe 31, 2023
+- [Rewind AI](https://www.rewind.ai/) - Mark Benliyan
+- [Squid Game Challenge](https://www.netflix.com/title/81615540) - Ryan Burgess
+- [Fargo](https://www.fxnetworks.com/shows/fargo) - Ryan Burgess
+- [The Finals](https://www.reachthefinals.com/) - Augustus Yuan
+
+
+## Episode 182 - Documentation - Where is the menu bartender?
+Published: December 17, 2023
+
+
 ## Episode 181 - 2023 reflections - looking through the bottle
 Published: November 19, 2023
 - [Photographer - Marion Mou](https://www.instagram.com/moumarion) - Ryan Burgess
@@ -11,7 +33,7 @@ Published: November 19, 2023
 
 ## Episode 180 - Online teaching courses - proof of knowledge
 Published: October 8, 2023
-- [Make it Stick](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?hvadid=616863168465&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=182076571795889892&hvtargid=kwd-2281475992&hydadcr=24662_13611802&keywords=make+it+stick&qid=1696615216&sr=8-1) - Josh W. Comeau
+- [Make it Stick](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=e062900575dea0ba9cf089cbcf0633eb&camp=1789&creative=9325) - Josh W. Comeau
 - [Cozy science fiction]() - Josh W. Comeau
 - [Beep’s Burgers](https://www.beepsburgers.com/) - Ryan Burgess
 - [The Pitch - Kimoyo: Is This African Startup Venture Backable?](https://www.thepitch.show/116-kimoyo-is-this-african-startup-venture-backable/) - Ryan Burgess
@@ -38,31 +60,31 @@ Published: August 27, 2023
 - [MagnoliaJS](https://www.magnoliajs.com/) - Kayla Sween
 - [Goodles Mac & Cheese](https://www.target.com/p/goodles-cheddy-mac-creamy-cheddar-protein-mac-38-cheese-6oz/-/A-84783715) - Kayla Sween
 - [Fallout 76](https://fallout.bethesda.net/en/) - Kayla Sween
-- [Koala Sour Soothers](https://www.amazon.com/Koala-Suckers-Gummy-Candy-38-8oz/dp/B00BPXO3ZE/) - Ryan Burgess
+- [Koala Sour Soothers](https://www.amazon.com/Koala-Suckers-Gummy-Candy-38-8oz/dp/B00BPXO3ZE/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0497e2e37d8bc924f77d12d26f8ed02b&camp=1789&creative=9325) - Ryan Burgess
 
 
 ## Episode 177 - CSS - Cascading Sips of Sangria
 Published: August 13, 2023
-- [Gluten-free Oreo cookies](https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/ref=sr_1_2?hvadid=598805150115&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=17321927947121720575&hvtargid=kwd-2340854902&hydadcr=3390_13571860&keywords=gluten+free+oreo+cookies&qid=1691971343&rdc=1&sr=8-2) - Estelle Weyl
+- [Gluten-free Oreo cookies](https://www.amazon.com/Oreo-Original-Double-Cookies-Variety/dp/B096N5QLS9/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=fc7acbdaac39d8f7888d8666cacb88d1&camp=1789&creative=9325) - Estelle Weyl
 - [perfwork.com (Web Performance Job board)](https://perfwork.com) - Eric Meyer
 - [Mat Marquis Javascript for Web Designers A Book Apart](https://abookapart.com/products/javascript-for-web-designers) - Eric Meyer
 - [Estelle’s Tracker for Menstrual Cycle Web App](https://openwebdocs.org/content/posts/cycletracker/) - Eric Meyer
-- [Dewalt Air Inflator](https://www.amazon.com/DEWALT-DCC020IB-20V-Inflator-Bare/dp/B07H39S9JQ) - Ryan Burgess
-- [CSS: The Definitive Guide by Eric Meyer & Estelle Weyl](https://www.oreilly.com/library/view/css-the-definitive/9781098117603/) - Stacy London
+- [Dewalt Air Inflator](https://www.amazon.com/DEWALT-DCC020IB-20V-Inflator-Bare/dp/B07H39S9JQ?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=92bbeccc427bda767f5c3d67bc279877&camp=1789&creative=9325) - Ryan Burgess
+- [CSS: The Definitive Guide by Eric Meyer & Estelle Weyl](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=d1a8cc9a7d19230dfe683bca2265b578&camp=1789&creative=9325) - Stacy London
 - [Vertebrae / Forgotten Places by Max Cooper](https://maxcooper.bandcamp.com/track/vertebrae-forgotten-places) - Stacy London
 - [Arc ](https://arc.net/) - Augustus Yuan
 - [Wagwellies dog crocs](https://wagwear.com/products/wagwellies-mojave?variant=43959804231915&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwz8emBhDrARIsANNJjS6IGXaaY8ld0tc85cXeKruw1UCSwTimLcliuD8EQmBnIkg0RqZ1FggaAjtkEALw_wcB) - Cole Turner
-- [BigMouth Inc. Ginormous Inflatable Green Dinosaur Yard Summer Sprinkler](https://www.amazon.com/dp/B078TKXWGN) - Cole Turner
+- [BigMouth Inc. Ginormous Inflatable Green Dinosaur Yard Summer Sprinkler](https://www.amazon.com/dp/B078TKXWGN?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=20d87eccffb0c27134bc2c2b5196b4e8&camp=1789&creative=9325) - Cole Turner
 
 
 ## Episode 176 - How is AI maturing? - Always intoxicated by augmented intelligence
 Published: July 30, 2023
 - [The City of Cape Town](https://en.wikipedia.org/wiki/Cape_Town) - Nick Heiner
-- [Dog Training](https://www.amazon.com/101-Dog-Tricks-Activities-Challenge/dp/1592533256) - Nick Heiner
+- [Dog Training](https://www.amazon.com/101-Dog-Tricks-Activities-Challenge/dp/1592533256?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=5d1e2e0ac5af84f613a51956cf5783e4&camp=1789&creative=9325) - Nick Heiner
 - [AI.JSX Open Source Framework](https://github.com/fixie-ai/ai-jsx) - Nick Heiner
 - [Zenpo - Bullet Train Sushi](https://zenposushisf.com/) - Ryan Burgess
 - [This Old Ledge: Embarcadero](https://cdn.jwplayer.com/previews/j8U09VT2) - Ryan Burgess
-- [Marvelous Ms. Maisel S5](https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0B7F6XRGS) - Jem Young
+- [Marvelous Ms. Maisel S5](https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0B7F6XRGS?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=5225483affd3b2381a8966899cbf2af1&camp=1789&creative=9325) - Jem Young
 - [Guide for AI newcomers](https://docs.ai-jsx.com/guides/brand-new) - Jem Young
 - [A Little Bit Further by Tourist](https://officialtourist.bandcamp.com/track/a-little-bit-further) - Stacy London
 - [Don’t Fall for the AI Hype w/ Timnit Gebru](https://podcasts.apple.com/podcast/dont-fall-for-the-ai-hype-w-timnit-gebru/id1507621076?i=1000595385583) - Stacy London
@@ -75,7 +97,7 @@ Published: July 30, 2023
 ## Episode 175 - Modern CSS - Drinking in style
 Published: July 16, 2023
 - [Tempered Glass Mouse Mat](https://www.razer.com/gaming-mouse-mats/razer-atlas) - Chris Coyier
-- [Doritos ketchup chips](https://www.amazon.com/DORITOS-FLAVORED-TORTILLA-CHIPS-KETCHUP/dp/B0C353B3WG) - Ryan Burgess
+- [Doritos ketchup chips](https://www.amazon.com/DORITOS-FLAVORED-TORTILLA-CHIPS-KETCHUP/dp/B0C353B3WG?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=9e247a495a133ce112f6b7763641a3cb&camp=1789&creative=9325) - Ryan Burgess
 - [Modern CSS in Real Life - Chris Coyier](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/) - Ryan Burgess
 - [Valley Silicon: Linn Sondek](https://www.linn.co.uk/us/turntables/lp12-50) - Jem Young
 - [Line of Fire (feat. Sharon Van Etten) by Junip, Elias Araya, José González, Sharon Van Etten, Tobias Winterkorn](https://junipjunip.bandcamp.com/album/line-of-fire-feat-sharon-van-etten) - Stacy London
@@ -86,14 +108,14 @@ Published: July 16, 2023
 ## Episode 174 - Networking - Net-whiskey-ing
 Published: June 25, 2023
 - [Based on a True Story](https://www.peacocktv.com/stream-tv/based-on-a-true-story) - Ryan Burgess
-- [Bunch O Balloons](https://www.amazon.com/Bunch-Balloons-Tropical-Rapid-Filling-Self-Sealing/dp/B0B44PDCLC/ref=pd_lpo_sccl_1/135-5329622-0612361?pd_rd_w=H97wT&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=33P1VWTH54SEP5PX0E29&pd_rd_wg=RGwhy&pd_rd_r=5b7fc4b8-0bde-40aa-999d-c1f95cf5c07b&pd_rd_i=B0B44PDCLC&psc=1) - Ryan Burgess
+- [Bunch O Balloons](https://www.amazon.com/Bunch-Balloons-Tropical-Rapid-Filling-Self-Sealing/dp/B0B44PDCLC/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=ca4f0a68d3299fc66a452cd0b7ff4c4e&camp=1789&creative=9325) - Ryan Burgess
 - [Tour de France Unchained](https://www.netflix.com/title/81153133) - Jem Young
-- [The Managers Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) - Jem Young
+- [The Managers Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/9352135474/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=8aea2681c43cfb6d2cb266dd4a7f8641&camp=1789&creative=9325) - Jem Young
 - [Fast X](https://www.imdb.com/title/tt5433140/) - Jem Young
 - [Time Takes A While by Daniel Avery](https://danielavery.bandcamp.com/track/time-takes-a-while) - Stacy London
 - [Spiderman Across Spiderverse in Lego Trailer](https://www.youtube.com/watch?v=xc4jx4PugHI) - Augustus Yuan
 - [Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/) - Augustus Yuan
-- [Crucial Conversations: Tools for Talking When the Stakes are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Cole Turner
+- [Crucial Conversations: Tools for Talking When the Stakes are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=9a813937a92f865bbcb1217c785fc2ea&camp=1789&creative=9325) - Cole Turner
 - [Cann](https://drinkcann.com/) - Cole Turner
 
 
@@ -138,10 +160,10 @@ Published: May 14, 2023
 
 ## Episode 168 - Component libraries - cocktail ingredients
 Published: April 30, 2023
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/ref=sr_1_1?hvadid=605224886874&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=18173536944747149316&hvtargid=kwd-421963042545&hydadcr=6587_9607278&keywords=tomorrow+tomorrow+tomorrow&qid=1682375950&sr=8-1) - Kate Wardin
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.amazon.com/Audible-Tomorrow-Novel/dp/B09KD6TCSP/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=d69907d8c526094a1fa7723954da4481&camp=1789&creative=9325) - Kate Wardin
 - [Half-gallon water bottle]() - Kate Wardin
-- [Jay-z Decoded](https://www.amazon.com/Decoded-Jay-Z/dp/0812981154) - Ryan Burgess
-- [Rocket Bubble Machine](https://www.amazon.com/SHCKE-Launcher-Colorful-Birthday-Activity/dp/B09WD9S3C8) - Ryan Burgess
+- [Jay-z Decoded](https://www.amazon.com/Decoded-Jay-Z/dp/0812981154?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=0b844e9ec6e11493360e75865da66846&camp=1789&creative=9325) - Ryan Burgess
+- [Rocket Bubble Machine](https://www.amazon.com/SHCKE-Launcher-Colorful-Birthday-Activity/dp/B09WD9S3C8?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=46ff12b1a73c6b36370822c41ff29bae&camp=1789&creative=9325) - Ryan Burgess
 - [Head On - Arp Version by José González](https://josgonzlez.bandcamp.com/track/head-on-arp-version) - Stacy London
 - [III by The Supervoid Choral Ensemble](https://ssupervvoid.bandcamp.com/track/--3) - Stacy London
 
@@ -150,7 +172,7 @@ Published: April 30, 2023
 Published: April 16, 2023
 - [CS Primer](https://csprimer.com/) - Madison Kanna
 - [CodeTutor.ai](https://www.codetutor.ai/) - Madison Kanna
-- [Smart Brevity](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976) - Ryan Burgess
+- [Smart Brevity](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=7f6fc33a597017700dd86df1479e5088&camp=1789&creative=9325) - Ryan Burgess
 - [alt-J - An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) - Jem Young
 - [Changing Minds](https://changingminds.org/) - Jem Young
 - [Woodworking class]() - Jem Young
@@ -206,7 +228,7 @@ Published: February 19, 2023
 
 ## Episode 162 - Micro Frontends - Micro Brewing
 Published: February 5, 2023
-- [Building Microfrontends](https://www.amazon.com/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996/ref=sr_1_1?gclid=Cj0KCQiA8t2eBhDeARIsAAVEga0hCiNXw0_1mFmzaaXU7S2pUwrlFbm-hG7hLKiwq1XTvrs7HXye0LYaAvjyEALw_wcB&hvadid=590801818528&hvdev=c&hvlocphy=9031961&hvnetw=g&hvqmt=e&hvrand=1642759814538321933&hvtargid=kwd-1413735243496&hydadcr=22564_10354991&keywords=building+micro+frontends&qid=1675110373&sr=8-1) - Ruben Casas
+- [Building Microfrontends](https://www.amazon.com/Building-Micro-Frontends-Projects-Empowering-Developers/dp/1492082996?linkCode=ml1&tag=frontendhappy-20) - Ruben Casas
 - [Micro-frontend dev](https://microfrontend.dev/) - Ruben Casas
 - [The Last of Us](https://www.hbo.com/the-last-of-us) - Ruben Casas
 - [The Risks of Micro-Frontends - Ruben Casas](https://www.youtube.com/watch?v=R8dTiT9nKow) - Ryan Burgess
@@ -256,7 +278,7 @@ Published: December 4, 2022
 Published: November 20, 2022
 - [White fudge covered Oreos](https://www.target.com/p/oreo-white-fudge-covered-chocolate-sandwich-cookies-8-5oz/-/A-14922631?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000012732781&CPNG=PLA_Grocery%2BShopping_Local%7CGrocery_Ecomm_Food_Bev&adgroup=SC_Grocery&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9031961&targetid=pla-457453509548&ds_rl=1246978&gclid=Cj0KCQiA37KbBhDgARIsAIzce16KFnzFQjjlOZEYVmLACvD6gV6VovemP6pfmtl_3suubKg4dQfnxosaAi8REALw_wcB&gclsrc=aw.ds) - Ryan Burgess
 - [Drink Masters](https://www.netflix.com/title/81437299) - Ryan Burgess
-- [Jungle](https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ) - Jem Young
+- [Jungle](https://www.amazon.com/Jungle-Season-1/dp/B0B6T93BLJ?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Pointer Instruments](https://www.lunarartefacts.com/products/pointer-instruments-classic-brown) - Jem Young
 - [layoffs.fyi](https://layoffs.fyi) - Stacy London
 - [To Feel Again / Trois by Jon Hopkins, Kelly Lee Owens, Sultan + Shepard, Jerro](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX?si=c876ffdd3b7c4b29) - Stacy London
@@ -297,8 +319,8 @@ Published: September 4, 2022
 ## Episode 153 - (Re)mixology
 Published: July 17, 2022
 - [Hooked on Phonics](https://subscriptions.hookedonphonics.com/) - Shaundai Person
-- [The Boys](https://www.amazon.com/gp/video/detail/B09WV8HF7Q) - Shaundai Person
-- [Ultimate Bar Book the comprehensive guide](https://www.amazon.com/Ultimate-Bar-Book-Comprehensive-Cocktails/dp/0811843513) - Ryan Burgess
+- [The Boys](https://www.amazon.com/gp/video/detail/B09WV8HF7Q?linkCode=ml1&tag=frontendhappy-20) - Shaundai Person
+- [Ultimate Bar Book the comprehensive guide](https://www.amazon.com/Ultimate-Bar-Book-Comprehensive-Cocktails/dp/0811843513?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Hill Bombing Skateboarders of San Francisco](https://www.youtube.com/watch?v=2d6TBfIZzh0&ab_channel=TheNewYorker) - Ryan Burgess
 - [Valley Silicon: Mini Porsche](https://www.maisonette.com/product/porsche-cayenne-s-12v-r-c-white) - Jem Young
 - [Baby, We're Ascending by HAAi, Jon Hopkins]() - Stacy London
@@ -345,7 +367,7 @@ Published: May 8, 2022
 - [Killing Eve](https://www.amcplus.com/pages/killingeve) - Jesse Tomchak
 - [Tony Hawk - Until the wheels fall off](https://www.hbo.com/movies/tony-hawk-until-the-wheels-fall-off) - Ryan Burgess
 - [Snak the Ripper - Let It Rip](https://open.spotify.com/album/2O7W0TpDx0pjYKcEuID1NM) - Ryan Burgess
-- [MotoGP Unlimited S1](https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS) - Jem Young
+- [MotoGP Unlimited S1](https://www.amazon.com/MotoGP-Unlimited-Season-1/dp/B09Q37QFNS?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 
 
 ## Episode 148 - Sidebar interview with Stacy London
@@ -390,7 +412,7 @@ Published: February 6, 2022
 - [Tonal](https://www.tonal.com/) - Joe King
 - [High Res Uber Rap Videos](https://www.youtube.com/watch?v=T85RJIcBL2U) - Ryan Burgess
 - [Tinder Swindler](https://www.netflix.com/title/81254340) - Ryan Burgess
-- [Alaska Off-road warriors](https://www.amazon.com/gp/video/detail/B07PZ964LP) - Jem Young
+- [Alaska Off-road warriors](https://www.amazon.com/gp/video/detail/B07PZ964LP?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [It’s Always Sunny Podcast](https://the-always-sunny-podcast.simplecast.com/) - Jem Young
 - [Tristan Arp's mix on Dekmantel Podcast](https://soundcloud.com/dkmntl/dekmantel-podcast-356-tristan-arp?in=stacylondon/sets/mixes&si=52fbdc7270ce4821b5545589b88599dc) - Stacy London
 - [Sky H1's mix for Resident Advisor](https://soundcloud.com/resident-advisor/ra815-sky-h1) - Stacy London
@@ -399,9 +421,9 @@ Published: February 6, 2022
 ## Episode 142 - Job hunting in 2022 - Standing out in a crowded bar
 Published: January 23, 2022
 - [Group Chat Podcast](https://podcasts.apple.com/us/podcast/group-chat/id1311062310) - Taylor Desseyn
-- [Kenu Stance Mini Tripod Stand](https://www.amazon.com/Kenu-Stance-Tripod-iPhone-iTouch/dp/B01ECPWC5E) - Taylor Desseyn
+- [Kenu Stance Mini Tripod Stand](https://www.amazon.com/Kenu-Stance-Tripod-iPhone-iTouch/dp/B01ECPWC5E?linkCode=ml1&tag=frontendhappy-20) - Taylor Desseyn
 - [Ororo heated vest](https://www.ororowear.com/products/men-heated-vest-black) - Jono Grayson
-- [Organic Gatorade](https://www.amazon.com/Organic-Gatorade-Sports-Certified-Bottle) - Jono Grayson
+- [Organic Gatorade](https://www.amazon.com/Organic-Gatorade-Sports-Certified-Bottle?linkCode=ml1&tag=frontendhappy-20) - Jono Grayson
 - [14 Peaks](https://www.netflix.com/title/81464765) - Ryan Burgess
 - [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) - Jem Young
 - [Valley Silicon: Bartesian cocktail maker](https://bartesian.com/products/the-bartesian) - Jem Young
@@ -424,7 +446,7 @@ Published: January 9, 2022
 ## Episode 140 - Crafting your cocktail mixture to learning
 Published: November 28, 2021
 - [The GraphQL Guide](https://graphql.guide/) - Loren Sands-Ramshaw
-- [The 5 Personality Patterns (book on developmental psychology)](https://www.amazon.com/gp/product/0996343903) - Loren Sands-Ramshaw
+- [The 5 Personality Patterns (book on developmental psychology)](https://www.amazon.com/gp/product/0996343903?linkCode=ml1&tag=frontendhappy-20) - Loren Sands-Ramshaw
 - [Dopesick](https://www.hulu.com/series/dopesick-227de06a-d3d4-42e0-9df1-bb5495e1738d?cmp=11932) - Ryan Burgess
 - [UGG® Mammoth Tipped Throw Blanket](https://www.bedbathandbeyond.com/store/product/ugg-reg-mammoth-tipped-throw-blanket-in-grey-tipped/5595389) - Ryan Burgess
 - [Anker USB-C hub](https://us.anker.com/products/a8392) - Jem Young
@@ -454,7 +476,7 @@ Published: October 3, 2021
 - [Hydro Flask Cooler Cup](https://www.hydroflask.com/12-oz-cooler-cup) - Katherine Peterson
 - [GitHub Codespaces](https://github.com/features/codespaces) - Katherine Peterson
 - [Manager interview questions](https://github.com/ryanburgess/manager-interview-questions) - Ryan Burgess
-- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - Ryan Burgess
+- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Sit Around The Fire by Jon Hopkins, Ram Dass, East Forest](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ?si=45584ae8efb344be) - Stacy London
 - [Realign (Max Cooper Remix) by Henry Green, Max  Cooper](https://open.spotify.com/track/4yRGFVhIjlRkljwee2Uwgf?si=0HaFOGC2Sda3Xr8ncHv_oQ) - Stacy London
 
@@ -462,7 +484,7 @@ Published: October 3, 2021
 ## Episode 136 - Old Fashioned, old roles, new beginnings
 Published: September 19, 2021
 - [Fig](https://fig.io/) - Ryan Burgess
-- [The Culture Map - Erin Meyer](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - Ryan Burgess
+- [The Culture Map - Erin Meyer](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Finch: Self Care Pet Game](https://apps.apple.com/us/app/finch-virtual-self-care-pet/id1528595748) - Augustus Yuan
 - [Sessions: Vi](https://sessions.riotgames.com/en-us/event/sessions/) - Augustus Yuan
 - [Valley Silicon: Specialized balance bike](https://www.specialized.com/us/en/hotwalk-carbon/p/188009) - Jem Young
@@ -495,12 +517,12 @@ Published: September 5, 2021
 
 ## Episode 134 - Individual contributor to manager - Transitioning into a bartender
 Published: August 22, 2021
-- [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_3?dchild=1&keywords=Turn+the+Ship+Around&qid=1629686865&sr=8-3) - Nazanin Delam
+- [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404?linkCode=ml1&tag=frontendhappy-20) - Nazanin Delam
 - [Animal Crossing](https://animal-crossing.com/) - Nazanin Delam
 - [Say Goodbye to MBTI, the Fad That Won't Die](https://www.linkedin.com/pulse/20130917155206-69244073-say-goodbye-to-mbti-the-fad-that-won-t-die/) - Dan DiGangi
-- [Third Circle Theory: Purpose Through Observation](https://www.amazon.com/Third-Circle-Theory-Purpose-Observation/dp/0985601337/ref=sr_1_1?dchild=1&gclid=CjwKCAjw64eJBhAGEiwABr9o2MokmP71pHEzJBb9NH34N0x1sdbxFVMNzf4YIdzPZD-dIWfDSTmoxRoCThMQAvD_BwE&hvadid=174215607770&hvdev=c&hvlocphy=9031945&hvnetw=g&hvqmt=e&hvrand=18420852271578163854&hvtargid=kwd-58989990157&hydadcr=22538_9636740&keywords=third+circle+theory&qid=1629686836&sr=8-1) - Dan DiGangi
+- [Third Circle Theory: Purpose Through Observation](https://www.amazon.com/Third-Circle-Theory-Purpose-Observation/dp/0985601337?linkCode=ml1&tag=frontendhappy-20) - Dan DiGangi
 - [Ted Lasso](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) - Ryan Burgess
-- [The Power of Vulnerability - Brené Brown](https://www.amazon.com/The-Power-of-Vulnerability-audiobook/dp/B00D1Z9RFU) - Ryan Burgess
+- [The Power of Vulnerability - Brené Brown](https://www.amazon.com/The-Power-of-Vulnerability-audiobook/dp/B00D1Z9RFU?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Suicide Squad](https://www.hbomax.com/the-suicide-squad) - Jem Young
 - [The history of the segway](https://slate.com/human-interest/2021/08/dean-kamen-viral-mystery-invention-2001.html) - Jem Young
 
@@ -524,7 +546,7 @@ Published: August 8, 2021
 ## Episode 132 - Test Engineering - Beverage quality assurance
 Published: July 18, 2021
 - [Sand cloud towel beach](https://www.sandcloud.com/) - Ryan Burgess
-- [Bissell Little Green](https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK/ref=sr_1_3?dchild=1&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4at4HiUYEAzfsTi9Xy5k4W7bsZb9TXJm3gG8sP9Dm6gcya0TqRY_FFUaAl8wEALw_wcB&hvadid=346223982684&hvdev=c&hvlocphy=9061273&hvnetw=g&hvqmt=e&hvrand=3845771443590492108&hvtargid=kwd-295629423066&hydadcr=8677_9761165&keywords=bissell+little+green&qid=1625753759&sr=8-3) - Ryan Burgess
+- [Bissell Little Green](https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Xupermask](https://xupermask.com/buy/) - Jem Young
 - [100 Tips for a better life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) - Jem Young
 
@@ -539,7 +561,7 @@ Published: June 6, 2021
 - [Coava Coffee](https://coavacoffee.com/) - Jason Lengstorf
 - [Standing Out LOUDER in the Technical Interview](https://cole.codes/posts/standing-out-louder-in-the-technical-interview) - Ryan Burgess
 - [Mare of Easttown](https://www.hbo.com/mare-of-easttown) - Ryan Burgess
-- [Invincible](https://www.amazon.com/INVINCIBLE-SEASON-1/dp/B08WJMRHYZ) - Jem Young
+- [Invincible](https://www.amazon.com/INVINCIBLE-SEASON-1/dp/B08WJMRHYZ?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [FLoC](https://plausible.io/blog/google-floc) - Jem Young
 - [Workout axe](https://b8ta.com/product/chopper) - Jem Young
 - [Lilys by Warpaint](https://open.spotify.com/track/4oK4XJa92LlpMNAzx1TMlP?si=d362b7fc70064ea8) - Stacy London
@@ -566,7 +588,7 @@ Published: May 23, 2021
 Published: May 9, 2021
 - [Creative Cuties Discord](https://discord.com/invite/TrbPtEf3NH) - Alice Lee
 - [Survivor](https://www.cbs.com/shows/survivor/) - Alice Lee
-- [Better Allies](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - Ryan Burgess
+- [Better Allies](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Megalobox](https://www.netflix.com/title/80987707) - Augustus Yuan
 - [Raya and the Last Dragon](https://movies.disney.com/raya-and-the-last-dragon) - Augustus Yuan
 - [Summit1G quit Fortnite and everything change](https://www.youtube.com/watch?v=PM1SEjbUfzI) - Augustus Yuan
@@ -582,7 +604,7 @@ Published: April 25, 2021
 - [Datasketch.es](https://www.datasketch.es/) - Nadieh Bremer
 - [Fab Academy](https://fabacademy.org/) - Nadieh Bremer
 - [Biggie: I Got a Story to Tell](https://www.netflix.com/title/80202829) - Ryan Burgess
-- [Everybody Matters: The Extraordinary Power of Caring for Your People Like Family](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - Ryan Burgess
+- [Everybody Matters: The Extraordinary Power of Caring for Your People Like Family](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) - Shirley Wu
 - [Data Sketches Book Launch](https://www.youtube.com/watch?v=qkoEN0P29Q0) - Shirley Wu
 
@@ -595,8 +617,8 @@ Published: April 11, 2021
 - [Outsmartly](https://www.outsmartly.com/) - Kristofer Baxter
 - [Soul Soundtrack](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) - Kristofer Baxter
 - [AMP Project](https://opensource.google/projects/ampproject) - Kristofer Baxter
-- [Tell Us Your Secrets](https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z) - Ryan Burgess
-- [Dave](https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946) - Ryan Burgess
+- [Tell Us Your Secrets](https://www.amazon.com/Tell-Me-Your-Secrets-Season/dp/B08TSW2P1Z?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [Dave](https://www.hulu.com/series/ac3a96f0-9614-46af-b524-f59c7d281946?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Excalidraw](https://excalidraw.com/) - Augustus Yuan
 - [Web.dev Defining Core Web Vitals](https://web.dev/defining-core-web-vitals-thresholds/) - Augustus Yuan
 - [Gold by Glassjaw](https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj?si=Dpzkmrl4TP61OOLKH2ccSA) - Stacy London
@@ -622,7 +644,7 @@ Published: March 28, 2021
 Published: March 14, 2021
 - [Rebuild Black Business](https://www.youtube.com/channel/UCk01dYcLW-j3W_cND0lc0vQ) - Ryan Burgess
 - [Good Girls](https://www.netflix.com/title/80177342) - Ryan Burgess
-- [Amazon Builders Library](https://aws.amazon.com/builders-library/) - Augustus Yuan
+- [Amazon Builders Library](https://aws.amazon.com/builders-library/?linkCode=ml1&tag=frontendhappy-20) - Augustus Yuan
 - [Valheim](https://store.steampowered.com/app/892970/Valheim/) - Augustus Yuan
 - [Agile](https://www.atlassian.com/agile) - Augustus Yuan
 - [Here’s Why All Your Projects Are Always Late — and What to Do About It](https://freakonomics.com/podcast/project-management/) - Stacy London
@@ -647,9 +669,9 @@ Published: February 28, 2021
 
 ## Episode 122 - Productivity Engineering - Ballmer Peak
 Published: February 14, 2021
-- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/) - Kathryn Koehler
+- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/?linkCode=ml1&tag=frontendhappy-20) - Kathryn Koehler
 - [Lolita](https://www.audible.com/ep/title/?asin=B002V8MJ9Y) - Kathryn Koehler
-- [Team of Rivals](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0684824906) - Andy Glover
+- [Team of Rivals](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0684824906?linkCode=ml1&tag=frontendhappy-20) - Andy Glover
 - [Undercover](https://www.netflix.com/title/80225312) - Andy Glover
 - [NetflixEng Spotify playlist](https://open.spotify.com/playlist/45hTU6aykhDtSgy9DT5Nsh?si=2L2Z8t8jRq6NUiPUQtbDNw) - Ryan Burgess
 - [Mother In Law's Tongue Plant](https://www.thesill.com/products/snake-plant-laurentii?variant=32566748053609) - Ryan Burgess
@@ -667,11 +689,11 @@ Published: January 31, 2021
 - [The Thrill of the Fight VR Boxing](https://www.oculus.com/experiences/quest/3008315795852749) - Jared Jordan
 - [Nerf Rival XXI 2000 Gun](https://www.theverge.com/2021/1/25/22249059/nerf-rival-curve-shot-wanted-blaster) - Jared Jordan
 - [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612#ace-g9766277718) - Ryan Burgess
-- [ThermoPro meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/) - Ryan Burgess
+- [ThermoPro meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4/?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Midnight Sky](https://www.netflix.com/title/80244645) - Jem Young
 - [Trumps Over - Macklemore](https://www.youtube.com/watch?v=oq39hsXuG94) - Jem Young
 - [Valley Silicon: Zen Egg](https://zenegg.si/) - Jem Young
-- [Alternative wood Egg](https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6) - Jem Young
+- [Alternative wood Egg](https://www.amazon.com/Unpainted-Wooden-Eggs-2-1-1-3/dp/B00UGA9VN6?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [css-for-js.dev](https://css-for-js.dev/) - Mars Jullian
 - [Happy Masks](https://www.happymasks.com/) - Mars Jullian
 
@@ -751,8 +773,8 @@ Published: November 4, 2020
 - [Asian Americans](https://www.pbs.org/show/asian-americans/) - Shirley Wu
 - [Nintendo Ring Fit](https://ringfitadventure.nintendo.com/) - Shirley Wu
 - [Great Pretender](https://en.wikipedia.org/wiki/Great_Pretender_(TV_series)) - Shirley Wu
-- [Knives Out](https://www.amazon.com/Knives-Out-Ana-Armas/dp/B081W544J7) - Ryan Burgess
-- [Netflix vs. the World](https://www.amazon.com/Netflix-vs-World-Derek-Cecil/dp/B087MW5JG4) - Ryan Burgess
+- [Knives Out](https://www.amazon.com/Knives-Out-Ana-Armas/dp/B081W544J7?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [Netflix vs. the World](https://www.amazon.com/Netflix-vs-World-Derek-Cecil/dp/B087MW5JG4?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Great British Baking Show](https://www.netflix.com/title/80063224) - Mars Jullian
 - [The Social Dilemma](https://www.netflix.com/title/81254224) - Augustus Yuan
 - [Rocket League Free to Play!](https://www.rocketleague.com/) - Augustus Yuan
@@ -768,19 +790,19 @@ Published: November 4, 2020
 Published: October 18, 2020
 - [Polymer Clay earrings](https://www.etsy.com/market/polymer_clay_earring) - Bianca Bortolussi
 - [My Octopus Teacher](https://www.netflix.com/title/81045007) - Jen Pi
-- [Robin Sharma - The Monk Who Sold His Ferrari](https://www.amazon.com/Monk-Who-Sold-His-Ferrari/dp/0062515675) - Jen Pi
+- [Robin Sharma - The Monk Who Sold His Ferrari](https://www.amazon.com/Monk-Who-Sold-His-Ferrari/dp/0062515675?linkCode=ml1&tag=frontendhappy-20) - Jen Pi
 - [Robin Sharma - The 5am Club](https://www.robinsharma.com/book/the-5am-club) - Jen Pi
-- [AMPLIFI Alien](https://amplifi.com/alien) - Ryan Burgess
+- [AMPLIFI Alien](https://www.amazon.com/AmpliFi-Seamless-Wireless-Touchscreen-MeshPoint/dp/B088W3KFP7?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The American Barbecue Showdown](https://www.netflix.com/title/81057855) - Ryan Burgess
 - [It is as if you were doing work](https://www.pippinbarr.com/games/2017/07/03/it-is-as-if-you-were-doing-work.html) - Jem Young
-- [The Boys season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH) - Jem Young
+- [The Boys season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 
 
 ## Episode 113 - Severless - serving(less) drinks
 Published: October 4, 2020
 - [Serverless - CSS Tricks](https://serverless.css-tricks.com/) - Jerome Hardaway
 - [Lucifer](https://www.netflix.com/title/80057918) - Jerome Hardaway
-- [The Boys Season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH) - Jerome Hardaway
+- [The Boys Season 2](https://www.amazon.com/The-Boys-Season-2/dp/B08C8NJQSH?linkCode=ml1&tag=frontendhappy-20) - Jerome Hardaway
 - [Chef's Table BBQ](https://www.netflix.com/title/81292974) - Ryan Burgess
 - [Mixel cocktail app](https://www.mixelcocktails.com/) - Ryan Burgess
 - [Sukhe Phool - Max Cooper Firefly Remix by Yorkston/Thorne/Khan, Max Cooper](https://open.spotify.com/track/5gx6DzU69FWhz8RGn2zWXQ?si=CJDRKJLoSY2Yj2Y4r9I8KQ) - Stacy London
@@ -788,7 +810,7 @@ Published: October 4, 2020
 - [Fall Guys](https://fallguys.com/) - Augustus Yuan
 - [Intro to AWS Lambda and Serverless Apps ](https://www.youtube.com/watch?v=EBSdyoO3goc) - Augustus Yuan
 - [Valley Silicon: Fake window](https://www.day-lite.com/product-page/the-original-daylite-window) - Jem Young
-- [World's toughest race](https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ) - Jem Young
+- [World's toughest race](https://www.amazon.com/Worlds-Toughest-Race-Eco-Challenge-Fiji-Season/dp/B08BB8S8FJ?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 
 
 ## Episode 112 - SEO - Searching for our drinks
@@ -807,7 +829,7 @@ Published: September 20, 2020
 Published: September 6, 2020
 - [Taco Bell Cheese Burrito](https://www.tacobell.com/news/grilled-cheese-burrito) - Nicole Archambault
 - [Battlestar Galactica](https://www.imdb.com/title/tt0407362/) - Nicole Archambault
-- [Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246) - Nicole Archambault
+- [Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246?linkCode=ml1&tag=frontendhappy-20) - Nicole Archambault
 - [Twenty Thousand Hertz - Ta-dum! It’s Netflix](https://www.20k.org/episodes/netflix) - Ryan Burgess
 - [Ugly Delicious](https://www.netflix.com/title/80170368) - Ryan Burgess
 - [Jem](https://twitter.com/jemyoung) - Augustus Yuan
@@ -843,7 +865,7 @@ Published: August 09, 2020
 - [Fyrtur blackout blinds from IKEA](https://www.ikea.com/us/en/p/fyrtur-blackout-roller-blind-wireless-battery-operated-gray-90417462/) - Jason Miller
 - [When They See Us](https://www.netflix.com/title/80200549) - Jason Miller
 - [Pink Panther Jewelry heist in a mall in Dubai](https://www.youtube.com/watch?v=pG1jx7WhaAQ) - Ryan Burgess
-- [Gardner Bender EFT-15 Mini Cable](https://www.amazon.com/dp/B074B3ZWMH?ref=ppx_pop_mob_ap_share) - Ryan Burgess
+- [Gardner Bender EFT-15 Mini Cable](https://www.amazon.com/dp/B074B3ZWMH?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [How to Be an Antiracist by Ibram X. Kendi](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) - Stacy London
 - [The Cost of JavaScript Frameworks by Tim Kadlec](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) - Stacy London
 - [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/) - Mars Jullian
@@ -872,7 +894,7 @@ Published: July 12, 2020
 - [Unorthodox](https://www.netflix.com/title/81019069) - Anne Ricketts
 - [Fresh Air](https://www.npr.org/podcasts/381444908/fresh-air) - Anne Ricketts
 - [How to Make Clear and Concise Points](https://www.youtube.com/watch?v=jOiI3O8l6AQ) - Ryan Burgess
-- [Blue Yeti Mic](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S) - Ryan Burgess
+- [Blue Yeti Mic](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Midnight Gospel](https://www.netflix.com/title/80987903) - Jem Young
 - [What do executives do?](https://apenwarr.ca/log/?m=201909) - Jem Young
 - [Valley Silicon: Suvie](https://www.suvie.com/) - Jem Young
@@ -919,9 +941,9 @@ Published: June 5, 2020
 - [When They See Us](https://www.netflix.com/title/80200549) - (Netflix) - Series
 - [Talks to help you understand racism in America](https://www.ted.com/playlists/250/talks_to_help_you_understand_r) - TED Playlist
 - [Stamped from the Beginning - The Definitive History of Racist Ideas in America](https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA) - FREE Book on Spotify
-- [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825/ref=sr_1_1?dchild=1&keywords=So+You+Want+to+Talk+about+Race&qid=1591297044&sr=8-1) - Book
-- [The Colors of Us](https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636) - Book
-- [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I) - Book
+- [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825?linkCode=ml1&tag=frontendhappy-20) - Book
+- [The Colors of Us](https://www.amazon.com/Colors-Us-Karen-Katz/dp/0805071636?linkCode=ml1&tag=frontendhappy-20) - Book
+- [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I?linkCode=ml1&tag=frontendhappy-20) - Book
 - [1619 (NYTimes)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) - Podcast
 - [Code Switch (NPR)](https://www.npr.org/podcasts/510312/codeswitch) - Podcast
 - [Pod Save the People](https://crooked.com/podcast-series/pod-save-the-people/) - Podcast
@@ -937,7 +959,7 @@ Published: May 24, 2020
 - [Netflix DVD Subscription](https://dvd.netflix.com/) - Michael James
 - [The Last Kingdom](https://www.netflix.com/title/80074249) - Shravan Heroor
 - [Tiger Belly podcast](https://tigerbelly.libsyn.com/podcast) - Shravan Heroor
-- [Apple Thunderbolt Display replacement glass](https://www.amazon.com/gp/product/B00CMNDBBI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - Ryan Burgess
+- [Apple Thunderbolt Display replacement glass](https://www.amazon.com/gp/product/B00CMNDBBI?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Gorilla Super Glue Gel](https://www.gorillatough.com/product/gorilla-super-glue-gel/) - Ryan Burgess
 - [The Great Canadian Baking Show](https://www.netflix.com/ca/title/81250962) - Jem Young
 - [Valley Silicon: Ultimate “treehouse”](https://www.etsy.com/listing/294533825/exotic-treehouse) - Jem Young
@@ -950,7 +972,7 @@ Published: May 10, 2020
 - [Spotify: Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/) - Ryan Burgess
 - [The Last Dance](https://www.netflix.com/gb/title/80203144) - Jem Young
 - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - Jem Young
-- [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) - Ryan Anklam
+- [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Powerblock weight set](https://powerblock.com/product/sport/) - Ryan Anklam
 - [Leaving the Grid by Ital Tek](https://open.spotify.com/track/2u1hLuyPC4QfSAsbG2e9mT?si=8LmLniJGRTGTOyFk2IH_Cg) - Stacy London
 - [Video for Leaving the Grid by Ruben Fro](https://youtu.be/4UuwLrcEtvg) - Stacy London
@@ -959,7 +981,7 @@ Published: May 10, 2020
 
 ## Episode 101 - Showing off our personal bars - Personal projects
 Published: April 26, 2020
-- [Remington Hc6550 Cordless Vacuum Haircut Kit](https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I/ref=sr_1_2?crid=3JWKHCH4IFTV4&dchild=1&keywords=hair+clippers+with+vacuum&qid=1587503389&sprefix=hair+clippers+with+vac%2Caps%2C236&sr=8-2) - Ryan Burgess
+- [Remington Hc6550 Cordless Vacuum Haircut Kit](https://www.amazon.com/Remington-HC6550-Cordless-Haircut-Clippers/dp/B014SG616I?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [NetSpot](https://www.netspotapp.com/) - Ryan Burgess
 - [#blackAF](https://www.netflix.com/title/81056700) - Ryan Burgess
 - [Broken picture phone](https://www.brokenpicturephone.com/) - Augustus Yuan
@@ -991,12 +1013,12 @@ Published: April 12, 2020
 Published: March 29, 2020
 - [Complete developers guide to GraphQL - Udemy](https://www.udemy.com/course/graphql-with-react-course/) - Shruti Kapoor
 - [GraphQL playground + Graphical](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/) - Shruti Kapoor
-- [Big Magic: Creative Living Beyond Fear](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726) - Shruti Kapoor
-- [Revlon One-Step Hair Dryer & Volumizer](https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0) - Shruti Kapoor
+- [Big Magic: Creative Living Beyond Fear](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726?linkCode=ml1&tag=frontendhappy-20) - Shruti Kapoor
+- [Revlon One-Step Hair Dryer & Volumizer](https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0?linkCode=ml1&tag=frontendhappy-20) - Shruti Kapoor
 - [Dark](https://www.netflix.com/title/80100172) - Shruti Kapoor
 - [Heist Podcast](https://www.heistpodcast.com/) - Ryan Burgess
-- [Oh crap I have a toddler](https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734) - Ryan Burgess
-- [USB Switch selector](https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?ref_=fsclp_pl_dp_1) - Augustus Yuan
+- [Oh crap I have a toddler](https://www.amazon.com/Crap-Have-Toddler-Time-outs-Parenting/dp/1982109734?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [USB Switch selector](https://www.amazon.com/UGREEN-Selector-Computers-Peripheral-One-Button/dp/B01MXXQKGM?linkCode=ml1&tag=frontendhappy-20) - Augustus Yuan
 - [GoReplay](https://github.com/buger/goreplay) - Augustus Yuan
 - [Dev Jokes](https://github.com/shrutikapoor08/devjoke) - Jem Young
 - [This foot does not exist](https://thisfootdoesnotexist.com/) - Jem Young
@@ -1023,7 +1045,7 @@ Published: March 20, 2020
 - [Check in on your friends & family]() - Stacy London
 - [Psychic Data by TVAM](https://www.youtube.com/watch?v=vRkwVxXsmK8) - Stacy London
 - [Shedding Layers by Rob Clouth](https://open.spotify.com/track/0vHSZ0ASWja0MvdabS8JLE?si=3F7xY7XPT42M2EJKtN5NnQ) - Stacy London
-- [Talking to Strangers by Malcolm Gladwell](https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW) - Brian Holt
+- [Talking to Strangers by Malcolm Gladwell](https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW?linkCode=ml1&tag=frontendhappy-20) - Brian Holt
 - [Gift cards to local restaurants and bars]() - Brian Holt
 - [Folding@home](https://en.wikipedia.org/wiki/Folding@home) - Brian Holt
 
@@ -1034,7 +1056,7 @@ Published: March 15, 2020
 
 ## Episode 096 - Our preferred beverages - Work preferences
 Published: March 1, 2020
-- [Logitech Spotlight Presentation Remote](https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH/ref=sr_1_7?keywords=presenter+remote&qid=1580869579&sr=8-7) - Ryan Burgess
+- [Logitech Spotlight Presentation Remote](https://www.amazon.com/Logitech-Spotlight-Presentation-Remote-Highlighting/dp/B07S5HMQBH?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [On being wrong - Kathryn Schultz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - Ryan Burgess
 - [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/) - Augustus Yuan
 - [Weathering With You - Makoto Shinkai](https://www.imdb.com/title/tt9426210/) - Augustus Yuan
@@ -1102,12 +1124,12 @@ Published: December 22, 2019
 
 ## Episode 091 - Balancing your drinks & belonging - Inclusion & Diversity in Tech
 Published: December 8, 2019
-- [Stamped from the Beginning](https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985) - Cher
+- [Stamped from the Beginning](https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985?linkCode=ml1&tag=frontendhappy-20) - Cher
 - [Magdalene - FKA twigs](https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY) - Cher
 - [Modern Figures](https://modernfigurespodcast.com/) - Cher
 - [Megan Rapinoe](https://www.glamour.com/video/watch/women-of-the-year-megan-rapinoe-s-acceptance-speech-2019-women-of-the-year) - Cher
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf) - Henry Zhu
-- [Tools for conviviality](https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113) - Henry Zhu
+- [Tools for conviviality](https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113?linkCode=ml1&tag=frontendhappy-20) - Henry Zhu
 - [Blog post by Henry - Seeking Serendipity](https://www.henryzoo.com/serendipity/) - Henry Zhu
 - [Brene Brown: The Anatomy of Trust](https://brenebrown.com/videos/anatomy-trust-video/) - Ryan Burgess
 - [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust) - Ryan Burgess
@@ -1153,8 +1175,8 @@ Published: September 29, 2019
 - [Lana Del Rey: Norman Fucking Rockwell](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) - Tony Edwards
 - [The Indicator from Planet Money](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money) - Tony Edwards
 - [Steve1989MREInfo](https://www.youtube.com/channel/UC2I6Et1JkidnnbWgJFiMeHA) - Tony Edwards
-- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - Ryan Burgess
-- [Super Pumped: The Battle for Uber](https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ/) - Ryan Burgess
+- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [Super Pumped: The Battle for Uber](https://www.amazon.com/Super-Pumped-Battle-Uber/dp/B07RT152TJ?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Abstract Season 2](https://www.netflix.com/title/80057883) - Ryan Burgess
 - [Great British Baking Show](https://www.netflix.com/title/80063224) - Jem Young
 - [Duer Jeans](https://shopduer.com/) - Jem Young
@@ -1170,7 +1192,7 @@ Published: September 29, 2019
 Published: September 15, 2019
 - [Hyperdrive](https://www.netflix.com/title/80189648) - Ryan Burgess
 - [Unbelievable](https://www.netflix.com/title/80153467) - Ryan Burgess
-- [The Boys](https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjwwvfrBRBIEiwA2nFiPdVNJ1nQGkHf4yqgHo1UlDTJVZg7UAVIyEQ5f-wIMkbmaL7yiyU40RoCqlEQAvD_BwE) - Jem Young
+- [The Boys](https://www.amazon.com/dp/B07QQQ52B3?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Hamilton](https://hamiltonmusical.com/new-york/) - Jem Young
 - [Queer Eye - Japan](https://www.netflix.com/title/81075744) - Mars Jullian
 - [Blue Star Donuts Portland](https://www.bluestardonuts.com/) - Mars Jullian
@@ -1209,10 +1231,10 @@ Published: August 4, 2019
 ## Episode 084 - Niagara Falls, on the rocks - development process
 Published: July 21, 2019
 - [Lacasa De Papel (Money Heist)](https://www.netflix.com/title/80192098) - Ryan Burgess
-- [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889/ref=sr_1_3?crid=J4OO9PDCO9DD&keywords=how+to+talk+so+kids+will+listen+%26+listen+so+kids+will+talk&qid=1561132573&s=gateway&sprefix=how+to+talk+so+%2Caps%2C239&sr=8-3) - Ryan Burgess
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Karat](https://karat.com/) - Augustus Yuan
 - [FoodieLand Night Market](https://www.foodielandnm.com/) - Augustus Yuan
-- [This toaster](https://www.amazon.com/dp/B007RUC6LC/) - Jem Young
+- [This toaster](https://www.amazon.com/dp/B007RUC6LC?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Dark season 2](https://www.netflix.com/title/80100172) - Jem Young
 - [Pock](https://pock.dev/) - Jem Young
 - [Anima - Thom Yorke](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) - Stacy London
@@ -1228,7 +1250,7 @@ Published: June 23, 2019
 - [Montana M28 Guitar](https://montanaguitarshop.com/) - Eric Eiswerth
 - [Expack](https://expack.co/) - Eric Eiswerth
 - [Google Home Hub](https://store.google.com/us/product/google_nest_hub) - Ryan Burgess
-- [Hawkins Cheezies](https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?th=1) - Ryan Burgess
+- [Hawkins Cheezies](https://www.amazon.com/Hawkins-Cheezies-210g/dp/B00BPXOBGA?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Bad Blood Season 2](https://www.netflix.com/title/80221787) - Ryan Burgess
 - [Valley Silicon: Toaster](https://www.bloomberg.com/news/articles/2019-05-16/this-japanese-toaster-costs-270-it-only-makes-one-slice-at-a-time) - Jem Young
 - [Mechanical movements](https://507movements.com/toc.html) - Jem Young
@@ -1237,17 +1259,17 @@ Published: June 23, 2019
 
 ## Episode 082 - Product management - Pouring Martinis
 Published: June 9, 2019
-- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796) - Cathy Conk
-- [Severance](https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598) - Cathy Conk
+- [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People/dp/1591847796?linkCode=ml1&tag=frontendhappy-20) - Cathy Conk
+- [Severance](https://www.amazon.com/Severance-Novel-Ling-Ma/dp/0374261598?linkCode=ml1&tag=frontendhappy-20) - Cathy Conk
 - [The OA](https://www.netflix.com/title/80044950) - Cathy Conk
 - [Gully Boy](https://www.imdb.com/title/tt2395469/) - Eddy Wu
 - [Campfire Stout](https://www.highwaterbrewing.com/campfire-stout/) - Eddy Wu
-- [Rust: the longest war](https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602) - Eddy Wu
-- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Michael Spiegelman
-- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Michael Spiegelman
-- [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?gclid=Cj0KCQjw3PLnBRCpARIsAKaUbguJJx3PLwN-gQUJa7yA7ZkO3RBHMNNP9rWmjgqD-Kq3Qvjd63buy5UaAiFTEALw_wcB&hvadid=241894695810&hvdev=c&hvlocphy=9061273&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18291623973545407828&hvtargid=kwd-269114732332&hydadcr=22532_10344436&keywords=sapiens+books&qid=1560106894&s=gateway&sr=8-1) - Michael Spiegelman
-- [The world until yesterday](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404) - Michael Spiegelman
-- [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ/ref=sr_1_1?crid=3F11FGB2793BJ&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking&qid=1556898368&s=gateway&sprefix=quiet+%2Caps%2C347&sr=8-1) - Ryan Burgess
+- [Rust: the longest war](https://www.amazon.com/Rust-Longest-War-Jonathan-Waldman/dp/1451691602?linkCode=ml1&tag=frontendhappy-20) - Eddy Wu
+- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?linkCode=ml1&tag=frontendhappy-20) - Michael Spiegelman
+- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?linkCode=ml1&tag=frontendhappy-20) - Michael Spiegelman
+- [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117?linkCode=ml1&tag=frontendhappy-20) - Michael Spiegelman
+- [The world until yesterday](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404?linkCode=ml1&tag=frontendhappy-20) - Michael Spiegelman
+- [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/B00714PZMQ?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [React Day New York](https://reactnewyork.com/) - Ryan Burgess
 - [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) - Jem Young
 - [Vite Ramen](https://viteramen.com/) - Jem Young
@@ -1258,10 +1280,10 @@ Published: June 9, 2019
 Published: May 26, 2019
 - [Fantasy Survivor Game.com]() - Tyler Childs
 - [Laphroaig Triple Wood Whisky](https://www.laphroaig.com/product/triple-wood) - Tyler Childs
-- [Marvel 1602](https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340) - Tyler Childs
-- [Batman Hush](https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176) - Tyler Childs
-- [The Wake](https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918) - Tyler Childs
-- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC) - Ryan Burgess
+- [Marvel 1602](https://www.amazon.com/Marvel-1602-Neil-Gaiman/dp/0785141340?linkCode=ml1&tag=frontendhappy-20) - Tyler Childs
+- [Batman Hush](https://www.amazon.com/Batman-Hush-Jeph-Loeb/dp/1401223176?linkCode=ml1&tag=frontendhappy-20) - Tyler Childs
+- [The Wake](https://www.amazon.com/Wake-Scott-Snyder/dp/1401254918?linkCode=ml1&tag=frontendhappy-20) - Tyler Childs
+- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Pathfinding with A*](https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html) - Jem Young
 - [Writing a game loop](https://isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing) - Jem Young
 - [Hooka Speedgoat](https://www.hokaoneone.com/speedgoat/) - Ryan Anklam
@@ -1270,7 +1292,7 @@ Published: May 26, 2019
 
 ## Episode 080 - User experience - what if users are drunk?
 Published: May 14, 2019
-- [Swords on Amazon](https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2) - Randall Koutnik
+- [Swords on Amazon](https://www.amazon.com/s?k=swords&ref=nb_sb_noss_2&linkCode=ml1&tag=frontendhappy-20) - Randall Koutnik
 - [Factorio game](https://www.factorio.com/) - Randall Koutnik
 - [The Highwaymen](https://www.netflix.com/title/80200571) - Ryan Burgess
 - [Santa Clarita Diet Season 3](https://www.netflix.com/title/80095815) - Ryan Burgess
@@ -1333,12 +1355,12 @@ Published: March 3, 2019
 - [Tidying Up with  Marie Kondo](https://www.netflix.com/title/80209379) - Maxine Cheung
 - [Sour Beer - Alvarado Street Brewing](https://www.alvaradostreetbrewery.com/) - Maria Kazandjieva
 - [Autotune Cats](https://www.youtube.com/watch?v=vanP07y1Xgw) - Maria Kazandjieva
-- [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X) - Maria Kazandjieva
+- [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X?linkCode=ml1&tag=frontendhappy-20) - Maria Kazandjieva
 - [Arctic Monkeys - Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) - Maria Kazandjieva
 - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Maria Kazandjieva
 - [Quincy Documentary](https://www.netflix.com/title/80102952) - Courtney Kennedy
-- [The Upside of Stress](https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934) - Courtney Kennedy
-- [Foam Back Roller](https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?ref_=fsclp_pl_dp_6) - Ryan Burgess
+- [The Upside of Stress](https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934?linkCode=ml1&tag=frontendhappy-20) - Courtney Kennedy
+- [Foam Back Roller](https://www.amazon.com/Inch-Length-Round-Eco-Friendly-Flexibility/dp/B00NVNHOQQ?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [The Umbrella Academy](https://www.netflix.com/title/80186863) - Jem Young
 - [Young Blood](https://www.theverge.com/platform/amp/2019/2/19/18231673/young-blood-fda-warning-aging-plasma) - Jem Young
 
@@ -1376,7 +1398,7 @@ Published: January 20, 2019
 - [You](https://www.netflix.com/title/80211991) - Ryan Burgess
 - [Black Mirror Bandersnatch](https://www.netflix.com/title/80988062) - Ryan Burgess
 - [Netflix UIE JavaScript Talk Bandersnatch](https://javascripttalks2019.splashthat.com/) - Ryan Burgess
-- [The Gymkhana Files](https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV) - Jem Young
+- [The Gymkhana Files](https://www.amazon.com/The-Gymkhana-Files-Season-1/dp/B07J5H8PZV?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [ForwardJS](https://forwardjs.com/) - Jem Young
 
 
@@ -1401,7 +1423,7 @@ Published: December 9, 2018
 - [Final Table](https://www.netflix.com/title/80201866) - Ryan Burgess
 - [Yoshi App](https://www.startyoshi.com/) - Jem Young
 - [The Ballad of Buster Scruggs](https://www.netflix.com/title/80200267) - Jem Young
-- [All Systems Red](https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536/ref=sr_1_1?s=books&ie=UTF8&qid=1543530699&sr=1-1&keywords=all+systems+red) - Ryan Anklam
+- [All Systems Red](https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Android Call Screening](https://www.androidcentral.com/call-screening-starts-appearing-some-google-pixel-and-pixel-xl-phones) - Ryan Anklam
 - [Guides by Lonely Planet](https://itunes.apple.com/us/app/guides-by-lonely-planet/id1045791869?mt=8) - Mars Jullian
 - [React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html) - Stacy London
@@ -1415,7 +1437,7 @@ Published: November 25, 2018
 - [Joy Buolamwini: How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) - Ryan Burgess
 - [Haunting of Hill House](https://www.netflix.com/title/80189221) - Jem Young
 - [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq?si=9DRfAsKTRaebWZXn8lbMrg) - Jem Young
-- [The Fifth Season](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296) - Jem Young
+- [The Fifth Season](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Code Runner plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Ryan Anklam
 - [Redux Sagas](https://redux-saga.js.org/) - Ryan Anklam
 
@@ -1438,9 +1460,9 @@ Published: October 28, 2018
 Published: October 14, 2018
 - [Seeing White](https://www.sceneonradio.org/seeing-white/) - Aaron Gustafson
 - [Uncivil](https://www.gimletmedia.com/uncivil) - Aaron Gustafson
-- [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061) - Aaron Gustafson
+- [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061?linkCode=ml1&tag=frontendhappy-20) - Aaron Gustafson
 - [Ng-Atlanta](https://ng-atl.org) - Ryan Burgess
-- [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461) - Ryan Burgess
+- [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Celeste](https://www.celestegame.com/) - Augustus Yuan
 - [Bao](https://en.wikipedia.org/wiki/Bao_(film)) - Augustus Yuan
 - [Supreme Brick](https://www.stadiumgoods.com/brick-red-su1187) - Jem Young
@@ -1461,14 +1483,14 @@ Published: September 16, 2018
 - [Ken Wheeler - Love Songs For your Mother](https://open.spotify.com/album/5SYR1HJgrsFqHCDkLgZP8p?si=EjYRXo5iTOuGMAXJGqtLSQ) - Lauren Tan
 - [Darksynth](https://open.spotify.com/user/1213866633/playlist/16Ag5G93c24I2kA6aIal9W) - Lauren Tan
 - [The Seventh Seal](https://www.imdb.com/title/tt0050976/) - Kunal Bohra
-- [What I Talk About When I Talk About Running](https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839) - Kunal Bohra
+- [What I Talk About When I Talk About Running](https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839?linkCode=ml1&tag=frontendhappy-20) - Kunal Bohra
 - [Toddler Tattoos](https://toddlertattoos.com/) - Ryan Burgess
 - [Ozark](https://www.netflix.com/title/80117552) - Ryan Burgess
 - [Stay Here](https://www.netflix.com/title/80201870) - Ryan Burgess
 - [Lauren Tan's talk at React Rally](https://www.youtube.com/watch?v=y3uXazpAdwo) - Ryan Burgess
 - [Kill or Cure](https://kill-or-cure.herokuapp.com/) - Jem Young
 - [Luke Cage](https://www.netflix.com/title/80002537) - Jem Young
-- [Infinite](https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335) - Ryan Anklam
+- [Infinite](https://www.amazon.com/Infinite-Jeremy-Robinson/dp/1941539335?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Panic Cord Remix](https://open.spotify.com/track/7s61CkW9KFKc4E4R0BVoiq?si=xaGr80kcRuC_ljMIvNqtqg) - Ryan Anklam
 
 
@@ -1488,7 +1510,7 @@ Published: September 2, 2018
 ## Episode 064 - Librations - JavaScript libraries
 Published: August 19, 2018
 - [Cleanshot](https://producthunt.com/posts/cleanshot) - Ryan Burgess
-- [So You Want To Talk About Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776) - Ryan Burgess
+- [So You Want To Talk About Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Jem Young
 - [Warframe](https://www.warframe.com) - Jem Young
 - [Chicken Diapers](https://theoutline.com/post/5608/bury-me-in-chicken-diapers?zd=3&zi=wru4qzuh) - Jem Young
@@ -1503,9 +1525,9 @@ Published: August 5, 2018
 - [D’cappella](https://www.youtube.com/watch?v=1wRW8eh6hGI) - Sarah Showers
 - [Hannah Gadsby: Nanette](https://www.netflix.com/title/80233611) - Ryan Burgess
 - [Amazing Interiors](https://www.netflix.com/title/80184067) - Ryan Burgess
-- [Hoover Cordless](https://www.amazon.com/gp/product/B01KWZECOM) - Jem Young
+- [Hoover Cordless](https://www.amazon.com/gp/product/B01KWZECOM?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Battletech](https://store.steampowered.com/app/637090/BATTLETECH/) - Jem Young
-- [Medium Raw by Anthony Bourdain](https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/) - Derrick Showers
+- [Medium Raw by Anthony Bourdain](https://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955/?linkCode=ml1&tag=frontendhappy-20) - Derrick Showers
 - [Three identical strangers](https://www.threeidenticalstrangers.com/) - Derrick Showers
 - [NYC](https://en.wikipedia.org/wiki/New_York_City) - Derrick Showers
 - [Amazing Hotels: life beyond the lobby](https://www.netflix.com/title/80212125) - Mars Jullian
@@ -1564,7 +1586,7 @@ Published: June 10, 2018
 
 ## Episode 058 - User testing - Even a drunk person can do it
 Published: May 28, 2018
-- [3M Command Strips](https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48) - Ryan Burgess
+- [3M Command Strips](https://www.amazon.com/Command-Picture-Hanging-8-Medium-17203-ES/dp/B000OF6X48?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Sonos speakers](https://www.sonos.com/) - Ryan Burgess
 - [Talk to Books](https://books.google.com/talktobooks/) - Augustus Yuan
 - [Pocket Developer Dice](https://pretendstore.co/products/pocket-developer) - Augustus Yuan
@@ -1580,9 +1602,9 @@ Published: April 13, 2018
 - [Up Next](https://itunes.apple.com/us/app/up-next/id1355117041?ls=1&mt=12) - Ryan Burgess
 - [Electron](https://electronjs.org/) - Ryan Burgess
 - [Comply Ear Plugs](https://www.complyfoam.com/) - Jem Young
-- [Jarv Nmotion ear buds](https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6) - Jem Young
+- [Jarv Nmotion ear buds](https://www.amazon.com/Jarv-NMotion-Bluetooth-Headphones-Black/dp/B00JAAJ1F6?linkCode=ml1&tag=frontendhappy-20) - Jem Young
 - [Fastest Car](https://www.netflix.com/title/80190009) - Jem Young
-- [Orphan Master’s Son](https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622) - Ryan Anklam
+- [Orphan Master’s Son](https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Barkley Marathons - The Race that Eats its Young](https://barkleymovie.com/) - Ryan Anklam
 
 
@@ -1607,10 +1629,10 @@ Published: April 16, 2018
 
 ## Episode 054 - Wasted on Elm
 Published: April 1, 2018
-- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Richard Feldman
+- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?linkCode=ml1&tag=frontendhappy-20) - Richard Feldman
 - [Richard Feldman: CSS as Bytecode](https://www.youtube.com/watch?v=bt1TzVngOqY) - Richard Feldman
 - [Elm Town](https://elmtown.audio/) - Richard Feldman
-- [Absentia](https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y) - Ryan Burgess
+- [Absentia](https://www.amazon.com/Absentia-Season-1/dp/B0788VPT5Y?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Seven Seconds](https://www.netflix.com/title/80117555) - Ryan Burgess
 - [Workbox](https://github.com/GoogleChrome/workbox) - Augustus Yuan
 - [Evernote Spaces](https://evernote.com/spaces) - Augustus Yuan
@@ -1650,7 +1672,7 @@ Published: February 18, 2018
 - [Haven](https://github.com/guardianproject/haven) - Augustus Yuan
 - [Uphill Conf](https://uphillconf.com/) - Jem Young
 - [Bitcoin](https://bitcoin.org) - Jem Young
-- [The Grand Tour](https://www.amazon.com/dp/B01J94A5GQ) - Mars Jullian
+- [The Grand Tour](https://www.amazon.com/dp/B01J94A5GQ?linkCode=ml1&tag=frontendhappy-20) - Mars Jullian
 - [The noun project](https://thenounproject.com/) - Mars Jullian
 - [Carbon.now.sh](https://carbon.now.sh/) - Stacy London
 - [Sunder by Nathan Fake](https://nathanfake.bandcamp.com/album/sunder) - Stacy London
@@ -1660,12 +1682,12 @@ Published: February 18, 2018
 Published: February 5, 2018
 - [Zackary Chapple](https://twitter.com/ZChapple) - Aimee Knight
 - [What does code readability mean?](https://typicalprogrammer.com/what-does-code-readability-mean) - Aimee Knight
-- [BCAA - Gummy Worm](https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91) - Aimee Knight
+- [BCAA - Gummy Worm](https://www.amazon.com/Beyond-Raw-Precision-BCAA-Servings/dp/B01MXZCK91?linkCode=ml1&tag=frontendhappy-20) - Aimee Knight
 - [Code: Debugging the gender gap](https://www.netflix.com/title/80130565) - Simona Cotin
 - [CodeBar](https://codebar.io/) - Simona Cotin
 - [Readable Code](https://typicalprogrammer.com/what-does-code-readability-mean) - John Papa
 - [The Greatest Showman](https://www.imdb.com/title/tt1485796/) - John Papa
-- [The Power of Full Engagement](https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS) - April Wensel
+- [The Power of Full Engagement](https://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS?linkCode=ml1&tag=frontendhappy-20) - April Wensel
 - [The Beyond Burger](https://beyondmeat.com/products/view/beyond-burger) - April Wensel
 - [Viva La Vegan](https://www.yelp.com/biz/viva-la-vegan-atlanta) - April Wensel
 - [Dark](https://www.netflix.com/title/80100172) - Ryan Burgess
@@ -1681,7 +1703,7 @@ Published: January 21, 2018
 - [Coding like a girl by Amy Wibowo](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) - Shirley Wu
 - [OpenVis Conf](https://www.openvisconf.com/) - Shirley Wu
 - [Kimi No Na Wa (Your name)](https://www.rottentomatoes.com/m/your_name_2017/) - Shirley Wu
-- [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533) - Amy Wibowo
+- [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?linkCode=ml1&tag=frontendhappy-20) - Amy Wibowo
 - [ConferCal](https://www.confercal.com/) - Ryan Burgess
 - [Black Mirror Season 4](https://www.netflix.com/title/70264888) - Ryan Burgess
 - [Smog Free Tower](https://www.studioroosegaarde.net/project/smog-free-tower) - Augustus Yuan
@@ -1741,7 +1763,7 @@ Published: November 14, 2017
 - [Airbnb Experiences](https://www.airbnb.com/experiences) - Derrick Showers
 - [DripDrop](https://dripdrop.com/) - Derrick Showers
 - [Lisbon, Portugal](https://www.tripadvisor.com/Tourism-g189158-Lisbon_Lisbon_District_Central_Portugal-Vacations.html) - Stacy London
-- [Girl in a Band by Kim Gordon](https://www.amazon.com/gp/product/006229590X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006229590X&linkCode=as2&tag=frontendhappy-20&linkId=57605bd62405de7dd904f495cdbc16c6) - Stacy London
+- [Girl in a Band by Kim Gordon](https://www.amazon.com/gp/product/006229590X?linkCode=ml1&tag=frontendhappy-20) - Stacy London
 
 
 ## Episode 045 - Getting the bartender's attention
@@ -1792,8 +1814,8 @@ Published: October 1, 2017
 ## Episode 042 - Work hard, drink hard
 Published: September 13, 2017
 - [Best Self Journal](https://bestself.co/) - Sarah Showers
-- [Movo Photo MTP-11](https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=4df5c888ca253903fdff5842d988b08b&creativeASIN=B01K0LLQ38) - Ryan Burgess
-- [SVG Animations - Sarah Drasner](https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702/ref=as_sl_pc_qf_sp_asin_til?tag=frontendhappy-20&linkCode=w00&linkId=0872a0a0efd3a599dd336dc75fc1c145&creativeASIN=1491939702) - Ryan Burgess
+- [Movo Photo MTP-11](https://www.amazon.com/Movo-MTP-11-Motorized-Panoramic-Rechargeable/dp/B01K0LLQ38?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [SVG Animations - Sarah Drasner](https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [How to fix a toilet](https://how-to-fix-a-toilet.com/) - Augustus Yuan
 - [Sketch 2 After Effects](https://github.com/google/sketch2ae) - Augustus Yuan
 - [One World Observatory](https://oneworldobservatory.com/) - Derrick Showers
@@ -1872,14 +1894,14 @@ Published: July 17, 2017
 ## Episode 037 - Amazing Manhattans Anywhere
 Published: July 5, 2017
 - [Breaker app](https://itunes.apple.com/us/app/breaker/id1215095006?mt=8) - Ryan Burgess
-- [PhoneSoap](https://www.amazon.com/gp/product/B016NGFY3C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016NGFY3C&linkCode=as2&tag=frontendhappy-20&linkId=58aac0a86dc92b708edac4db2e6e9fb3) - Ryan Burgess
+- [PhoneSoap](https://www.amazon.com/gp/product/B016NGFY3C?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Front End Guide](https://github.com/grab/front-end-guide) - Augustus Yuan
 - [Summer sale on Steam](https://store.steampowered.com/app/485890/Summer_Sale/) - Augustus Yuan
 - [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) - Jem Young
 - [The Discovery](https://www.netflix.com/title/80115857) - Jem Young
-- [The Obesity Code](https://www.amazon.com/gp/product/1771641258/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1771641258&linkCode=as2&tag=frontendhappy-20&linkId=fcf0954b2026da2776d055cba01ab42f) - Derrick Showers
+- [The Obesity Code](https://www.amazon.com/gp/product/1771641258?linkCode=ml1&tag=frontendhappy-20) - Derrick Showers
 - [Headspace](https://www.headspace.com/) - Derrick Showers
-- [Children of Time Book](https://www.amazon.com/gp/product/1447273303/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1447273303&linkCode=as2&tag=frontendhappy-20&linkId=8d23afb6d0f810c9d36ff3dfab567456) - Ryan Anklam
+- [Children of Time Book](https://www.amazon.com/gp/product/1447273303?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Darigold Old Fashioned Chocolate Milk](https://www.darigold.com/products/milk/old-fashioned-chocolate-milk-half-gallon) - Ryan Anklam
 - [Bing](https://www.bing.com/) - Brian Holt
 - [OneNote](https://www.onenote.com/) - Brian Holt
@@ -1909,8 +1931,8 @@ Published: June 4, 2017
 - [Reasonably Sound](https://reasonablysound.com/) - Jyri Tuulos
 - [InspiRock](https://www.inspirock.com/) - Josh London
 - [React Sketch App](https://airbnb.io/react-sketchapp/) - Josh London
-- [XLR8 Connect Diaper Backpack](https://www.amazon.com/gp/product/B019DHBWEI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019DHBWEI&linkCode=as2&tag=frontendhappy-20&linkId=7020af0e5a1b1b4bdb01ae1ee4b9ae99) - Ryan Burgess
-- [Bosch](https://www.amazon.com/gp/video/detail/B06WVFKQCY) - Ryan Burgess
+- [XLR8 Connect Diaper Backpack](https://www.amazon.com/gp/product/B019DHBWEI?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
+- [Bosch](https://www.amazon.com/gp/video/detail/B06WVFKQCY?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Quick Draw! Google Dataset](https://quickdraw.withgoogle.com/data) - Augustus Yuan
 - [Style Guides](https://styleguides.io/) - Augustus Yuan
 - [Google I/O videos](https://events.google.com/io/) - Augustus Yuan
@@ -1953,7 +1975,7 @@ Published: May 7, 2017
 - [The Wee Baby Burgess - Austin Ryan Burgess](https://twitter.com/austinrburgess/status/856203118807105536) - Jem Young
 - [Iron Fist](https://www.netflix.com/title/80002612) - Jem Young
 - [Spotify Discover Weekly Playlist](https://www.spotify.com/us/discoverweekly/) - Ryan Anklam
-- [Ancillary Justice](https://www.amazon.com/gp/product/031624662X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=031624662X&linkCode=as2&tag=frontendhappy-20&linkId=815c6677ab5863d495a4744ea783421b) - Ryan Anklam
+- [Ancillary Justice](https://www.amazon.com/gp/product/031624662X?linkCode=ml1&tag=frontendhappy-20) - Ryan Anklam
 - [Flow Type](https://flow.org/) - Brian Holt
 - [Babel Preset Env](https://github.com/babel/babel-preset-env) - Brian Holt
 - [Planned Parenthood](https://www.plannedparenthood.org/) - Brian Holt
@@ -1985,7 +2007,7 @@ Published: April 9, 2017
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Augustus Yuan
 - [Hacking Node Seralize](https://blog.websecurify.com/2017/02/hacking-node-serialize.html) - Ryan Anklam
 - [Rocket](https://julianthayn.com/rocket) - Ryan Anklam
-- [Horizon Zero Dawn](https://www.amazon.com/gp/product/B00ZQC73O8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZQC73O8&linkCode=as2&tag=frontendhappy-20&linkId=7f9b3ee13ad0fcba60f9f506ba28c769) - Brian Holt
+- [Horizon Zero Dawn](https://www.amazon.com/gp/product/B00ZQC73O8?linkCode=ml1&tag=frontendhappy-20) - Brian Holt
 - [Spindrift by Colin Stetson](https://open.spotify.com/track/3VyfaSBGhMIa6Np02DIf9h) - Stacy London
 - [It's not how many hours of sleep you get...](https://superyesmore.com/its-not-how-many-hours-of-sleep-you-get-31511419ec81ce17835eeeb6c1a570a5) - Stacy London
 
@@ -2011,7 +2033,7 @@ Published: March 24, 2017
 
 ## Episode 029 - Alcoholic Angular
 Published: March 12, 2017
-- [Yoga Trapeze Swing](https://www.amazon.com/gp/product/B0094H756W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0094H756W&linkCode=as2&tag=frontendhappy-20&linkId=8f274f069b13efdf95370a9832051bdd) - Ayşegül Yönet
+- [Yoga Trapeze Swing](https://www.amazon.com/gp/product/B0094H756W?linkCode=ml1&tag=frontendhappy-20) - Ayşegül Yönet
 - [Google Home](https://madeby.google.com/home) - Ayşegül Yönet
 - [Girl Develop It](https://www.girldevelopit.com/) - Ayşegül Yönet
 - [Annie Cannons](https://www.anniecannons.com/) - Ayşegül Yönet
@@ -2072,7 +2094,7 @@ Published: February 7, 2017
 - [CSS Modules](https://github.com/css-modules/css-modules) - Julie Horvath
 - [BEM](https://getbem.com/introduction/) - Julie Horvath
 - [Baskets](https://www.fxnetworks.com/shows/baskets) - Julie Horvath
-- [Long Division](https://www.amazon.com/gp/product/1932841725/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1932841725&linkCode=as2&tag=frontendhappy-20&linkId=30de272cadf662c4affe287b4ecbc361) - Julie Horvath
+- [Long Division](https://www.amazon.com/gp/product/1932841725?linkCode=ml1&tag=frontendhappy-20) - Julie Horvath
 - [ACLU](https://www.aclunc.org) - Julie Horvath
 - [East of West](https://imagecomics.com/comics/series/east-of-west) - Julie Horvath
 - [Kehlani - Sweet Sexy Savage](https://www.youtube.com/watch?v=TRwhfPskEL8) - Julie Horvath
@@ -2192,7 +2214,7 @@ Published: November 7, 2016
 - [The 10 Biggest Misconceptions About Remote Work](https://blog.trello.com/company-remote-work-myths) - Darren Buckner
 - [Toby: manage your tabs](https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip) - Darren Buckner
 - [Oversight](https://objective-see.com/products/oversight.html) - Ryan Burgess
-- [How To Open Locks With Improvised Tools](https://www.amazon.com/gp/product/0966608712/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0966608712&linkCode=as2&tag=frontendhappy-20&linkId=74e565103ce898cd6dee8bab01809f32) - Ryan Burgess
+- [How To Open Locks With Improvised Tools](https://www.amazon.com/gp/product/0966608712?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Why work doesn’t happen at work TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) - Augustus Yuan
 - [Android 404 page](https://www.android.com/404/) - Augustus Yuan
 - [On Style Maintenance](https://css-tricks.com/on-style-maintenance/) - Jem Young
@@ -2214,7 +2236,7 @@ Published: October 29, 2016
 - [Real-time performance audit with Chrome DevTools](https://www.youtube.com/watch?v=pt4TjbSQz-g) - Augustus Yuan
 - [Week of learning](https://learning.linkedin.com/week-of-learning) - Derrick Showers
 - [Black Mirror](https://www.netflix.com/title/70264888) - Derrick Showers
-- [Man In The High Castle](https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO) - Derrick Showers
+- [Man In The High Castle](https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGIVVO?linkCode=ml1&tag=frontendhappy-20) - Derrick Showers
 - [Bridge Troll](https://www.bridgetroll.org/) - Sarah Federman
 - [Imgix Page Weight Tool](https://pageweight.imgix.com/) - Sarah Federman
 - [CSS Triggers](https://csstriggers.com/) - Sarah Federman
@@ -2225,7 +2247,7 @@ Published: October 13, 2016
 - [Radical Candor](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - Chris Saint-Amant
 - [Suuns - Hold/Still](https://suuns.bandcamp.com/) - Chris Saint-Amant
 - [I'll Sleep When I'm Dead](https://www.netflix.com/title/80118930) - Ryan Burgess
-- [The Advantage](https://www.amazon.com/gp/product/0470941529/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470941529&linkCode=as2&tag=frontendhappy-20&linkId=70321ba90431558538768345dedca4d4) - Ryan Burgess
+- [The Advantage](https://www.amazon.com/gp/product/0470941529?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Free O’Reilly Books](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/) - Augustus Yuan
 - [Noto font by Google](https://www.google.com/get/noto/) - Augustus Yuan
 - [Infinite Jukebox](https://labs.echonest.com/Uploader/index.html) - Jem Young
@@ -2289,7 +2311,7 @@ Published: August 17, 2016
 
 ## Episode 012 - Ninja Rockstar Whiskey Drinker With 10 Years IPA Experience
 Published: August 8, 2016
-- [Culture Map](https://www.amazon.com/gp/product/1610392507/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1610392507&linkCode=as2&tag=frontendhappy-20&linkId=d0e03b2bd8cd6243c93daffa4732335a) - Chrissy Running
+- [Culture Map](https://www.amazon.com/gp/product/1610392507?linkCode=ml1&tag=frontendhappy-20) - Chrissy Running
 - [The Night Of](https://www.hbo.com/the-night-of) - Chrissy Running
 - [The Fundamentals of Caring](https://www.netflix.com/title/80097349) - Alayna Ketner
 - [Song Exploder](https://songexploder.net/) - Alayna Ketner
@@ -2408,7 +2430,7 @@ Published: April 25, 2015
 ## Episode 005 - Interviews make us drink
 Published: April 14, 2016
 - [Aerial screensaver](https://github.com/JohnCoates/Aerial) - Ryan Burgess
-- [Amazon Dash Buttons](https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011) - Ryan Burgess
+- [Amazon Dash Buttons](https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Front End Happy Hour Playlist](https://open.spotify.com/user/1294287391/playlist/6mpuF87VHAcog1cOwQqnfl) - Ryan Burgess
 - [Escape app](https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894?mt=12) - Ryan Anklam
 - [Best of Old Time Radio Podcast](https://itunes.apple.com/us/podcast/best-of-old-time-radio/id288417478?mt=2) - Ryan Anklam
@@ -2469,7 +2491,7 @@ Published: March 16, 2016
 - [Egghead.io](https://egghead.io/) - Ben Lesh
 - [Egghead.io - RxJS Creating Observables from Scratch](https://egghead.io/lessons/rxjs-creating-observable-from-scratch) - Ben Lesh
 - [Netflix UIE YouTube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA) - Ryan Burgess
-- [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X4WHP5E&linkCode=as2&tag=frontendhappy-20&linkId=bd58bc7d5a3f4206f94673b2f57edcca) - Ryan Burgess
+- [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E?linkCode=ml1&tag=frontendhappy-20) - Ryan Burgess
 - [Tilt Brush](https://www.tiltbrush.com/) - Augustus Yuan
 - [EcmaScript Proposals](https://github.com/tc39/ecma262) - Jem Young
 - [VimCasts](https://vimcasts.org/) - Ryan Anklam
