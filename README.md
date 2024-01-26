@@ -1,6 +1,15 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 185 - Quitting a job - flipping the bar table
+Published: January 21, 2024
+- [Fool Me Once](https://www.netflix.com/title/81588093) - Ryan Burgess
+- [Hey Grill Hey Sweet BBQ Rub](https://www.amazon.com/Hey-Grill-Sweet-Rub-11-7/dp/B08YS6VN7T?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess
+- [Fake AI articles](https://futurism.com/sports-illustrated-ai-generated-writers) - Jem Young
+- [North Park, San Diego](https://en.wikipedia.org/wiki/North_Park,_San_Diego) - Cole Turner
+- [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/) - Cole Turner
+
+
 ## Episode 184 - Online learning on the rocks
 Published: January 7, 2024
 - [Askinosie chocolate](https://askinosie.com/) - Marc Gabanski
