@@ -1,6 +1,18 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 186 - Module Federation - Module Mixology
+Published: February 4, 2024
+- [The Hard Things About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Zack Chapple
+- [Shilajit](https://www.amazon.com/Shilajit-Minerals-Original-Supplement-Metabolism/dp/B09GXLWMQB?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Zack Chapple
+- [Samsung Odyssey G9](https://www.amazon.com/SAMSUNG-DisplayPort-Mini-LED-DisplayHDR-LS57CG952NNXZA/dp/B0CDQM55C9?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Zack Jackson
+- [Rspack](https://github.com/web-infra-dev/rspack) - Zack Jackson
+- [Rspress](https://rspress.dev/) - Zack Jackson
+- [Rsdoctor]() - Zack Jackson
+- [Frontend Masters Engineering Management course](https://frontendmasters.com/courses/engineering-management/) - Ryan Burgess
+- [DJI Mini 4 Pro](https://www.amazon.com/DJI-Mini-Drone-Transmission-Distance-Omnidirectional/dp/B0CFF1SJ3P?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess
+
+
 ## Episode 185 - Quitting a job - flipping the bar table
 Published: January 21, 2024
 - [Fool Me Once](https://www.netflix.com/title/81588093) - Ryan Burgess

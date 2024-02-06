@@ -1,5 +1,51 @@
 [
   {
+    "episode": "186 - Module Federation - Module Mixology",
+    "published": "February 4, 2024",
+    "picks": [
+      {
+        "title": "The Hard Things About Hard Things",
+        "url": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Zack Chapple"
+      },
+      {
+        "title": "Shilajit",
+        "url": "https://www.amazon.com/Shilajit-Minerals-Original-Supplement-Metabolism/dp/B09GXLWMQB?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Zack Chapple"
+      },
+      {
+        "title": "Samsung Odyssey G9",
+        "url": "https://www.amazon.com/SAMSUNG-DisplayPort-Mini-LED-DisplayHDR-LS57CG952NNXZA/dp/B0CDQM55C9?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Zack Jackson"
+      },
+      {
+        "title": "Rspack",
+        "url": "https://github.com/web-infra-dev/rspack",
+        "from": "Zack Jackson"
+      },
+      {
+        "title": "Rspress",
+        "url": "https://rspress.dev/",
+        "from": "Zack Jackson"
+      },
+      {
+        "title": "Rsdoctor",
+        "url": "",
+        "from": "Zack Jackson"
+      },
+      {
+        "title": "Frontend Masters Engineering Management course",
+        "url": "https://frontendmasters.com/courses/engineering-management/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "DJI Mini 4 Pro",
+        "url": "https://www.amazon.com/DJI-Mini-Drone-Transmission-Distance-Omnidirectional/dp/B0CFF1SJ3P?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Ryan Burgess"
+      }
+    ]
+  },
+  {
     "episode": "185 - Quitting a job - flipping the bar table",
     "published": "January 21, 2024",
     "picks": [
