@@ -1,6 +1,17 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 187 - Social media platforms - where's the party at?
+Published: February 18, 2024
+- [Flusterclux - Mastering The Skill of Disappointing People](https://www.flusterclux.com/mastering-the-skill-of-disappointing-people/) - Ryan Burgess
+- [Ryan's YouTube Channel](https://www.youtube.com/@ryanburgess) - Ryan Burgess
+- [Simon Willson - Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/#:~:text=2023%20was%20the%20breakthrough%20year,dates%20back%20to%20the%201950s.) - Jem Young
+- [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) - Jem Young
+- [Pokémon Concierge](https://www.netflix.com/title/81186864) - Shirley Wu
+- [Have I been Pwned](https://haveibeenpwned.com/) - Augustus Yuan
+- [Call Her Daddy - The Guide to Navigating Friendship](https://open.spotify.com/episode/0c9BO8RnfbI1oJBwU3FOJ2) - Augustus Yuan
+
+
 ## Episode 186 - Module Federation - Module Mixology
 Published: February 4, 2024
 - [The Hard Things About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Zack Chapple

@@ -1,5 +1,46 @@
 [
   {
+    "episode": "187 - Social media platforms - where's the party at?",
+    "published": "February 18, 2024",
+    "picks": [
+      {
+        "title": "Flusterclux - Mastering The Skill of Disappointing People",
+        "url": "https://www.flusterclux.com/mastering-the-skill-of-disappointing-people/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Ryan's YouTube Channel",
+        "url": "https://www.youtube.com/@ryanburgess",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Simon Willson - Stuff we figured out about AI in 2023",
+        "url": "https://simonwillison.net/2023/Dec/31/ai-in-2023/#:~:text=2023%20was%20the%20breakthrough%20year,dates%20back%20to%20the%201950s.",
+        "from": "Jem Young"
+      },
+      {
+        "title": "The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work",
+        "url": "https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Pokémon Concierge",
+        "url": "https://www.netflix.com/title/81186864",
+        "from": "Shirley Wu"
+      },
+      {
+        "title": "Have I been Pwned",
+        "url": "https://haveibeenpwned.com/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Call Her Daddy - The Guide to Navigating Friendship",
+        "url": "https://open.spotify.com/episode/0c9BO8RnfbI1oJBwU3FOJ2",
+        "from": "Augustus Yuan"
+      }
+    ]
+  },
+  {
     "episode": "186 - Module Federation - Module Mixology",
     "published": "February 4, 2024",
     "picks": [
