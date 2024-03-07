@@ -1,6 +1,14 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 188 - Unlocking WordPress: Exploring the powers of WPGraphQL
+Published: March 3, 2024
+- [Elgato Stream Deck](https://www.amazon.com/Elgato-Stream-Deck-Mini-customizable/dp/B07DYRS1WH/ref=asc_df_B07DYRS1WH?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Jason Bahl
+- [Kids digital camera](https://www.amazon.com/gp/product/B0CFQ9VZT6/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess
+- [Kirkland Peanut Butter Pretzels](https://www.amazon.com/Kirkland-Signature-Peanut-Butter-Pretzel/dp/B005CP1WZ0/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Cole Turner
+- [Aranet4 CO2 Sensor](https://www.amazon.com/Aranet4-Home-Temperature-Ink-Configuration/dp/B07YY7BH2W/) - Cole Turner
+
+
 ## Episode 187 - Social media platforms - where's the party at?
 Published: February 18, 2024
 - [Flusterclux - Mastering The Skill of Disappointing People](https://www.flusterclux.com/mastering-the-skill-of-disappointing-people/) - Ryan Burgess
